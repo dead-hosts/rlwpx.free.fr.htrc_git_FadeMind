@@ -37,7 +37,12 @@
             "acvs.mediaonenetwork.net",
             "acvsrv.mediaonenetwork.net",
             "acvsrvc.mediaonenetwork.net",
-            "acvtest.mediaonenetwork.net"
-        ]
+            "acvtest.mediaonenetwork.net",
+            "ad.admediaprovider.com",
+            "ad.backtalkmedia.com",
+            "ad.bangmedianetwork.com",
+            "ad.clearbluemedia.com"
+        ],
+        "to_test": []
     }
 }
