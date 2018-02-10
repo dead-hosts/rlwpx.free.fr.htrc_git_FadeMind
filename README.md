@@ -1,6 +1,6 @@
 # About rlwpx.free.fr.htrc_git_FadeMind
 
-[![Build Status](https://travis-ci.org/dead-hosts/repository-structure.svg?branch=master)](https://travis-ci.org/dead-hosts/repository-structure)
+[![Build Status](https://travis-ci.org/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind.svg?branch=master)](https://travis-ci.org/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind)
 
 Tracking sites based on http://rlwpx.free.fr/WPFF/hosts.htm content.
 
