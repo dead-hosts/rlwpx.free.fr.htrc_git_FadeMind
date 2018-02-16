@@ -1,12 +1,12 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
-        "0": [
-            "animexrated.com"
-        ],
-        "to_test": [
+        "1518797267": [
+            "bettasplendens.webcompteur.com",
             "bidder-eu-1.tlvmedia.com",
             "bidder.tlvmedia.com",
-            "bretagne.webcompteur.com",
+            "bretagne.webcompteur.com"
+        ],
+        "to_test": [
             "clicknewa.com",
             "cnct.tlvmedia.com",
             "my.admedian.com",
@@ -23,8 +23,9 @@
             "www.tradetang.com",
             "www.vhite.com",
             "www.webcompteur.com",
-            "bettasplendens.webcompteur.com",
-            "adserving.bizcrank.com"
+            "adserving.bizcrank.com",
+            "animexrated.com",
+            "bb.clickgoldrush.com"
         ]
     }
 }
