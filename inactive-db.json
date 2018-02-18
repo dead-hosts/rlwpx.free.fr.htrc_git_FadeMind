@@ -1,6 +1,25 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
-        "1518797267": [
+        "1518974797": [
+            "my.admedian.com"
+        ],
+        "to_test": [
+            "payments.cometodress.com",
+            "ranking-street.de",
+            "router.tlvmedia.com",
+            "tag.tlvmedia.com",
+            "www.admedian.com",
+            "www.hitxxx.com",
+            "www.monde-gratuit.fr",
+            "www.newapproachmedia.co.uk",
+            "www.online-casinos-rated.com",
+            "www.trackpedia.com",
+            "www.tradetang.com",
+            "www.vhite.com",
+            "www.webcompteur.com",
+            "adserving.bizcrank.com",
+            "animexrated.com",
+            "bb.clickgoldrush.com",
             "bettasplendens.webcompteur.com",
             "bidder-eu-1.tlvmedia.com",
             "bidder.tlvmedia.com",
@@ -417,26 +436,8 @@
             "cnct.tlvmedia.com",
             "counter4all.de",
             "logging.fileave.com",
-            "metrics.premiereinteractive.com"
-        ],
-        "to_test": [
-            "my.admedian.com",
-            "payments.cometodress.com",
-            "ranking-street.de",
-            "router.tlvmedia.com",
-            "tag.tlvmedia.com",
-            "www.admedian.com",
-            "www.hitxxx.com",
-            "www.monde-gratuit.fr",
-            "www.newapproachmedia.co.uk",
-            "www.online-casinos-rated.com",
-            "www.trackpedia.com",
-            "www.tradetang.com",
-            "www.vhite.com",
-            "www.webcompteur.com",
-            "adserving.bizcrank.com",
-            "animexrated.com",
-            "bb.clickgoldrush.com"
+            "metrics.premiereinteractive.com",
+            "mi.cedexis.com"
         ]
     }
 }
