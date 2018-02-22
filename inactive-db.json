@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
-        "1518974797": [
+        "to_test": [
             "my.admedian.com",
             "payments.cometodress.com",
             "ranking-street.de",
@@ -447,7 +447,6 @@
             "logging.fileave.com",
             "metrics.premiereinteractive.com",
             "mi.cedexis.com"
-        ],
-        "to_test": []
+        ]
     }
 }
