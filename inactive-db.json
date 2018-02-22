@@ -1,5 +1,8 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
+        "0": [
+            "adserving.bizcrank.com"
+        ],
         "to_test": [
             "my.admedian.com",
             "payments.cometodress.com",
@@ -26,7 +29,6 @@
             "www.tribalmedia.com",
             "www.webcompteur.com",
             "www.xxxratedpics.com",
-            "adserving.bizcrank.com",
             "animexrated.com",
             "bb.clickgoldrush.com",
             "bettasplendens.webcompteur.com",
