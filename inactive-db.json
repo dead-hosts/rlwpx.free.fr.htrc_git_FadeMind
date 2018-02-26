@@ -1,11 +1,12 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
         "1519670199": [
-            "adtracker101.com"
+            "adtracker101.com",
+            "android-hilfe.de.adadapter.netzathleten-media.de",
+            "animexrated.com",
+            "b.ns.trafficdashboard.com"
         ],
         "to_test": [
-            "animexrated.com",
-            "b.ns.trafficdashboard.com",
             "bb.clickgoldrush.com",
             "beta.addfreestats.com",
             "bidder-eu-1.tlvmedia.com",
@@ -481,7 +482,6 @@
             "www.trackpedia.com",
             "www.tradetang.com",
             "www.xxxratedpics.com",
-            "android-hilfe.de.adadapter.netzathleten-media.de",
             "adserving.bizcrank.com"
         ]
     }
