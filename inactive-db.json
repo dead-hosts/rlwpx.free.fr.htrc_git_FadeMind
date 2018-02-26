@@ -1,5 +1,8 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
+        "1519670199": [
+            "adtracker101.com"
+        ],
         "to_test": [
             "animexrated.com",
             "b.ns.trafficdashboard.com",
@@ -478,8 +481,8 @@
             "www.trackpedia.com",
             "www.tradetang.com",
             "www.xxxratedpics.com",
-            "adserving.bizcrank.com",
-            "android-hilfe.de.adadapter.netzathleten-media.de"
+            "android-hilfe.de.adadapter.netzathleten-media.de",
+            "adserving.bizcrank.com"
         ]
     }
 }
