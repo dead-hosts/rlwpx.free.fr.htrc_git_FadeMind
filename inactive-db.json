@@ -1,7 +1,12 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
-        "to_test": [
+        "1520015824": [
+            "ads.augusta.com",
+            "adserving.bizcrank.com",
             "adtracker101.com",
+            "adultstatistics.com"
+        ],
+        "to_test": [
             "android-hilfe.de.adadapter.netzathleten-media.de",
             "animexrated.com",
             "b.ns.trafficdashboard.com",
@@ -501,8 +506,8 @@
             "www.xxxratedpics.com",
             "xrateddaily.com",
             "yield.audience.digitalmedia.bg",
-            "adserving.bizcrank.com",
-            "ad.directrev.com"
+            "ad.directrev.com",
+            "adinsights.insightexpress.com"
         ]
     }
 }
