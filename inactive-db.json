@@ -527,13 +527,11 @@
             "www.x-ratedvideos.net",
             "www.xratedclub.com",
             "www.xxxratedfilms.com",
-            "www.xxxratedpics.com"
-        ],
-        "to_test": [
+            "www.xxxratedpics.com",
             "xrateddaily.com",
-            "yield.audience.digitalmedia.bg",
             "ad.directrev.com",
             "adinsights.insightexpress.com"
-        ]
+        ],
+        "to_test": []
     }
 }
