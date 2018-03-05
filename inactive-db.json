@@ -1,5 +1,8 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
+        "0": [
+            "adinsights.insightexpress.com"
+        ],
         "to_test": [
             "ads.augusta.com",
             "adserving.bizcrank.com",
@@ -529,7 +532,6 @@
             "www.xxxratedfilms.com",
             "www.xxxratedpics.com",
             "xrateddaily.com",
-            "adinsights.insightexpress.com",
             "ad.directrev.com"
         ]
     }
