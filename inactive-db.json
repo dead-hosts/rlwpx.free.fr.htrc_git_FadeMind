@@ -531,12 +531,11 @@
             "www.xratedclub.com",
             "www.xxxratedfilms.com",
             "www.xxxratedpics.com",
-            "xrateddaily.com"
-        ],
-        "to_test": [
+            "xrateddaily.com",
             "ad.directrev.com",
             "adinsights.insightexpress.com",
             "ads.augusta.com"
-        ]
+        ],
+        "to_test": []
     }
 }
