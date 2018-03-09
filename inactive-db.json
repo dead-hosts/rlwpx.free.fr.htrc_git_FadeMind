@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
-        "1520275478": [
+        "to_test": [
             "adserving.bizcrank.com",
             "adtracker101.com",
             "adultstatistics.com",
@@ -535,7 +535,6 @@
             "ad.directrev.com",
             "adinsights.insightexpress.com",
             "ads.augusta.com"
-        ],
-        "to_test": []
+        ]
     }
 }
