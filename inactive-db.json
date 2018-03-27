@@ -1,11 +1,9 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
-        "1522086849": [
+        "1522174501": [
             "2track.ru",
             "4x-clicks.com",
-            "4xclicks.com",
-            "",
-            "ad.directrev.com"
+            "4xclicks.com"
         ],
         "to_test": [
             "ads.augusta.com",
@@ -605,7 +603,9 @@
             "xrateddaily.com",
             "xratedpartygirls.xxx.us",
             "youravon.com.102.112.2o7.net",
-            "adinsights.insightexpress.com"
+            "adinsights.insightexpress.com",
+            "ad.directrev.com",
+            ""
         ]
     }
 }
