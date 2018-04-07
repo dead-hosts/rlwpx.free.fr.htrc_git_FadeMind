@@ -492,9 +492,7 @@
             "impactalog.com.br",
             "inkt.trafficdashboard.com",
             "intrack.pl",
-            "intranet.mediariege.net"
-        ],
-        "to_test": [
+            "intranet.mediariege.net",
             "jcontent.bns1.net",
             "justatraffic.com",
             "listsrv.insightexpress.com",
@@ -502,7 +500,9 @@
             "log.dmtry.com",
             "log.e-cubekorea.com",
             "logging.fileave.com",
-            "logs.infoaxe.com",
+            "logs.infoaxe.com"
+        ],
+        "to_test": [
             "madonnamedia.com",
             "media-sochi.com",
             "media.advertlets.com",
