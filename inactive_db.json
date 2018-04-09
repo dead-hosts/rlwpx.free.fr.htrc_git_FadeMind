@@ -496,9 +496,7 @@
             "iklan.emedia.com.my",
             "images.enhance.com",
             "img.trackfeed.com",
-            "img.xratedbucks.com"
-        ],
-        "to_test": [
+            "img.xratedbucks.com",
             "impactalog.com.br",
             "inkt.trafficdashboard.com",
             "intrack.pl",
@@ -508,7 +506,9 @@
             "listsrv.insightexpress.com",
             "log.data.disney.com",
             "log.dmtry.com",
-            "log.e-cubekorea.com",
+            "log.e-cubekorea.com"
+        ],
+        "to_test": [
             "logging.fileave.com",
             "logs.infoaxe.com",
             "madonnamedia.com",
