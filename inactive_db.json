@@ -566,9 +566,7 @@
             "stats.profileponds.com",
             "stattrack.0catch.com",
             "surveytrkr.com",
-            "tag-stats.huffingtonpost.com"
-        ],
-        "to_test": [
+            "tag-stats.huffingtonpost.com",
             "thecountyreporter.com",
             "theittybittycookieshop.com",
             "thexor.com",
@@ -579,8 +577,9 @@
             "tracking.directadsmedia.com",
             "tracking.euroads.es",
             "tracking.experience.com",
-            "tracking.optimatic.com",
-            "tracking.smartclicksystem.com",
+            "tracking.smartclicksystem.com"
+        ],
+        "to_test": [
             "trade4money.com",
             "tradeblackbox.net",
             "trader.erosdlz.com",
