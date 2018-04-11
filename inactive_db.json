@@ -491,9 +491,7 @@
             "hotwire.com.102.112.2o7.net",
             "huntstats.huntseek.com",
             "hz.lstat.youku.com",
-            "i.trackbest.com"
-        ],
-        "to_test": [
+            "i.trackbest.com",
             "iklan.emedia.com.my",
             "images.enhance.com",
             "img.trackfeed.com",
@@ -503,7 +501,9 @@
             "intrack.pl",
             "intranet.mediariege.net",
             "jcontent.bns1.net",
-            "justatraffic.com",
+            "justatraffic.com"
+        ],
+        "to_test": [
             "listsrv.insightexpress.com",
             "log.data.disney.com",
             "log.dmtry.com",
