@@ -512,9 +512,7 @@
             "media.advertlets.com",
             "media.affiliation-france.com",
             "media.downloadster.org",
-            "media.kuaiwan.com"
-        ],
-        "to_test": [
+            "media.kuaiwan.com",
             "media.pileoffiles.com",
             "media.www.claremontindependent.com",
             "media2.pileoffiles.com",
@@ -525,13 +523,16 @@
             "mediatimeworks.com",
             "meerhits.nl",
             "metrics.gr",
+            "metrics.nserc.gc.ca",
             "metrics.premiereinteractive.com",
             "mi.cedexis.com",
             "mob.zyngatracking.com",
             "mobilegeeks.de.adadapter.netzathleten-media.de",
             "mohitdhingra.com",
             "mrtg.es.omniture.com",
-            "mtrack10.com",
+            "mtrack10.com"
+        ],
+        "to_test": [
             "my.admedian.com",
             "namepecount.1000space.tk",
             "neimanmarcus.com.102.112.2o7.net",
