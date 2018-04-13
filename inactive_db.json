@@ -1,11 +1,13 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
-        "1523468627": [
+        "1523641483": [
             "2track.ru",
             "4x-clicks.com",
             "4xclicks.com",
             "accusearch.org",
-            "ad.directrev.com",
+            "ad.directrev.com"
+        ],
+        "to_test": [
             "ad.thinkmedia.cn",
             "adinsights.insightexpress.com",
             "admedian.com",
@@ -679,9 +681,7 @@
             "www.xxxratedpics.com",
             "xrateddaily.com",
             "xxxratedpics.com",
-            "youravon.com.102.112.2o7.net"
-        ],
-        "to_test": [
+            "youravon.com.102.112.2o7.net",
             "247media.de"
         ]
     }
