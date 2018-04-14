@@ -566,10 +566,9 @@
             "surveytrkr.com",
             "tag-stats.huffingtonpost.com",
             "thecountyreporter.com",
-            "theittybittycookieshop.com"
-        ],
-        "to_test": [
+            "theittybittycookieshop.com",
             "track.newsletter.neteco.com",
+            "track.www.zazzle.com",
             "tracker.clicktrade.net",
             "tracking.agamimedia.com",
             "tracking.baddoggiemediagroup.com",
@@ -579,7 +578,9 @@
             "tracking.smartclicksystem.com",
             "trade4money.com",
             "tradeblackbox.net",
-            "trader.erosdlz.com",
+            "trader.erosdlz.com"
+        ],
+        "to_test": [
             "true-counter.com",
             "usa-dialer.com",
             "vpn1.insightexpress.com",
