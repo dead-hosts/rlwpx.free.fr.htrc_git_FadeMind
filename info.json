@@ -451,6 +451,8 @@
         "--commit-autosave-message \"[Autosave] Test of rlwpx.free.fr.htrc\"",
         "--commit-results-message \"[Results] Test of rlwpx.free.fr.htrc\"",
         "--commit-autosave-message \"[Autosave] Test of rlwpx.free.fr.htrc\"",
+        "--commit-results-message \"[Results] Test of rlwpx.free.fr.htrc\"",
+        "--commit-autosave-message \"[Autosave] Test of rlwpx.free.fr.htrc\"",
         "--commit-results-message \"[Results] Test of rlwpx.free.fr.htrc\""
     ],
     "clean_list_file": "clean.list",
@@ -458,7 +460,7 @@
     "commit_autosave_message": "Test of rlwpx.free.fr.htrc",
     "currently_under_test": "1",
     "days_until_next_test": "1",
-    "last_test": "1523849072",
+    "last_test": "1523850057",
     "list_name": "rlwpx.free.fr.htrc.list",
     "name": "rlwpx.free.fr.htrc",
     "raw_link": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/rlwpx.free.fr.htrc/hosts",
