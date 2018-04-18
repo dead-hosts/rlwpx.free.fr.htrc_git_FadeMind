@@ -505,9 +505,7 @@
             "justatraffic.com",
             "listsrv.insightexpress.com",
             "log.dmtry.com",
-            "log.e-cubekorea.com"
-        ],
-        "to_test": [
+            "log.e-cubekorea.com",
             "logging.fileave.com",
             "logs.infoaxe.com",
             "madonnamedia.com",
@@ -518,7 +516,9 @@
             "media.kuaiwan.com",
             "media.pileoffiles.com",
             "media.www.claremontindependent.com",
-            "media2.pileoffiles.com",
+            "media2.pileoffiles.com"
+        ],
+        "to_test": [
             "mediafiregames.net",
             "mediamagnet.cc",
             "mediapromosidigital.com",
