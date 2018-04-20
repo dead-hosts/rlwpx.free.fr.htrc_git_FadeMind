@@ -688,9 +688,7 @@
             "www.update-media-player.com",
             "www.vpntrack.com",
             "www.we-rate.com",
-            "www.webmasterhits.de"
-        ],
-        "to_test": [
+            "www.webmasterhits.de",
             "www.x-ratedvideos.net",
             "www.xratedclub.com",
             "www.xxxratedfilms.com",
@@ -701,7 +699,9 @@
             "xxxratedpics.com",
             "youravon.com.102.112.2o7.net",
             "ytz9335.log-r.com",
-            "zeus.bubblestat.com",
+            "zeus.bubblestat.com"
+        ],
+        "to_test": [
             "247media.de"
         ]
     }
