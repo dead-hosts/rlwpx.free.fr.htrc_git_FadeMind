@@ -509,9 +509,7 @@
             "log.data.disney.com",
             "log.dmtry.com",
             "log.e-cubekorea.com",
-            "logging.fileave.com"
-        ],
-        "to_test": [
+            "logging.fileave.com",
             "logs.infoaxe.com",
             "madonnamedia.com",
             "media-sochi.com",
@@ -523,7 +521,9 @@
             "media.www.claremontindependent.com",
             "media2.pileoffiles.com",
             "mediafiregames.net",
-            "mediamagnet.cc",
+            "mediamagnet.cc"
+        ],
+        "to_test": [
             "mediapromosidigital.com",
             "mediasmithinc.net",
             "mediatimeworks.com",
