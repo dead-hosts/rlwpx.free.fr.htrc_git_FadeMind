@@ -111,12 +111,9 @@
             "tag-stats.huffingtonpost.com",
             "thecountyreporter.com",
             "theittybittycookieshop.com",
-            "themediadownloader.com"
-        ],
-        "to_test": [
+            "themediadownloader.com",
             "topodessaapartments.com",
             "track.newsletter.neteco.com",
-            "track.www.zazzle.com",
             "tracker.clicktrade.net",
             "tracking.agamimedia.com",
             "tracking.baddoggiemediagroup.com",
@@ -128,7 +125,9 @@
             "tradeblackbox.net",
             "tradefx.advertserve.com",
             "trader.erosdlz.com",
-            "tradestart.nl",
+            "tradestart.nl"
+        ],
+        "to_test": [
             "true-counter.com",
             "uniontrade.biz",
             "uolmediagroup.com",
