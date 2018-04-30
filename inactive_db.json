@@ -535,9 +535,7 @@
             "log.dmtry.com",
             "log.e-cubekorea.com",
             "logging.fileave.com",
-            "logs.infoaxe.com"
-        ],
-        "to_test": [
+            "logs.infoaxe.com",
             "madonnamedia.com",
             "maurobb.freecounter.it",
             "media-sochi.com",
@@ -551,7 +549,9 @@
             "mediamagnet.cc",
             "mediapromosidigital.com",
             "mediasmithinc.net",
-            "mediatimeworks.com",
+            "mediatimeworks.com"
+        ],
+        "to_test": [
             "metrics.gr",
             "metrics.premiereinteractive.com",
             "mi.cedexis.com",
