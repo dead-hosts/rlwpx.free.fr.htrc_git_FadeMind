@@ -536,9 +536,7 @@
             "log.e-cubekorea.com",
             "logging.fileave.com",
             "logs.infoaxe.com",
-            "madonnamedia.com"
-        ],
-        "to_test": [
+            "madonnamedia.com",
             "media-sochi.com",
             "media.advertlets.com",
             "media.affiliation-france.com",
@@ -556,7 +554,9 @@
             "mi.cedexis.com",
             "mob.zyngatracking.com",
             "mobilegeeks.de.adadapter.netzathleten-media.de",
-            "mohitdhingra.com",
+            "mohitdhingra.com"
+        ],
+        "to_test": [
             "mrtg.es.omniture.com",
             "mt.com.102.112.2o7.net",
             "mtrack10.com",
