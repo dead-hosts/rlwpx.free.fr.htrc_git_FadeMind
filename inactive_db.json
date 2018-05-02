@@ -594,9 +594,8 @@
             "stadt-bremerhaven.de.adadapter.netzathleten-media.de",
             "stat.gemoney.com.au",
             "stat.maxthon.com",
-            "stat.ringier.cz"
-        ],
-        "to_test": [
+            "stat.ringier.cz",
+            "stats.cdn.pfn.bz",
             "stats.ebay.com",
             "stats.ilius.net",
             "stats.nite.lv",
@@ -605,7 +604,9 @@
             "tag-stats.huffingtonpost.com",
             "thecountyreporter.com",
             "theittybittycookieshop.com",
-            "themediadownloader.com",
+            "themediadownloader.com"
+        ],
+        "to_test": [
             "topodessaapartments.com",
             "track.newsletter.neteco.com",
             "tracker.clicktrade.net",
