@@ -695,9 +695,7 @@
             "www.monde-gratuit.fr",
             "www.mp3hitmachine.com",
             "www.mtrack10.com",
-            "www.myclickbankads.com"
-        ],
-        "to_test": [
+            "www.myclickbankads.com",
             "www.nakeddaytrader.com",
             "www.nbconsulting.nl",
             "www.new-tracker.com",
@@ -717,7 +715,9 @@
             "www.sexmedia.nl",
             "www.sextraders.com",
             "www.socialmediaexpert.co",
-            "www.stat-tracker.net",
+            "www.stat-tracker.net"
+        ],
+        "to_test": [
             "www.statsremote.com",
             "www.surveytrkr.com",
             "www.teachtalktrade.com",
