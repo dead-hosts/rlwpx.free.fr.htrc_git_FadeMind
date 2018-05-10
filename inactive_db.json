@@ -536,9 +536,7 @@
             "media-sochi.com",
             "media.advertlets.com",
             "media.affiliation-france.com",
-            "media.downloadster.org"
-        ],
-        "to_test": [
+            "media.downloadster.org",
             "media.pileoffiles.com",
             "media.www.claremontindependent.com",
             "media2.pileoffiles.com",
@@ -555,7 +553,9 @@
             "mohitdhingra.com",
             "mrtg.es.omniture.com",
             "mt.com.102.112.2o7.net",
-            "mtrack10.com",
+            "mtrack10.com"
+        ],
+        "to_test": [
             "my.admedian.com",
             "namepecount.1000space.tk",
             "neimanmarcus.com.102.112.2o7.net",
