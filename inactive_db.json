@@ -483,9 +483,7 @@
             "dns2.salesandtraffic.com",
             "download.psguard.com",
             "engine.phptrader.com",
-            "enterprisemediation.com"
-        ],
-        "to_test": [
+            "enterprisemediation.com",
             "es.omniture.com",
             "evilempiremedia.com",
             "evisitcs.com",
@@ -498,8 +496,9 @@
             "freemasstraffic.com",
             "freepornmedia.com",
             "ftp.clicktracking.info",
-            "ftp.delegate.org",
-            "fx-clicks.com",
+            "fx-clicks.com"
+        ],
+        "to_test": [
             "gaytrader.net",
             "gelifesciences.com.102.112.2o7.net",
             "geo.vantage-media.net",
