@@ -530,9 +530,7 @@
             "logging.fileave.com",
             "logs.infoaxe.com",
             "madonnamedia.com",
-            "malwareremovalbot.repairandsecure.com"
-        ],
-        "to_test": [
+            "malwareremovalbot.repairandsecure.com",
             "media-sochi.com",
             "media.advertlets.com",
             "media.affiliation-france.com",
@@ -545,10 +543,13 @@
             "mediapromosidigital.com",
             "mediasmithinc.net",
             "mediatimeworks.com",
+            "memberweb.com.102.112.2o7.net",
             "metrics.gr",
             "metrics.premiereinteractive.com",
             "mi.cedexis.com",
-            "mob.zyngatracking.com",
+            "mob.zyngatracking.com"
+        ],
+        "to_test": [
             "mobilegeeks.de.adadapter.netzathleten-media.de",
             "mohitdhingra.com",
             "mrtg.es.omniture.com",
