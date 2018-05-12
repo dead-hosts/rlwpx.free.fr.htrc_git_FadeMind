@@ -671,9 +671,7 @@
             "www.dogtrackscd.com",
             "www.drivotracker.com",
             "www.dvdxrated.com",
-            "www.em-hits.com"
-        ],
-        "to_test": [
+            "www.em-hits.com",
             "www.ezthemes.com",
             "www.fastfind.org",
             "www.finditquick.com",
@@ -692,7 +690,9 @@
             "www.jobranking.ro",
             "www.liendur.com",
             "www.loge-kh.de",
-            "www.logrover.com",
+            "www.logrover.com"
+        ],
+        "to_test": [
             "www.media-clic.com",
             "www.mediacampaign.org",
             "www.mediaclick.jp",
