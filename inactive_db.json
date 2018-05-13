@@ -40,9 +40,7 @@
             "belstat.at",
             "beta.addfreestats.com",
             "bluetoonmedia.com",
-            "buyranking.com"
-        ],
-        "to_test": [
+            "buyranking.com",
             "cancermetrics.com.102.112.2o7.net",
             "caphyon-analytics.com",
             "capitaltrade.net",
@@ -460,7 +458,9 @@
             "clickmepw.fileave.com",
             "clickmepx.fileave.com",
             "clickmepy.fileave.com",
-            "clickmepz.fileave.com",
+            "clickmepz.fileave.com"
+        ],
+        "to_test": [
             "clicknettv.com",
             "clicknewa.com",
             "clicks.lasthop.ca",
