@@ -523,9 +523,7 @@
             "intrack.pl",
             "intranet.mediariege.net",
             "jcontent.bns1.net",
-            "journaldusexe.event-media.tv"
-        ],
-        "to_test": [
+            "journaldusexe.event-media.tv",
             "justatraffic.com",
             "listsrv.insightexpress.com",
             "log.data.disney.com",
@@ -533,7 +531,9 @@
             "log.e-cubekorea.com",
             "logging.fileave.com",
             "logs.infoaxe.com",
-            "madonnamedia.com",
+            "madonnamedia.com"
+        ],
+        "to_test": [
             "malwareremovalbot.repairandsecure.com",
             "media-sochi.com",
             "media.advertlets.com",
