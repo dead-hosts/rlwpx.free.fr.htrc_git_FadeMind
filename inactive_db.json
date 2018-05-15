@@ -508,9 +508,7 @@
             "geo.vantage-media.net",
             "help.incognitaterra.org",
             "hit-ranking.de",
-            "hit.pioneertanksupplies.com"
-        ],
-        "to_test": [
+            "hit.pioneertanksupplies.com",
             "hitmidpoint.com",
             "hitoduma-info.1moku.net",
             "hitoduma-shop.1moku.net",
@@ -527,7 +525,9 @@
             "impactalog.com.br",
             "intim-top.com",
             "intrack.pl",
-            "intranet.mediariege.net",
+            "intranet.mediariege.net"
+        ],
+        "to_test": [
             "jcontent.bns1.net",
             "journaldusexe.event-media.tv",
             "justatraffic.com",
