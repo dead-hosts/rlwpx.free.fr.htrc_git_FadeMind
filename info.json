@@ -5,10 +5,12 @@
     "commit_autosave_message": "Test of rlwpx.free.fr.htrc",
     "currently_under_test": "0",
     "days_until_next_test": "1",
-    "last_test": "1526446868",
+    "last_test": "1526749728",
     "list_name": "rlwpx.free.fr.htrc.list",
     "name": "rlwpx.free.fr.htrc",
+    "ping": [
+        "FadeMind"
+    ],
     "raw_link": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/rlwpx.free.fr.htrc/hosts",
-    "stable": "0",
-    "ping":["FadeMind"]
+    "stable": "0"
 }
