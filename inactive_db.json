@@ -65,9 +65,7 @@
             "castrate.secureorganictrade.ru",
             "cdn.3crowd.com",
             "cdn.trafficforce.com",
-            "cementaria.mylog.pl"
-        ],
-        "to_test": [
+            "cementaria.mylog.pl",
             "centralize.secureorganictrade.ru",
             "channels.intwined.com",
             "chap.secureorganictrade.ru",
@@ -166,7 +164,9 @@
             "clickmedk.fileave.com",
             "clickmedl.fileave.com",
             "clickmedm.fileave.com",
-            "clickmedn.fileave.com",
+            "clickmedn.fileave.com"
+        ],
+        "to_test": [
             "clickmedo.fileave.com",
             "clickmedq.fileave.com",
             "clickmedr.fileave.com",
