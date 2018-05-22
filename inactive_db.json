@@ -781,9 +781,7 @@
             "track.lativio.com",
             "track.msadcenter.sfq.com",
             "track.newsletter.neteco.com",
-            "tracker.clicktrade.net"
-        ],
-        "to_test": [
+            "tracker.clicktrade.net",
             "tracking.agamimedia.com",
             "tracking.baddoggiemediagroup.com",
             "tracking.directadsmedia.com",
@@ -799,7 +797,9 @@
             "tradestart.nl",
             "treasurer.secureorganictrade.ru",
             "trellis.secureorganictrade.ru",
-            "true-counter.com",
+            "true-counter.com"
+        ],
+        "to_test": [
             "undertone.secureorganictrade.ru",
             "uniontrade.biz",
             "universal.secureorganictrade.ru",
