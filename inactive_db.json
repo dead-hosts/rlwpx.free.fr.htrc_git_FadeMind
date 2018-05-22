@@ -744,9 +744,7 @@
             "st.listrak.com",
             "stadt-bremerhaven.de.adadapter.netzathleten-media.de",
             "stars-du-x.event-media.tv",
-            "stat-tracker.net"
-        ],
-        "to_test": [
+            "stat-tracker.net",
             "stat.gemoney.com.au",
             "stat.maxthon.com",
             "stat.ringier.cz",
@@ -755,7 +753,9 @@
             "stats.ebay.com",
             "stats.ilius.net",
             "stats.nite.lv",
-            "stats.profileponds.com",
+            "stats.profileponds.com"
+        ],
+        "to_test": [
             "sticks.secureorganictrade.ru",
             "stopper.secureorganictrade.ru",
             "studio.secureorganictrade.ru",
