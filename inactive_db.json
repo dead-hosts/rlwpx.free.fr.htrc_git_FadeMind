@@ -745,9 +745,7 @@
             "stat.maxthon.com",
             "stat.ringier.cz",
             "static.fyreball.com",
-            "static.secureorganictrade.ru"
-        ],
-        "to_test": [
+            "static.secureorganictrade.ru",
             "stats.ebay.com",
             "stats.ilius.net",
             "stats.nite.lv",
@@ -758,7 +756,9 @@
             "subtract.secureorganictrade.ru",
             "surrounding.secureorganictrade.ru",
             "surveytrkr.com",
-            "synopsis.secureorganictrade.ru",
+            "synopsis.secureorganictrade.ru"
+        ],
+        "to_test": [
             "tag-stats.huffingtonpost.com",
             "tag.email-attitude.com",
             "tarantula.secureorganictrade.ru",
