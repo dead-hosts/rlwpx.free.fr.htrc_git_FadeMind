@@ -756,9 +756,7 @@
             "subtract.secureorganictrade.ru",
             "surrounding.secureorganictrade.ru",
             "surveytrkr.com",
-            "synopsis.secureorganictrade.ru"
-        ],
-        "to_test": [
+            "synopsis.secureorganictrade.ru",
             "tag-stats.huffingtonpost.com",
             "tag.email-attitude.com",
             "tarantula.secureorganictrade.ru",
@@ -776,7 +774,9 @@
             "topography.secureorganictrade.ru",
             "track-m.mobclix.com",
             "track.ft.com",
-            "track.lativio.com",
+            "track.lativio.com"
+        ],
+        "to_test": [
             "track.msadcenter.sfq.com",
             "track.newsletter.neteco.com",
             "tracker.clicktrade.net",
