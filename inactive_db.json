@@ -588,9 +588,7 @@
             "intrude.secureorganictrade.ru",
             "invaluable.secureorganictrade.ru",
             "jcontent.bns1.net",
-            "journaldusexe.event-media.tv"
-        ],
-        "to_test": [
+            "journaldusexe.event-media.tv",
             "justatraffic.com",
             "launder.secureorganictrade.ru",
             "lavatory.secureorganictrade.ru",
@@ -601,7 +599,9 @@
             "listsrv.insightexpress.com",
             "log.data.disney.com",
             "log.dmtry.com",
-            "log.e-cubekorea.com",
+            "log.e-cubekorea.com"
+        ],
+        "to_test": [
             "logging.fileave.com",
             "logs.infoaxe.com",
             "madonnamedia.com",
