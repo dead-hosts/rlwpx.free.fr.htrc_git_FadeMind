@@ -605,9 +605,7 @@
             "log.data.disney.com",
             "log.dmtry.com",
             "log.e-cubekorea.com",
-            "log.gemscool.com"
-        ],
-        "to_test": [
+            "log.gemscool.com",
             "logging.fileave.com",
             "logs.infoaxe.com",
             "madonnamedia.com",
@@ -615,7 +613,9 @@
             "malwareremovalbot.repairandsecure.com",
             "manufacture.secureorganictrade.ru",
             "marriage.secureorganictrade.ru",
-            "mechanical.secureorganictrade.ru",
+            "mechanical.secureorganictrade.ru"
+        ],
+        "to_test": [
             "media-sochi.com",
             "media.advertlets.com",
             "media.affiliation-france.com",
