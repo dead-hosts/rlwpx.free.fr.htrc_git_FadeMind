@@ -47,9 +47,7 @@
             "bbcdn.go.idmnet.bbelements.com",
             "beacon.mediahuis.be",
             "belstat.at",
-            "beta.addfreestats.com"
-        ],
-        "to_test": [
+            "beta.addfreestats.com",
             "bewilderment.secureorganictrade.ru",
             "bidtrk.com",
             "bike.secureorganictrade.ru",
@@ -64,7 +62,9 @@
             "caphyon-analytics.com",
             "capitaltrade.net",
             "carjacking.secureorganictrade.ru",
-            "cascade.secureorganictrade.ru",
+            "cascade.secureorganictrade.ru"
+        ],
+        "to_test": [
             "castrate.secureorganictrade.ru",
             "cdn.3crowd.com",
             "cdn.trafficforce.com",
