@@ -858,11 +858,8 @@
             "www.berloga.ru",
             "www.blogtoplist.com",
             "www.burlingtoncountyengineering.com",
-            "www.burlingtoncountylibrary.com"
-        ],
-        "to_test": [
+            "www.burlingtoncountylibrary.com",
             "www.chubbylog.com",
-            "www.clic-exchange.com",
             "www.clicjeux.net",
             "www.clickforwebmasters.com",
             "www.clicknettv.com",
@@ -873,7 +870,9 @@
             "www.counter4you.net",
             "www.crocencounters.org",
             "www.dacounter.com",
-            "www.dcstat.com",
+            "www.dcstat.com"
+        ],
+        "to_test": [
             "www.dogtrackscd.com",
             "www.drivotracker.com",
             "www.dvdxrated.com",
