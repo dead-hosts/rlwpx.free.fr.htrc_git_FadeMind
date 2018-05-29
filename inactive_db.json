@@ -608,9 +608,7 @@
             "log.dmtry.com",
             "log.e-cubekorea.com",
             "logging.fileave.com",
-            "logs.infoaxe.com"
-        ],
-        "to_test": [
+            "logs.infoaxe.com",
             "madonnamedia.com",
             "magical.secureorganictrade.ru",
             "malwareremovalbot.repairandsecure.com",
@@ -623,7 +621,9 @@
             "media.downloadster.org",
             "media.pileoffiles.com",
             "media.www.claremontindependent.com",
-            "media2.pileoffiles.com",
+            "media2.pileoffiles.com"
+        ],
+        "to_test": [
             "mediafiregames.net",
             "mediamagnet.cc",
             "mediapromosidigital.com",
