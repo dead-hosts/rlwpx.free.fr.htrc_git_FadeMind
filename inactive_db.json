@@ -7,9 +7,7 @@
             "ad.directrev.com",
             "adinsights.insightexpress.com",
             "admedian.com",
-            "ads.augusta.com"
-        ],
-        "to_test": [
+            "ads.augusta.com",
             "ads.juneauempire.com",
             "ads.savannahnow.com",
             "adserver.gallerytrafficservice.com",
@@ -23,7 +21,9 @@
             "affairs.secureorganictrade.ru",
             "affiliate.drivotracker.com",
             "affiliate.gwmtracker.com",
-            "amalgamation.secureorganictrade.ru",
+            "amalgamation.secureorganictrade.ru"
+        ],
+        "to_test": [
             "amigomedia.net",
             "anagram.secureorganictrade.ru",
             "analytics.traidnt.net",
