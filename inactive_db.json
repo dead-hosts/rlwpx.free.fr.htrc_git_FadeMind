@@ -1,9 +1,11 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
-        "1528049212": [
+        "1528222046": [
             "4x-clicks.com",
             "4xclicks.com",
-            "accusearch.org",
+            "accusearch.org"
+        ],
+        "to_test": [
             "ad.directrev.com",
             "adinsights.insightexpress.com",
             "admedian.com",
@@ -995,9 +997,7 @@
             "youravon.com.102.112.2o7.net",
             "youtrack.co",
             "ytz9335.log-r.com",
-            "yuhito.tonight2.com"
-        ],
-        "to_test": [
+            "yuhito.tonight2.com",
             "247media.de"
         ]
     }
