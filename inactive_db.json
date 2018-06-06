@@ -812,10 +812,9 @@
             "tracking.directadsmedia.com",
             "tracking.euroads.es",
             "tracking.experience.com",
-            "tracking.ilinkmd.com"
-        ],
-        "to_test": [
+            "tracking.ilinkmd.com",
             "tracking.smartclicksystem.com",
+            "tracking999.com",
             "trade4money.com",
             "tradeblackbox.net",
             "tradefx.advertserve.com",
@@ -827,7 +826,9 @@
             "treasurer.secureorganictrade.ru",
             "trellis.secureorganictrade.ru",
             "true-counter.com",
-            "tsubo.com.102.112.2o7.net",
+            "tsubo.com.102.112.2o7.net"
+        ],
+        "to_test": [
             "undertone.secureorganictrade.ru",
             "uniontrade.biz",
             "universal.secureorganictrade.ru",
