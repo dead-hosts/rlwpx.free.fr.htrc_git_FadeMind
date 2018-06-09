@@ -777,9 +777,7 @@
             "stat.gemoney.com.au",
             "stat.maxthon.com",
             "stat.ringier.cz",
-            "stat2.cybermonitor.com"
-        ],
-        "to_test": [
+            "stat2.cybermonitor.com",
             "static.fyreball.com",
             "static.secureorganictrade.ru",
             "stats.ebay.com",
@@ -789,7 +787,9 @@
             "stats.profileponds.com",
             "sticks.secureorganictrade.ru",
             "stopper.secureorganictrade.ru",
-            "studio.secureorganictrade.ru",
+            "studio.secureorganictrade.ru"
+        ],
+        "to_test": [
             "subtract.secureorganictrade.ru",
             "surrounding.secureorganictrade.ru",
             "surveytrkr.com",
