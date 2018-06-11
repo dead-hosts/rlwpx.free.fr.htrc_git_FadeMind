@@ -643,9 +643,7 @@
             "media.www.claremontindependent.com",
             "media2.pileoffiles.com",
             "mediafiregames.net",
-            "mediamagnet.cc"
-        ],
-        "to_test": [
+            "mediamagnet.cc",
             "mediapromosidigital.com",
             "mediasmithinc.net",
             "mediatimeworks.com",
@@ -660,7 +658,9 @@
             "mobilegeeks.de.adadapter.netzathleten-media.de",
             "mohitdhingra.com",
             "monogrammed.secureorganictrade.ru",
-            "mothball.secureorganictrade.ru",
+            "mothball.secureorganictrade.ru"
+        ],
+        "to_test": [
             "mrtg.es.omniture.com",
             "mt.com.102.112.2o7.net",
             "mtrack10.com",
