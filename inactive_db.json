@@ -626,9 +626,7 @@
             "log.e-cubekorea.com",
             "logging.fileave.com",
             "logko.com.ua",
-            "logs.infoaxe.com"
-        ],
-        "to_test": [
+            "logs.infoaxe.com",
             "madonnamedia.com",
             "magical.secureorganictrade.ru",
             "malwareremovalbot.repairandsecure.com",
@@ -645,7 +643,9 @@
             "media.www.claremontindependent.com",
             "media2.pileoffiles.com",
             "mediafiregames.net",
-            "mediamagnet.cc",
+            "mediamagnet.cc"
+        ],
+        "to_test": [
             "mediapromosidigital.com",
             "mediasmithinc.net",
             "mediatimeworks.com",
