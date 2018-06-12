@@ -6,9 +6,7 @@
             "accusearch.org",
             "ad.directrev.com",
             "adinsights.insightexpress.com",
-            "admedian.com"
-        ],
-        "to_test": [
+            "admedian.com",
             "ads.augusta.com",
             "ads.juneauempire.com",
             "ads.savannahnow.com",
@@ -20,7 +18,9 @@
             "adultstatistics.com",
             "adv.casinopays.com",
             "adventure.secureorganictrade.ru",
-            "affairs.secureorganictrade.ru",
+            "affairs.secureorganictrade.ru"
+        ],
+        "to_test": [
             "amalgamation.secureorganictrade.ru",
             "amigomedia.net",
             "anagram.secureorganictrade.ru",
