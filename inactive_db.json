@@ -651,9 +651,7 @@
             "mediamagnet.cc",
             "mediapromosidigital.com",
             "mediasmithinc.net",
-            "mediatimeworks.com"
-        ],
-        "to_test": [
+            "mediatimeworks.com",
             "meerhits.nl",
             "mego-tracker-com.tut.su",
             "memberweb.com.102.112.2o7.net",
@@ -666,7 +664,9 @@
             "mohitdhingra.com",
             "monogrammed.secureorganictrade.ru",
             "mothball.secureorganictrade.ru",
-            "mrtg.es.omniture.com",
+            "mrtg.es.omniture.com"
+        ],
+        "to_test": [
             "mt.com.102.112.2o7.net",
             "mtrack10.com",
             "mutter.secureorganictrade.ru",
