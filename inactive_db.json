@@ -781,9 +781,7 @@
             "stars-du-x.event-media.tv",
             "stat-tracker.net",
             "stat.cybermonitor.com",
-            "stat.downvision.com"
-        ],
-        "to_test": [
+            "stat.downvision.com",
             "stat.gemoney.com.au",
             "stat.maxthon.com",
             "stat.ringier.cz",
@@ -794,7 +792,9 @@
             "stats.ilius.net",
             "stats.instdaddy.com",
             "stats.nite.lv",
-            "stats.profileponds.com",
+            "stats.profileponds.com"
+        ],
+        "to_test": [
             "sticks.secureorganictrade.ru",
             "stopper.secureorganictrade.ru",
             "studio.secureorganictrade.ru",
