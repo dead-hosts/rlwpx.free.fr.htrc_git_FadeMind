@@ -821,9 +821,7 @@
             "track.livestat.com",
             "track.msadcenter.sfq.com",
             "track.newsletter.neteco.com",
-            "trackcash.org"
-        ],
-        "to_test": [
+            "trackcash.org",
             "tracker.clicktrade.net",
             "tracking.agamimedia.com",
             "tracking.baddoggiemediagroup.com",
@@ -842,7 +840,9 @@
             "tradestart.nl",
             "traffic-king.net",
             "traffic.inter-soft.cc",
-            "treasurer.secureorganictrade.ru",
+            "treasurer.secureorganictrade.ru"
+        ],
+        "to_test": [
             "trellis.secureorganictrade.ru",
             "true-counter.com",
             "tsubo.com.102.112.2o7.net",
