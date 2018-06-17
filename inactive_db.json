@@ -628,9 +628,7 @@
             "log.dmtry.com",
             "log.e-cubekorea.com",
             "logging.fileave.com",
-            "logko.com.ua"
-        ],
-        "to_test": [
+            "logko.com.ua",
             "logs.infoaxe.com",
             "madonnamedia.com",
             "magical.secureorganictrade.ru",
@@ -643,7 +641,9 @@
             "media-sochi.com",
             "media.advertlets.com",
             "media.affiliation-france.com",
-            "media.downloadster.org",
+            "media.downloadster.org"
+        ],
+        "to_test": [
             "media.pileoffiles.com",
             "media.www.claremontindependent.com",
             "media2.pileoffiles.com",
