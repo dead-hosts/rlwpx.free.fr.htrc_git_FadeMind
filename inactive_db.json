@@ -616,9 +616,7 @@
             "jmm.livestat.com",
             "journaldusexe.event-media.tv",
             "js.cybermonitor.com",
-            "justatraffic.com"
-        ],
-        "to_test": [
+            "justatraffic.com",
             "launder.secureorganictrade.ru",
             "lavatory.secureorganictrade.ru",
             "laxity.secureorganictrade.ru",
@@ -630,7 +628,9 @@
             "log.dmtry.com",
             "log.e-cubekorea.com",
             "logging.fileave.com",
-            "logko.com.ua",
+            "logko.com.ua"
+        ],
+        "to_test": [
             "logs.infoaxe.com",
             "madonnamedia.com",
             "magical.secureorganictrade.ru",
