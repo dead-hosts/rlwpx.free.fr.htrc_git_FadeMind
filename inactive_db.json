@@ -1,9 +1,11 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
-        "1529172807": [
+        "1529345665": [
             "4x-clicks.com",
             "4xclicks.com",
-            "accusearch.org",
+            "accusearch.org"
+        ],
+        "to_test": [
             "ad.directrev.com",
             "adinsights.insightexpress.com",
             "admedian.com",
@@ -1032,9 +1034,7 @@
             "yes-messenger.event-media.tv",
             "youravon.com.102.112.2o7.net",
             "youtrack.co",
-            "ytz9335.log-r.com"
-        ],
-        "to_test": [
+            "ytz9335.log-r.com",
             "247media.de"
         ]
     }
