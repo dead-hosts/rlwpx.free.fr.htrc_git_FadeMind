@@ -813,9 +813,7 @@
             "tarantula.secureorganictrade.ru",
             "targetedwebtraffic.co.uk",
             "tawdry.secureorganictrade.ru",
-            "teacher.secureorganictrade.ru"
-        ],
-        "to_test": [
+            "teacher.secureorganictrade.ru",
             "teetotaler.secureorganictrade.ru",
             "theclicktrusted.com",
             "thecountyreporter.com",
@@ -829,7 +827,9 @@
             "track-m.mobclix.com",
             "track.ft.com",
             "track.livestat.com",
-            "track.msadcenter.sfq.com",
+            "track.msadcenter.sfq.com"
+        ],
+        "to_test": [
             "track.newsletter.neteco.com",
             "trackcash.org",
             "tracker.clicktrade.net",
