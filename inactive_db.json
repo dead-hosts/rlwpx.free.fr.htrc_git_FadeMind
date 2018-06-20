@@ -29,9 +29,7 @@
             "api.fyreball.com",
             "api2.fyreball.com",
             "app.media-app.com",
-            "apps.insightexpress.com"
-        ],
-        "to_test": [
+            "apps.insightexpress.com",
             "assist.secureorganictrade.ru",
             "asstraffic.indexxxedblogs.com",
             "asstraffic.maturesites.net",
@@ -52,7 +50,9 @@
             "beacon.mediahuis.be",
             "belstat.at",
             "beta.addfreestats.com",
-            "bewilderment.secureorganictrade.ru",
+            "bewilderment.secureorganictrade.ru"
+        ],
+        "to_test": [
             "bike.secureorganictrade.ru",
             "bilateral.secureorganictrade.ru",
             "bluetoonmedia.com",
