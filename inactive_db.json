@@ -772,9 +772,7 @@
             "site.secureorganictrade.ru",
             "sky.estat.com",
             "slot.secureorganictrade.ru",
-            "slowpitchhitting.com"
-        ],
-        "to_test": [
+            "slowpitchhitting.com",
             "sluggish.secureorganictrade.ru",
             "smarttrack.info",
             "smsfuchs.com",
@@ -799,7 +797,9 @@
             "stat.downvision.com",
             "stat.gemoney.com.au",
             "stat.maxthon.com",
-            "stat.ringier.cz",
+            "stat.ringier.cz"
+        ],
+        "to_test": [
             "stat2.cybermonitor.com",
             "static.fyreball.com",
             "static.secureorganictrade.ru",
