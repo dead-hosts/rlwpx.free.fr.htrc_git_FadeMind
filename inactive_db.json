@@ -624,9 +624,7 @@
             "it.vivistats.com",
             "jcontent.bns1.net",
             "jmm.livestat.com",
-            "journaldusexe.event-media.tv"
-        ],
-        "to_test": [
+            "journaldusexe.event-media.tv",
             "js.cybermonitor.com",
             "justatraffic.com",
             "launder.secureorganictrade.ru",
@@ -638,7 +636,9 @@
             "listsrv.insightexpress.com",
             "log.data.disney.com",
             "log.dmtry.com",
-            "log.e-cubekorea.com",
+            "log.e-cubekorea.com"
+        ],
+        "to_test": [
             "logging.fileave.com",
             "logko.com.ua",
             "logs.infoaxe.com",
