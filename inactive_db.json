@@ -661,9 +661,7 @@
             "logko.com.ua",
             "logs.infoaxe.com",
             "madonnamedia.com",
-            "magical.secureorganictrade.ru"
-        ],
-        "to_test": [
+            "magical.secureorganictrade.ru",
             "malwareremovalbot.repairandsecure.com",
             "mamba-media.ru",
             "manufacture.secureorganictrade.ru",
@@ -679,7 +677,9 @@
             "media2.pileoffiles.com",
             "mediafiregames.net",
             "mediamagnet.cc",
-            "medianews.tv",
+            "medianews.tv"
+        ],
+        "to_test": [
             "mediapromosidigital.com",
             "mediasmithinc.net",
             "mediatimeworks.com",
