@@ -8,9 +8,7 @@
             "ad.directrev.com",
             "adelogs.wip4.adobe.com",
             "adinsights.insightexpress.com",
-            "admedian.com"
-        ],
-        "to_test": [
+            "admedian.com",
             "ads.augusta.com",
             "ads.juneauempire.com",
             "ads.savannahnow.com",
@@ -22,7 +20,9 @@
             "adultstatistics.com",
             "adventure.secureorganictrade.ru",
             "affairs.secureorganictrade.ru",
-            "akamai.myvirtualpaper.com",
+            "akamai.myvirtualpaper.com"
+        ],
+        "to_test": [
             "amalgamation.secureorganictrade.ru",
             "amigomedia.net",
             "anagram.secureorganictrade.ru",
