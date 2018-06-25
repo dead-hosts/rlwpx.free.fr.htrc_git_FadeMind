@@ -916,9 +916,7 @@
             "vpn1.insightexpress.com",
             "vvww.qyclick.com",
             "w3.mediametrie-estat.com",
-            "walworthcounty.org"
-        ],
-        "to_test": [
+            "walworthcounty.org",
             "webstats.seoinc.com",
             "webtracker.educationconnection.com",
             "webtraffic.ttinet.com",
@@ -931,7 +929,9 @@
             "worker.secureorganictrade.ru",
             "would.secureorganictrade.ru",
             "wrongdoing.secureorganictrade.ru",
-            "www.1clickwatch.com",
+            "www.1clickwatch.com"
+        ],
+        "to_test": [
             "www.abc-voiture.com",
             "www.ad-purge.com",
             "www.admedian.com",
