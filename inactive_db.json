@@ -853,9 +853,7 @@
             "targetedwebtraffic.co.uk",
             "tawdry.secureorganictrade.ru",
             "teacher.secureorganictrade.ru",
-            "teetotaler.secureorganictrade.ru"
-        ],
-        "to_test": [
+            "teetotaler.secureorganictrade.ru",
             "theclicktrusted.com",
             "thecountyreporter.com",
             "theittybittycookieshop.com",
@@ -870,7 +868,9 @@
             "track.ft.com",
             "track.livestat.com",
             "track.msadcenter.sfq.com",
-            "track.newsletter.neteco.com",
+            "track.newsletter.neteco.com"
+        ],
+        "to_test": [
             "trackcash.org",
             "tracker.clicktrade.net",
             "tracking.agamimedia.com",
