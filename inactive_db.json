@@ -840,9 +840,7 @@
             "stats.instdaddy.com",
             "stats.nite.lv",
             "stats.profileponds.com",
-            "stats.spyware-browser.com"
-        ],
-        "to_test": [
+            "stats.spyware-browser.com",
             "sticks.secureorganictrade.ru",
             "stopper.secureorganictrade.ru",
             "studio.secureorganictrade.ru",
@@ -859,7 +857,9 @@
             "teetotaler.secureorganictrade.ru",
             "theclicktrusted.com",
             "thecountyreporter.com",
-            "theittybittycookieshop.com",
+            "theittybittycookieshop.com"
+        ],
+        "to_test": [
             "themediadownloader.com",
             "themediamonkeys.com",
             "thereupon.secureorganictrade.ru",
