@@ -826,9 +826,7 @@
             "st.listrak.com",
             "stadt-bremerhaven.de.adadapter.netzathleten-media.de",
             "stars-du-x.event-media.tv",
-            "stat-tracker.net"
-        ],
-        "to_test": [
+            "stat-tracker.net",
             "stat.cybermonitor.com",
             "stat.downvision.com",
             "stat.gemoney.com.au",
@@ -842,7 +840,9 @@
             "stats.instdaddy.com",
             "stats.nite.lv",
             "stats.profileponds.com",
-            "stats.spyware-browser.com",
+            "stats.spyware-browser.com"
+        ],
+        "to_test": [
             "sticks.secureorganictrade.ru",
             "stopper.secureorganictrade.ru",
             "studio.secureorganictrade.ru",
