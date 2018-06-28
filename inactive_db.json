@@ -51,9 +51,7 @@
             "bazookavideos.com",
             "bb.clickgoldrush.com",
             "bbcdn.go.idmnet.bbelements.com",
-            "beacon.mediahuis.be"
-        ],
-        "to_test": [
+            "beacon.mediahuis.be",
             "belstat.at",
             "beta.addfreestats.com",
             "bewilderment.secureorganictrade.ru",
@@ -71,7 +69,9 @@
             "buyranking.com",
             "bx2.grafstat.ro",
             "ca.livestat.com",
-            "caboose.secureorganictrade.ru",
+            "caboose.secureorganictrade.ru"
+        ],
+        "to_test": [
             "cancel.secureorganictrade.ru",
             "cancermetrics.com.102.112.2o7.net",
             "caphyon-analytics.com",
