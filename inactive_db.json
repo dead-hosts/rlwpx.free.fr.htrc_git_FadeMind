@@ -663,9 +663,7 @@
             "layer.secureorganictrade.ru",
             "lilac.secureorganictrade.ru",
             "limiting.secureorganictrade.ru",
-            "listsrv.insightexpress.com"
-        ],
-        "to_test": [
+            "listsrv.insightexpress.com",
             "log.data.disney.com",
             "log.dmtry.com",
             "log.e-cubekorea.com",
@@ -676,7 +674,9 @@
             "magical.secureorganictrade.ru",
             "malwareremovalbot.repairandsecure.com",
             "mamba-media.ru",
-            "manufacture.secureorganictrade.ru",
+            "manufacture.secureorganictrade.ru"
+        ],
+        "to_test": [
             "market.trafficpimps.com",
             "marriage.secureorganictrade.ru",
             "mechanical.secureorganictrade.ru",
