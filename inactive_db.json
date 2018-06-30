@@ -68,12 +68,9 @@
             "burlingtoncountyengineering.com",
             "burlingtoncountylibrary.com",
             "buyranking.com",
-            "bx2.grafstat.ro"
-        ],
-        "to_test": [
+            "bx2.grafstat.ro",
             "ca.livestat.com",
             "caboose.secureorganictrade.ru",
-            "cal.stat.zdworks.com",
             "cancel.secureorganictrade.ru",
             "cancermetrics.com.102.112.2o7.net",
             "caphyon-analytics.com",
@@ -96,7 +93,9 @@
             "click.safe-sender.co.uk",
             "click.solocpm.com",
             "click.zoopartners.com",
-            "clickanalyzer.jp",
+            "clickanalyzer.jp"
+        ],
+        "to_test": [
             "clickcashv2.webpower.com",
             "clickherephotographytips.com",
             "clickice.net",
