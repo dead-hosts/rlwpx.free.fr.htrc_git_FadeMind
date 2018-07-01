@@ -840,9 +840,7 @@
             "stat.cybermonitor.com",
             "stat.gemoney.com.au",
             "stat.maxthon.com",
-            "stat.ringier.cz"
-        ],
-        "to_test": [
+            "stat.ringier.cz",
             "stat2.cybermonitor.com",
             "static.fyreball.com",
             "static.secureorganictrade.ru",
@@ -851,7 +849,9 @@
             "stats.instdaddy.com",
             "stats.nite.lv",
             "stats.profileponds.com",
-            "stats.spyware-browser.com",
+            "stats.spyware-browser.com"
+        ],
+        "to_test": [
             "sticks.secureorganictrade.ru",
             "stopper.secureorganictrade.ru",
             "studio.secureorganictrade.ru",
