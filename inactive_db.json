@@ -693,9 +693,7 @@
             "media.downloadster.org",
             "media.pileoffiles.com",
             "media.www.claremontindependent.com",
-            "media2.pileoffiles.com"
-        ],
-        "to_test": [
+            "media2.pileoffiles.com",
             "mediafiregames.net",
             "mediamagnet.cc",
             "medianews.tv",
@@ -710,7 +708,9 @@
             "metrics.gr",
             "metrics.premiereinteractive.com",
             "mi.cedexis.com",
-            "milesaway.oracle.cpa.clicksure.com",
+            "milesaway.oracle.cpa.clicksure.com"
+        ],
+        "to_test": [
             "mob.zyngatracking.com",
             "mobilegeeks.de.adadapter.netzathleten-media.de",
             "mohitdhingra.com",
