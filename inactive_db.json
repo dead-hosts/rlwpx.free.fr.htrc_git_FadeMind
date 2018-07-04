@@ -141,9 +141,7 @@
             "surveytrkr.com",
             "synopsis.secureorganictrade.ru",
             "tag-stats.huffingtonpost.com",
-            "tag.email-attitude.com"
-        ],
-        "to_test": [
+            "tag.email-attitude.com",
             "tarantula.secureorganictrade.ru",
             "targetedwebtraffic.co.uk",
             "tawdry.secureorganictrade.ru",
@@ -160,7 +158,9 @@
             "topographer.secureorganictrade.ru",
             "topography.secureorganictrade.ru",
             "track-m.mobclix.com",
-            "track.clicksure.com",
+            "track.clicksure.com"
+        ],
+        "to_test": [
             "track.ft.com",
             "track.livestat.com",
             "track.msadcenter.sfq.com",
