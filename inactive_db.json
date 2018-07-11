@@ -848,15 +848,14 @@
             "stadt-bremerhaven.de.adadapter.netzathleten-media.de",
             "stars-du-x.event-media.tv",
             "stat-tracker.net",
-            "stat.cybermonitor.com"
-        ],
-        "to_test": [
+            "stat.cybermonitor.com",
             "stat.gemoney.com.au",
             "stat.maxthon.com",
             "stat.ringier.cz",
             "stat2.cybermonitor.com",
             "static.fyreball.com",
             "static.secureorganictrade.ru",
+            "statik.topica.com",
             "statistics.infowap.info",
             "stats.darikweb.com",
             "stats.ebay.com",
@@ -864,7 +863,9 @@
             "stats.instdaddy.com",
             "stats.nite.lv",
             "stats.profileponds.com",
-            "stats.spyware-browser.com",
+            "stats.spyware-browser.com"
+        ],
+        "to_test": [
             "sticks.secureorganictrade.ru",
             "stopper.secureorganictrade.ru",
             "studio.secureorganictrade.ru",
