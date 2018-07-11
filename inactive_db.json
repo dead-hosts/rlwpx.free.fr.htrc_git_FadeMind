@@ -1121,9 +1121,7 @@
             "www2.cybermonitor.com",
             "x-hit.de",
             "x-rated-live.fastredirect.com",
-            "x-rated-pornos.fastredirect.com"
-        ],
-        "to_test": [
+            "x-rated-pornos.fastredirect.com",
             "xrated-video.co.uk",
             "xrateddaily.com",
             "xratedwebcams.com",
@@ -1135,7 +1133,9 @@
             "yes-messenger.event-media.tv",
             "youravon.com.102.112.2o7.net",
             "youtrack.co",
-            "ytz9335.log-r.com",
+            "ytz9335.log-r.com"
+        ],
+        "to_test": [
             "131922.131.links4trade.com"
         ]
     }
