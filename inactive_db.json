@@ -737,9 +737,7 @@
             "noteworthy.secureorganictrade.ru",
             "ns1.secureorganictrade.ru",
             "ns2.secureorganictrade.ru",
-            "ntracking.optimatic.com"
-        ],
-        "to_test": [
+            "ntracking.optimatic.com",
             "o.sa.aol.com",
             "oas.autotrader.co.uk",
             "oascentral.artistdirect.com",
@@ -753,7 +751,9 @@
             "oneclickprivacy.triplequadturbo.com",
             "online-guard.net",
             "onlineis.track.clicksure.com",
-            "optilogus.com",
+            "optilogus.com"
+        ],
+        "to_test": [
             "optorank.com",
             "orderclicksnow.com",
             "orders.webpower.com",
