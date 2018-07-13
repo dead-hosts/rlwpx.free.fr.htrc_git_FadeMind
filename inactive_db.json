@@ -857,10 +857,7 @@
             "static.fyreball.com",
             "static.secureorganictrade.ru",
             "statistics.infowap.info",
-            "statistics.irismetrics.com"
-        ],
-        "to_test": [
-            "stats.darikweb.com",
+            "statistics.irismetrics.com",
             "stats.ebay.com",
             "stats.ilius.net",
             "stats.instdaddy.com",
@@ -872,7 +869,9 @@
             "studio.secureorganictrade.ru",
             "subtract.secureorganictrade.ru",
             "surrounding.secureorganictrade.ru",
-            "surveytrkr.com",
+            "surveytrkr.com"
+        ],
+        "to_test": [
             "synopsis.secureorganictrade.ru",
             "tag-stats.huffingtonpost.com",
             "tag.email-attitude.com",
