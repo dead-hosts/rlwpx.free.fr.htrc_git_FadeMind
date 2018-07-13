@@ -679,9 +679,7 @@
             "log.data.disney.com",
             "log.dmtry.com",
             "log.e-cubekorea.com",
-            "log.webvahini.com"
-        ],
-        "to_test": [
+            "log.webvahini.com",
             "logging.fileave.com",
             "logko.com.ua",
             "logs.infoaxe.com",
@@ -693,7 +691,9 @@
             "manufacture.secureorganictrade.ru",
             "market.trafficpimps.com",
             "marriage.secureorganictrade.ru",
-            "mechanical.secureorganictrade.ru",
+            "mechanical.secureorganictrade.ru"
+        ],
+        "to_test": [
             "media-sochi.com",
             "media.advertlets.com",
             "media.affiliation-france.com",
