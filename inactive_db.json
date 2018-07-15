@@ -697,9 +697,7 @@
             "media-sochi.com",
             "media.advertlets.com",
             "media.affiliation-france.com",
-            "media.downloadster.org"
-        ],
-        "to_test": [
+            "media.downloadster.org",
             "media.pileoffiles.com",
             "media.www.claremontindependent.com",
             "media2.anawjarrate.info",
@@ -717,7 +715,9 @@
             "memberweb.com.102.112.2o7.net",
             "mercifully.secureorganictrade.ru",
             "metrics.gr",
-            "metrics.premiereinteractive.com",
+            "metrics.premiereinteractive.com"
+        ],
+        "to_test": [
             "mi.cedexis.com",
             "milesaway.oracle.cpa.clicksure.com",
             "mob.zyngatracking.com",
