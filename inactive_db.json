@@ -741,9 +741,7 @@
             "ns1.secureorganictrade.ru",
             "ns2.secureorganictrade.ru",
             "ntracking.optimatic.com",
-            "o.sa.aol.com"
-        ],
-        "to_test": [
+            "o.sa.aol.com",
             "oas.autotrader.co.uk",
             "oascentral.artistdirect.com",
             "oascentral.blackenterprise.com",
@@ -766,7 +764,9 @@
             "pageranker.jp",
             "parched.secureorganictrade.ru",
             "pardonable.secureorganictrade.ru",
-            "partially.secureorganictrade.ru",
+            "partially.secureorganictrade.ru"
+        ],
+        "to_test": [
             "patchy.secureorganictrade.ru",
             "payments.cometodress.com",
             "pc-mediacorner.de",
