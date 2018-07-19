@@ -1,13 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
-        "1531855940": [
-            "statihama9a.webobo.com",
-            "stats.darikweb.com",
-            "track.keywordstrategy.org",
-            "www.clickfire.com",
-            "www.counter.hitslinks.com",
-            "www.xclicx.com"
-        ],
         "to_test": [
             "audience.visiblemeasures.com",
             "hittlar.webobo.com",
@@ -15,7 +7,13 @@
             "police10.intensitymedia.com",
             "rq.adtrackdirect.com",
             "smsfree24.de",
-            "statihama9a.webobo.biz"
+            "statihama9a.webobo.biz",
+            "statihama9a.webobo.com",
+            "stats.darikweb.com",
+            "track.keywordstrategy.org",
+            "www.clickfire.com",
+            "www.counter.hitslinks.com",
+            "www.xclicx.com"
         ]
     }
 }
