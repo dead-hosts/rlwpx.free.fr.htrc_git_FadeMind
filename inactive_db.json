@@ -1,6 +1,8 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
-        "1532203161": [
+        "to_test": [
+            "ads.mediamatch.info",
+            "anokacountyshopper.com",
             "au.vizisense.net",
             "audience.visiblemeasures.com",
             "bunkleymedia.com",
@@ -60,10 +62,6 @@
             "x-ratedfilms.com",
             "zanaflex.mediahostforph.com",
             "zithromaxonline.mediahostforph.com"
-        ],
-        "to_test": [
-            "ads.mediamatch.info",
-            "anokacountyshopper.com"
         ]
     }
 }
