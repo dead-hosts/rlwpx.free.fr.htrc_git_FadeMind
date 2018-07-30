@@ -1,11 +1,9 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
-        "1532548999": [
-            "au.vizisense.net",
-            "bunkleymedia.com"
+        "0": [
+            "clogged-arteries.com"
         ],
         "to_test": [
-            "clogged-arteries.com",
             "dveri.zhitomir.ua",
             "erotikwerkstatt.de",
             "farmacogenerico.mediahostforph.com",
@@ -75,7 +73,9 @@
             "zanaflex.mediahostforph.com",
             "zithromaxonline.mediahostforph.com",
             "ads.mediamatch.info",
-            "anokacountyshopper.com"
+            "anokacountyshopper.com",
+            "au.vizisense.net",
+            "bunkleymedia.com"
         ]
     }
 }
