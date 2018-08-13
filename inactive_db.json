@@ -1,10 +1,11 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
         "1534184278": [
-            "log.chartbeat.com"
+            "log.chartbeat.com",
+            "logworst.nl",
+            "media-sl.ru"
         ],
         "to_test": [
-            "media-sl.ru",
             "media.match.com",
             "mediadome.ru",
             "mediaxplosion.de",
