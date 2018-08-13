@@ -1,7 +1,9 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
+        "1534184278": [
+            "log.chartbeat.com"
+        ],
         "to_test": [
-            "log.chartbeat.com",
             "media-sl.ru",
             "media.match.com",
             "mediadome.ru",
@@ -143,7 +145,8 @@
             "highgeartraffic.com",
             "hitspages.com",
             "hittlar.webobo.com",
-            "honda.com.102.112.2o7.net"
+            "honda.com.102.112.2o7.net",
+            "linuxmedia.hut2.ru"
         ]
     }
 }
