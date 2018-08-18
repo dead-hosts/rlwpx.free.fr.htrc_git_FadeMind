@@ -1,7 +1,9 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
-        "0": [
-            "adclick.de"
+        "1534603859": [
+            "ads.sitemeter.com",
+            "adultmediamarket.com",
+            "advertisers.federatedmedia.net"
         ],
         "to_test": [
             "mediaxplosion.de",
@@ -12,9 +14,6 @@
             "www.medpharmacy.mediahostforph.com",
             "www.pharmashop24h.mediahostforph.com",
             "www.site-stats.i8.com",
-            "ads.mediamatch.info",
-            "adultmediamarket.com",
-            "advertisers.federatedmedia.net",
             "ameriprisestats.com.102.112.2o7.net",
             "amfam.com.102.112.2o7.net",
             "anawjarrate.info",
@@ -181,7 +180,9 @@
             "x-ratedfilms.com",
             "xratedasians.com",
             "zanaflex.mediahostforph.com",
-            "zithromaxonline.mediahostforph.com"
+            "zithromaxonline.mediahostforph.com",
+            "adclick.de",
+            "ads.mediamatch.info"
         ]
     }
 }
