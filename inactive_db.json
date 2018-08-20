@@ -1,17 +1,17 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
         "1534794376": [
-            "addl.logger.baofeng.com"
-        ],
-        "to_test": [
-            "travellogs.in",
-            "www.homepagemadeeasy.com",
+            "addl.logger.baofeng.com",
             "ads.mediamatch.info",
             "ads.sitemeter.com",
             "adultmediamarket.com",
             "advertisers.federatedmedia.net",
             "ameriprisestats.com.102.112.2o7.net",
-            "amfam.com.102.112.2o7.net",
+            "amfam.com.102.112.2o7.net"
+        ],
+        "to_test": [
+            "travellogs.in",
+            "www.homepagemadeeasy.com",
             "anawjarrate.info",
             "anokacountyshopper.com",
             "au.vizisense.net",
