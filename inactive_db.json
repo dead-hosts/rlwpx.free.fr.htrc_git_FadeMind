@@ -1,13 +1,14 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
+        "1535142172": [
+            "addl.logger.baofeng.com",
+            "ads.mediamatch.info",
+            "ads.sitemeter.com"
+        ],
         "to_test": [
             "freebannertrade.com",
             "www.hit50.com",
             "xratedasians.com",
-            "adclick.de",
-            "addl.logger.baofeng.com",
-            "ads.mediamatch.info",
-            "ads.sitemeter.com",
             "adultmediamarket.com",
             "advertisers.federatedmedia.net",
             "affiliate.pmclicks.com",
@@ -216,7 +217,8 @@
             "www.zithromaxonline.mediahostforph.com",
             "x-ratedfilms.com",
             "zanaflex.mediahostforph.com",
-            "zithromaxonline.mediahostforph.com"
+            "zithromaxonline.mediahostforph.com",
+            "adclick.de"
         ]
     }
 }
