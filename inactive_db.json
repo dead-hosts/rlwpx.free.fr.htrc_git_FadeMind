@@ -2,14 +2,14 @@
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
         "1535313166": [
             "adclick.de",
-            "addl.logger.baofeng.com"
-        ],
-        "to_test": [
+            "addl.logger.baofeng.com",
             "ads.mediamatch.info",
             "ads.sitemeter.com",
             "adultmediamarket.com",
             "advertisers.federatedmedia.net",
-            "affiliate.pmclicks.com",
+            "affiliate.pmclicks.com"
+        ],
+        "to_test": [
             "ameriprisestats.com.102.112.2o7.net",
             "amfam.com.102.112.2o7.net",
             "analytics.hosting24.com",
