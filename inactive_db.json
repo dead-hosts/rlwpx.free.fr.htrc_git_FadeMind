@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
-        "1535313166": [
+        "to_test": [
             "adclick.de",
             "addl.logger.baofeng.com",
             "ads.mediamatch.info",
@@ -111,6 +111,7 @@
             "smscore.de",
             "smsfree24.de",
             "spanx.com.102.112.2o7.net",
+            "spreadshirt.be.102.112.2o7.net",
             "spreadshirt.co.uk.102.112.2o7.net",
             "spreadshirt.net.102.112.2o7.net",
             "starwoodhotels.102.112.2o7.net",
@@ -153,6 +154,7 @@
             "ww.autotraderr.com",
             "ww.autotradert.com",
             "ww.autottrader.com",
+            "www.100-100.ru",
             "www.303media.com",
             "www.a-louer-vente.com",
             "www.adclick.de",
@@ -165,6 +167,7 @@
             "www.beautyscreens.com",
             "www.bluclicks.com",
             "www.boincfrance.org",
+            "www.bulkclicks.com",
             "www.buyhits.net",
             "www.cikmedia.com",
             "www.click-power.com",
@@ -232,11 +235,6 @@
             "xratedasians.com",
             "zanaflex.mediahostforph.com",
             "zithromaxonline.mediahostforph.com"
-        ],
-        "to_test": [
-            "spreadshirt.be.102.112.2o7.net",
-            "www.100-100.ru",
-            "www.bulkclicks.com"
         ]
     }
 }
