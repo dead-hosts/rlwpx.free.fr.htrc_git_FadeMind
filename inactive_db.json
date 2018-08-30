@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
-        "1535485862": [
+        "to_test": [
             "adclick.de",
             "addl.logger.baofeng.com",
             "ads.mediamatch.info",
@@ -164,6 +164,7 @@
             "www.beautyscreens.com",
             "www.bluclicks.com",
             "www.boincfrance.org",
+            "www.bulkclicks.com",
             "www.buyhits.net",
             "www.cikmedia.com",
             "www.click-power.com",
@@ -222,6 +223,7 @@
             "www.themedialine.org",
             "www.thetradersoracle.com",
             "www.torrentmedia.org",
+            "www.tradehardlinks.com",
             "www.trafficroup.com",
             "www.vilniusmediaseminar.org",
             "www.wiki-security.com",
@@ -234,10 +236,6 @@
             "xratedasians.com",
             "zanaflex.mediahostforph.com",
             "zithromaxonline.mediahostforph.com"
-        ],
-        "to_test": [
-            "www.bulkclicks.com",
-            "www.tradehardlinks.com"
         ]
     }
 }
