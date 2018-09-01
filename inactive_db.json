@@ -18,10 +18,7 @@
             "audience.visiblemeasures.com",
             "backcountry.com.102.112.2o7.net",
             "banner2.inet-traffic.com",
-            "bell.ca.102.112.2o7.net"
-        ],
-        "to_test": [
-            "ameriprisestats.com.102.112.2o7.net",
+            "bell.ca.102.112.2o7.net",
             "bunkleymedia.com",
             "cal.stat.zdworks.com",
             "cali.stat.zdworks.com",
@@ -31,8 +28,10 @@
             "centurylink.com.102.112.2o7.net",
             "channel4.com.102.112.2o7.net",
             "chipmediasolutions.com",
-            "click-smilies.de",
-            "click.absoluteagency.com",
+            "click-smilies.de"
+        ],
+        "to_test": [
+            "ameriprisestats.com.102.112.2o7.net",
             "click4cum.com",
             "clicktracker.alloymarketing.com",
             "clicnab.vugg.net",
