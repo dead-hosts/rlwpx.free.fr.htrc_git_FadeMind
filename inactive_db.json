@@ -92,17 +92,18 @@
             "megastat.net",
             "metrics.hhgregg.com",
             "metrics.metrics.com",
-            "metrics.radioshack.com"
-        ],
-        "to_test": [
-            "ameriprisestats.com.102.112.2o7.net",
-            "hit.clickaider.com",
-            "hit.dev.clickaider.com",
+            "metrics.radioshack.com",
             "monitorforum.conforums.com",
             "murdoch.edu.au.102.112.2o7.net",
             "mxm-media.ru",
             "nature.org.102.112.2o7.net",
             "navlog.channel4.com",
+            "net.adsysmedia.com"
+        ],
+        "to_test": [
+            "ameriprisestats.com.102.112.2o7.net",
+            "hit.clickaider.com",
+            "hit.dev.clickaider.com",
             "oascentral.escapistmagazine.com",
             "oascentral.pitch.com",
             "oascentral.warcry.com",
