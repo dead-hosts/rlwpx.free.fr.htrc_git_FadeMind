@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
-        "1535831718": [
+        "to_test": [
             "adclick.de",
             "addl.logger.baofeng.com",
             "ads.mediamatch.info",
@@ -9,6 +9,7 @@
             "adultpornmedia.com",
             "advertisers.federatedmedia.net",
             "affiliate.pmclicks.com",
+            "ameriprisestats.com.102.112.2o7.net",
             "amfam.com.102.112.2o7.net",
             "analytics.hosting24.com",
             "anawjarrate.info",
@@ -73,6 +74,8 @@
             "gnc.com.102.112.2o7.net",
             "greattubeporn.com",
             "highgeartraffic.com",
+            "hit.clickaider.com",
+            "hit.dev.clickaider.com",
             "hitspages.com",
             "hittlar.webobo.com",
             "honda.com.102.112.2o7.net",
@@ -151,6 +154,7 @@
             "track.dotsly.com",
             "track.ehomeprofitkit.com",
             "track.keywordstrategy.org",
+            "track.learntotradesrv.com",
             "track.msadcenter.sax.com",
             "track.netshelter.net",
             "track.popmog.com",
@@ -256,12 +260,6 @@
             "ystat.biz",
             "zanaflex.mediahostforph.com",
             "zithromaxonline.mediahostforph.com"
-        ],
-        "to_test": [
-            "ameriprisestats.com.102.112.2o7.net",
-            "hit.clickaider.com",
-            "hit.dev.clickaider.com",
-            "track.learntotradesrv.com"
         ]
     }
 }
