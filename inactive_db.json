@@ -1,7 +1,8 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
         "1536146998": [
-            "audience.visiblemeasures.com"
+            "audience.visiblemeasures.com",
+            "graylog.hotjar.com"
         ],
         "to_test": []
     }
