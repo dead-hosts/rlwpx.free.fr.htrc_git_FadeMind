@@ -6,10 +6,11 @@
             "ads.hitjump.com",
             "ads.trafficaces.com",
             "ads.vnumedia.com",
-            "ads.zone-media.com"
+            "ads.zone-media.com",
+            "audience.visiblemeasures.com",
+            "banners.searchingbooth.com"
         ],
         "to_test": [
-            "audience.visiblemeasures.com",
             "graylog.hotjar.com",
             "mediaplayermovies.com",
             "metrics.oovoo.com",
