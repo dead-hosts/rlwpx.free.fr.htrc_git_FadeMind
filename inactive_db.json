@@ -1,8 +1,6 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
-        "1536346359": [
-            "11.rtstats.com",
-            "17541.c.clickpayz.com",
+        "to_test": [
             "ads.hitjump.com",
             "ads.trafficaces.com",
             "ads.vnumedia.com",
@@ -37,7 +35,6 @@
             "www.teenstocktrader.com",
             "www.tokiotrade.com",
             "www.try-count.net"
-        ],
-        "to_test": []
+        ]
     }
 }
