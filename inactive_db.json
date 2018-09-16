@@ -1,11 +1,12 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
         "1537129352": [
-            "advstat.xunlei.com"
+            "advstat.xunlei.com",
+            "arti-mediagroup.com",
+            "audience.visiblemeasures.com",
+            "bakercountyflorida.com"
         ],
         "to_test": [
-            "audience.visiblemeasures.com",
-            "bakercountyflorida.com",
             "banners.clickthrucash.com",
             "clickpc.ro",
             "searchgateway.net",
