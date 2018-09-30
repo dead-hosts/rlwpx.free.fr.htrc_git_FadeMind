@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
-        "1537994870": [
+        "to_test": [
             "advstat.xunlei.com",
             "almendreracuraremque.smithcountyliving.org",
             "animalencounters.net",
@@ -22,13 +22,13 @@
             "secure.flyingcroc.net",
             "sitemonitor3.com",
             "sms-sofort.com",
-            "statsector.hu",
             "stats.redditmedia.com",
+            "statsector.hu",
             "thebluestarmedia.com",
             "thetradersoracle.com",
-            "tracking1.euroads.no",
             "tracking.45-fe6b6-aah.co.uk",
             "tracking.euroads.no",
+            "tracking1.euroads.no",
             "trade.bokecc.com",
             "traffic.bokecc.com",
             "tutoriales100.com",
@@ -52,7 +52,6 @@
             "www.trafficflare.com",
             "www.yfdmedia.com",
             "yourcountedantivirus.com"
-        ],
-        "to_test": []
+        ]
     }
 }
