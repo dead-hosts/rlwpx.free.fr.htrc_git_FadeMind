@@ -71,10 +71,9 @@
             "www.trafficflare.com",
             "www.web-typo.info",
             "www.yfdmedia.com",
-            "x-rated-live.fastredirect.com"
-        ],
-        "to_test": [
+            "x-rated-live.fastredirect.com",
             "yourcountedantivirus.com"
-        ]
+        ],
+        "to_test": []
     }
 }
