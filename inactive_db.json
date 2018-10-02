@@ -1,10 +1,12 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
-        "to_test": [
+        "1538514172": [
             "advstat.xunlei.com",
             "allradiohits.com",
             "almendreracuraremque.smithcountyliving.org",
-            "animalencounters.net",
+            "animalencounters.net"
+        ],
+        "to_test": [
             "bakercountyflorida.com",
             "banners.clickthrucash.com",
             "belstat.ch",
