@@ -91,11 +91,9 @@
             "www.tradeshowshops.com",
             "www.trafficflare.com",
             "www.web-typo.info",
-            "www.yfdmedia.com"
-        ],
-        "to_test": [
-            "x-rated-live.fastredirect.com",
+            "www.yfdmedia.com",
             "yourcountedantivirus.com"
-        ]
+        ],
+        "to_test": []
     }
 }
