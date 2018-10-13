@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
-        "1539290077": [
+        "to_test": [
             "ads.sanomalehtimedia.fi",
             "ads.trackitdown.net",
             "adultinternettraffic.com",
@@ -13,7 +13,6 @@
             "click.fadama.com",
             "clicktoporn.com",
             "clicktosex.com"
-        ],
-        "to_test": []
+        ]
     }
 }
