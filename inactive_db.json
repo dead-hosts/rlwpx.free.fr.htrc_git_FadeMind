@@ -1,12 +1,24 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
-        "1539464388": [
+        "to_test": [
+            "ads.sanomalehtimedia.fi",
+            "ads.trackitdown.net",
+            "adultinternettraffic.com",
+            "audience.visiblemeasures.com",
+            "belasfamosas.clic3.net",
+            "bilbo.counted.com",
+            "boasdebunda.clic3.net",
+            "bucetasbr.clic3.net",
+            "caseirasbrasil.clic3.net",
+            "click.fadama.com",
+            "clicktoporn.com",
+            "clicktosex.com",
             "geo.vantagemedia.com",
             "hitchbitch.blogse.nl",
             "internet-monitor.org",
             "kronehit.oewabox.at",
-            "monitor.oewabox.at",
             "m.usersonline.com",
+            "monitor.oewabox.at",
             "onlinecounters.4ever.me",
             "princegeorgescountyha.org",
             "reviewsit.net",
@@ -34,20 +46,6 @@
             "www.sxtracking.com",
             "www.tuerck.de.counted.com",
             "www.x-rated-pornos.fastredirect.com"
-        ],
-        "to_test": [
-            "ads.sanomalehtimedia.fi",
-            "ads.trackitdown.net",
-            "adultinternettraffic.com",
-            "audience.visiblemeasures.com",
-            "belasfamosas.clic3.net",
-            "bilbo.counted.com",
-            "boasdebunda.clic3.net",
-            "bucetasbr.clic3.net",
-            "caseirasbrasil.clic3.net",
-            "click.fadama.com",
-            "clicktoporn.com",
-            "clicktosex.com"
         ]
     }
 }
