@@ -1,9 +1,11 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
-        "to_test": [
+        "1539809423": [
             "ads.sanomalehtimedia.fi",
             "ads.trackitdown.net",
-            "adultinternettraffic.com",
+            "adultinternettraffic.com"
+        ],
+        "to_test": [
             "audience.visiblemeasures.com",
             "bannerfarm.ace.advertising.com",
             "bilbo.counted.com",
