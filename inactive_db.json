@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
-        "1539637138": [
+        "to_test": [
             "ads.sanomalehtimedia.fi",
             "ads.trackitdown.net",
             "adultinternettraffic.com",
@@ -15,9 +15,9 @@
             "hitchbitch.blogse.nl",
             "internet-monitor.org",
             "kronehit.oewabox.at",
+            "m.usersonline.com",
             "mediahitech.info",
             "monitor.oewabox.at",
-            "m.usersonline.com",
             "offtopic.biz",
             "onlinecounters.4ever.me",
             "pictures-of-tornado-damage-in-miami-county-ks.raiselight.com",
@@ -52,7 +52,6 @@
             "www.spywarescrapper.com",
             "www.tuerck.de.counted.com",
             "www.xpagecount.com"
-        ],
-        "to_test": []
+        ]
     }
 }
