@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
-        "1539809423": [
+        "to_test": [
             "ads.sanomalehtimedia.fi",
             "ads.trackitdown.net",
             "adultinternettraffic.com",
@@ -21,10 +21,10 @@
             "installer.zutrack.com",
             "internet-monitor.org",
             "kronehit.oewabox.at",
+            "m.usersonline.com",
             "media-code.info",
             "mediahitech.info",
             "monitor.oewabox.at",
-            "m.usersonline.com",
             "myteamtraffic.com",
             "onlinecounters.4ever.me",
             "princegeorgescountyha.org",
@@ -33,12 +33,12 @@
             "servedby.advertising.com",
             "sexrank.pl",
             "stat.ccidnet.com",
-            "stats2.lightningcast.net",
             "stats.evilbucks.com",
             "stats.lightningcast.net",
+            "stats2.lightningcast.net",
             "telemedia.m77s.cn",
-            "tracking.oceantidemedia.com",
             "track.quigo.com",
+            "tracking.oceantidemedia.com",
             "trance-club.trackitdown.net",
             "try-count.net",
             "tuerck.de.counted.com",
@@ -62,7 +62,6 @@
             "www.spywarescrapper.com",
             "www.tuerck.de.counted.com",
             "www.xpagecount.com"
-        ],
-        "to_test": []
+        ]
     }
 }
