@@ -1,12 +1,13 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
         "1539981948": [
-            "admedia.expedia.com"
-        ],
-        "to_test": [
+            "admedia.expedia.com",
+            "ads.moneyclicks.com",
             "ads.sanomalehtimedia.fi",
             "ads.trackitdown.net",
-            "adultinternettraffic.com",
+            "adultinternettraffic.com"
+        ],
+        "to_test": [
             "axf8.net",
             "bannerfarm.ace.advertising.com",
             "bilbo.counted.com",
