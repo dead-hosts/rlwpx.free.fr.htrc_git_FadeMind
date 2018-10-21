@@ -24,10 +24,10 @@
             "affiliate.mlntracker.com",
             "affiliates.millnicmedia.com",
             "audience.visiblemeasures.com",
-            "bannerfarm.ace.advertising.com"
-        ],
-        "to_test": [
+            "bannerfarm.ace.advertising.com",
             "bilbo.counted.com",
+            "botcrawl.openmediasoft.com",
+            "buyhitscheap.com",
             "bx.clickmedia.ro",
             "bxsql.clickmedia.ro",
             "c0.amazingcounters.com",
@@ -39,7 +39,9 @@
             "c6.amazingcounters.com",
             "c7.amazingcounters.com",
             "c8.amazingcounters.com",
-            "c9.amazingcounters.com",
+            "c9.amazingcounters.com"
+        ],
+        "to_test": [
             "cb.amazingcounters.com",
             "cc.amazingcounters.com",
             "click.atdmt.net",
