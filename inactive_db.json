@@ -1,20 +1,13 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
         "1540322428": [
-            "2artmedia.ru"
-        ],
-        "to_test": [
-            "ad.mediaprecision.net",
+            "2artmedia.ru",
             "admedia.expedia.com",
-            "ads.adsrvmedia.com",
-            "ads.flashtrack.net",
-            "ads.moneyclicks.com",
-            "ads.ratecreditcard.com",
             "ads.sanomalehtimedia.fi",
             "ads.trackitdown.net",
-            "ads1.tuccus.com",
-            "ads2.tuccus.com",
-            "adultinternettraffic.com",
+            "adultinternettraffic.com"
+        ],
+        "to_test": [
             "affiliate.adiclicks.com",
             "affiliate.eadvtracker.com",
             "affiliate.idritracker.com",
