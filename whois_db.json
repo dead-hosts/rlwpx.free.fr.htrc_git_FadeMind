@@ -26375,6 +26375,16 @@
             "expiration_date": "29-may-2019",
             "state": "future"
         },
+        "z-stat.com": {
+            "epoch": "1587600000",
+            "expiration_date": "23-apr-2020",
+            "state": "future"
+        },
+        "z-traffic.com": {
+            "epoch": "1547769600",
+            "expiration_date": "18-jan-2019",
+            "state": "future"
+        },
         "z2c.net": {
             "epoch": "1553644800",
             "expiration_date": "27-mar-2019",
@@ -26383,6 +26393,126 @@
         "z2y.net": {
             "epoch": "1553644800",
             "expiration_date": "27-mar-2019",
+            "state": "future"
+        },
+        "zalogdamascus.ru": {
+            "epoch": "1545350400",
+            "expiration_date": "21-dec-2018",
+            "state": "future"
+        },
+        "zanox.com": {
+            "epoch": "1551398400",
+            "expiration_date": "01-mar-2019",
+            "state": "future"
+        },
+        "zantracker.com": {
+            "epoch": "1557532800",
+            "expiration_date": "11-may-2019",
+            "state": "future"
+        },
+        "zazenmedia.com": {
+            "epoch": "1565740800",
+            "expiration_date": "14-aug-2019",
+            "state": "future"
+        },
+        "zedo.com": {
+            "epoch": "1664755200",
+            "expiration_date": "03-oct-2022",
+            "state": "future"
+        },
+        "zendmedia.com": {
+            "epoch": "1551052800",
+            "expiration_date": "25-feb-2019",
+            "state": "future"
+        },
+        "zeroredirect1.com": {
+            "epoch": "1655164800",
+            "expiration_date": "14-jun-2022",
+            "state": "future"
+        },
+        "zetracker.net": {
+            "epoch": "1557792000",
+            "expiration_date": "14-may-2019",
+            "state": "future"
+        },
+        "zeusclicks.com": {
+            "epoch": "1653609600",
+            "expiration_date": "27-may-2022",
+            "state": "future"
+        },
+        "zeustraffic.com": {
+            "epoch": "1554768000",
+            "expiration_date": "09-apr-2019",
+            "state": "future"
+        },
+        "zhirok.com": {
+            "epoch": "1557705600",
+            "expiration_date": "13-may-2019",
+            "state": "future"
+        },
+        "zhitomir-info.biz": {
+            "epoch": "1541548800",
+            "expiration_date": "07-nov-2018",
+            "state": "future"
+        },
+        "zhitomir-love.com": {
+            "epoch": "1557100800",
+            "expiration_date": "06-may-2019",
+            "state": "future"
+        },
+        "ziinga.com": {
+            "epoch": "1576454400",
+            "expiration_date": "16-dec-2019",
+            "state": "future"
+        },
+        "zinmedia.net": {
+            "epoch": "1570320000",
+            "expiration_date": "06-oct-2019",
+            "state": "future"
+        },
+        "ziphit.com": {
+            "epoch": "1562716800",
+            "expiration_date": "10-jul-2019",
+            "state": "future"
+        },
+        "zipstats.com": {
+            "epoch": "1569542400",
+            "expiration_date": "27-sep-2019",
+            "state": "future"
+        },
+        "zm0.net": {
+            "epoch": "1547769600",
+            "expiration_date": "18-jan-2019",
+            "state": "future"
+        },
+        "zmeda.com": {
+            "epoch": "1564358400",
+            "expiration_date": "29-jul-2019",
+            "state": "future"
+        },
+        "zmo.net": {
+            "epoch": "1547942400",
+            "expiration_date": "20-jan-2019",
+            "state": "future"
+        },
+        "zolmedia.com": {
+            "epoch": "1547424000",
+            "expiration_date": "14-jan-2019",
+            "state": "future"
+        },
+        "zone-media.com": {
+            "epoch": "1566259200",
+            "expiration_date": "20-aug-2019",
+            "state": "future"
+        },
+        "zorrascaseras.com": {
+            "epoch": "1575072000",
+            "expiration_date": "30-nov-2019",
+            "state": "future"
+        },
+        "zummedia.com": {
+            "epoch": "1557964800",
+            "expiration_date": "16-may-2019",
             "state": "future"
         }
     }
