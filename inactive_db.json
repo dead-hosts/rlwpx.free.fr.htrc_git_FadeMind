@@ -1,11 +1,12 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
         "1540841198": [
-            "868.statscreen.info"
+            "868.statscreen.info",
+            "ads.adnet-media.net",
+            "ads-littlestarmedia.co.uk",
+            "alexmedia.co.za"
         ],
         "to_test": [
-            "ads-littlestarmedia.co.uk",
-            "alexmedia.co.za",
             "bcn.boulder.co.us",
             "bigcitymedia.co.uk",
             "callmonitor.co.uk",
