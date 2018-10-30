@@ -13888,7 +13888,7 @@
         "mediarays.info": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "mediareader.net": {
             "epoch": "1567123200",
@@ -14108,7 +14108,7 @@
         "megacount.net": {
             "epoch": "1540771200",
             "expiration_date": "29-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "megadialer.com": {
             "epoch": "1576022400",
