@@ -25743,7 +25743,7 @@
         "xplaptop.com": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "xpsn.com": {
             "epoch": "1550534400",
@@ -26066,9 +26066,9 @@
             "state": "future"
         },
         "xratedscreensavers.com": {
-            "epoch": "1540684800",
-            "expiration_date": "28-oct-2018",
-            "state": "past"
+            "epoch": "1572220800",
+            "expiration_date": "28-oct-2019",
+            "state": "future"
         },
         "xratedsex.com": {
             "epoch": "1571616000",
