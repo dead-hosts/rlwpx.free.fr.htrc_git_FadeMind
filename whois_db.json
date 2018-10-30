@@ -20938,7 +20938,7 @@
         "steamtraffic.com": {
             "epoch": "1540771200",
             "expiration_date": "29-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "stearnscountyfair.com": {
             "epoch": "1558742400",
@@ -21278,6 +21278,11 @@
         "tannermedia.net": {
             "epoch": "1570320000",
             "expiration_date": "06-oct-2019",
+            "state": "future"
+        },
+        "tantrack.info": {
+            "epoch": "1557360000",
+            "expiration_date": "09-may-2019",
             "state": "future"
         },
         "targetnet.com": {
@@ -22121,8 +22126,8 @@
             "state": "future"
         },
         "topnotch-media.com": {
-            "epoch": "1540771200",
-            "expiration_date": "29-oct-2018",
+            "epoch": "1572307200",
+            "expiration_date": "29-oct-2019",
             "state": "future"
         },
         "topodessaapartments.com": {
