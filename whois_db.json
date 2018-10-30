@@ -24795,6 +24795,11 @@
             "expiration_date": "08-jan-2019",
             "state": "future"
         },
+        "wapstranky.cz": {
+            "epoch": "1564444800",
+            "expiration_date": "30-jul-2019",
+            "state": "future"
+        },
         "waptrack.net": {
             "epoch": "1546560000",
             "expiration_date": "04-jan-2019",
@@ -25181,9 +25186,9 @@
             "state": "future"
         },
         "weekend-feerique.com": {
-            "epoch": "1540598400",
-            "expiration_date": "27-oct-2018",
-            "state": "past"
+            "epoch": "1572134400",
+            "expiration_date": "27-oct-2019",
+            "state": "future"
         },
         "wegcash.com": {
             "epoch": "1563494400",
