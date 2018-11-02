@@ -6216,8 +6216,8 @@
             "state": "future"
         },
         "ctsmedia.com": {
-            "epoch": "1541030400",
-            "expiration_date": "01-nov-2018",
+            "epoch": "1572566400",
+            "expiration_date": "01-nov-2019",
             "state": "future"
         },
         "cubestat.com": {
@@ -6608,7 +6608,7 @@
         "digitalalemedia.com": {
             "epoch": "1541116800",
             "expiration_date": "02-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "digitalcountability.com": {
             "epoch": "1575244800",
