@@ -13326,9 +13326,9 @@
             "state": "future"
         },
         "mediaadult.com": {
-            "epoch": "1534118400",
-            "expiration_date": "13-aug-2018",
-            "state": "past"
+            "epoch": "1572480000",
+            "expiration_date": "31-oct-2019",
+            "state": "future"
         },
         "mediaandmorestore.com": {
             "epoch": "1640304000",
@@ -14198,7 +14198,7 @@
         "metricstats.com": {
             "epoch": "1541116800",
             "expiration_date": "02-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "mfxmedia.com": {
             "epoch": "1552867200",
