@@ -1,14 +1,7 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
-        "1541705411": [
-            "www.trafficseeker.com",
-            "www.trafficxxx.com",
-            "www.wurldmedia.com",
-            "www.xxxrated-sex.com"
-        ],
         "to_test": [
             "a.peoplepc.com",
-            "ad.adtracking.me",
             "ads.admodus.com",
             "babelog.webtopper.net",
             "ekko.ekkomediagroup.com",
@@ -49,7 +42,11 @@
             "www.pwtaust.com",
             "www.sexhit.de",
             "www.sexualencounters.net",
-            "www.starclicks.com"
+            "www.starclicks.com",
+            "www.trafficseeker.com",
+            "www.trafficxxx.com",
+            "www.wurldmedia.com",
+            "www.xxxrated-sex.com"
         ]
     }
 }
