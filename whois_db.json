@@ -21083,7 +21083,7 @@
         "sunpalacecasino.com": {
             "epoch": "1541894400",
             "expiration_date": "11-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "sunsss.com": {
             "epoch": "1577232000",
@@ -21213,7 +21213,7 @@
         "swiftranking.com": {
             "epoch": "1541808000",
             "expiration_date": "10-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "swik.net": {
             "epoch": "1558742400",
@@ -21301,9 +21301,9 @@
             "state": "future"
         },
         "targetpoint.com": {
-            "epoch": "1541548800",
-            "expiration_date": "07-nov-2018",
-            "state": "past"
+            "epoch": "1573084800",
+            "expiration_date": "07-nov-2019",
+            "state": "future"
         },
         "tashian.com": {
             "epoch": "1557014400",
