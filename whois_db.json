@@ -13621,8 +13621,8 @@
             "state": "future"
         },
         "mediahollywood.com": {
-            "epoch": "1541635200",
-            "expiration_date": "08-nov-2018",
+            "epoch": "1604793600",
+            "expiration_date": "08-nov-2020",
             "state": "future"
         },
         "mediahostforph.com": {
@@ -14008,7 +14008,7 @@
         "mediatells.com": {
             "epoch": "1541894400",
             "expiration_date": "11-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "mediatemplate.net": {
             "epoch": "1569974400",
