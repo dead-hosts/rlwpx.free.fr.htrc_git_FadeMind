@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
-        "1541881867": [
+        "to_test": [
             "babelog.webtopper.net",
             "ekko.ekkomediagroup.com",
             "hitboxprofessional.com",
@@ -33,7 +33,6 @@
             "www.trafficxxx.com",
             "www.wurldmedia.com",
             "www.xxxrated-sex.com"
-        ],
-        "to_test": []
+        ]
     }
 }
