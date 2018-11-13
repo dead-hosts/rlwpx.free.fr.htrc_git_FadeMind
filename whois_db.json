@@ -8193,7 +8193,7 @@
         "feetlog.com": {
             "epoch": "1541980800",
             "expiration_date": "12-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "feetnonstop.com": {
             "epoch": "1558310400",
@@ -8213,7 +8213,7 @@
         "fenixmediagroup.com": {
             "epoch": "1542067200",
             "expiration_date": "13-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "fetishhits.com": {
             "epoch": "1548806400",
@@ -8556,9 +8556,9 @@
             "state": "future"
         },
         "fragrancetrader.com": {
-            "epoch": "1541808000",
-            "expiration_date": "10-nov-2018",
-            "state": "past"
+            "epoch": "1573344000",
+            "expiration_date": "10-nov-2019",
+            "state": "future"
         },
         "free-adult-traffic.com": {
             "epoch": "1549411200",
