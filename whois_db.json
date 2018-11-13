@@ -14333,7 +14333,7 @@
         "mixmaxmedia.com": {
             "epoch": "1541980800",
             "expiration_date": "12-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "mixtraffic.com": {
             "epoch": "1569110400",
@@ -14821,9 +14821,9 @@
             "state": "future"
         },
         "myclickbankads.com": {
-            "epoch": "1535068800",
-            "expiration_date": "24-aug-2018",
-            "state": "past"
+            "epoch": "1573516800",
+            "expiration_date": "12-nov-2019",
+            "state": "future"
         },
         "myclicktracker.com": {
             "epoch": "1570665600",
@@ -14873,7 +14873,7 @@
         "myhitbox.com": {
             "epoch": "1542067200",
             "expiration_date": "13-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "myimagetracking.com": {
             "epoch": "1582502400",
