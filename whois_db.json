@@ -10523,7 +10523,7 @@
         "hitsec.com": {
             "epoch": "1541980800",
             "expiration_date": "12-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "hitsense.com": {
             "epoch": "1556150400",
@@ -10586,8 +10586,8 @@
             "state": "future"
         },
         "hitspider.com": {
-            "epoch": "1541980800",
-            "expiration_date": "12-nov-2018",
+            "epoch": "1573516800",
+            "expiration_date": "12-nov-2019",
             "state": "future"
         },
         "hitspy.com": {
