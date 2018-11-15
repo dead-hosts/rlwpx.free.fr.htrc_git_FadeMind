@@ -13238,7 +13238,7 @@
         "media-playerz.com": {
             "epoch": "1542153600",
             "expiration_date": "14-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "media-proxy.com": {
             "epoch": "1583107200",
@@ -13583,7 +13583,7 @@
         "mediagay.com": {
             "epoch": "1542240000",
             "expiration_date": "15-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "mediageneral.com": {
             "epoch": "1555027200",
