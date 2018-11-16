@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
-        "1542226376": [
+        "to_test": [
             "ads.mediasoul.net",
             "babelog.webtopper.net",
             "dk-statistik.de",
@@ -18,9 +18,9 @@
             "surveytracker.net",
             "totalnethits.biz",
             "tr2.vttrack.com.br",
-            "tracking2.interweave.com",
             "track.msadcenter.zepw.com",
             "track.webtrekk.de",
+            "tracking2.interweave.com",
             "trafficquarters.com",
             "valueclick.ne.jp",
             "weboxmedia.by",
@@ -44,7 +44,6 @@
             "www.trafficxxx.com",
             "www.wurldmedia.com",
             "www.xxxrated-sex.com"
-        ],
-        "to_test": []
+        ]
     }
 }
