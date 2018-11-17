@@ -18618,7 +18618,7 @@
         "rpowermedia.com": {
             "epoch": "1542412800",
             "expiration_date": "17-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "rsmrttracking.com": {
             "epoch": "1560297600",
@@ -18643,7 +18643,7 @@
         "ru-traffic.com": {
             "epoch": "1542326400",
             "expiration_date": "16-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "ru4.com": {
             "epoch": "1573603200",
