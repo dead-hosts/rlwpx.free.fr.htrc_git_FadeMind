@@ -22741,9 +22741,9 @@
             "state": "future"
         },
         "tradeable.info": {
-            "epoch": "1542412800",
-            "expiration_date": "17-nov-2018",
-            "state": "past"
+            "epoch": "1573948800",
+            "expiration_date": "17-nov-2019",
+            "state": "future"
         },
         "tradeaidgh.org": {
             "epoch": "1576627200",
@@ -23623,7 +23623,7 @@
         "trafficprovide.com": {
             "epoch": "1542585600",
             "expiration_date": "19-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "trafficpump.com": {
             "epoch": "1551052800",
