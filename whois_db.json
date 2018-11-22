@@ -2233,11 +2233,11 @@
         "avstrade.com": {
             "epoch": "1542844800",
             "expiration_date": "22-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "avtoprikol.com": {
-            "epoch": "1542758400",
-            "expiration_date": "21-nov-2018",
+            "epoch": "1574294400",
+            "expiration_date": "21-nov-2019",
             "state": "future"
         },
         "avtozalogspb.ru": {
@@ -2296,8 +2296,8 @@
             "state": "future"
         },
         "baccaratcounting.com": {
-            "epoch": "1542758400",
-            "expiration_date": "21-nov-2018",
+            "epoch": "1574294400",
+            "expiration_date": "21-nov-2019",
             "state": "future"
         },
         "bachatahits.com": {
@@ -2921,8 +2921,8 @@
             "state": "future"
         },
         "blogtrafic.com": {
-            "epoch": "1542844800",
-            "expiration_date": "22-nov-2018",
+            "epoch": "1574380800",
+            "expiration_date": "22-nov-2019",
             "state": "future"
         },
         "bloke.com": {
