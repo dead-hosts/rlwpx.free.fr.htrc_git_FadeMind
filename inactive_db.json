@@ -1,7 +1,9 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
-        "1542742770": [
-            "2sevastopol.com",
+        "1542915641": [
+            "2sevastopol.com"
+        ],
+        "to_test": [
             "ads.click2paid.com",
             "ads.mediasoul.net",
             "adsvr.adknowledge.com",
@@ -23,8 +25,8 @@
             "logger.cash-media.de",
             "metrics.theb2bt.com",
             "monitoring.profi-webhosting.cz",
-            "oascentral.hitfix.com",
             "oas.populisengage.com",
+            "oascentral.hitfix.com",
             "optimistictrack.com",
             "oz.valueclick.ne.jp",
             "persianstat.ir",
@@ -35,10 +37,10 @@
             "surveytracker.net",
             "totalnethits.biz",
             "tr2.vttrack.com.br",
-            "tracking2.interweave.com",
-            "tracking-stats-tr.usa.cc",
             "track.msadcenter.zepw.com",
             "track.webtrekk.de",
+            "tracking-stats-tr.usa.cc",
+            "tracking2.interweave.com",
             "trafficquarters.com",
             "valueclick.ne.jp",
             "web.adknowledge.com",
@@ -68,7 +70,6 @@
             "www.trafficxxx.com",
             "www.wurldmedia.com",
             "www.xxxrated-sex.com"
-        ],
-        "to_test": []
+        ]
     }
 }
