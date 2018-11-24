@@ -1,12 +1,13 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
         "1543088488": [
-            "2sevastopol.com"
-        ],
-        "to_test": [
+            "2sevastopol.com",
+            "ad.premiumonlinemedia.com",
             "ads.click2paid.com",
             "ads.mediasoul.net",
-            "adsvr.adknowledge.com",
+            "adsvr.adknowledge.com"
+        ],
+        "to_test": [
             "affiliate.cpavhits.com",
             "babelog.webtopper.net",
             "bestprizedraw.com",
