@@ -1,7 +1,9 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
         "1543267730": [
-            "dev.statcounter.com"
+            "dev.statcounter.com",
+            "www.123counts.com",
+            "www3.macys.com"
         ],
         "to_test": []
     }
