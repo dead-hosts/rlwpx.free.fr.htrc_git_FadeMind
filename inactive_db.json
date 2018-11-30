@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
-        "1543437913": [
+        "to_test": [
             "bspixel.bidsystem.com",
             "com-media01.com",
             "counter.123counts.com",
@@ -14,9 +14,9 @@
             "log8.110mb.com",
             "logfotos.110mb.com",
             "logs.domainsystems.com",
-            "media200.110mb.com",
             "media-delivery.armorgames.com",
             "media.matcash.com",
+            "media200.110mb.com",
             "mv.bidsystem.com",
             "pagerank4u.eu",
             "tagline.bidsystem.com",
@@ -28,7 +28,6 @@
             "www.guerillatraffic.com",
             "www.mediamobassets.com",
             "www.www.korzeniowski.soundtracks.pl"
-        ],
-        "to_test": []
+        ]
     }
 }
