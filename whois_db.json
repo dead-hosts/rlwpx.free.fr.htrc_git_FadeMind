@@ -9188,7 +9188,7 @@
         "genyusmonitor.com": {
             "epoch": "1543708800",
             "expiration_date": "02-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "geocounter.net": {
             "epoch": "1572134400",
@@ -9626,9 +9626,9 @@
             "state": "future"
         },
         "greatwebhits.com": {
-            "epoch": "1543536000",
-            "expiration_date": "30-nov-2018",
-            "state": "past"
+            "epoch": "1575072000",
+            "expiration_date": "30-nov-2019",
+            "state": "future"
         },
         "greenvillemediation.com": {
             "epoch": "1573689600",
