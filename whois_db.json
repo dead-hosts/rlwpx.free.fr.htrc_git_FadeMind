@@ -13498,7 +13498,7 @@
         "mediaexchange.com": {
             "epoch": "1543708800",
             "expiration_date": "02-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "mediafeast.com": {
             "epoch": "1560384000",
@@ -13668,7 +13668,7 @@
         "medialabs.it": {
             "epoch": "1543795200",
             "expiration_date": "03-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "medialand-ul.ru": {
             "epoch": "1557273600",
