@@ -8836,8 +8836,8 @@
             "state": "future"
         },
         "fuckxrated.com": {
-            "epoch": "1543968000",
-            "expiration_date": "05-dec-2018",
+            "epoch": "1575504000",
+            "expiration_date": "05-dec-2019",
             "state": "future"
         },
         "fuelbuck.com": {
@@ -8888,7 +8888,7 @@
         "funkyshit.org": {
             "epoch": "1543881600",
             "expiration_date": "04-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "funny-shit.com": {
             "epoch": "1573948800",
@@ -9186,9 +9186,9 @@
             "state": "future"
         },
         "genyusmonitor.com": {
-            "epoch": "1543708800",
-            "expiration_date": "02-dec-2018",
-            "state": "past"
+            "epoch": "1575244800",
+            "expiration_date": "02-dec-2019",
+            "state": "future"
         },
         "geocounter.net": {
             "epoch": "1572134400",
