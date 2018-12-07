@@ -10798,7 +10798,7 @@
         "hot-trade.com": {
             "epoch": "1544054400",
             "expiration_date": "06-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "hotclick2see.com": {
             "epoch": "1574985600",
@@ -10901,8 +10901,8 @@
             "state": "future"
         },
         "htmlcolors.com": {
-            "epoch": "1544140800",
-            "expiration_date": "07-dec-2018",
+            "epoch": "1575676800",
+            "expiration_date": "07-dec-2019",
             "state": "future"
         },
         "htmlcounter.com": {
@@ -11096,9 +11096,9 @@
             "state": "future"
         },
         "igloomedias.com": {
-            "epoch": "1543968000",
-            "expiration_date": "05-dec-2018",
-            "state": "past"
+            "epoch": "1575504000",
+            "expiration_date": "05-dec-2019",
+            "state": "future"
         },
         "igroupmedia.com": {
             "epoch": "1561507200",
