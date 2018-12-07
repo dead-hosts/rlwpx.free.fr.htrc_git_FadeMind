@@ -22028,7 +22028,7 @@
         "topdomen.com": {
             "epoch": "1544054400",
             "expiration_date": "06-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "topeland.com": {
             "epoch": "1552435200",
@@ -22178,7 +22178,7 @@
         "topratedapps.com": {
             "epoch": "1544054400",
             "expiration_date": "06-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "topratedmovies.com": {
             "epoch": "1565827200",
@@ -22408,7 +22408,7 @@
         "trackads.com": {
             "epoch": "1544140800",
             "expiration_date": "07-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "trackads.net": {
             "epoch": "1571097600",
@@ -22781,9 +22781,9 @@
             "state": "future"
         },
         "tradecreation.com": {
-            "epoch": "1543968000",
-            "expiration_date": "05-dec-2018",
-            "state": "past"
+            "epoch": "1575504000",
+            "expiration_date": "05-dec-2019",
+            "state": "future"
         },
         "tradedeskcapital.com": {
             "epoch": "1559347200",
