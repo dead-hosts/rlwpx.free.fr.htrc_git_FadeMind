@@ -1,11 +1,15 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
-        "1544300656": [
+        "1544471845": [
+            "ad.dedicatedmedia.com"
+        ],
+        "to_test": [
             "ad.mastermedia.ru",
             "banner.hypertraffic.de",
             "bspixel.bidsystem.com",
             "claytoncountyoptions.com",
             "clickha.net",
+            "clicksmartnetwork.com",
             "com-media01.com",
             "counter.123counts.com",
             "cxpixel.bidsystem.com",
@@ -55,9 +59,6 @@
             "www.send-safe.com",
             "www.shoes-trader.com",
             "www.southerncountiescleaning.co.uk"
-        ],
-        "to_test": [
-            "clicksmartnetwork.com"
         ]
     }
 }
