@@ -19203,7 +19203,7 @@
         "serdef.fr": {
             "epoch": "1544486400",
             "expiration_date": "11-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "sergetraffic.com": {
             "epoch": "1560470400",
@@ -19826,9 +19826,9 @@
             "state": "past"
         },
         "shitsniffer.com": {
-            "epoch": "1544227200",
-            "expiration_date": "08-dec-2018",
-            "state": "past"
+            "epoch": "1575763200",
+            "expiration_date": "08-dec-2019",
+            "state": "future"
         },
         "shitstreams.com": {
             "epoch": "1552953600",
