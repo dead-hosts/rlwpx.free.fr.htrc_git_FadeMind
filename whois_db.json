@@ -16083,7 +16083,7 @@
         "pacemedia.com": {
             "epoch": "1544486400",
             "expiration_date": "11-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "pacificmediaent.com": {
             "epoch": "1560816000",
@@ -16446,9 +16446,9 @@
             "state": "future"
         },
         "piksmedia.com": {
-            "epoch": "1544313600",
-            "expiration_date": "09-dec-2018",
-            "state": "past"
+            "epoch": "1575849600",
+            "expiration_date": "09-dec-2019",
+            "state": "future"
         },
         "pillstrade.com": {
             "epoch": "1571097600",
@@ -16521,9 +16521,9 @@
             "state": "future"
         },
         "platinum-media.com": {
-            "epoch": "1544227200",
-            "expiration_date": "08-dec-2018",
-            "state": "past"
+            "epoch": "1575763200",
+            "expiration_date": "08-dec-2019",
+            "state": "future"
         },
         "play4traffic.com": {
             "epoch": "1562544000",
