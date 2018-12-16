@@ -1,15 +1,14 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
-        "1544821498": [
+        "to_test": [
             "ch.questionmarket.com",
             "medialabs.it",
             "pagerank-united.de",
             "rank-master.de",
-            "stats.magnify.net",
             "st.magnify.net",
-            "tracking.magnify.net",
-            "track.naifeda.com"
-        ],
-        "to_test": []
+            "stats.magnify.net",
+            "track.naifeda.com",
+            "tracking.magnify.net"
+        ]
     }
 }
