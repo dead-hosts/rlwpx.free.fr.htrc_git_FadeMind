@@ -3691,8 +3691,8 @@
             "state": "future"
         },
         "cashforclicks.com": {
-            "epoch": "1544832000",
-            "expiration_date": "15-dec-2018",
+            "epoch": "1576368000",
+            "expiration_date": "15-dec-2019",
             "state": "future"
         },
         "cashranker.com": {
@@ -4101,8 +4101,8 @@
             "state": "future"
         },
         "clic-exchange.com": {
-            "epoch": "1545004800",
-            "expiration_date": "17-dec-2018",
+            "epoch": "1576540800",
+            "expiration_date": "17-dec-2019",
             "state": "future"
         },
         "clic-ici.com": {
@@ -4213,7 +4213,7 @@
         "click2go.org": {
             "epoch": "1545091200",
             "expiration_date": "18-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "click2net.com": {
             "epoch": "1620518400",
@@ -4571,8 +4571,8 @@
             "state": "future"
         },
         "clickey.com": {
-            "epoch": "1545004800",
-            "expiration_date": "17-dec-2018",
+            "epoch": "1576540800",
+            "expiration_date": "17-dec-2019",
             "state": "future"
         },
         "clickfactory.info": {
