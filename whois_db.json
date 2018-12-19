@@ -15163,7 +15163,7 @@
         "netlog.com": {
             "epoch": "1545091200",
             "expiration_date": "18-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "netmng.com": {
             "epoch": "1575763200",
@@ -15496,8 +15496,8 @@
             "state": "future"
         },
         "oaklandmediators.com": {
-            "epoch": "1544918400",
-            "expiration_date": "16-dec-2018",
+            "epoch": "1576454400",
+            "expiration_date": "16-dec-2019",
             "state": "future"
         },
         "obeus.com": {
