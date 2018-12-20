@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
-        "1545165634": [
+        "to_test": [
             "adnet.mediawhiz.com",
             "andorra.indymedia.org",
             "b.salon.com",
@@ -9,9 +9,9 @@
             "oas.salon.com",
             "pagerank-united.de",
             "rank-master.de",
+            "st.magnify.net",
             "statrafongon.biz",
             "stats.magnify.net",
-            "st.magnify.net",
             "track.divx.com",
             "tracking.magnify.net",
             "www.bettertradesreview.com",
@@ -21,7 +21,6 @@
             "www.vertolet-media.ru",
             "www.wmdirectory.com",
             "www.yumedia.net"
-        ],
-        "to_test": []
+        ]
     }
 }
