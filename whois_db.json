@@ -6078,7 +6078,7 @@
         "crankweb.com": {
             "epoch": "1545264000",
             "expiration_date": "20-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "crankycash.com": {
             "epoch": "1547078400",
@@ -6108,7 +6108,7 @@
         "creamlog.org": {
             "epoch": "1545264000",
             "expiration_date": "20-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "creamyencounters.com": {
             "epoch": "1551139200",
@@ -6286,9 +6286,9 @@
             "state": "future"
         },
         "cybermediasystems.com": {
-            "epoch": "1545091200",
-            "expiration_date": "18-dec-2018",
-            "state": "past"
+            "epoch": "1576627200",
+            "expiration_date": "18-dec-2019",
+            "state": "future"
         },
         "cybersecmedia.com": {
             "epoch": "1579651200",
@@ -6638,7 +6638,7 @@
         "dimeclicks.com": {
             "epoch": "1545264000",
             "expiration_date": "20-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "dimediagroup.com": {
             "epoch": "1565481600",
