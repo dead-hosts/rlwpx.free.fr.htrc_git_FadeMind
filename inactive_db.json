@@ -1,10 +1,10 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
         "1545337632": [
-            "adnet.mediawhiz.com"
+            "adnet.mediawhiz.com",
+            "andorra.indymedia.org"
         ],
         "to_test": [
-            "andorra.indymedia.org",
             "b.salon.com",
             "ch.questionmarket.com",
             "media.mybet.com",
