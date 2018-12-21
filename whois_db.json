@@ -22068,7 +22068,7 @@
         "topinsearch.com": {
             "epoch": "1545350400",
             "expiration_date": "21-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "topklub.com": {
             "epoch": "1560297600",
@@ -22341,8 +22341,8 @@
             "state": "future"
         },
         "totemmedia.com": {
-            "epoch": "1545264000",
-            "expiration_date": "20-dec-2018",
+            "epoch": "1576800000",
+            "expiration_date": "20-dec-2019",
             "state": "future"
         },
         "touclick.com": {
