@@ -9288,7 +9288,7 @@
         "getwebhits.com": {
             "epoch": "1545264000",
             "expiration_date": "20-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "ggmedia.ca": {
             "epoch": "1683417600",
@@ -9358,7 +9358,7 @@
         "globaladultmedia.com": {
             "epoch": "1545350400",
             "expiration_date": "21-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "globalismedia.com": {
             "epoch": "1568505600",
