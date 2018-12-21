@@ -14791,8 +14791,8 @@
             "state": "future"
         },
         "my-time-log.com": {
-            "epoch": "1545350400",
-            "expiration_date": "21-dec-2018",
+            "epoch": "1576886400",
+            "expiration_date": "21-dec-2019",
             "state": "future"
         },
         "my-traffic.biz": {
@@ -15091,9 +15091,9 @@
             "state": "future"
         },
         "nctracking.com": {
-            "epoch": "1545177600",
-            "expiration_date": "19-dec-2018",
-            "state": "past"
+            "epoch": "1576713600",
+            "expiration_date": "19-dec-2019",
+            "state": "future"
         },
         "nctracks.com": {
             "epoch": "1612224000",
@@ -15161,9 +15161,9 @@
             "state": "future"
         },
         "netlog.com": {
-            "epoch": "1545091200",
-            "expiration_date": "18-dec-2018",
-            "state": "past"
+            "epoch": "1576627200",
+            "expiration_date": "18-dec-2019",
+            "state": "future"
         },
         "netmng.com": {
             "epoch": "1575763200",
