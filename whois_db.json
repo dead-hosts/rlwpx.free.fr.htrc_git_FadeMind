@@ -21643,7 +21643,7 @@
         "thenewsearch.com": {
             "epoch": "1545523200",
             "expiration_date": "23-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "theorganictraffic.com": {
             "epoch": "1574899200",
@@ -21838,12 +21838,12 @@
         "tmgcontentmedia.com": {
             "epoch": "1545436800",
             "expiration_date": "22-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "tmgcontentmedia.net": {
             "epoch": "1545436800",
             "expiration_date": "22-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "tns-counter.ru": {
             "epoch": "1550534400",
@@ -22066,9 +22066,9 @@
             "state": "future"
         },
         "topinsearch.com": {
-            "epoch": "1545350400",
-            "expiration_date": "21-dec-2018",
-            "state": "past"
+            "epoch": "1576886400",
+            "expiration_date": "21-dec-2019",
+            "state": "future"
         },
         "topklub.com": {
             "epoch": "1560297600",
