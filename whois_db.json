@@ -22918,7 +22918,7 @@
         "tradepixel.com": {
             "epoch": "1545782400",
             "expiration_date": "26-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "tradeport.org": {
             "epoch": "1572912000",
@@ -22946,9 +22946,9 @@
             "state": "future"
         },
         "traderbusiness.com": {
-            "epoch": "1545696000",
-            "expiration_date": "25-dec-2018",
-            "state": "past"
+            "epoch": "1577232000",
+            "expiration_date": "25-dec-2019",
+            "state": "future"
         },
         "tradercommodity.com": {
             "epoch": "1564876800",
@@ -23696,9 +23696,9 @@
             "state": "future"
         },
         "trafficsolar.com": {
-            "epoch": "1545609600",
-            "expiration_date": "24-dec-2018",
-            "state": "past"
+            "epoch": "1577145600",
+            "expiration_date": "24-dec-2019",
+            "state": "future"
         },
         "trafficsolution.com": {
             "epoch": "1555459200",
@@ -23848,7 +23848,7 @@
         "trafficz.net": {
             "epoch": "1545782400",
             "expiration_date": "26-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "trafficzap.com": {
             "epoch": "1561680000",
