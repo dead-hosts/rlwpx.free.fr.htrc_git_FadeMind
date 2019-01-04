@@ -7258,7 +7258,7 @@
         "ekizmedia.com": {
             "epoch": "1546473600",
             "expiration_date": "03-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "ekmas.com": {
             "epoch": "1560124800",
@@ -7291,8 +7291,8 @@
             "state": "future"
         },
         "elegantencounters.net": {
-            "epoch": "1546473600",
-            "expiration_date": "03-jan-2019",
+            "epoch": "1641168000",
+            "expiration_date": "03-jan-2022",
             "state": "future"
         },
         "elephant-traffic.com": {
