@@ -3038,7 +3038,7 @@
         "bodhitree.us": {
             "epoch": "1546646400",
             "expiration_date": "05-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "bodyclick.net": {
             "epoch": "1557532800",
@@ -3336,9 +3336,9 @@
             "state": "future"
         },
         "btracker.com": {
-            "epoch": "1546473600",
-            "expiration_date": "03-jan-2019",
-            "state": "past"
+            "epoch": "1578009600",
+            "expiration_date": "03-jan-2020",
+            "state": "future"
         },
         "btstatic.com": {
             "epoch": "1589068800",
@@ -3731,9 +3731,9 @@
             "state": "future"
         },
         "casinocounty.com": {
-            "epoch": "1546473600",
-            "expiration_date": "03-jan-2019",
-            "state": "past"
+            "epoch": "1578009600",
+            "expiration_date": "03-jan-2020",
+            "state": "future"
         },
         "casinopays.com": {
             "epoch": "1560384000",
