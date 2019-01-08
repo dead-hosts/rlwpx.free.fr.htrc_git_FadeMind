@@ -180,9 +180,7 @@
             "tracker.loadingfast.com",
             "tracking.euroads.fi",
             "tracking.euroads.se",
-            "tracking.magnify.net"
-        ],
-        "to_test": [
+            "tracking.magnify.net",
             "tradeforest.freewaywebhost.com",
             "u001.13.spylog.com",
             "u001.22.spylog.com",
@@ -270,7 +268,9 @@
             "u061.97.spylog.com",
             "u062.01.spylog.com",
             "u062.16.spylog.com",
-            "u062.47.spylog.com",
+            "u062.47.spylog.com"
+        ],
+        "to_test": [
             "u063.13.spylog.com",
             "u066.62.spylog.com",
             "u066.80.spylog.com",
