@@ -10993,7 +10993,7 @@
         "iamtraffic.com": {
             "epoch": "1547078400",
             "expiration_date": "10-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "ibmx.com": {
             "epoch": "1579132800",
@@ -11341,8 +11341,8 @@
             "state": "future"
         },
         "insightexpressai.com": {
-            "epoch": "1547078400",
-            "expiration_date": "10-jan-2019",
+            "epoch": "1578614400",
+            "expiration_date": "10-jan-2020",
             "state": "future"
         },
         "insightexpresserdd.com": {
@@ -11463,7 +11463,7 @@
         "intermediads.com": {
             "epoch": "1547078400",
             "expiration_date": "10-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "intermediator.it": {
             "epoch": "1559865600",
@@ -11591,8 +11591,8 @@
             "state": "future"
         },
         "iselectmedia.com": {
-            "epoch": "1547078400",
-            "expiration_date": "10-jan-2019",
+            "epoch": "1578614400",
+            "expiration_date": "10-jan-2020",
             "state": "future"
         },
         "iskraten.ru": {
