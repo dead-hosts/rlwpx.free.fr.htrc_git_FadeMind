@@ -18601,8 +18601,8 @@
             "state": "future"
         },
         "rorank.com": {
-            "epoch": "1547078400",
-            "expiration_date": "10-jan-2019",
+            "epoch": "1578614400",
+            "expiration_date": "10-jan-2020",
             "state": "future"
         },
         "routenplaner-server.com": {
@@ -19033,7 +19033,7 @@
         "searchmedia.com": {
             "epoch": "1546992000",
             "expiration_date": "09-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "searchmedia.info": {
             "epoch": "1577232000",
@@ -19628,7 +19628,7 @@
         "sexystranky.com": {
             "epoch": "1546992000",
             "expiration_date": "09-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "sexytracks.net": {
             "epoch": "1562630400",
