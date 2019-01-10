@@ -23263,7 +23263,7 @@
         "trafficbeamer.com": {
             "epoch": "1547078400",
             "expiration_date": "10-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "trafficbee.com": {
             "epoch": "1585958400",
@@ -23431,9 +23431,9 @@
             "state": "future"
         },
         "trafficgoldrush.com": {
-            "epoch": "1546819200",
-            "expiration_date": "07-jan-2019",
-            "state": "past"
+            "epoch": "1578355200",
+            "expiration_date": "07-jan-2020",
+            "state": "future"
         },
         "trafficgrowth.com": {
             "epoch": "1560643200",
