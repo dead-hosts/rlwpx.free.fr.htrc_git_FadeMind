@@ -17638,7 +17638,7 @@
         "ratebear.com": {
             "epoch": "1546992000",
             "expiration_date": "09-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "rateblowjobbabes.com": {
             "epoch": "1555372800",
@@ -18181,8 +18181,8 @@
             "state": "future"
         },
         "rdmedia.com": {
-            "epoch": "1547078400",
-            "expiration_date": "10-jan-2019",
+            "epoch": "1578614400",
+            "expiration_date": "10-jan-2020",
             "state": "future"
         },
         "rdndiffusion.com": {
@@ -18253,7 +18253,7 @@
         "rebel-media.com": {
             "epoch": "1547078400",
             "expiration_date": "10-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "rebrandsoftware.com": {
             "epoch": "1550448000",
