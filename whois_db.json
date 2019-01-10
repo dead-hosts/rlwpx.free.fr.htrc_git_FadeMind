@@ -25641,8 +25641,8 @@
             "state": "future"
         },
         "x-tops.com": {
-            "epoch": "1546992000",
-            "expiration_date": "09-jan-2019",
+            "epoch": "1578528000",
+            "expiration_date": "09-jan-2020",
             "state": "future"
         },
         "x-traceur.com": {
@@ -26268,7 +26268,7 @@
         "xxx-tracker.com": {
             "epoch": "1546992000",
             "expiration_date": "09-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "xxx-traffic.biz": {
             "epoch": "1572393600",
@@ -26561,9 +26561,9 @@
             "state": "future"
         },
         "yousearchdirect.com": {
-            "epoch": "1546819200",
-            "expiration_date": "07-jan-2019",
-            "state": "past"
+            "epoch": "1578355200",
+            "expiration_date": "07-jan-2020",
+            "state": "future"
         },
         "youthontrack.com": {
             "epoch": "1557792000",
