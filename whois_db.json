@@ -7338,7 +7338,7 @@
         "emarketerstraffic.com": {
             "epoch": "1547251200",
             "expiration_date": "12-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "embetrades.com": {
             "epoch": "1565308800",
@@ -7601,8 +7601,8 @@
             "state": "future"
         },
         "escortrankings.com": {
-            "epoch": "1547164800",
-            "expiration_date": "11-jan-2019",
+            "epoch": "1578700800",
+            "expiration_date": "11-jan-2020",
             "state": "future"
         },
         "eskimomedia.com": {
@@ -7906,8 +7906,8 @@
             "state": "future"
         },
         "extremetracking.com": {
-            "epoch": "1547251200",
-            "expiration_date": "12-jan-2019",
+            "epoch": "1578787200",
+            "expiration_date": "12-jan-2020",
             "state": "future"
         },
         "eyestats.com": {
