@@ -177,10 +177,7 @@
             "tracker.loadingfast.com",
             "tracking.euroads.fi",
             "tracking.euroads.se",
-            "tracking.magnify.net"
-        ],
-        "to_test": [
-            "pagerank-united.de",
+            "tracking.magnify.net",
             "u001.13.spylog.com",
             "u001.22.spylog.com",
             "u002.01.spylog.com",
@@ -222,7 +219,10 @@
             "u023.47.spylog.com",
             "u023.82.spylog.com",
             "u023.96.spylog.com",
-            "u024.10.spylog.com",
+            "u024.10.spylog.com"
+        ],
+        "to_test": [
+            "pagerank-united.de",
             "u025.73.spylog.com",
             "u025.82.spylog.com",
             "u025.89.spylog.com",
