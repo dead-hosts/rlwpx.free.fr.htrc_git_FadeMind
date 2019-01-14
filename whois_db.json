@@ -20766,8 +20766,8 @@
             "state": "future"
         },
         "stat.su": {
-            "epoch": "1547424000",
-            "expiration_date": "14-jan-2019",
+            "epoch": "1578960000",
+            "expiration_date": "14-jan-2020",
             "state": "future"
         },
         "statanalyze.cn": {
@@ -20838,7 +20838,7 @@
         "statistik-gallup.net": {
             "epoch": "1547424000",
             "expiration_date": "14-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "statistik.net": {
             "epoch": "1586649600",
