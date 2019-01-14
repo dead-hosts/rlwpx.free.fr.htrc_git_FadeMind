@@ -22763,7 +22763,7 @@
         "tradeap.com": {
             "epoch": "1547424000",
             "expiration_date": "14-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "tradecashsystem.com": {
             "epoch": "1571270400",
@@ -23006,9 +23006,9 @@
             "state": "future"
         },
         "tradesgear.com": {
-            "epoch": "1547164800",
-            "expiration_date": "11-jan-2019",
-            "state": "past"
+            "epoch": "1578700800",
+            "expiration_date": "11-jan-2020",
+            "state": "future"
         },
         "tradeshowdisplaysystem.com": {
             "epoch": "1574726400",
