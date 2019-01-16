@@ -20243,7 +20243,7 @@
         "smutserver.com": {
             "epoch": "1547596800",
             "expiration_date": "16-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "snaptrack.net": {
             "epoch": "1565136000",
@@ -20656,9 +20656,9 @@
             "state": "future"
         },
         "spytrackers.com": {
-            "epoch": "1547424000",
-            "expiration_date": "14-jan-2019",
-            "state": "past"
+            "epoch": "1578960000",
+            "expiration_date": "14-jan-2020",
+            "state": "future"
         },
         "spyware.com": {
             "epoch": "1565395200",
