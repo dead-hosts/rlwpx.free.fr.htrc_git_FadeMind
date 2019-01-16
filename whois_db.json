@@ -12823,7 +12823,7 @@
         "lucidmedia.com": {
             "epoch": "1547596800",
             "expiration_date": "16-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "luckyorange.com": {
             "epoch": "1568332800",
@@ -13466,8 +13466,8 @@
             "state": "future"
         },
         "mediadial.com": {
-            "epoch": "1547596800",
-            "expiration_date": "16-jan-2019",
+            "epoch": "1579132800",
+            "expiration_date": "16-jan-2020",
             "state": "future"
         },
         "mediadiversified.com": {
