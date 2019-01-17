@@ -1171,9 +1171,9 @@
             "state": "future"
         },
         "affiliateclick.com": {
-            "epoch": "1547510400",
-            "expiration_date": "15-jan-2019",
-            "state": "past"
+            "epoch": "1579046400",
+            "expiration_date": "15-jan-2020",
+            "state": "future"
         },
         "affiliateclicks.com": {
             "epoch": "1569801600",
@@ -1336,8 +1336,8 @@
             "state": "future"
         },
         "alfatraffic.com": {
-            "epoch": "1547683200",
-            "expiration_date": "17-jan-2019",
+            "epoch": "1579219200",
+            "expiration_date": "17-jan-2020",
             "state": "future"
         },
         "algmediation.org": {
@@ -1383,7 +1383,7 @@
         "allencountyfair.info": {
             "epoch": "1547596800",
             "expiration_date": "16-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "allencountyrecorder.us": {
             "epoch": "1565654400",
