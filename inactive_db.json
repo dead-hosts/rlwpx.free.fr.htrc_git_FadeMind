@@ -204,13 +204,7 @@
             "www.clickyourteen.com",
             "www.clicmaison.com",
             "www.coolstats.com",
-            "www.eu-survey.com"
-        ],
-        "to_test": [
-            "pageerror-download.com",
-            "pagerank-united.de",
-            "u018.49.spylog.com",
-            "u019.04.spylog.com",
+            "www.eu-survey.com",
             "www.fhw-media.de",
             "www.findwhat.com",
             "www.fineclicks.com",
@@ -219,7 +213,13 @@
             "www.hitmax.de",
             "www.hitpage.de",
             "www.jalrank.com",
-            "www.lamedia.ru",
+            "www.lamedia.ru"
+        ],
+        "to_test": [
+            "pageerror-download.com",
+            "pagerank-united.de",
+            "u018.49.spylog.com",
+            "u019.04.spylog.com",
             "www.lehit.com",
             "www.liveoncemedia.com",
             "www.logsex.nl",
