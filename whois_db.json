@@ -19023,7 +19023,7 @@
         "searchingbooth.com": {
             "epoch": "1547683200",
             "expiration_date": "17-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "searchlog.com": {
             "epoch": "1562371200",
@@ -19486,9 +19486,9 @@
             "state": "future"
         },
         "sextrack.com": {
-            "epoch": "1547596800",
-            "expiration_date": "16-jan-2019",
-            "state": "past"
+            "epoch": "1579132800",
+            "expiration_date": "16-jan-2020",
+            "state": "future"
         },
         "sextracker.com": {
             "epoch": "1551830400",
