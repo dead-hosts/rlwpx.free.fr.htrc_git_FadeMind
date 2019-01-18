@@ -10556,9 +10556,9 @@
             "state": "future"
         },
         "hitslinks.com": {
-            "epoch": "1547510400",
-            "expiration_date": "15-jan-2019",
-            "state": "past"
+            "epoch": "1579046400",
+            "expiration_date": "15-jan-2020",
+            "state": "future"
         },
         "hitslog.com": {
             "epoch": "1572393600",
@@ -11368,7 +11368,7 @@
         "instanceyou.info": {
             "epoch": "1547683200",
             "expiration_date": "17-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "instantbuzz.com": {
             "epoch": "1594252800",
