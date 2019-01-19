@@ -1381,9 +1381,9 @@
             "state": "future"
         },
         "allencountyfair.info": {
-            "epoch": "1547596800",
-            "expiration_date": "16-jan-2019",
-            "state": "past"
+            "epoch": "1579132800",
+            "expiration_date": "16-jan-2020",
+            "state": "future"
         },
         "allencountyrecorder.us": {
             "epoch": "1565654400",
@@ -1588,7 +1588,7 @@
         "analogcereal.com": {
             "epoch": "1547856000",
             "expiration_date": "19-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "analogchip.com": {
             "epoch": "1571356800",
