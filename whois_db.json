@@ -20303,7 +20303,7 @@
         "socialmediagameplan.com": {
             "epoch": "1547856000",
             "expiration_date": "19-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "socialmediagolf.com": {
             "epoch": "1575849600",
@@ -20576,9 +20576,9 @@
             "state": "future"
         },
         "sppcontent.info": {
-            "epoch": "1547683200",
-            "expiration_date": "17-jan-2019",
-            "state": "past"
+            "epoch": "1579219200",
+            "expiration_date": "17-jan-2020",
+            "state": "future"
         },
         "spring-tns.net": {
             "epoch": "1575849600",
