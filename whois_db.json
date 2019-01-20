@@ -14796,8 +14796,8 @@
             "state": "future"
         },
         "my-traffic.biz": {
-            "epoch": "1547856000",
-            "expiration_date": "19-jan-2019",
+            "epoch": "1579392000",
+            "expiration_date": "19-jan-2020",
             "state": "future"
         },
         "myadtrack.com": {
@@ -15081,8 +15081,8 @@
             "state": "future"
         },
         "nbrtrack.com": {
-            "epoch": "1547856000",
-            "expiration_date": "19-jan-2019",
+            "epoch": "1579392000",
+            "expiration_date": "19-jan-2020",
             "state": "future"
         },
         "ncontextmedia.com": {
@@ -15218,7 +15218,7 @@
         "neverclickthis.com": {
             "epoch": "1547856000",
             "expiration_date": "19-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "newamericamedia.org": {
             "epoch": "1625616000",
