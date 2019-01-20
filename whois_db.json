@@ -23233,7 +23233,7 @@
         "trafficadept.com": {
             "epoch": "1547856000",
             "expiration_date": "19-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "trafficadmin.com": {
             "epoch": "1558915200",
@@ -23641,8 +23641,8 @@
             "state": "future"
         },
         "trafficredlight.net": {
-            "epoch": "1547942400",
-            "expiration_date": "20-jan-2019",
+            "epoch": "1579478400",
+            "expiration_date": "20-jan-2020",
             "state": "future"
         },
         "trafficresults.com": {
