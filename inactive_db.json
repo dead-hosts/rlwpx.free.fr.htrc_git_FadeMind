@@ -181,16 +181,17 @@
             "stat.top.pr-models.com",
             "statz.123ads.nl",
             "st.magnify.net",
-            "st.wetrack.it"
-        ],
-        "to_test": [
+            "st.wetrack.it",
             "top.c-stat.eu",
             "track.divx.com",
-            "track.sexchangegirl.com",
             "tracker.loadingfast.com",
-            "tracking.euroads.fi",
-            "tracking.magnify.net",
+            "tracker.openbittorrent.com",
             "trackingdev.nixxie.com",
+            "tracking.euroads.fi",
+            "tracking.magnify.net"
+        ],
+        "to_test": [
+            "track.sexchangegirl.com",
             "u018.49.spylog.com",
             "u019.04.spylog.com",
             "vlogic.ak-networks.com",
