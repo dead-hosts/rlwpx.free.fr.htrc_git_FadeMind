@@ -35,9 +35,7 @@
             "media.mybet.com",
             "medias.maxidivx.com",
             "mediaspub.lequipe.fr",
-            "m.sharpmobilemarketing.onlinetrafficresults.com"
-        ],
-        "to_test": [
+            "m.sharpmobilemarketing.onlinetrafficresults.com",
             "oak1dpu101.insight.omniture.com",
             "oak1dpu102.insight.omniture.com",
             "oak1dpu103.insight.omniture.com",
@@ -168,7 +166,9 @@
             "oak1rpt106.insight.omniture.com",
             "oak1rpt107.insight.omniture.com",
             "oak1rpt108.insight.omniture.com",
-            "oas.salon.com",
+            "oas.salon.com"
+        ],
+        "to_test": [
             "pageerror-download.com",
             "pagerank-united.de",
             "pistolmedia2.amsnl.webair.com",
