@@ -1,11 +1,11 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
         "1548572817": [
-            "aarslog.nl"
+            "aarslog.nl",
+            "adnet.mediawhiz.com",
+            "ads.10click.com"
         ],
         "to_test": [
-            "adnet.mediawhiz.com",
-            "ads.10click.com",
             "ads.fidelity-media.com",
             "ads.fora.tv",
             "adultclicks.us",
