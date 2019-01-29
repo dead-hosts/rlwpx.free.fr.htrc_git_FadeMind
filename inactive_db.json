@@ -268,9 +268,7 @@
             "www.30rated.com",
             "www.5netcounter.com",
             "www.aarslog.nl",
-            "www.aconti.net"
-        ],
-        "to_test": [
+            "www.aconti.net",
             "www.amtracktickets.com",
             "www.anvilfire.com",
             "www.bettertradesreview.com",
@@ -283,7 +281,9 @@
             "www.clickfee.net",
             "www.clickyourteen.com",
             "www.clicmaison.com",
-            "www.coolstats.com",
+            "www.coolstats.com"
+        ],
+        "to_test": [
             "www.eu-survey.com",
             "www.fhw-media.de",
             "www.findwhat.com",
