@@ -18038,7 +18038,7 @@
         "ratemyscholarships.com": {
             "epoch": "1548720000",
             "expiration_date": "29-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "ratemyscreensaver.com": {
             "epoch": "1552176000",
@@ -18061,9 +18061,9 @@
             "state": "future"
         },
         "ratenudeamateurs.com": {
-            "epoch": "1548547200",
-            "expiration_date": "27-jan-2019",
-            "state": "past"
+            "epoch": "1580083200",
+            "expiration_date": "27-jan-2020",
+            "state": "future"
         },
         "ratenudepeople.com": {
             "epoch": "1579737600",
@@ -18413,7 +18413,7 @@
         "retrovisionmedia.com": {
             "epoch": "1548720000",
             "expiration_date": "29-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "revenue.net": {
             "epoch": "1573603200",
