@@ -309,9 +309,7 @@
             "www.eu-survey.com",
             "www.ez-polls.superstats.com",
             "www.ezpoll.superstats.com",
-            "www.ez-poll.superstats.com"
-        ],
-        "to_test": [
+            "www.ez-poll.superstats.com",
             "www.fhw-media.de",
             "www.findwhat.com",
             "www.fineclicks.com",
@@ -319,8 +317,11 @@
             "www.greatwebhits.com",
             "www.hitpage.de",
             "www.hot-trade.com",
+            "www.internetcount.com",
             "www.jalrank.com",
-            "www.kips-media.com",
+            "www.kips-media.com"
+        ],
+        "to_test": [
             "www.lamedia.ru",
             "www.lehit.com",
             "www.liveoncemedia.com",
