@@ -19573,7 +19573,7 @@
         "sexy-shit.com": {
             "epoch": "1549065600",
             "expiration_date": "02-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "sexy-traffic.com": {
             "epoch": "1571616000",
@@ -19971,9 +19971,9 @@
             "state": "future"
         },
         "sicstats.com": {
-            "epoch": "1548892800",
-            "expiration_date": "31-jan-2019",
-            "state": "past"
+            "epoch": "1580428800",
+            "expiration_date": "31-jan-2020",
+            "state": "future"
         },
         "siliconmedia.com": {
             "epoch": "1556496000",
@@ -20253,7 +20253,7 @@
         "snaretrack.biz": {
             "epoch": "1549065600",
             "expiration_date": "02-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "sneaker-trade.com": {
             "epoch": "1566604800",
