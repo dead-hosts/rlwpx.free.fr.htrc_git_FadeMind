@@ -50,10 +50,7 @@
             "media.gsimedia.net",
             "media.millennialmedia.com",
             "medias.maxidivx.com",
-            "mediaspub.lequipe.fr"
-        ],
-        "to_test": [
-            "m.sharpmobilemarketing.onlinetrafficresults.com",
+            "mediaspub.lequipe.fr",
             "mi-agg03.prod.millennialmedia.com",
             "mi-api01.prod.millennialmedia.com",
             "mi-api02.prod.millennialmedia.com",
@@ -116,7 +113,9 @@
             "mm-ws01.prod.millennialmedia.com",
             "mm-ws02.prod.millennialmedia.com",
             "mp-gap05.prod.millennialmedia.com",
-            "msdev.mediaexchange.com",
+            "m.sharpmobilemarketing.onlinetrafficresults.com"
+        ],
+        "to_test": [
             "ns1.smartclickonline.com",
             "oak1dpu101.insight.omniture.com",
             "oak1dpu102.insight.omniture.com",
