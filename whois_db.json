@@ -25388,7 +25388,7 @@
         "wildmedianetwork.com": {
             "epoch": "1549411200",
             "expiration_date": "06-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "winantivirus.com": {
             "epoch": "1567814400",
@@ -25451,9 +25451,9 @@
             "state": "future"
         },
         "wizetradegroup.com": {
-            "epoch": "1549152000",
-            "expiration_date": "03-feb-2019",
-            "state": "past"
+            "epoch": "1580688000",
+            "expiration_date": "03-feb-2020",
+            "state": "future"
         },
         "wm-goldenclick.ru": {
             "epoch": "1567728000",
