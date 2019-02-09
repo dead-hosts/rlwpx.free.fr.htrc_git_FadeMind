@@ -1918,7 +1918,7 @@
         "asiaxrated.com": {
             "epoch": "1549670400",
             "expiration_date": "09-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "askfmtracker.info": {
             "epoch": "1550620800",
@@ -2068,7 +2068,7 @@
         "audioxrated.com": {
             "epoch": "1549670400",
             "expiration_date": "09-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "audittrack.com": {
             "epoch": "1576627200",
