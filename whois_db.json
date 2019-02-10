@@ -19538,7 +19538,7 @@
         "sexualencounters.com": {
             "epoch": "1549670400",
             "expiration_date": "09-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "sexualencounters.net": {
             "epoch": "1563148800",
@@ -19581,9 +19581,9 @@
             "state": "future"
         },
         "sexyclick.com": {
-            "epoch": "1549497600",
-            "expiration_date": "07-feb-2019",
-            "state": "past"
+            "epoch": "1581033600",
+            "expiration_date": "07-feb-2020",
+            "state": "future"
         },
         "sexyclicks.com": {
             "epoch": "1554854400",
