@@ -10478,7 +10478,7 @@
         "hitron.net": {
             "epoch": "1549756800",
             "expiration_date": "10-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "hits-counter.com": {
             "epoch": "1572912000",
@@ -10653,7 +10653,7 @@
         "hittracker.com": {
             "epoch": "1549756800",
             "expiration_date": "10-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "hittracker.org": {
             "epoch": "1562457600",
