@@ -19051,8 +19051,8 @@
             "state": "future"
         },
         "searchtracks.com": {
-            "epoch": "1549843200",
-            "expiration_date": "11-feb-2019",
+            "epoch": "1581379200",
+            "expiration_date": "11-feb-2020",
             "state": "future"
         },
         "searchtraffic.com": {
@@ -19213,7 +19213,7 @@
         "serialclicker.com": {
             "epoch": "1549929600",
             "expiration_date": "12-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "servedbyadbutler.com": {
             "epoch": "1635033600",
@@ -19536,9 +19536,9 @@
             "state": "future"
         },
         "sexualencounters.com": {
-            "epoch": "1549670400",
-            "expiration_date": "09-feb-2019",
-            "state": "past"
+            "epoch": "1581206400",
+            "expiration_date": "09-feb-2020",
+            "state": "future"
         },
         "sexualencounters.net": {
             "epoch": "1563148800",
