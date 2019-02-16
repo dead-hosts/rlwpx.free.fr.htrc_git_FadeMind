@@ -15978,7 +15978,7 @@
         "ourbesthits.com": {
             "epoch": "1550188800",
             "expiration_date": "15-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "ourgenstatsstorage.com": {
             "epoch": "1558137600",
@@ -16051,9 +16051,9 @@
             "state": "future"
         },
         "owntraffic.com": {
-            "epoch": "1549843200",
-            "expiration_date": "11-feb-2019",
-            "state": "past"
+            "epoch": "1581379200",
+            "expiration_date": "11-feb-2020",
+            "state": "future"
         },
         "oxcash.com": {
             "epoch": "1558137600",
