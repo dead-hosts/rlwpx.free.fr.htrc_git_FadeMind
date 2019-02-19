@@ -15268,7 +15268,7 @@
         "newshookmedia.com": {
             "epoch": "1550534400",
             "expiration_date": "19-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "newstatsdemosrv.com": {
             "epoch": "1558742400",
@@ -15396,8 +15396,8 @@
             "state": "future"
         },
         "nomorehits.com": {
-            "epoch": "1550448000",
-            "expiration_date": "18-feb-2019",
+            "epoch": "1581984000",
+            "expiration_date": "18-feb-2020",
             "state": "future"
         },
         "non-stop.biz": {
