@@ -8626,8 +8626,8 @@
             "state": "future"
         },
         "freecounterstrikeserver.com": {
-            "epoch": "1550793600",
-            "expiration_date": "22-feb-2019",
+            "epoch": "1582329600",
+            "expiration_date": "22-feb-2020",
             "state": "future"
         },
         "freefucktop.com": {
@@ -8726,13 +8726,13 @@
             "state": "future"
         },
         "freestats.net": {
-            "epoch": "1550793600",
-            "expiration_date": "22-feb-2019",
+            "epoch": "1582329600",
+            "expiration_date": "22-feb-2020",
             "state": "future"
         },
         "freestats.org": {
-            "epoch": "1550448000",
-            "expiration_date": "18-feb-2019",
+            "epoch": "1581984000",
+            "expiration_date": "18-feb-2020",
             "state": "future"
         },
         "freestats.tv": {
@@ -8773,7 +8773,7 @@
         "freewebsitetraffic.us": {
             "epoch": "1550620800",
             "expiration_date": "20-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "freexratedmovie.com": {
             "epoch": "1574899200",
