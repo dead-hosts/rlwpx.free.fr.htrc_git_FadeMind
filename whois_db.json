@@ -1488,7 +1488,7 @@
         "altastat.com": {
             "epoch": "1550880000",
             "expiration_date": "23-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "altmedia101.com": {
             "epoch": "1556496000",
@@ -1581,8 +1581,8 @@
             "state": "future"
         },
         "analogbit.com": {
-            "epoch": "1550880000",
-            "expiration_date": "23-feb-2019",
+            "epoch": "1582416000",
+            "expiration_date": "23-feb-2020",
             "state": "future"
         },
         "analogcereal.com": {
@@ -2223,7 +2223,7 @@
         "avstat.it": {
             "epoch": "1550880000",
             "expiration_date": "23-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "avstracker.com": {
             "epoch": "1553385600",
