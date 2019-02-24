@@ -9926,8 +9926,8 @@
             "state": "future"
         },
         "hishaku.com": {
-            "epoch": "1550966400",
-            "expiration_date": "24-feb-2019",
+            "epoch": "1582502400",
+            "expiration_date": "24-feb-2020",
             "state": "future"
         },
         "histats.com": {
@@ -10116,8 +10116,8 @@
             "state": "future"
         },
         "hitconnect.com": {
-            "epoch": "1550880000",
-            "expiration_date": "23-feb-2019",
+            "epoch": "1582416000",
+            "expiration_date": "23-feb-2020",
             "state": "future"
         },
         "hitcounter.ru": {
@@ -10196,8 +10196,8 @@
             "state": "future"
         },
         "hitecsat.com": {
-            "epoch": "1550966400",
-            "expiration_date": "24-feb-2019",
+            "epoch": "1582502400",
+            "expiration_date": "24-feb-2020",
             "state": "future"
         },
         "hitek.fr": {
@@ -10663,7 +10663,7 @@
         "hittracking.com": {
             "epoch": "1550880000",
             "expiration_date": "23-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "hitua.net": {
             "epoch": "1561680000",
@@ -10718,7 +10718,7 @@
         "hityou.com": {
             "epoch": "1550880000",
             "expiration_date": "23-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "hitz.org": {
             "epoch": "1614556800",
@@ -10851,9 +10851,9 @@
             "state": "future"
         },
         "hotrodhits.com": {
-            "epoch": "1550793600",
-            "expiration_date": "22-feb-2019",
-            "state": "past"
+            "epoch": "1582329600",
+            "expiration_date": "22-feb-2020",
+            "state": "future"
         },
         "hotrusclick.com": {
             "epoch": "1565740800",
