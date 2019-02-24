@@ -8551,8 +8551,8 @@
             "state": "future"
         },
         "fpctraffic2.com": {
-            "epoch": "1550880000",
-            "expiration_date": "23-feb-2019",
+            "epoch": "1645574400",
+            "expiration_date": "23-feb-2022",
             "state": "future"
         },
         "fragrancetrader.com": {
@@ -9103,7 +9103,7 @@
         "gaytracks.com": {
             "epoch": "1550966400",
             "expiration_date": "24-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "gaytraffic.com": {
             "epoch": "1581984000",
@@ -9651,9 +9651,9 @@
             "state": "future"
         },
         "gsimedia.net": {
-            "epoch": "1550707200",
-            "expiration_date": "21-feb-2019",
-            "state": "past"
+            "epoch": "1582243200",
+            "expiration_date": "21-feb-2020",
+            "state": "future"
         },
         "gsmonitor.org": {
             "epoch": "1566604800",
