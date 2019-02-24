@@ -347,15 +347,9 @@
             "www.joyfulclick.com",
             "www.key-logger.us",
             "www.lamedia.ru",
-            "www.lehit.com"
-        ],
-        "to_test": [
-            "tracking.euroads.fi",
-            "www.coolstats.com",
+            "www.lehit.com",
             "www.matchclick.com",
-            "www.media18.de",
             "www.mediacap.net",
-            "www.mediaplain.de",
             "www.mediasmegaportal.com",
             "www.methodevegas.com",
             "www.multi-click-est.com",
@@ -366,7 +360,11 @@
             "www.powermediainteractive.com",
             "www.prankersforum.com",
             "www.pravstat.kz",
-            "www.rank-master.de",
+            "www.rank-master.de"
+        ],
+        "to_test": [
+            "tracking.euroads.fi",
+            "www.coolstats.com",
             "www.rate-engine.com",
             "www.ratespywareremovers.com",
             "www.rateyourrod.com",
