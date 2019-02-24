@@ -13553,7 +13553,7 @@
         "mediafortune.net": {
             "epoch": "1550966400",
             "expiration_date": "24-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "mediaforum.org": {
             "epoch": "1623283200",
@@ -13643,7 +13643,7 @@
         "mediainput.com": {
             "epoch": "1550880000",
             "expiration_date": "23-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "mediainstaller.com": {
             "epoch": "1570838400",
