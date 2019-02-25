@@ -905,6 +905,11 @@
             "expiration_date": "15-oct-2020",
             "state": "future"
         },
+        "adtrader.co.uk": {
+            "epoch": "1558742400",
+            "expiration_date": "25-may-2019",
+            "state": "future"
+        },
         "adtrader.com": {
             "epoch": "1570233600",
             "expiration_date": "05-oct-2019",
@@ -1338,7 +1343,7 @@
         "albamedia.net": {
             "epoch": "1551052800",
             "expiration_date": "25-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "albireomedia.com": {
             "epoch": "1575763200",
@@ -1363,6 +1368,11 @@
         "alexz-traffic.com": {
             "epoch": "1552089600",
             "expiration_date": "09-mar-2019",
+            "state": "future"
+        },
+        "alfatrade.com.br": {
+            "epoch": "1630713600",
+            "expiration_date": "04-sep-2021",
             "state": "future"
         },
         "alfatraffic.com": {
@@ -1428,6 +1438,11 @@
         "alligator-traffic.com": {
             "epoch": "1564358400",
             "expiration_date": "29-jul-2019",
+            "state": "future"
+        },
+        "allinmedia.com.br": {
+            "epoch": "1666137600",
+            "expiration_date": "19-oct-2022",
             "state": "future"
         },
         "allnichetops.com": {
@@ -1516,9 +1531,9 @@
             "state": "future"
         },
         "altastat.com": {
-            "epoch": "1550880000",
-            "expiration_date": "23-feb-2019",
-            "state": "past"
+            "epoch": "1582416000",
+            "expiration_date": "23-feb-2020",
+            "state": "future"
         },
         "altmedia101.com": {
             "epoch": "1556496000",
