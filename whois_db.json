@@ -12196,9 +12196,9 @@
             "state": "future"
         },
         "klixmedia.com": {
-            "epoch": "1550793600",
-            "expiration_date": "22-feb-2019",
-            "state": "past"
+            "epoch": "1582329600",
+            "expiration_date": "22-feb-2020",
+            "state": "future"
         },
         "knightmediagroup.com": {
             "epoch": "1580083200",
@@ -12288,6 +12288,11 @@
         "l2top.org": {
             "epoch": "1572480000",
             "expiration_date": "31-oct-2019",
+            "state": "future"
+        },
+        "laextradeocotlan.com.mx": {
+            "epoch": "1575158400",
+            "expiration_date": "01-dec-2019",
             "state": "future"
         },
         "lamedia.ru": {
@@ -12611,8 +12616,8 @@
             "state": "future"
         },
         "linkstattrack.com": {
-            "epoch": "1551052800",
-            "expiration_date": "25-feb-2019",
+            "epoch": "1582588800",
+            "expiration_date": "25-feb-2020",
             "state": "future"
         },
         "linktrader.com": {
