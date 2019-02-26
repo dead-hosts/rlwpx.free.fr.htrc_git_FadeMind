@@ -19075,6 +19075,11 @@
             "expiration_date": "11-jan-2020",
             "state": "future"
         },
+        "sayutracking.co.uk": {
+            "epoch": "1552003200",
+            "expiration_date": "08-mar-2019",
+            "state": "future"
+        },
         "sbee.com": {
             "epoch": "1552608000",
             "expiration_date": "15-mar-2019",
@@ -19138,6 +19143,11 @@
         "sckr.com": {
             "epoch": "1580774400",
             "expiration_date": "04-feb-2020",
+            "state": "future"
+        },
+        "scmedia.com.hk": {
+            "epoch": "1567296000",
+            "expiration_date": "01-sep-2019",
             "state": "future"
         },
         "scmediation.org": {
@@ -19740,6 +19750,11 @@
             "expiration_date": "22-jan-2020",
             "state": "future"
         },
+        "sextrader.co.za": {
+            "epoch": "1567036800",
+            "expiration_date": "29-aug-2019",
+            "state": "future"
+        },
         "sextrader.net": {
             "epoch": "1551916800",
             "expiration_date": "07-mar-2019",
@@ -20153,7 +20168,7 @@
         "shorttrackwarriors.com": {
             "epoch": "1551052800",
             "expiration_date": "25-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "showbehind.com": {
             "epoch": "1567555200",
@@ -20208,6 +20223,11 @@
         "sicstats.com": {
             "epoch": "1580428800",
             "expiration_date": "31-jan-2020",
+            "state": "future"
+        },
+        "signmedia.co.kr": {
+            "epoch": "1555804800",
+            "expiration_date": "21-apr-2019",
             "state": "future"
         },
         "siliconmedia.com": {
@@ -20273,6 +20293,11 @@
         "sites-counter.com": {
             "epoch": "1561248000",
             "expiration_date": "23-jun-2019",
+            "state": "future"
+        },
+        "sitestats.co.uk": {
+            "epoch": "1587254400",
+            "expiration_date": "19-apr-2020",
             "state": "future"
         },
         "sitestats.com": {
