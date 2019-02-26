@@ -17105,6 +17105,11 @@
             "expiration_date": "20-jul-2019",
             "state": "future"
         },
+        "prateab.ac.th": {
+            "epoch": "1597708800",
+            "expiration_date": "18-aug-2020",
+            "state": "future"
+        },
         "precipicemedia.com": {
             "epoch": "1569283200",
             "expiration_date": "24-sep-2019",
@@ -17295,6 +17300,11 @@
             "expiration_date": "26-aug-2019",
             "state": "future"
         },
+        "promedia.kiev.ua": {
+            "epoch": "1564617600",
+            "expiration_date": "01-aug-2019",
+            "state": "future"
+        },
         "promediasearch.com": {
             "epoch": "1564444800",
             "expiration_date": "30-jul-2019",
@@ -17308,7 +17318,7 @@
         "prosperitymedia.net": {
             "epoch": "1551139200",
             "expiration_date": "26-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "protect-media.com": {
             "epoch": "1564358400",
@@ -17333,7 +17343,7 @@
         "proventrack.com": {
             "epoch": "1551139200",
             "expiration_date": "26-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "proxyrank.com": {
             "epoch": "1561248000",
