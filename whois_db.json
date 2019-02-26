@@ -25160,6 +25160,11 @@
             "expiration_date": "05-jan-2020",
             "state": "future"
         },
+        "watertrader.co.uk": {
+            "epoch": "1565654400",
+            "expiration_date": "13-aug-2019",
+            "state": "future"
+        },
         "wattstats.com": {
             "epoch": "1578787200",
             "expiration_date": "12-jan-2020",
@@ -25240,6 +25245,11 @@
             "expiration_date": "13-feb-2020",
             "state": "future"
         },
+        "webcounter.co.za": {
+            "epoch": "1567382400",
+            "expiration_date": "02-sep-2019",
+            "state": "future"
+        },
         "webcounter.com": {
             "epoch": "1557792000",
             "expiration_date": "14-may-2019",
@@ -25263,6 +25273,11 @@
         "weblogtracker.net": {
             "epoch": "1565136000",
             "expiration_date": "07-aug-2019",
+            "state": "future"
+        },
+        "webmedia.co.il": {
+            "epoch": "1564358400",
+            "expiration_date": "29-jul-2019",
             "state": "future"
         },
         "webmedia.pl": {
@@ -25409,6 +25424,11 @@
             "epoch": "1572393600",
             "expiration_date": "30-oct-2019",
             "state": "future"
+        },
+        "webstats.com.br": {
+            "epoch": "1550707200",
+            "expiration_date": "21-feb-2019",
+            "state": "past"
         },
         "webstatspro.com": {
             "epoch": "1566000000",
