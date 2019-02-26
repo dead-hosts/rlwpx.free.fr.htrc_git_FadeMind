@@ -7393,7 +7393,7 @@
         "ekotopia.com": {
             "epoch": "1551052800",
             "expiration_date": "25-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "elabs5.com": {
             "epoch": "1570924800",
@@ -7718,6 +7718,11 @@
         "ertrade.com": {
             "epoch": "1559174400",
             "expiration_date": "30-may-2019",
+            "state": "future"
+        },
+        "escort-traffic.co.uk": {
+            "epoch": "1560729600",
+            "expiration_date": "17-jun-2019",
             "state": "future"
         },
         "escorthitlist.com": {
