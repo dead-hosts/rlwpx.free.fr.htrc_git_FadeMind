@@ -25730,6 +25730,11 @@
             "expiration_date": "30-jun-2019",
             "state": "future"
         },
+        "windowsmedia.com.pr": {
+            "epoch": "1576800000",
+            "expiration_date": "20-dec-2019",
+            "state": "future"
+        },
         "windowsmediaguide.com": {
             "epoch": "1551398400",
             "expiration_date": "01-mar-2019",
@@ -25826,9 +25831,9 @@
             "state": "future"
         },
         "worldstats.com": {
-            "epoch": "1550966400",
-            "expiration_date": "24-feb-2019",
-            "state": "past"
+            "epoch": "1582502400",
+            "expiration_date": "24-feb-2020",
+            "state": "future"
         },
         "worldstats.net": {
             "epoch": "1574553600",
