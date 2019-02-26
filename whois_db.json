@@ -8500,6 +8500,11 @@
             "expiration_date": "19-jul-2019",
             "state": "future"
         },
+        "flixfacts.co.uk": {
+            "epoch": "1610928000",
+            "expiration_date": "18-jan-2021",
+            "state": "future"
+        },
         "flogao.com": {
             "epoch": "1563408000",
             "expiration_date": "18-jul-2019",
@@ -8668,7 +8673,7 @@
         "fotoputi.com": {
             "epoch": "1551139200",
             "expiration_date": "26-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "fpcclicks.com": {
             "epoch": "1624492800",
@@ -8693,6 +8698,16 @@
         "free-adult-traffic.com": {
             "epoch": "1580947200",
             "expiration_date": "06-feb-2020",
+            "state": "future"
+        },
+        "free-counter.co.uk": {
+            "epoch": "1562803200",
+            "expiration_date": "11-jul-2019",
+            "state": "future"
+        },
+        "free-counters.co.uk": {
+            "epoch": "1585008000",
+            "expiration_date": "24-mar-2020",
             "state": "future"
         },
         "free-counters.net": {
@@ -9231,9 +9246,9 @@
             "state": "future"
         },
         "gaytracks.com": {
-            "epoch": "1550966400",
-            "expiration_date": "24-feb-2019",
-            "state": "past"
+            "epoch": "1582502400",
+            "expiration_date": "24-feb-2020",
+            "state": "future"
         },
         "gaytraffic.com": {
             "epoch": "1581984000",
