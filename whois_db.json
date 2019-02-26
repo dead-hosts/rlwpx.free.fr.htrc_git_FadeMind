@@ -13636,13 +13636,18 @@
             "state": "future"
         },
         "mediacircusgroup.com": {
-            "epoch": "1551139200",
-            "expiration_date": "26-feb-2019",
+            "epoch": "1582675200",
+            "expiration_date": "26-feb-2020",
             "state": "future"
         },
         "mediacitr.info": {
             "epoch": "1570579200",
             "expiration_date": "09-oct-2019",
+            "state": "future"
+        },
+        "mediacommerce.com.co": {
+            "epoch": "1563235200",
+            "expiration_date": "16-jul-2019",
             "state": "future"
         },
         "mediacontent4you.com": {
@@ -13741,9 +13746,9 @@
             "state": "future"
         },
         "mediafortune.net": {
-            "epoch": "1550966400",
-            "expiration_date": "24-feb-2019",
-            "state": "past"
+            "epoch": "1582502400",
+            "expiration_date": "24-feb-2020",
+            "state": "future"
         },
         "mediaforum.org": {
             "epoch": "1623283200",
@@ -13831,9 +13836,9 @@
             "state": "future"
         },
         "mediainput.com": {
-            "epoch": "1550880000",
-            "expiration_date": "23-feb-2019",
-            "state": "past"
+            "epoch": "1582416000",
+            "expiration_date": "23-feb-2020",
+            "state": "future"
         },
         "mediainstaller.com": {
             "epoch": "1570838400",
@@ -13853,6 +13858,11 @@
         "mediakey.dk": {
             "epoch": "1567209600",
             "expiration_date": "31-aug-2019",
+            "state": "future"
+        },
+        "mediakraft.com.ua": {
+            "epoch": "1569628800",
+            "expiration_date": "28-sep-2019",
             "state": "future"
         },
         "medialabs.it": {
@@ -13938,7 +13948,7 @@
         "mediamonitors.org": {
             "epoch": "1551139200",
             "expiration_date": "26-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "mediamonkeys.net": {
             "epoch": "1581638400",
