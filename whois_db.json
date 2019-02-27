@@ -416,19 +416,19 @@
             "state": "future"
         },
         "99counters.com": {
-            "epoch": "1551139200",
-            "expiration_date": "26-feb-2019",
+            "epoch": "1582675200",
+            "expiration_date": "26-feb-2020",
             "state": "future"
         },
         "99traffic.com": {
             "epoch": "1551225600",
             "expiration_date": "27-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "a-counter.com.ua": {
             "epoch": "1551139200",
             "expiration_date": "26-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "a-counter.kiev.ua": {
             "epoch": "1564617600",
@@ -601,8 +601,8 @@
             "state": "future"
         },
         "actualdownload.com": {
-            "epoch": "1551139200",
-            "expiration_date": "26-feb-2019",
+            "epoch": "1582675200",
+            "expiration_date": "26-feb-2020",
             "state": "future"
         },
         "actvtrack.com": {
