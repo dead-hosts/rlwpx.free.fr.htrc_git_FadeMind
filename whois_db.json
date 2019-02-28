@@ -10511,9 +10511,9 @@
             "state": "future"
         },
         "hitmotkuk.net": {
-            "epoch": "1551139200",
-            "expiration_date": "26-feb-2019",
-            "state": "past"
+            "epoch": "1582675200",
+            "expiration_date": "26-feb-2020",
+            "state": "future"
         },
         "hitmygthang.net": {
             "epoch": "1574726400",
@@ -10793,7 +10793,7 @@
         "hittingthetape.com": {
             "epoch": "1551225600",
             "expiration_date": "27-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "hittiteconsulting.com": {
             "epoch": "1577145600",
