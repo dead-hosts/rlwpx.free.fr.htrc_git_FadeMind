@@ -63,13 +63,7 @@
             "media.millennialmedia.com",
             "media.rasazrak.info",
             "medias.maxidivx.com",
-            "mediaspub.lequipe.fr"
-        ],
-        "to_test": [
-            "ch.questionmarket.com",
-            "chrishitz.ch",
-            "m.sharpmobilemarketing.onlinetrafficresults.com",
-            "m.standardinteractive.com",
+            "mediaspub.lequipe.fr",
             "metrics.retail.fidelity.com",
             "mi-agg03.prod.millennialmedia.com",
             "mi-api01.prod.millennialmedia.com",
@@ -133,6 +127,12 @@
             "mm-ws01.prod.millennialmedia.com",
             "mm-ws02.prod.millennialmedia.com",
             "mp-gap05.prod.millennialmedia.com",
+            "m.sharpmobilemarketing.onlinetrafficresults.com",
+            "m.standardinteractive.com"
+        ],
+        "to_test": [
+            "ch.questionmarket.com",
+            "chrishitz.ch",
             "oak1dpu101.insight.omniture.com",
             "oak1dpu102.insight.omniture.com",
             "oak1dpu103.insight.omniture.com",
