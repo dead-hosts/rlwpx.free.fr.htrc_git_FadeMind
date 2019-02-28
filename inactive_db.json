@@ -128,11 +128,7 @@
             "mm-ws02.prod.millennialmedia.com",
             "mp-gap05.prod.millennialmedia.com",
             "m.sharpmobilemarketing.onlinetrafficresults.com",
-            "m.standardinteractive.com"
-        ],
-        "to_test": [
-            "ch.questionmarket.com",
-            "chrishitz.ch",
+            "m.standardinteractive.com",
             "oak1dpu101.insight.omniture.com",
             "oak1dpu102.insight.omniture.com",
             "oak1dpu103.insight.omniture.com",
@@ -268,8 +264,12 @@
             "origin-invitations.insightexpressai.com",
             "origin-rb.insightexpressai.com",
             "pageerror-download.com",
-            "pagerank-united.de",
             "pagerank.scambiositi.com",
+            "pagerank-united.de"
+        ],
+        "to_test": [
+            "ch.questionmarket.com",
+            "chrishitz.ch",
             "paris-hilton-nago.znane.ok.xhit.pl",
             "pistolmedia2.amsnl.webair.com",
             "polskie-suki.xhit.pl",
