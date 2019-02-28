@@ -23151,8 +23151,8 @@
             "state": "future"
         },
         "tradeleads.su": {
-            "epoch": "1551312000",
-            "expiration_date": "28-feb-2019",
+            "epoch": "1582848000",
+            "expiration_date": "28-feb-2020",
             "state": "future"
         },
         "tradelogger.net": {
@@ -23726,9 +23726,9 @@
             "state": "future"
         },
         "trafficgusher.com": {
-            "epoch": "1551052800",
-            "expiration_date": "25-feb-2019",
-            "state": "past"
+            "epoch": "1582588800",
+            "expiration_date": "25-feb-2020",
+            "state": "future"
         },
         "traffichaus.com": {
             "epoch": "1633824000",
@@ -23911,9 +23911,9 @@
             "state": "future"
         },
         "trafficpump.com": {
-            "epoch": "1551052800",
-            "expiration_date": "25-feb-2019",
-            "state": "past"
+            "epoch": "1582588800",
+            "expiration_date": "25-feb-2020",
+            "state": "future"
         },
         "trafficquarters.com": {
             "epoch": "1535155200",
@@ -23958,7 +23958,7 @@
         "trafficsamurai.com": {
             "epoch": "1551312000",
             "expiration_date": "28-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "trafficsecrets.com": {
             "epoch": "1649548800",
@@ -24233,7 +24233,7 @@
         "triplexrated.com": {
             "epoch": "1551312000",
             "expiration_date": "28-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "tripslog.com": {
             "epoch": "1577836800",
