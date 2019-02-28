@@ -399,12 +399,7 @@
             "www.trafficseeker.com",
             "www.trafficyards.com",
             "www.vertolet-media.ru",
-            "www.virtual-countries.com"
-        ],
-        "to_test": [
-            "ch.questionmarket.com",
-            "chrishitz.ch",
-            "paris-hilton-nago.znane.ok.xhit.pl",
+            "www.virtual-countries.com",
             "www.wrankmusic.com",
             "www.xrated-anal.com",
             "www.xrated-dark-skin.com",
@@ -412,9 +407,13 @@
             "www.xvika.org",
             "www.yumedia.net",
             "xml.searchtraffic.com",
-            "z3.emedia.cn",
             "zalogdamascus.ru",
             "zhitomir-info.biz"
+        ],
+        "to_test": [
+            "ch.questionmarket.com",
+            "chrishitz.ch",
+            "paris-hilton-nago.znane.ok.xhit.pl"
         ]
     }
 }
