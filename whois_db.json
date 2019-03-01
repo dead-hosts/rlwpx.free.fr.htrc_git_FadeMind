@@ -2451,8 +2451,8 @@
             "state": "future"
         },
         "bannertraffics.com": {
-            "epoch": "1551312000",
-            "expiration_date": "28-feb-2019",
+            "epoch": "1582848000",
+            "expiration_date": "28-feb-2020",
             "state": "future"
         },
         "bardzomedia.com": {
@@ -3226,8 +3226,8 @@
             "state": "future"
         },
         "bostonhitech.com": {
-            "epoch": "1551312000",
-            "expiration_date": "28-feb-2019",
+            "epoch": "1582848000",
+            "expiration_date": "28-feb-2020",
             "state": "future"
         },
         "bostontraffictickets.com": {
@@ -3608,7 +3608,7 @@
         "bwhc.info": {
             "epoch": "1551398400",
             "expiration_date": "01-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "bytehits.info": {
             "epoch": "1572480000",
