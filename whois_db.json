@@ -13131,9 +13131,9 @@
             "state": "future"
         },
         "manrater.com": {
-            "epoch": "1551312000",
-            "expiration_date": "28-feb-2019",
-            "state": "past"
+            "epoch": "1709078400",
+            "expiration_date": "28-feb-2024",
+            "state": "future"
         },
         "marcimmediato.com": {
             "epoch": "1562544000",
@@ -13988,6 +13988,11 @@
         "medianetgroup.it": {
             "epoch": "1568764800",
             "expiration_date": "18-sep-2019",
+            "state": "future"
+        },
+        "medianews.com.pl": {
+            "epoch": "1552867200",
+            "expiration_date": "18-mar-2019",
             "state": "future"
         },
         "medianewsonline.com": {
