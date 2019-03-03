@@ -296,7 +296,10 @@
             "tracking.absolstats.com",
             "trackingdev.nixxie.com",
             "tracking.euroads.fi",
-            "tracking.magnify.net"
+            "tracking.magnify.net",
+            "track.radins.com",
+            "trader.erosdlz.com",
+            "tr.news-professionnels.fr"
         ],
         "to_test": [
             "mm-gui01.prod.millennialmedia.com",
@@ -304,9 +307,6 @@
             "mm-ws01.prod.millennialmedia.com",
             "mm-ws02.prod.millennialmedia.com",
             "pistolmedia2.amsnl.webair.com",
-            "tr.news-professionnels.fr",
-            "track.radins.com",
-            "trader.erosdlz.com",
             "us.myflavia.com.102.112.2o7.net",
             "users.nethit.pl",
             "venus.goclick.com",
