@@ -12128,7 +12128,7 @@
         "key-logging-software.org": {
             "epoch": "1551571200",
             "expiration_date": "03-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "keyboardtracks.com": {
             "epoch": "1552521600",
@@ -12191,9 +12191,9 @@
             "state": "future"
         },
         "kitaramedia.com": {
-            "epoch": "1551484800",
-            "expiration_date": "02-mar-2019",
-            "state": "past"
+            "epoch": "1583107200",
+            "expiration_date": "02-mar-2020",
+            "state": "future"
         },
         "klixmedia.com": {
             "epoch": "1582329600",
