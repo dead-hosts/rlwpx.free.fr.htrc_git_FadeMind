@@ -64,12 +64,7 @@
             "media.millennialmedia.com",
             "media.rasazrak.info",
             "medias.maxidivx.com",
-            "mediaspub.lequipe.fr"
-        ],
-        "to_test": [
-            "bx.mediat.ro",
-            "m.sharpmobilemarketing.onlinetrafficresults.com",
-            "m.standardinteractive.com",
+            "mediaspub.lequipe.fr",
             "metrics.retail.fidelity.com",
             "mi-agg03.prod.millennialmedia.com",
             "mi-api01.prod.millennialmedia.com",
@@ -134,6 +129,11 @@
             "mm-ws02.prod.millennialmedia.com",
             "movehits.at",
             "mp-gap05.prod.millennialmedia.com",
+            "m.sharpmobilemarketing.onlinetrafficresults.com",
+            "m.standardinteractive.com"
+        ],
+        "to_test": [
+            "bx.mediat.ro",
             "oak1dpu101.insight.omniture.com",
             "oak1dpu102.insight.omniture.com",
             "oak1dpu103.insight.omniture.com",
