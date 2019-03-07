@@ -2078,7 +2078,7 @@
         "atlantiqmedia.com": {
             "epoch": "1551916800",
             "expiration_date": "07-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "atlasdmt.com": {
             "epoch": "1585872000",
@@ -2181,8 +2181,8 @@
             "state": "future"
         },
         "autohitsnow.com": {
-            "epoch": "1551916800",
-            "expiration_date": "07-mar-2019",
+            "epoch": "1583539200",
+            "expiration_date": "07-mar-2020",
             "state": "future"
         },
         "automasstraffic.com": {
@@ -2216,8 +2216,8 @@
             "state": "future"
         },
         "autotraderalberta.com": {
-            "epoch": "1551830400",
-            "expiration_date": "06-mar-2019",
+            "epoch": "1583452800",
+            "expiration_date": "06-mar-2020",
             "state": "future"
         },
         "autotraderr.com": {
