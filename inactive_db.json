@@ -17,10 +17,7 @@
             "app.desktop.ak-networks.com",
             "assistatv.plughosting.com.br",
             "b.salon.com",
-            "biglots.com.102.112.2o7.net"
-        ],
-        "to_test": [
-            "adserver.trackstats.info",
+            "biglots.com.102.112.2o7.net",
             "bolinux3.hit.no",
             "bx.mediat.ro",
             "cdn.millennialmedia.com",
@@ -31,7 +28,10 @@
             "cialisghitu.eev.pl",
             "click.buzzcity.com",
             "click.holland-billing.com",
-            "click.lergao.com",
+            "click.lergao.com"
+        ],
+        "to_test": [
+            "adserver.trackstats.info",
             "counter.holms.ru",
             "counter.russiansubmitter.com",
             "db01.test.millennialmedia.com",
