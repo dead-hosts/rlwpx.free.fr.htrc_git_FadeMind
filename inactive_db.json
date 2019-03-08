@@ -64,10 +64,7 @@
             "media.millennialmedia.com",
             "media.rasazrak.info",
             "media1.ancestry.com",
-            "media200.110mb.com"
-        ],
-        "to_test": [
-            "adserver.trackstats.info",
+            "media200.110mb.com",
             "medias.maxidivx.com",
             "mediaspub.lequipe.fr",
             "metrics.retail.fidelity.com",
@@ -128,12 +125,16 @@
             "mi-web41.prod.millennialmedia.com",
             "mi-web42.prod.millennialmedia.com",
             "mi-web43.prod.millennialmedia.com",
+            "mittlog.net",
             "mm-gui01.prod.millennialmedia.com",
             "mm-gui02.prod.millennialmedia.com",
             "mm-ws01.prod.millennialmedia.com",
             "mm-ws02.prod.millennialmedia.com",
             "movehits.at",
-            "mp-gap05.prod.millennialmedia.com",
+            "mp-gap05.prod.millennialmedia.com"
+        ],
+        "to_test": [
+            "adserver.trackstats.info",
             "oak1dpu101.insight.omniture.com",
             "oak1dpu102.insight.omniture.com",
             "oak1dpu103.insight.omniture.com",
