@@ -334,15 +334,7 @@
             "www.clkrtrkr.com",
             "www.coolstats.com",
             "www.counterslab.com",
-            "www.cpatrackr.com"
-        ],
-        "to_test": [
-            "adserver.trackstats.info",
-            "tracking.absolstats.com",
-            "tracking.euroads.fi",
-            "tracking.magnify.net",
-            "trackingdev.nixxie.com",
-            "www.creamlog.org",
+            "www.cpatrackr.com",
             "www.dandoclics.com",
             "www.dimeclicks.com",
             "www.download-best-softwares.com",
@@ -354,7 +346,14 @@
             "www.findwhat.com",
             "www.fineclicks.com",
             "www.freetracker.biz",
-            "www.greatwebhits.com",
+            "www.greatwebhits.com"
+        ],
+        "to_test": [
+            "adserver.trackstats.info",
+            "tracking.absolstats.com",
+            "tracking.euroads.fi",
+            "tracking.magnify.net",
+            "trackingdev.nixxie.com",
             "www.gxplugin.com",
             "www.hitclone.com",
             "www.hitlogger.com",
