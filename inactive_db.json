@@ -56,10 +56,7 @@
             "invitations.insightexpressai.com",
             "levtr.110mb.com",
             "log8.110mb.com",
-            "logfotos.110mb.com"
-        ],
-        "to_test": [
-            "adserver.trackstats.info",
+            "logfotos.110mb.com",
             "m.sharpmobilemarketing.onlinetrafficresults.com",
             "m.standardinteractive.com",
             "media.adlegend.com",
@@ -67,7 +64,10 @@
             "media.millennialmedia.com",
             "media.rasazrak.info",
             "media1.ancestry.com",
-            "media200.110mb.com",
+            "media200.110mb.com"
+        ],
+        "to_test": [
+            "adserver.trackstats.info",
             "medias.maxidivx.com",
             "mediaspub.lequipe.fr",
             "metrics.retail.fidelity.com",
