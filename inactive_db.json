@@ -265,11 +265,7 @@
             "oak1rpt106.insight.omniture.com",
             "oak1rpt107.insight.omniture.com",
             "oak1rpt108.insight.omniture.com",
-            "oas.salon.com"
-        ],
-        "to_test": [
-            "adultclicks.us",
-            "mediaspub.lequipe.fr",
+            "oas.salon.com",
             "origin-images.insightexpressai.com",
             "origin-invitations.insightexpressai.com",
             "origin-rb.insightexpressai.com",
@@ -278,7 +274,11 @@
             "paris-hilton-nago.znane.ok.xhit.pl",
             "peypalcomus.hostaty.com",
             "pistolmedia2.amsnl.webair.com",
-            "polskie-suki.xhit.pl",
+            "polskie-suki.xhit.pl"
+        ],
+        "to_test": [
+            "adultclicks.us",
+            "mediaspub.lequipe.fr",
             "prod.millennialmedia.com",
             "program.mediaclick.kr",
             "rank-master.de",
