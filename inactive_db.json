@@ -7,10 +7,7 @@
             "ads.empoweringmedia.net",
             "ads.fidelity-media.com",
             "ads.fora.tv",
-            "adserver.trackstats.info"
-        ],
-        "to_test": [
-            "adultclicks.us",
+            "adserver.trackstats.info",
             "affiliate.admtracker.com",
             "allogay.host-php.org",
             "analytics.androidandme.com",
@@ -18,7 +15,10 @@
             "andorra.indymedia.org",
             "antevenio.flux.ads-click.com",
             "app.desktop.ak-networks.com",
-            "assistatv.plughosting.com.br",
+            "assistatv.plughosting.com.br"
+        ],
+        "to_test": [
+            "adultclicks.us",
             "b.salon.com",
             "biglots.com.102.112.2o7.net",
             "bodhitree.us",
