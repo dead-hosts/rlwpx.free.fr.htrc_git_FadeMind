@@ -1,12 +1,14 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
-        "to_test": [
+        "1552425581": [
             "adnet.mediawhiz.com",
             "ads.bnmedia.com",
             "ads.empoweringmedia.net",
             "ads.fidelity-media.com",
             "ads.fora.tv",
-            "adserver.trackstats.info",
+            "adserver.trackstats.info"
+        ],
+        "to_test": [
             "adultclicks.us",
             "affiliate.admtracker.com",
             "allogay.host-php.org",
