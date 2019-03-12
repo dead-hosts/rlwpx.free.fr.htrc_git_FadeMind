@@ -1,13 +1,13 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
-        "1552250434": [
-            "600xt.bbfr.net",
+        "to_test": [
             "adnet.mediawhiz.com",
             "ads.bnmedia.com",
             "ads.empoweringmedia.net",
             "ads.fidelity-media.com",
             "ads.fora.tv",
             "adserver.trackstats.info",
+            "adultclicks.us",
             "affiliate.admtracker.com",
             "allogay.host-php.org",
             "analytics.androidandme.com",
@@ -53,6 +53,7 @@
             "i3.putags.com",
             "images.insightexpressai.com",
             "images.iwangmedia.com",
+            "images.millennialmedia.com",
             "img.ads-click.com",
             "in.riskymail4free.com",
             "infinitiusa.com.102.112.2o7.net",
@@ -69,6 +70,8 @@
             "media.rasazrak.info",
             "media1.ancestry.com",
             "media200.110mb.com",
+            "medias.maxidivx.com",
+            "mediaspub.lequipe.fr",
             "metrics.retail.fidelity.com",
             "mi-agg03.prod.millennialmedia.com",
             "mi-api01.prod.millennialmedia.com",
@@ -282,8 +285,10 @@
             "ranking.xhit.pl",
             "s.rankdirectory.org",
             "sameralrais.hostaty.com",
+            "sdgsdgsdg.at.tf",
             "sexfiles.nu",
             "sexyclicks.de",
+            "speedousa.com.102.112.2o7.net",
             "spreadshirt.com.102.112.2o7.net",
             "st.magnify.net",
             "stat.dk3.com",
@@ -304,6 +309,8 @@
             "tracker.twenga.nl",
             "tracking.absolstats.com",
             "tracking.euroads.fi",
+            "tracking.magnify.net",
+            "trackingdev.nixxie.com",
             "trader.erosdlz.com",
             "traffic-trader.de",
             "traffichouse.biz",
@@ -422,22 +429,12 @@
             "www.xvika.net",
             "www.xvika.org",
             "www.yumedia.net",
+            "www1.dimeclicks.com",
+            "www3.dimeclicks.com",
             "xbusiness.ideaclic.com",
             "xml.searchtraffic.com",
             "zalogdamascus.ru",
             "zhitomir-info.biz"
-        ],
-        "to_test": [
-            "adultclicks.us",
-            "images.millennialmedia.com",
-            "medias.maxidivx.com",
-            "mediaspub.lequipe.fr",
-            "sdgsdgsdg.at.tf",
-            "speedousa.com.102.112.2o7.net",
-            "tracking.magnify.net",
-            "trackingdev.nixxie.com",
-            "www1.dimeclicks.com",
-            "www3.dimeclicks.com"
         ]
     }
 }
