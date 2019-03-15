@@ -6816,8 +6816,8 @@
             "state": "future"
         },
         "discount-videogames.com": {
-            "epoch": "1552521600",
-            "expiration_date": "14-mar-2019",
+            "epoch": "1584144000",
+            "expiration_date": "14-mar-2020",
             "state": "future"
         },
         "discounthosting.com": {
@@ -6833,7 +6833,7 @@
         "displayadsmedia.com": {
             "epoch": "1552608000",
             "expiration_date": "15-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "distributemedia.com": {
             "epoch": "1565481600",
@@ -7096,8 +7096,8 @@
             "state": "future"
         },
         "dsrank.com": {
-            "epoch": "1552521600",
-            "expiration_date": "14-mar-2019",
+            "epoch": "1584144000",
+            "expiration_date": "14-mar-2020",
             "state": "future"
         },
         "dstats.net": {
