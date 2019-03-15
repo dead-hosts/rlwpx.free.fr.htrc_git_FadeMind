@@ -140,10 +140,7 @@
             "mm-ws01.prod.millennialmedia.com",
             "mm-ws02.prod.millennialmedia.com",
             "movehits.at",
-            "mp-gap05.prod.millennialmedia.com"
-        ],
-        "to_test": [
-            "adnet.mediawhiz.com",
+            "mp-gap05.prod.millennialmedia.com",
             "oak1dpu101.insight.omniture.com",
             "oak1dpu102.insight.omniture.com",
             "oak1dpu103.insight.omniture.com",
@@ -274,7 +271,10 @@
             "oak1rpt106.insight.omniture.com",
             "oak1rpt107.insight.omniture.com",
             "oak1rpt108.insight.omniture.com",
-            "oas.salon.com",
+            "oas.salon.com"
+        ],
+        "to_test": [
+            "adnet.mediawhiz.com",
             "origin-images.insightexpressai.com",
             "origin-invitations.insightexpressai.com",
             "origin-rb.insightexpressai.com",
