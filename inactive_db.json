@@ -403,11 +403,7 @@
             "www.realcastmedia.com",
             "www.realtracker.com",
             "www.removeonline.com",
-            "www.securitylog.info"
-        ],
-        "to_test": [
-            "adult.koimedia.com",
-            "adultclicks.us",
+            "www.securitylog.info",
             "www.slap-up-media.net",
             "www.software-comparisons.com",
             "www.splitmyshit.com",
@@ -422,7 +418,11 @@
             "www.trafficadept.com",
             "www.trafficgoldrush.com",
             "www.trafficseeker.com",
-            "www.trafficyards.com",
+            "www.trafficyards.com"
+        ],
+        "to_test": [
+            "adult.koimedia.com",
+            "adultclicks.us",
             "www.vertolet-media.ru",
             "www.virtual-countries.com",
             "www.wrankmusic.com",
