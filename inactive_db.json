@@ -64,11 +64,7 @@
             "log8.110mb.com",
             "logfotos.110mb.com",
             "m.sharpmobilemarketing.onlinetrafficresults.com",
-            "m.standardinteractive.com"
-        ],
-        "to_test": [
-            "adult.koimedia.com",
-            "adultclicks.us",
+            "m.standardinteractive.com",
             "media.adlegend.com",
             "media.gsimedia.net",
             "media.millennialmedia.com",
@@ -76,7 +72,11 @@
             "media1.ancestry.com",
             "media200.110mb.com",
             "medias.maxidivx.com",
-            "mediaspub.lequipe.fr",
+            "mediaspub.lequipe.fr"
+        ],
+        "to_test": [
+            "adult.koimedia.com",
+            "adultclicks.us",
             "metrics.retail.fidelity.com",
             "mi-agg03.prod.millennialmedia.com",
             "mi-api01.prod.millennialmedia.com",
