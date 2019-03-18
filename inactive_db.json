@@ -1,7 +1,9 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
-        "1552769066": [
-            "600xt.bbfr.net",
+        "1552941946": [
+            "600xt.bbfr.net"
+        ],
+        "to_test": [
             "adnet.mediawhiz.com",
             "ads.bnmedia.com",
             "ads.empoweringmedia.net",
@@ -9,6 +11,8 @@
             "ads.fora.tv",
             "adserver.trackstats.info",
             "adtds.trackads.net",
+            "adult.koimedia.com",
+            "adultclicks.us",
             "affiliate.admtracker.com",
             "allogay.host-php.org",
             "analytics.androidandme.com",
@@ -434,16 +438,12 @@
             "www.xxxlog.com",
             "www.youthontrack.com",
             "www.yumedia.net",
+            "www1.dimeclicks.com",
+            "www3.dimeclicks.com",
             "xbusiness.ideaclic.com",
             "xml.searchtraffic.com",
             "zalogdamascus.ru",
             "zhitomir-info.biz"
-        ],
-        "to_test": [
-            "adult.koimedia.com",
-            "adultclicks.us",
-            "www1.dimeclicks.com",
-            "www3.dimeclicks.com"
         ]
     }
 }
