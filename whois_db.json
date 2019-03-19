@@ -18021,8 +18021,8 @@
             "state": "future"
         },
         "ratedxxx.net": {
-            "epoch": "1552867200",
-            "expiration_date": "18-mar-2019",
+            "epoch": "1584489600",
+            "expiration_date": "18-mar-2020",
             "state": "future"
         },
         "ratedxxxreview.com": {
@@ -18123,7 +18123,7 @@
         "ratemybits.com": {
             "epoch": "1552953600",
             "expiration_date": "19-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "ratemybody.com": {
             "epoch": "1557014400",
