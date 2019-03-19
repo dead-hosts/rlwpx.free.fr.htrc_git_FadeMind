@@ -140,12 +140,8 @@
             "mm-ws02.prod.millennialmedia.com",
             "movehits.at",
             "mozillafireox.servecounterstrike.com",
-            "mp-gap05.prod.millennialmedia.com"
-        ],
-        "to_test": [
-            "adserver.trackstats.info",
-            "champrank.de",
-            "feeds.wise-click.com",
+            "mp-gap05.prod.millennialmedia.com",
+            "ns.mediawiz.ne.jp",
             "oak1dpu101.insight.omniture.com",
             "oak1dpu102.insight.omniture.com",
             "oak1dpu103.insight.omniture.com",
@@ -276,7 +272,12 @@
             "oak1rpt106.insight.omniture.com",
             "oak1rpt107.insight.omniture.com",
             "oak1rpt108.insight.omniture.com",
-            "oas.salon.com",
+            "oas.salon.com"
+        ],
+        "to_test": [
+            "adserver.trackstats.info",
+            "champrank.de",
+            "feeds.wise-click.com",
             "origin-images.insightexpressai.com",
             "origin-invitations.insightexpressai.com",
             "origin-rb.insightexpressai.com",
