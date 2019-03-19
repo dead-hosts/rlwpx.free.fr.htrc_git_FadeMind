@@ -8855,6 +8855,11 @@
             "expiration_date": "12-sep-2019",
             "state": "future"
         },
+        "freestat.ws": {
+            "epoch": "1742342400",
+            "expiration_date": "19-mar-2025",
+            "state": "future"
+        },
         "freestation.com": {
             "epoch": "1566432000",
             "expiration_date": "22-aug-2019",
@@ -8883,6 +8888,11 @@
         "freestats.tv": {
             "epoch": "1563926400",
             "expiration_date": "24-jul-2019",
+            "state": "future"
+        },
+        "freestats.ws": {
+            "epoch": "1742342400",
+            "expiration_date": "19-mar-2025",
             "state": "future"
         },
         "freetrader.info": {
