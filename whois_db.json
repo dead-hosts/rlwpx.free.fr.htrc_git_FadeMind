@@ -12091,8 +12091,8 @@
             "state": "future"
         },
         "karmamedia.com": {
-            "epoch": "1552867200",
-            "expiration_date": "18-mar-2019",
+            "epoch": "1584489600",
+            "expiration_date": "18-mar-2020",
             "state": "future"
         },
         "karting-logatec.si": {
@@ -12108,7 +12108,7 @@
         "kastats.com": {
             "epoch": "1552953600",
             "expiration_date": "19-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "katalogest.info": {
             "epoch": "1573084800",
@@ -12263,7 +12263,7 @@
         "kostenlose-counter.com": {
             "epoch": "1552953600",
             "expiration_date": "19-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "kratedemo.com": {
             "epoch": "1572566400",
