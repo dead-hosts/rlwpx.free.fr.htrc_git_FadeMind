@@ -6,10 +6,7 @@
             "ads.bnmedia.com",
             "ads.empoweringmedia.net",
             "ads.fidelity-media.com",
-            "ads.fora.tv"
-        ],
-        "to_test": [
-            "adserver.trackstats.info",
+            "ads.fora.tv",
             "adult.koimedia.com",
             "adultclicks.us",
             "affiliate.admtracker.com",
@@ -19,7 +16,10 @@
             "analytics.spongecell.com",
             "andorra.indymedia.org",
             "antevenio.flux.ads-click.com",
-            "app.desktop.ak-networks.com",
+            "app.desktop.ak-networks.com"
+        ],
+        "to_test": [
+            "adserver.trackstats.info",
             "assistatv.plughosting.com.br",
             "avrank.best-g.com",
             "avs.oneclickporn.com",
