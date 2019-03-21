@@ -65,12 +65,7 @@
             "link.ranking.gs",
             "m.sharpmobilemarketing.onlinetrafficresults.com",
             "m.standardinteractive.com",
-            "ma.servecounterstrike.com"
-        ],
-        "to_test": [
-            "adserver.trackstats.info",
-            "click1.mainadv.com",
-            "infinitiusa.com.102.112.2o7.net",
+            "ma.servecounterstrike.com",
             "media.adlegend.com",
             "media.gsimedia.net",
             "media.millennialmedia.com",
@@ -79,7 +74,12 @@
             "media1.ancestry.com",
             "medias.maxidivx.com",
             "mediaspub.lequipe.fr",
-            "metrics.retail.fidelity.com",
+            "metrics.retail.fidelity.com"
+        ],
+        "to_test": [
+            "adserver.trackstats.info",
+            "click1.mainadv.com",
+            "infinitiusa.com.102.112.2o7.net",
             "mi-agg03.prod.millennialmedia.com",
             "mi-api01.prod.millennialmedia.com",
             "mi-api02.prod.millennialmedia.com",
