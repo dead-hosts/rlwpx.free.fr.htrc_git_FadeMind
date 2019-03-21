@@ -23571,8 +23571,8 @@
             "state": "future"
         },
         "trafficadvance.net": {
-            "epoch": "1553126400",
-            "expiration_date": "21-mar-2019",
+            "epoch": "1584748800",
+            "expiration_date": "21-mar-2020",
             "state": "future"
         },
         "trafficback.com": {
@@ -24056,8 +24056,8 @@
             "state": "future"
         },
         "trafficswarm.com": {
-            "epoch": "1553126400",
-            "expiration_date": "21-mar-2019",
+            "epoch": "1584748800",
+            "expiration_date": "21-mar-2020",
             "state": "future"
         },
         "trafficswitch.com": {
@@ -24096,8 +24096,8 @@
             "state": "future"
         },
         "traffictrader.net": {
-            "epoch": "1553040000",
-            "expiration_date": "20-mar-2019",
+            "epoch": "1584662400",
+            "expiration_date": "20-mar-2020",
             "state": "future"
         },
         "traffictraders.com": {
@@ -24228,7 +24228,7 @@
         "travelogg.com": {
             "epoch": "1553126400",
             "expiration_date": "21-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "treasureislandmedia.com": {
             "epoch": "1654128000",
