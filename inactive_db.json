@@ -1,12 +1,15 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
-        "1553114761": [
-            "600xt.bbfr.net",
+        "1553287630": [
+            "600xt.bbfr.net"
+        ],
+        "to_test": [
             "adnet.mediawhiz.com",
             "ads.bnmedia.com",
             "ads.empoweringmedia.net",
             "ads.fidelity-media.com",
             "ads.fora.tv",
+            "adserver.trackstats.info",
             "adult.koimedia.com",
             "adultclicks.us",
             "affiliate.admtracker.com",
@@ -32,6 +35,7 @@
             "click.buzzcity.com",
             "click.holland-billing.com",
             "click.lergao.com",
+            "click1.mainadv.com",
             "clicks.walla.co.il",
             "core.bluefly.com",
             "counter.holms.ru",
@@ -60,6 +64,7 @@
             "images.millennialmedia.com",
             "img.ads-click.com",
             "in.riskymail4free.com",
+            "infinitiusa.com.102.112.2o7.net",
             "invitations.insightexpressai.com",
             "leck.servecounterstrike.com",
             "link.ranking.gs",
@@ -442,18 +447,13 @@
             "www.xvika.net",
             "www.xvika.org",
             "www.yumedia.net",
+            "www1.dimeclicks.com",
+            "www3.dimeclicks.com",
             "xbusiness.ideaclic.com",
+            "xml.searchtraffic.com",
             "xratedpartygirls.xxx.us",
             "zalogdamascus.ru",
             "zhitomir-info.biz"
-        ],
-        "to_test": [
-            "adserver.trackstats.info",
-            "click1.mainadv.com",
-            "infinitiusa.com.102.112.2o7.net",
-            "www1.dimeclicks.com",
-            "www3.dimeclicks.com",
-            "xml.searchtraffic.com"
         ]
     }
 }
