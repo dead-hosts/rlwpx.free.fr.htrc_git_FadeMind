@@ -6,19 +6,21 @@
             "ads.bnmedia.com",
             "ads.empoweringmedia.net",
             "ads.fidelity-media.com",
-            "ads.fora.tv"
-        ],
-        "to_test": [
-            "adserver.trackstats.info",
+            "ads.fora.tv",
+            "adtds.trackads.net",
             "adult.koimedia.com",
             "adultclicks.us",
             "affiliate.admtracker.com",
+            "affiliate.c2mclicks.com",
             "allogay.host-php.org",
             "analytics.androidandme.com",
             "analytics.dev.popdust.com",
             "analytics.spongecell.com",
             "andorra.indymedia.org",
-            "antevenio.flux.ads-click.com",
+            "antevenio.flux.ads-click.com"
+        ],
+        "to_test": [
+            "adserver.trackstats.info",
             "app.desktop.ak-networks.com",
             "assistatv.plughosting.com.br",
             "available.servecounterstrike.com",
