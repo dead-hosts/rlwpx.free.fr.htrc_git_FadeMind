@@ -77,12 +77,7 @@
             "media.millennialmedia.com",
             "media.rasazrak.info",
             "media.sentabi.com",
-            "media1.ancestry.com"
-        ],
-        "to_test": [
-            "adserver.trackstats.info",
-            "biglots.com.102.112.2o7.net",
-            "chrishitz.ch",
+            "media1.ancestry.com",
             "medias.maxidivx.com",
             "mediaspub.lequipe.fr",
             "metrics.retail.fidelity.com",
@@ -150,7 +145,12 @@
             "mm-ws02.prod.millennialmedia.com",
             "movehits.at",
             "mozillafireox.servecounterstrike.com",
-            "mp-gap05.prod.millennialmedia.com",
+            "mp-gap05.prod.millennialmedia.com"
+        ],
+        "to_test": [
+            "adserver.trackstats.info",
+            "biglots.com.102.112.2o7.net",
+            "chrishitz.ch",
             "oak1dpu101.insight.omniture.com",
             "oak1dpu102.insight.omniture.com",
             "oak1dpu103.insight.omniture.com",
