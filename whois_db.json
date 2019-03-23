@@ -26566,8 +26566,8 @@
             "state": "future"
         },
         "xratedwife.com": {
-            "epoch": "1553299200",
-            "expiration_date": "23-mar-2019",
+            "epoch": "1584921600",
+            "expiration_date": "23-mar-2020",
             "state": "future"
         },
         "xratedzone.com": {
@@ -26668,7 +26668,7 @@
         "xxxcounters.com": {
             "epoch": "1553212800",
             "expiration_date": "22-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "xxxdiscount.com": {
             "epoch": "1555459200",
@@ -26793,7 +26793,7 @@
         "xxxtrader.com": {
             "epoch": "1553212800",
             "expiration_date": "22-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "xxxtraffic.org": {
             "epoch": "1569801600",
