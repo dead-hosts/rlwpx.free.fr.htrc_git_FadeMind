@@ -9,11 +9,8 @@
             "ads.empoweringmedia.net",
             "ads.fidelity-media.com",
             "ads.fora.tv",
-            "ads.hitjump.com"
-        ],
-        "to_test": [
-            "adserver.trackstats.info",
-            "adtds.trackads.net",
+            "ads.hitjump.com",
+            "ads.trafficaces.com",
             "adult.koimedia.com",
             "adultclicks.us",
             "affiliate.admtracker.com",
@@ -22,7 +19,10 @@
             "analytics.androidandme.com",
             "analytics.dev.popdust.com",
             "analytics.spongecell.com",
-            "andorra.indymedia.org",
+            "andorra.indymedia.org"
+        ],
+        "to_test": [
+            "adserver.trackstats.info",
             "antevenio.flux.ads-click.com",
             "app.desktop.ak-networks.com",
             "assistatv.plughosting.com.br",
