@@ -1,12 +1,15 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
-        "1553287630": [
-            "600xt.bbfr.net",
+        "1553460471": [
+            "600xt.bbfr.net"
+        ],
+        "to_test": [
             "adnet.mediawhiz.com",
             "ads.bnmedia.com",
             "ads.empoweringmedia.net",
             "ads.fidelity-media.com",
             "ads.fora.tv",
+            "adserver.trackstats.info",
             "adtds.trackads.net",
             "adult.koimedia.com",
             "adultclicks.us",
@@ -24,12 +27,14 @@
             "aysong.mediasongplayer.com",
             "b.salon.com",
             "banner.meerhits.nl",
+            "biglots.com.102.112.2o7.net",
             "bolinux3.hit.no",
             "brevard-county-sheriffs.raiselight.com",
             "bx.mediat.ro",
             "cdn.millennialmedia.com",
             "cdn.trafficexchangelist.com",
             "ch.questionmarket.com",
+            "chrishitz.ch",
             "cialisghitu.eev.pl",
             "click.buzzcity.com",
             "click.dictionary.com",
@@ -314,8 +319,12 @@
             "track.divx.com",
             "track.leadin.com",
             "track.radins.com",
-            "tracker.twenga.nl",
             "track.trackads.net",
+            "tracker.twenga.nl",
+            "tracking.absolstats.com",
+            "tracking.euroads.fi",
+            "tracking.magnify.net",
+            "trackingdev.nixxie.com",
             "trader.erosdlz.com",
             "traffic-trader.de",
             "traffichouse.biz",
@@ -440,21 +449,12 @@
             "www.xvika.net",
             "www.xvika.org",
             "www.yumedia.net",
+            "www1.dimeclicks.com",
+            "www3.dimeclicks.com",
             "xbusiness.ideaclic.com",
             "xml.searchtraffic.com",
             "zalogdamascus.ru",
             "zhitomir-info.biz"
-        ],
-        "to_test": [
-            "adserver.trackstats.info",
-            "biglots.com.102.112.2o7.net",
-            "chrishitz.ch",
-            "tracking.absolstats.com",
-            "tracking.euroads.fi",
-            "tracking.magnify.net",
-            "trackingdev.nixxie.com",
-            "www1.dimeclicks.com",
-            "www3.dimeclicks.com"
         ]
     }
 }
