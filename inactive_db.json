@@ -1,7 +1,9 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
-        "1553460471": [
-            "600xt.bbfr.net",
+        "1553555035": [
+            "600xt.bbfr.net"
+        ],
+        "to_test": [
             "adnet.mediawhiz.com",
             "ads.10click.com",
             "ads.admodus.com",
@@ -11,6 +13,7 @@
             "ads.fora.tv",
             "ads.hitjump.com",
             "ads.trafficaces.com",
+            "adserver.trackstats.info",
             "adult.koimedia.com",
             "adultclicks.us",
             "affiliate.admtracker.com",
@@ -20,6 +23,7 @@
             "analytics.dev.popdust.com",
             "analytics.spongecell.com",
             "andorra.indymedia.org",
+            "antevenio.flux.ads-click.com",
             "app.desktop.ak-networks.com",
             "assistatv.plughosting.com.br",
             "available.servecounterstrike.com",
@@ -33,6 +37,7 @@
             "cdn.trafficexchangelist.com",
             "ch.questionmarket.com",
             "chrishitz.ch",
+            "cialisghitu.eev.pl",
             "click.buzzcity.com",
             "click.dictionary.com",
             "click.holland-billing.com",
@@ -319,6 +324,8 @@
             "tracker.twenga.nl",
             "tracking.absolstats.com",
             "tracking.euroads.fi",
+            "tracking.magnify.net",
+            "trackingdev.nixxie.com",
             "trader.erosdlz.com",
             "traffic-trader.de",
             "traffichouse.biz",
@@ -334,9 +341,9 @@
             "www.aconti.net",
             "www.adjuggler.com",
             "www.allencountyfair.info",
+            "www.arkansascountydata.com",
             "www.arttraffic.co.uk",
             "www.asianbabemedia.com",
-            "www.arkansascountydata.com",
             "www.asstraffic.biz",
             "www.auclic.com",
             "www.audiostat.com",
@@ -358,6 +365,7 @@
             "www.clickthroughtraffic.com",
             "www.clicmaison.com",
             "www.clkrtrkr.com",
+            "www.coolstats.com",
             "www.cpatrackr.com",
             "www.dandoclics.com",
             "www.digiaquascr.com",
@@ -452,20 +460,12 @@
             "www.xvika.net",
             "www.xvika.org",
             "www.yumedia.net",
+            "www1.dimeclicks.com",
+            "www3.dimeclicks.com",
             "xbusiness.ideaclic.com",
             "xml.searchtraffic.com",
             "zalogdamascus.ru",
             "zhitomir-info.biz"
-        ],
-        "to_test": [
-            "adserver.trackstats.info",
-            "antevenio.flux.ads-click.com",
-            "cialisghitu.eev.pl",
-            "tracking.magnify.net",
-            "trackingdev.nixxie.com",
-            "www.coolstats.com",
-            "www1.dimeclicks.com",
-            "www3.dimeclicks.com"
         ]
     }
 }
