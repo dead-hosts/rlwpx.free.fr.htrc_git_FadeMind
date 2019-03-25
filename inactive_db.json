@@ -303,12 +303,7 @@
             "spreadshirt.com.102.112.2o7.net",
             "st.magnify.net",
             "stat.dk3.com",
-            "statrafongon.biz"
-        ],
-        "to_test": [
-            "adserver.trackstats.info",
-            "antevenio.flux.ads-click.com",
-            "cialisghitu.eev.pl",
+            "statrafongon.biz",
             "stats.host1free.com",
             "stats.magnify.net",
             "stats.mu0t000.com",
@@ -316,7 +311,12 @@
             "statz.123ads.nl",
             "sub.smartw.co.kr",
             "subids.tracking202.com",
-            "telemedia.m77s.cn",
+            "telemedia.m77s.cn"
+        ],
+        "to_test": [
+            "adserver.trackstats.info",
+            "antevenio.flux.ads-click.com",
+            "cialisghitu.eev.pl",
             "top.c-stat.eu",
             "track.divx.com",
             "track.leadin.com",
