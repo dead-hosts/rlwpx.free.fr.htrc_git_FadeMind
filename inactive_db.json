@@ -441,15 +441,7 @@
             "www.trafficgoldrush.com",
             "www.trafficseeker.com",
             "www.trafficyards.com",
-            "www.virtual-countries.com"
-        ],
-        "to_test": [
-            "adserver.trackstats.info",
-            "antevenio.flux.ads-click.com",
-            "cialisghitu.eev.pl",
-            "tracking.magnify.net",
-            "trackingdev.nixxie.com",
-            "www.coolstats.com",
+            "www.virtual-countries.com",
             "www.wrankmusic.com",
             "www.xrated-anal.com",
             "www.xrated-dark-skin.com",
@@ -460,12 +452,20 @@
             "www.xvika.net",
             "www.xvika.org",
             "www.yumedia.net",
-            "www1.dimeclicks.com",
-            "www3.dimeclicks.com",
             "xbusiness.ideaclic.com",
             "xml.searchtraffic.com",
             "zalogdamascus.ru",
             "zhitomir-info.biz"
+        ],
+        "to_test": [
+            "adserver.trackstats.info",
+            "antevenio.flux.ads-click.com",
+            "cialisghitu.eev.pl",
+            "tracking.magnify.net",
+            "trackingdev.nixxie.com",
+            "www.coolstats.com",
+            "www1.dimeclicks.com",
+            "www3.dimeclicks.com"
         ]
     }
 }
