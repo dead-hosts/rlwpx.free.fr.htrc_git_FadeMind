@@ -155,11 +155,7 @@
             "mm-ws02.prod.millennialmedia.com",
             "movehits.at",
             "mozillafireox.servecounterstrike.com",
-            "mp-gap05.prod.millennialmedia.com"
-        ],
-        "to_test": [
-            "adserver.trackstats.info",
-            "click1.mainadv.com",
+            "mp-gap05.prod.millennialmedia.com",
             "oak1dpu101.insight.omniture.com",
             "oak1dpu102.insight.omniture.com",
             "oak1dpu103.insight.omniture.com",
@@ -291,7 +287,12 @@
             "oak1rpt107.insight.omniture.com",
             "oak1rpt108.insight.omniture.com",
             "oas.salon.com",
-            "obiloga.noip.me",
+            "oascentral.mochila.com",
+            "obiloga.noip.me"
+        ],
+        "to_test": [
+            "adserver.trackstats.info",
+            "click1.mainadv.com",
             "origin-images.insightexpressai.com",
             "origin-invitations.insightexpressai.com",
             "origin-rb.insightexpressai.com",
