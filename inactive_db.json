@@ -320,11 +320,7 @@
             "statz.123ads.nl",
             "sub.smartw.co.kr",
             "subids.tracking202.com",
-            "telemedia.m77s.cn"
-        ],
-        "to_test": [
-            "adserver.trackstats.info",
-            "click1.mainadv.com",
+            "telemedia.m77s.cn",
             "top.c-stat.eu",
             "track.divx.com",
             "track.leadin.com",
@@ -333,7 +329,11 @@
             "tracking.absolstats.com",
             "tracking.euroads.fi",
             "tracking.magnify.net",
-            "trackingdev.nixxie.com",
+            "trackingdev.nixxie.com"
+        ],
+        "to_test": [
+            "adserver.trackstats.info",
+            "click1.mainadv.com",
             "trader.erosdlz.com",
             "traffic-trader.de",
             "traffichouse.biz",
