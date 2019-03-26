@@ -20298,7 +20298,7 @@
         "siptrade.com": {
             "epoch": "1553558400",
             "expiration_date": "26-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "site-stats.com": {
             "epoch": "1564790400",
@@ -20781,8 +20781,8 @@
             "state": "future"
         },
         "sp-rank.com": {
-            "epoch": "1553558400",
-            "expiration_date": "26-mar-2019",
+            "epoch": "1585180800",
+            "expiration_date": "26-mar-2020",
             "state": "future"
         },
         "spank-media.com": {
