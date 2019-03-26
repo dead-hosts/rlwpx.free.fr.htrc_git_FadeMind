@@ -4643,7 +4643,7 @@
         "clickdownloader.com": {
             "epoch": "1553472000",
             "expiration_date": "25-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "clickeight.com": {
             "epoch": "1557619200",
@@ -4721,8 +4721,8 @@
             "state": "future"
         },
         "clickforamateurs.com": {
-            "epoch": "1553472000",
-            "expiration_date": "25-mar-2019",
+            "epoch": "1585094400",
+            "expiration_date": "25-mar-2020",
             "state": "future"
         },
         "clickforbbws.com": {
@@ -5008,7 +5008,7 @@
         "clickmomukhamo.com": {
             "epoch": "1553558400",
             "expiration_date": "26-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "clickmonsters.com": {
             "epoch": "1556841600",
