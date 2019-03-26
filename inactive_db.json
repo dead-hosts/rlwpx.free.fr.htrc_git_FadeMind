@@ -288,11 +288,7 @@
             "oak1rpt108.insight.omniture.com",
             "oas.salon.com",
             "oascentral.mochila.com",
-            "obiloga.noip.me"
-        ],
-        "to_test": [
-            "adserver.trackstats.info",
-            "click1.mainadv.com",
+            "obiloga.noip.me",
             "origin-images.insightexpressai.com",
             "origin-invitations.insightexpressai.com",
             "origin-rb.insightexpressai.com",
@@ -302,7 +298,11 @@
             "pistolmedia2.amsnl.webair.com",
             "playsong.mediasongplayer.com",
             "pointofsalelogger.biz",
-            "pokpok.meerhits.nl",
+            "pokpok.meerhits.nl"
+        ],
+        "to_test": [
+            "adserver.trackstats.info",
+            "click1.mainadv.com",
             "prod.millennialmedia.com",
             "program.mediaclick.kr",
             "quickbooksbookkeepingorangecounty.us",
