@@ -2191,9 +2191,9 @@
             "state": "future"
         },
         "automatedtraffic.com": {
-            "epoch": "1553385600",
-            "expiration_date": "24-mar-2019",
-            "state": "past"
+            "epoch": "1585008000",
+            "expiration_date": "24-mar-2020",
+            "state": "future"
         },
         "autopoliv.com": {
             "epoch": "1566864000",
@@ -2281,9 +2281,9 @@
             "state": "future"
         },
         "avstracker.com": {
-            "epoch": "1553385600",
-            "expiration_date": "24-mar-2019",
-            "state": "past"
+            "epoch": "1585008000",
+            "expiration_date": "24-mar-2020",
+            "state": "future"
         },
         "avstrade.com": {
             "epoch": "1574380800",
@@ -2456,9 +2456,9 @@
             "state": "future"
         },
         "bardzomedia.com": {
-            "epoch": "1553385600",
-            "expiration_date": "24-mar-2019",
-            "state": "past"
+            "epoch": "1585008000",
+            "expiration_date": "24-mar-2020",
+            "state": "future"
         },
         "bargaintrader.co.za": {
             "epoch": "1575676800",
@@ -3008,7 +3008,7 @@
         "blountcountyschools.com": {
             "epoch": "1553472000",
             "expiration_date": "25-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "blovemedia.com": {
             "epoch": "1577577600",
