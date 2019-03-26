@@ -21301,9 +21301,9 @@
             "state": "future"
         },
         "stockmonitoring.com": {
-            "epoch": "1553472000",
-            "expiration_date": "25-mar-2019",
-            "state": "past"
+            "epoch": "1585094400",
+            "expiration_date": "25-mar-2020",
+            "state": "future"
         },
         "stopsmokingimmediately.com": {
             "epoch": "1564185600",
@@ -21718,7 +21718,7 @@
         "teenhitchikers.com": {
             "epoch": "1553558400",
             "expiration_date": "26-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "teenhits.com": {
             "epoch": "1577145600",
