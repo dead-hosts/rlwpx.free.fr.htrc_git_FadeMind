@@ -6,10 +6,7 @@
             "ads.bnmedia.com",
             "ads.empoweringmedia.net",
             "ads.fidelity-media.com",
-            "ads.fora.tv"
-        ],
-        "to_test": [
-            "adserver.trackstats.info",
+            "ads.fora.tv",
             "adult.koimedia.com",
             "adultclicks.us",
             "affiliate.admtracker.com",
@@ -21,7 +18,10 @@
             "andorra.indymedia.org",
             "anepasrater.skynetblogs.be",
             "antevenio.flux.ads-click.com",
-            "app.desktop.ak-networks.com",
+            "app.desktop.ak-networks.com"
+        ],
+        "to_test": [
+            "adserver.trackstats.info",
             "assets.newsinc.com",
             "assistatv.plughosting.com.br",
             "available.servecounterstrike.com",
