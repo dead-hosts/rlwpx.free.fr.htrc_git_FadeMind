@@ -420,12 +420,7 @@
             "www.mydailyflog.com",
             "www.mystats.fr",
             "www.ohshitmovies.com",
-            "www.onlineauctiontrader.com"
-        ],
-        "to_test": [
-            "adult.koimedia.com",
-            "adultclicks.us",
-            "www.ifollowersmedia.net",
+            "www.onlineauctiontrader.com",
             "www.pass-annuel.com",
             "www.pointofsalelogger.biz",
             "www.powermediainteractive.com",
@@ -445,10 +440,16 @@
             "www.search-itnow.com",
             "www.searchvivor.com",
             "www.securitylog.info",
+            "www.shockcounter.com",
             "www.slap-up-media.net",
             "www.software-comparisons.com",
             "www.splitmyshit.com",
-            "www.statistiq.com",
+            "www.statistiq.com"
+        ],
+        "to_test": [
+            "adult.koimedia.com",
+            "adultclicks.us",
+            "www.ifollowersmedia.net",
             "www.statsforyoursite.com",
             "www.superclicker.com",
             "www.tadine.ca",
