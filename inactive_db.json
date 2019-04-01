@@ -1,13 +1,17 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
-        "1553979052": [
-            "600xt.bbfr.net",
+        "1554151864": [
+            "600xt.bbfr.net"
+        ],
+        "to_test": [
             "adnet.mediawhiz.com",
             "ads.bnmedia.com",
             "ads.empoweringmedia.net",
             "ads.fidelity-media.com",
             "ads.fora.tv",
             "adserver.trackstats.info",
+            "adult.koimedia.com",
+            "adultclicks.us",
             "affiliate.admtracker.com",
             "affiliate.c2mclicks.com",
             "allogay.host-php.org",
@@ -400,6 +404,7 @@
             "www.hitron.net",
             "www.hits4pay.com",
             "www.hitsex.com",
+            "www.ifollowersmedia.net",
             "www.imagup.com",
             "www.imedia-enterprises.com",
             "www.immonitor.com",
@@ -473,17 +478,12 @@
             "www.xratedvoyeur.com",
             "www.xvika.net",
             "www.xvika.org",
+            "www1.dimeclicks.com",
+            "www3.dimeclicks.com",
             "xbusiness.ideaclic.com",
             "xml.searchtraffic.com",
             "zalogdamascus.ru",
             "zhitomir-info.biz"
-        ],
-        "to_test": [
-            "adult.koimedia.com",
-            "adultclicks.us",
-            "www.ifollowersmedia.net",
-            "www1.dimeclicks.com",
-            "www3.dimeclicks.com"
         ]
     }
 }
