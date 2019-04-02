@@ -23801,9 +23801,9 @@
             "state": "future"
         },
         "traffichome.com": {
-            "epoch": "1553990400",
-            "expiration_date": "31-mar-2019",
-            "state": "past"
+            "epoch": "1585612800",
+            "expiration_date": "31-mar-2020",
+            "state": "future"
         },
         "traffichouse.biz": {
             "epoch": "1552176000",
@@ -23886,8 +23886,8 @@
             "state": "future"
         },
         "trafficmarketplace.com": {
-            "epoch": "1554076800",
-            "expiration_date": "01-apr-2019",
+            "epoch": "1585699200",
+            "expiration_date": "01-apr-2020",
             "state": "future"
         },
         "trafficmasters.net": {
@@ -24218,7 +24218,7 @@
         "transclick.com": {
             "epoch": "1554163200",
             "expiration_date": "02-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "transmediadesign.com": {
             "epoch": "1583020800",
