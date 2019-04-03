@@ -1,13 +1,17 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
-        "1554151864": [
-            "600xt.bbfr.net",
+        "1554324735": [
+            "600xt.bbfr.net"
+        ],
+        "to_test": [
             "adnet.mediawhiz.com",
             "ads.bnmedia.com",
             "ads.empoweringmedia.net",
             "ads.fidelity-media.com",
             "ads.fora.tv",
             "ads.stephensmedia.com",
+            "adult.koimedia.com",
+            "adultclicks.us",
             "affiliate.admtracker.com",
             "affiliate.c2mclicks.com",
             "allogay.host-php.org",
@@ -354,12 +358,12 @@
             "www.allencountyfair.info",
             "www.arttraffic.co.uk",
             "www.asianbabemedia.com",
-            "www.bettertradesreview.com",
-            "www.bettertradesworkshops.com",
-            "www.bigtradethere.com",
             "www.avsrated.com",
             "www.babeslog.com",
             "www.bedroommedia.com",
+            "www.bettertradesreview.com",
+            "www.bettertradesworkshops.com",
+            "www.bigtradethere.com",
             "www.blackjackhitorstand.com",
             "www.blogcounter.com",
             "www.blowjob-xrated.com",
@@ -490,17 +494,13 @@
             "www.xratedvoyeur.com",
             "www.xvika.net",
             "www.xvika.org",
+            "www1.dimeclicks.com",
+            "www3.dimeclicks.com",
             "xbusiness.ideaclic.com",
             "xch.mediaexchange.com",
             "xml.searchtraffic.com",
             "zalogdamascus.ru",
             "zhitomir-info.biz"
-        ],
-        "to_test": [
-            "adult.koimedia.com",
-            "adultclicks.us",
-            "www1.dimeclicks.com",
-            "www3.dimeclicks.com"
         ]
     }
 }
