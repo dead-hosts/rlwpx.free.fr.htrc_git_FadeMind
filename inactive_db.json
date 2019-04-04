@@ -78,11 +78,7 @@
             "logworst.nl",
             "m.sharpmobilemarketing.onlinetrafficresults.com",
             "m.standardinteractive.com",
-            "ma.servecounterstrike.com"
-        ],
-        "to_test": [
-            "adult.koimedia.com",
-            "adultclicks.us",
+            "ma.servecounterstrike.com",
             "media.adlegend.com",
             "media.gsimedia.net",
             "media.millennialmedia.com",
@@ -91,7 +87,11 @@
             "media1.ancestry.com",
             "medias.maxidivx.com",
             "mediaspub.lequipe.fr",
-            "mediationcommunautaire.skynetblogs.be",
+            "mediationcommunautaire.skynetblogs.be"
+        ],
+        "to_test": [
+            "adult.koimedia.com",
+            "adultclicks.us",
             "metrics.retail.fidelity.com",
             "mi-agg03.prod.millennialmedia.com",
             "mi-api01.prod.millennialmedia.com",
