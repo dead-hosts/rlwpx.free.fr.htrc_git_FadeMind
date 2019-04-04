@@ -16276,8 +16276,8 @@
             "state": "future"
         },
         "ownclick.com": {
-            "epoch": "1554249600",
-            "expiration_date": "03-apr-2019",
+            "epoch": "1585872000",
+            "expiration_date": "03-apr-2020",
             "state": "future"
         },
         "ownhit.com": {
@@ -16578,7 +16578,7 @@
         "penta-media.com": {
             "epoch": "1554336000",
             "expiration_date": "04-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "peopleareshit.com": {
             "epoch": "1571616000",
@@ -16593,7 +16593,7 @@
         "performanceoptimizer.com": {
             "epoch": "1554336000",
             "expiration_date": "04-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "permissionmedia.com": {
             "epoch": "1580169600",
