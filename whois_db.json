@@ -20326,8 +20326,8 @@
             "state": "future"
         },
         "sitemeter.com": {
-            "epoch": "1554249600",
-            "expiration_date": "03-apr-2019",
+            "epoch": "1617408000",
+            "expiration_date": "03-apr-2021",
             "state": "future"
         },
         "sites-counter.com": {
@@ -20908,7 +20908,7 @@
         "spunkmedia.com": {
             "epoch": "1554336000",
             "expiration_date": "04-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "spy-key-logger.com": {
             "epoch": "1579219200",
