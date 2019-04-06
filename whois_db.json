@@ -19363,7 +19363,7 @@
         "secrettorich.com": {
             "epoch": "1554508800",
             "expiration_date": "06-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "securedvisit.com": {
             "epoch": "1612483200",
@@ -19558,7 +19558,7 @@
         "sex-rated.com": {
             "epoch": "1554508800",
             "expiration_date": "06-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "sex-tracker.com": {
             "epoch": "1575590400",
