@@ -84,11 +84,7 @@
             "media.millennialmedia.com",
             "media.rasazrak.info",
             "media.sentabi.com",
-            "media1.ancestry.com"
-        ],
-        "to_test": [
-            "adult.koimedia.com",
-            "adultclicks.us",
+            "media1.ancestry.com",
             "medias.maxidivx.com",
             "mediaspub.lequipe.fr",
             "mediationcommunautaire.skynetblogs.be",
@@ -161,7 +157,11 @@
             "mm-ws02.prod.millennialmedia.com",
             "movehits.at",
             "mozillafireox.servecounterstrike.com",
-            "mp-gap05.prod.millennialmedia.com",
+            "mp-gap05.prod.millennialmedia.com"
+        ],
+        "to_test": [
+            "adult.koimedia.com",
+            "adultclicks.us",
             "oak1dpu101.insight.omniture.com",
             "oak1dpu102.insight.omniture.com",
             "oak1dpu103.insight.omniture.com",
