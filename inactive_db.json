@@ -287,11 +287,7 @@
             "oak1rpt105.insight.omniture.com",
             "oak1rpt106.insight.omniture.com",
             "oak1rpt107.insight.omniture.com",
-            "oak1rpt108.insight.omniture.com"
-        ],
-        "to_test": [
-            "adult.koimedia.com",
-            "adultclicks.us",
+            "oak1rpt108.insight.omniture.com",
             "oas.salon.com",
             "oascentral.mochila.com",
             "obiloga.noip.me",
@@ -300,7 +296,11 @@
             "origin-rb.insightexpressai.com",
             "pageerror-download.com",
             "pagerank-submit.de",
-            "peypalcomus.hostaty.com",
+            "peypalcomus.hostaty.com"
+        ],
+        "to_test": [
+            "adult.koimedia.com",
+            "adultclicks.us",
             "pistolmedia2.amsnl.webair.com",
             "playsong.mediasongplayer.com",
             "pointofsalelogger.biz",
