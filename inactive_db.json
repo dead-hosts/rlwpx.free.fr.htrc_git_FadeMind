@@ -435,12 +435,7 @@
             "www.mybloggingarea.com",
             "www.mydailyflog.com",
             "www.mystats.fr",
-            "www.navigateur-internet.info"
-        ],
-        "to_test": [
-            "adult.koimedia.com",
-            "adultclicks.us",
-            "tracker.twenga.nl",
+            "www.navigateur-internet.info",
             "www.ohshitmovies.com",
             "www.onlineauctiontrader.com",
             "www.pass-annuel.com",
@@ -461,12 +456,16 @@
             "www.scanspyware.net",
             "www.search-itnow.com",
             "www.searchvivor.com",
-            "www.securitylog.info",
             "www.sextraffic.net",
             "www.sexytracks.net",
             "www.slap-up-media.net",
             "www.softonic-analytics.net",
-            "www.software-comparisons.com",
+            "www.software-comparisons.com"
+        ],
+        "to_test": [
+            "adult.koimedia.com",
+            "adultclicks.us",
+            "tracker.twenga.nl",
             "www.statistiq.com",
             "www.statsforyoursite.com",
             "www.tadine.ca",
