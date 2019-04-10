@@ -19191,8 +19191,8 @@
             "state": "future"
         },
         "scoottrade.com": {
-            "epoch": "1554854400",
-            "expiration_date": "10-apr-2019",
+            "epoch": "1586476800",
+            "expiration_date": "10-apr-2020",
             "state": "future"
         },
         "scottrade3.com": {
@@ -19878,7 +19878,7 @@
         "sexyclicks.com": {
             "epoch": "1554854400",
             "expiration_date": "10-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "sexycounter.com": {
             "epoch": "1571529600",
