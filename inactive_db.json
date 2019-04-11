@@ -1,13 +1,17 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
-        "1554843261": [
-            "600xt.bbfr.net",
+        "1555016121": [
+            "600xt.bbfr.net"
+        ],
+        "to_test": [
             "adnet.mediawhiz.com",
             "ads.bnmedia.com",
             "ads.empoweringmedia.net",
             "ads.fidelity-media.com",
             "ads.fora.tv",
             "ads.stephensmedia.com",
+            "adult.koimedia.com",
+            "adultclicks.us",
             "affiliate.admtracker.com",
             "affiliate.c2mclicks.com",
             "allogay.host-php.org",
@@ -334,6 +338,7 @@
             "track.leadin.com",
             "track.playmoviesx.com",
             "track.radins.com",
+            "tracker.twenga.nl",
             "tracking.absolstats.com",
             "tracking.euroads.fi",
             "tracking.magnify.net",
@@ -363,10 +368,10 @@
             "www.blogcounter.com",
             "www.blowjob-xrated.com",
             "www.buttnakedmedia.com",
+            "www.c.thecounter.de",
             "www.canalstats.com",
             "www.cheque-crise.com",
             "www.cleartrade.net",
-            "www.c.thecounter.de",
             "www.click-space.com",
             "www.click2go.org",
             "www.click42.com",
@@ -488,17 +493,12 @@
             "www.xratedvoyeur.com",
             "www.xvika.net",
             "www.xvika.org",
+            "www1.dimeclicks.com",
+            "www3.dimeclicks.com",
             "xbusiness.ideaclic.com",
             "xml.searchtraffic.com",
             "zalogdamascus.ru",
             "zhitomir-info.biz"
-        ],
-        "to_test": [
-            "adult.koimedia.com",
-            "adultclicks.us",
-            "tracker.twenga.nl",
-            "www1.dimeclicks.com",
-            "www3.dimeclicks.com"
         ]
     }
 }
