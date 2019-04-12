@@ -14443,7 +14443,7 @@
         "microshit.com": {
             "epoch": "1555027200",
             "expiration_date": "12-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "midi-hit.com": {
             "epoch": "1585008000",
@@ -15241,8 +15241,8 @@
             "state": "future"
         },
         "nakedhits.com": {
-            "epoch": "1554940800",
-            "expiration_date": "11-apr-2019",
+            "epoch": "1586563200",
+            "expiration_date": "11-apr-2020",
             "state": "future"
         },
         "nalog.md": {

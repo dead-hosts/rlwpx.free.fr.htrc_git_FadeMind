@@ -90,13 +90,7 @@
             "medias.maxidivx.com",
             "mediaspub.lequipe.fr",
             "mediationcommunautaire.skynetblogs.be",
-            "mediatrax.nl"
-        ],
-        "to_test": [
-            "adult.koimedia.com",
-            "adultclicks.us",
-            "assets.newsinc.com",
-            "click1.mainadv.com",
+            "mediatrax.nl",
             "metrics.retail.fidelity.com",
             "mi-agg03.prod.millennialmedia.com",
             "mi-api01.prod.millennialmedia.com",
@@ -166,7 +160,13 @@
             "mm-ws02.prod.millennialmedia.com",
             "movehits.at",
             "mozillafireox.servecounterstrike.com",
-            "mp-gap05.prod.millennialmedia.com",
+            "mp-gap05.prod.millennialmedia.com"
+        ],
+        "to_test": [
+            "adult.koimedia.com",
+            "adultclicks.us",
+            "assets.newsinc.com",
+            "click1.mainadv.com",
             "oak1dpu101.insight.omniture.com",
             "oak1dpu102.insight.omniture.com",
             "oak1dpu103.insight.omniture.com",
