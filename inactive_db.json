@@ -427,14 +427,7 @@
             "www.mydailyflog.com",
             "www.mystats.fr",
             "www.navigateur-internet.info",
-            "www.neostats.net"
-        ],
-        "to_test": [
-            "adult.koimedia.com",
-            "adultclicks.us",
-            "assets.newsinc.com",
-            "click1.mainadv.com",
-            "statz.123ads.nl",
+            "www.neostats.net",
             "www.ohshitmovies.com",
             "www.onlineauctiontrader.com",
             "www.pass-annuel.com",
@@ -459,7 +452,14 @@
             "www.sexytracks.net",
             "www.slap-up-media.net",
             "www.softonic-analytics.net",
-            "www.software-comparisons.com",
+            "www.software-comparisons.com"
+        ],
+        "to_test": [
+            "adult.koimedia.com",
+            "adultclicks.us",
+            "assets.newsinc.com",
+            "click1.mainadv.com",
+            "statz.123ads.nl",
             "www.statistiq.com",
             "www.statsforyoursite.com",
             "www.tadine.ca",
