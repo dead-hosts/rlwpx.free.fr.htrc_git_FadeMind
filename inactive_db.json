@@ -1,13 +1,18 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
-        "1555016121": [
+        "1555188958": [
             "600xt.bbfr.net",
+            "ad.ableclick.com"
+        ],
+        "to_test": [
             "adnet.mediawhiz.com",
             "ads.bnmedia.com",
             "ads.empoweringmedia.net",
             "ads.fidelity-media.com",
             "ads.fora.tv",
             "ads.stephensmedia.com",
+            "adult.koimedia.com",
+            "adultclicks.us",
             "affiliate.admtracker.com",
             "affiliate.c2mclicks.com",
             "allogay.host-php.org",
@@ -19,6 +24,7 @@
             "anepasrater.skynetblogs.be",
             "antevenio.flux.ads-click.com",
             "app.desktop.ak-networks.com",
+            "assets.newsinc.com",
             "assistatv.plughosting.com.br",
             "available.servecounterstrike.com",
             "aysong.mediasongplayer.com",
@@ -38,6 +44,7 @@
             "click.dictionary.com",
             "click.holland-billing.com",
             "click.lergao.com",
+            "click1.mainadv.com",
             "clicknsee.be",
             "clicks.walla.co.il",
             "cliketclak.skynetblogs.be",
@@ -325,6 +332,7 @@
             "stats.style.com",
             "stats.visibility-stats.com",
             "stats2.mitsil.com",
+            "statz.123ads.nl",
             "sub.smartw.co.kr",
             "subids.tracking202.com",
             "top.c-stat.eu",
@@ -453,6 +461,7 @@
             "www.slap-up-media.net",
             "www.softonic-analytics.net",
             "www.software-comparisons.com",
+            "www.statistiq.com",
             "www.statsforyoursite.com",
             "www.sunnygals.com",
             "www.tadine.ca",
@@ -488,6 +497,8 @@
             "www.xratedlolita.com",
             "www.xratedlolitas.com",
             "www.xratedpartygirls.xxx.us",
+            "www.xratedphotograph.com",
+            "www.xratedpornography.com",
             "www.xratedsex.com",
             "www.xratedteenager.com",
             "www.xratedvoyeur.com",
@@ -495,22 +506,12 @@
             "www.xvika.org",
             "www.xxx-rank.com",
             "www.xxxratedvideos.com",
+            "www1.dimeclicks.com",
+            "www3.dimeclicks.com",
             "xbusiness.ideaclic.com",
             "xml.searchtraffic.com",
             "zalogdamascus.ru",
             "zhitomir-info.biz"
-        ],
-        "to_test": [
-            "adult.koimedia.com",
-            "adultclicks.us",
-            "assets.newsinc.com",
-            "click1.mainadv.com",
-            "statz.123ads.nl",
-            "www.statistiq.com",
-            "www.xratedphotograph.com",
-            "www.xratedpornography.com",
-            "www1.dimeclicks.com",
-            "www3.dimeclicks.com"
         ]
     }
 }
