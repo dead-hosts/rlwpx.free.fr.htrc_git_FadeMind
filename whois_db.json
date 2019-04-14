@@ -25538,7 +25538,7 @@
         "webtrafficspy.com": {
             "epoch": "1555113600",
             "expiration_date": "13-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "webtrafficsystems.net": {
             "epoch": "1584489600",
@@ -25588,7 +25588,7 @@
         "wellstats.com": {
             "epoch": "1555113600",
             "expiration_date": "13-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "weownthetraffic.com": {
             "epoch": "1575936000",
@@ -25701,9 +25701,9 @@
             "state": "future"
         },
         "wierdshit.com": {
-            "epoch": "1554940800",
-            "expiration_date": "11-apr-2019",
-            "state": "past"
+            "epoch": "1586563200",
+            "expiration_date": "11-apr-2020",
+            "state": "future"
         },
         "wifepictrade.com": {
             "epoch": "1570060800",
