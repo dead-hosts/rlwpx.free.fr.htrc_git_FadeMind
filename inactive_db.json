@@ -160,10 +160,7 @@
             "mm-ws02.prod.millennialmedia.com",
             "movehits.at",
             "mozillafireox.servecounterstrike.com",
-            "mp-gap05.prod.millennialmedia.com"
-        ],
-        "to_test": [
-            "clicknsee.be",
+            "mp-gap05.prod.millennialmedia.com",
             "oak1dpu101.insight.omniture.com",
             "oak1dpu102.insight.omniture.com",
             "oak1dpu103.insight.omniture.com",
@@ -297,10 +294,14 @@
             "oas.salon.com",
             "oascentral.mochila.com",
             "obiloga.noip.me",
+            "options.10trade.com",
             "origin-images.insightexpressai.com",
             "origin-invitations.insightexpressai.com",
             "origin-rb.insightexpressai.com",
-            "pageerror-download.com",
+            "pageerror-download.com"
+        ],
+        "to_test": [
+            "clicknsee.be",
             "peypalcomus.hostaty.com",
             "pistolmedia2.amsnl.webair.com",
             "playsong.mediasongplayer.com",
