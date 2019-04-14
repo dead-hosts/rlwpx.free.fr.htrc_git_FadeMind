@@ -8068,7 +8068,7 @@
         "ezinetracking.com": {
             "epoch": "1555200000",
             "expiration_date": "14-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "eztrader.org": {
             "epoch": "1557014400",
@@ -8351,8 +8351,8 @@
             "state": "future"
         },
         "fetishhitsgallery.com": {
-            "epoch": "1555200000",
-            "expiration_date": "14-apr-2019",
+            "epoch": "1586822400",
+            "expiration_date": "14-apr-2020",
             "state": "future"
         },
         "fetishhitshosting.com": {
