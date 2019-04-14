@@ -90,10 +90,7 @@
             "media1.ancestry.com",
             "medias.maxidivx.com",
             "mediaspub.lequipe.fr",
-            "mediationcommunautaire.skynetblogs.be"
-        ],
-        "to_test": [
-            "clicknsee.be",
+            "mediationcommunautaire.skynetblogs.be",
             "metrics.retail.fidelity.com",
             "mi-agg03.prod.millennialmedia.com",
             "mi-api01.prod.millennialmedia.com",
@@ -163,7 +160,10 @@
             "mm-ws02.prod.millennialmedia.com",
             "movehits.at",
             "mozillafireox.servecounterstrike.com",
-            "mp-gap05.prod.millennialmedia.com",
+            "mp-gap05.prod.millennialmedia.com"
+        ],
+        "to_test": [
+            "clicknsee.be",
             "oak1dpu101.insight.omniture.com",
             "oak1dpu102.insight.omniture.com",
             "oak1dpu103.insight.omniture.com",
