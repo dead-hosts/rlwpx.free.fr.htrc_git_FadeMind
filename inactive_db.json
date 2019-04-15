@@ -1,8 +1,9 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
-        "1555188958": [
-            "600xt.bbfr.net",
-            "ad.ableclick.com",
+        "1555361871": [
+            "600xt.bbfr.net"
+        ],
+        "to_test": [
             "adnet.mediawhiz.com",
             "ads.bnmedia.com",
             "ads.empoweringmedia.net",
@@ -42,6 +43,7 @@
             "click.holland-billing.com",
             "click.lergao.com",
             "click1.mainadv.com",
+            "clicknsee.be",
             "clicks.walla.co.il",
             "cliketclak.skynetblogs.be",
             "content.ipro.com",
@@ -376,9 +378,9 @@
             "www.booster-net.com",
             "www.buttnakedmedia.com",
             "www.buy-traffic.net",
+            "www.c.thecounter.de",
             "www.c1.thecounter.de",
             "www.c2.thecounter.de",
-            "www.c.thecounter.de",
             "www.canalstats.com",
             "www.cheque-crise.com",
             "www.cleartrade.net",
@@ -493,15 +495,12 @@
             "www.xratedvoyeur.com",
             "www.xvika.net",
             "www.xvika.org",
+            "www1.dimeclicks.com",
+            "www3.dimeclicks.com",
             "xbusiness.ideaclic.com",
             "xml.searchtraffic.com",
             "zalogdamascus.ru",
             "zhitomir-info.biz"
-        ],
-        "to_test": [
-            "clicknsee.be",
-            "www1.dimeclicks.com",
-            "www3.dimeclicks.com"
         ]
     }
 }
