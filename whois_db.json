@@ -17198,7 +17198,7 @@
         "premiumwanadoo.com": {
             "epoch": "1555372800",
             "expiration_date": "16-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "presstracking.biz": {
             "epoch": "1571011200",
@@ -17386,9 +17386,9 @@
             "state": "future"
         },
         "proxyshit.com": {
-            "epoch": "1555200000",
-            "expiration_date": "14-apr-2019",
-            "state": "past"
+            "epoch": "1586822400",
+            "expiration_date": "14-apr-2020",
+            "state": "future"
         },
         "prtracker.com": {
             "epoch": "1589068800",

@@ -299,10 +299,7 @@
             "origin-images.insightexpressai.com",
             "origin-invitations.insightexpressai.com",
             "origin-rb.insightexpressai.com",
-            "pageerror-download.com"
-        ],
-        "to_test": [
-            "adultclicks.us",
+            "pageerror-download.com",
             "peypalcomus.hostaty.com",
             "pistolmedia2.amsnl.webair.com",
             "playsong.mediasongplayer.com",
@@ -311,7 +308,10 @@
             "popunder.adsrevenue.net",
             "preview.leadmediapartners.com",
             "prod.millennialmedia.com",
-            "program.mediaclick.kr",
+            "program.mediaclick.kr"
+        ],
+        "to_test": [
+            "adultclicks.us",
             "quickbooksbookkeepingorangecounty.us",
             "rank.ranking.gs",
             "s.rankdirectory.org",
