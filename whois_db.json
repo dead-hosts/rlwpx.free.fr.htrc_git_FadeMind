@@ -18951,8 +18951,8 @@
             "state": "future"
         },
         "ruworld.com": {
-            "epoch": "1555286400",
-            "expiration_date": "15-apr-2019",
+            "epoch": "1586908800",
+            "expiration_date": "15-apr-2020",
             "state": "future"
         },
         "rvptracker.com": {
@@ -19028,7 +19028,7 @@
         "sanctionedmedia.com": {
             "epoch": "1555372800",
             "expiration_date": "16-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "sandrateenmodel.com": {
             "epoch": "1563321600",
