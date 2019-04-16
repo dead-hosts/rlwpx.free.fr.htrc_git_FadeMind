@@ -14848,7 +14848,7 @@
         "mp3hitmachine.com": {
             "epoch": "1555286400",
             "expiration_date": "15-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "mp3hitzone.com": {
             "epoch": "1560124800",
@@ -15433,7 +15433,7 @@
         "networkcounters.com": {
             "epoch": "1555372800",
             "expiration_date": "16-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "networldmedia.net": {
             "epoch": "1575331200",
