@@ -1,7 +1,10 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
-        "1555361871": [
+        "1555534711": [
             "600xt.bbfr.net",
+            "active.macromedia.com"
+        ],
+        "to_test": [
             "adnet.mediawhiz.com",
             "ads.bnmedia.com",
             "ads.empoweringmedia.net",
@@ -9,6 +12,7 @@
             "ads.fora.tv",
             "ads.stephensmedia.com",
             "adult.koimedia.com",
+            "adultclicks.us",
             "affiliate.admtracker.com",
             "affiliate.c2mclicks.com",
             "aleksandrate.yoyohost.com",
@@ -389,6 +393,7 @@
             "www.ebannertraffic.com",
             "www.enoratraffic.com",
             "www.ero-hits.com",
+            "www.escorcher.com",
             "www.ez-tracks.com",
             "www.ez4u.net",
             "www.findwhat.com",
@@ -485,6 +490,8 @@
             "www.xratedvoyeur.com",
             "www.xvika.net",
             "www.xvika.org",
+            "www1.dimeclicks.com",
+            "www3.dimeclicks.com",
             "xbusiness.ideaclic.com",
             "xml.searchtraffic.com",
             "xratedpartygirls.xxx.us",
@@ -492,12 +499,6 @@
             "xxxrateddvd.co.uk",
             "zalogdamascus.ru",
             "zhitomir-info.biz"
-        ],
-        "to_test": [
-            "adultclicks.us",
-            "www.escorcher.com",
-            "www1.dimeclicks.com",
-            "www3.dimeclicks.com"
         ]
     }
 }
