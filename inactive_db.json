@@ -334,15 +334,11 @@
             "statz.123ads.nl",
             "sub.smartw.co.kr",
             "subids.tracking202.com",
-            "top.c-stat.eu"
-        ],
-        "to_test": [
-            "clicknsee.be",
+            "top.c-stat.eu",
             "track.divx.com",
             "track.leadin.com",
             "track.playmoviesx.com",
             "track.radins.com",
-            "track.trackads.net",
             "tracker.twenga.nl",
             "tracking.absolstats.com",
             "tracking.euroads.fi",
@@ -350,7 +346,10 @@
             "tracking01a.clickrover.com",
             "trackingdev.nixxie.com",
             "trader.erosdlz.com",
-            "traffichouse.biz",
+            "traffichouse.biz"
+        ],
+        "to_test": [
+            "clicknsee.be",
             "uprank.de",
             "us.myflavia.com.102.112.2o7.net",
             "us.yesup.com",
