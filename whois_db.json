@@ -25993,7 +25993,7 @@
         "x-ratedsex.com": {
             "epoch": "1555545600",
             "expiration_date": "18-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "x-ratedstore.com": {
             "epoch": "1582416000",
@@ -26588,7 +26588,7 @@
         "xsmedia.tv": {
             "epoch": "1555545600",
             "expiration_date": "18-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "xstat.pl": {
             "epoch": "1585267200",
@@ -26676,8 +26676,8 @@
             "state": "future"
         },
         "xxxdiscount.com": {
-            "epoch": "1555459200",
-            "expiration_date": "17-apr-2019",
+            "epoch": "1587081600",
+            "expiration_date": "17-apr-2020",
             "state": "future"
         },
         "xxxencounter.com": {
