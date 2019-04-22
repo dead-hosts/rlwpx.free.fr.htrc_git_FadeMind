@@ -16388,7 +16388,7 @@
         "paidhitworld.com": {
             "epoch": "1555804800",
             "expiration_date": "21-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "paidstats.com": {
             "epoch": "1566432000",
@@ -17183,7 +17183,7 @@
         "premediation.com": {
             "epoch": "1555804800",
             "expiration_date": "21-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "premiumdirectory.net": {
             "epoch": "1566259200",
