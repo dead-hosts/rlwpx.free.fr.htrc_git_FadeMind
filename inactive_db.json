@@ -333,12 +333,7 @@
             "top.c-stat.eu",
             "topclicks.at",
             "track.divx.com",
-            "track.leadin.com"
-        ],
-        "to_test": [
-            "adult.koimedia.com",
-            "adultclicks.us",
-            "sexyclicks.de",
+            "track.leadin.com",
             "track.playmoviesx.com",
             "track.radins.com",
             "tracker.twenga.nl",
@@ -348,7 +343,12 @@
             "tracking01a.clickrover.com",
             "trackingdev.nixxie.com",
             "trader.erosdlz.com",
-            "traffichouse.biz",
+            "traffichouse.biz"
+        ],
+        "to_test": [
+            "adult.koimedia.com",
+            "adultclicks.us",
+            "sexyclicks.de",
             "updatedll.mediathree.net",
             "uprank.de",
             "us.myflavia.com.102.112.2o7.net",
