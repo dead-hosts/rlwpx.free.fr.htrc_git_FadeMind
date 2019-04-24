@@ -15756,8 +15756,8 @@
             "state": "future"
         },
         "offermatica.com": {
-            "epoch": "1555977600",
-            "expiration_date": "23-apr-2019",
+            "epoch": "1587600000",
+            "expiration_date": "23-apr-2020",
             "state": "future"
         },
         "offerpoint.net": {
@@ -16036,8 +16036,8 @@
             "state": "future"
         },
         "onlinesalestracker.com": {
-            "epoch": "1556064000",
-            "expiration_date": "24-apr-2019",
+            "epoch": "1587686400",
+            "expiration_date": "24-apr-2020",
             "state": "future"
         },
         "onlinetoplist.com": {
@@ -16386,9 +16386,9 @@
             "state": "future"
         },
         "paidhitworld.com": {
-            "epoch": "1555804800",
-            "expiration_date": "21-apr-2019",
-            "state": "past"
+            "epoch": "1587427200",
+            "expiration_date": "21-apr-2020",
+            "state": "future"
         },
         "paidstats.com": {
             "epoch": "1566432000",
