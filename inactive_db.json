@@ -1,9 +1,10 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
-        "1556053310": [
+        "1556226153": [
             "600xt.bbfr.net",
-            "active.macromedia.com",
-            "ad.ableclick.com",
+            "active.macromedia.com"
+        ],
+        "to_test": [
             "adnet.mediawhiz.com",
             "ads.adonion.com",
             "ads.bnmedia.com",
@@ -11,6 +12,8 @@
             "ads.fidelity-media.com",
             "ads.fora.tv",
             "ads.stephensmedia.com",
+            "adult.koimedia.com",
+            "adultclicks.us",
             "affiliate.admtracker.com",
             "affiliate.c2mclicks.com",
             "allogay.host-php.org",
@@ -318,6 +321,7 @@
             "sameralrais.hostaty.com",
             "sdgsdgsdg.at.tf",
             "sexfiles.nu",
+            "sexyclicks.de",
             "speedousa.com.102.112.2o7.net",
             "spreadshirt.com.102.112.2o7.net",
             "stat.dk3.com",
@@ -413,6 +417,7 @@
             "www.jalrank.com",
             "www.key-logger.us",
             "www.key-logging-software.org",
+            "www.kompass-intl.com",
             "www.lamedia.ru",
             "www.leopardsearch.com",
             "www.livexxxrated.com",
@@ -480,20 +485,14 @@
             "www.xratedvoyeur.com",
             "www.xvika.net",
             "www.xvika.org",
+            "www1.dimeclicks.com",
+            "www3.dimeclicks.com",
             "xbusiness.ideaclic.com",
             "xml.searchtraffic.com",
             "xrtrlog.cngogo.org",
+            "xxxrateddvd.co.uk",
             "zalogdamascus.ru",
             "zhitomir-info.biz"
-        ],
-        "to_test": [
-            "adult.koimedia.com",
-            "adultclicks.us",
-            "sexyclicks.de",
-            "www.kompass-intl.com",
-            "www1.dimeclicks.com",
-            "www3.dimeclicks.com",
-            "xxxrateddvd.co.uk"
         ]
     }
 }
