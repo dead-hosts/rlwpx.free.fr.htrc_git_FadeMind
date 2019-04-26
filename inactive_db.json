@@ -414,12 +414,7 @@
             "www.jalrank.com",
             "www.key-logger.us",
             "www.key-logging-software.org",
-            "www.kingpinmedia.net"
-        ],
-        "to_test": [
-            "adult.koimedia.com",
-            "adultclicks.us",
-            "www.kompass-intl.com",
+            "www.kingpinmedia.net",
             "www.lamedia.ru",
             "www.leopardsearch.com",
             "www.livexxxrated.com",
@@ -436,10 +431,16 @@
             "www.mybloggingarea.com",
             "www.mystats.fr",
             "www.navigateur-internet.info",
+            "www.neostats.net",
             "www.ohshitmovies.com",
             "www.onlineauctiontrader.com",
             "www.page-rank.net",
-            "www.pass-annuel.com",
+            "www.pass-annuel.com"
+        ],
+        "to_test": [
+            "adult.koimedia.com",
+            "adultclicks.us",
+            "www.kompass-intl.com",
             "www.pointofsalelogger.biz",
             "www.powermediainteractive.com",
             "www.ppctracking.net",
