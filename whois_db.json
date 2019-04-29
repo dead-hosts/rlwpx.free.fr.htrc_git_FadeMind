@@ -16883,7 +16883,7 @@
         "popcounter.com": {
             "epoch": "1556496000",
             "expiration_date": "29-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "popinads.com": {
             "epoch": "1569024000",
@@ -17081,9 +17081,9 @@
             "state": "future"
         },
         "ppcbidtracker.com": {
-            "epoch": "1556323200",
-            "expiration_date": "27-apr-2019",
-            "state": "past"
+            "epoch": "1587945600",
+            "expiration_date": "27-apr-2020",
+            "state": "future"
         },
         "ppctracking.net": {
             "epoch": "1579651200",
