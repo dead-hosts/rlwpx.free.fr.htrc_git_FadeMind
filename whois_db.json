@@ -5061,9 +5061,9 @@
             "state": "future"
         },
         "clicknpost.com": {
-            "epoch": "1556409600",
-            "expiration_date": "28-apr-2019",
-            "state": "past"
+            "epoch": "1588032000",
+            "expiration_date": "28-apr-2020",
+            "state": "future"
         },
         "clicknprosper.com": {
             "epoch": "1568505600",
@@ -5103,7 +5103,7 @@
         "clickonthumbs.com": {
             "epoch": "1556582400",
             "expiration_date": "30-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "clickov.com": {
             "epoch": "1562889600",
