@@ -167,13 +167,11 @@
             "mm-gui01.prod.millennialmedia.com",
             "mm-gui02.prod.millennialmedia.com",
             "mm-ws01.prod.millennialmedia.com",
-            "mm-ws02.prod.millennialmedia.com"
-        ],
-        "to_test": [
-            "click1.mainadv.com",
+            "mm-ws02.prod.millennialmedia.com",
             "movehits.at",
             "mozillafireox.servecounterstrike.com",
             "mp-gap05.prod.millennialmedia.com",
+            "nra.ie",
             "oak1dpu101.insight.omniture.com",
             "oak1dpu102.insight.omniture.com",
             "oak1dpu103.insight.omniture.com",
@@ -244,7 +242,10 @@
             "oak1dpu177.insight.omniture.com",
             "oak1dpu178.insight.omniture.com",
             "oak1dpu179.insight.omniture.com",
-            "oak1dpu180.insight.omniture.com",
+            "oak1dpu180.insight.omniture.com"
+        ],
+        "to_test": [
+            "click1.mainadv.com",
             "oak1dpu181.insight.omniture.com",
             "oak1dpu182.insight.omniture.com",
             "oak1dpu183.insight.omniture.com",
