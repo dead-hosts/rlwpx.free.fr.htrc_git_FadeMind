@@ -96,13 +96,10 @@
             "media.millennialmedia.com",
             "media.rasazrak.info",
             "media.sentabi.com",
-            "media1.ancestry.com"
-        ],
-        "to_test": [
-            "click1.mainadv.com",
+            "media1.ancestry.com",
+            "medias.europacash.com",
             "medias.maxidivx.com",
             "mediaspub.lequipe.fr",
-            "mediatex.in",
             "mediationcommunautaire.skynetblogs.be",
             "metrics.retail.fidelity.com",
             "mi-agg03.prod.millennialmedia.com",
@@ -170,7 +167,10 @@
             "mm-gui01.prod.millennialmedia.com",
             "mm-gui02.prod.millennialmedia.com",
             "mm-ws01.prod.millennialmedia.com",
-            "mm-ws02.prod.millennialmedia.com",
+            "mm-ws02.prod.millennialmedia.com"
+        ],
+        "to_test": [
+            "click1.mainadv.com",
             "movehits.at",
             "mozillafireox.servecounterstrike.com",
             "mp-gap05.prod.millennialmedia.com",
