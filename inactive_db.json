@@ -4,10 +4,9 @@
             "600xt.bbfr.net",
             "active.macromedia.com",
             "adm.soft365.com",
-            "adnet.mediawhiz.com"
-        ],
-        "to_test": [
+            "adnet.mediawhiz.com",
             "ads.adonion.com",
+            "ads.allotraffic.com",
             "ads.bnmedia.com",
             "ads.empoweringmedia.net",
             "ads.fidelity-media.com",
@@ -17,7 +16,9 @@
             "adultclicks.us",
             "affiliate.admtracker.com",
             "affiliate.c2mclicks.com",
-            "allogay.host-php.org",
+            "allogay.host-php.org"
+        ],
+        "to_test": [
             "analytics.androidandme.com",
             "analytics.conmio.com",
             "analytics.dev.popdust.com",
