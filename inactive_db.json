@@ -16,9 +16,7 @@
             "adultclicks.us",
             "affiliate.admtracker.com",
             "affiliate.c2mclicks.com",
-            "allogay.host-php.org"
-        ],
-        "to_test": [
+            "allogay.host-php.org",
             "analytics.androidandme.com",
             "analytics.conmio.com",
             "analytics.dev.popdust.com",
@@ -33,7 +31,9 @@
             "aysong.mediasongplayer.com",
             "b.salon.com",
             "banner.adsrevenue.net",
-            "banner.meerhits.nl",
+            "banner.meerhits.nl"
+        ],
+        "to_test": [
             "biglots.com.102.112.2o7.net",
             "bodhitree.us",
             "bolinux3.hit.no",
