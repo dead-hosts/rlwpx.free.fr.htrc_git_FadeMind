@@ -311,12 +311,7 @@
             "oak1rpt106.insight.omniture.com",
             "oak1rpt107.insight.omniture.com",
             "oak1rpt108.insight.omniture.com",
-            "oas.salon.com"
-        ],
-        "to_test": [
-            "cliketclak.skynetblogs.be",
-            "feeds.wise-click.com",
-            "oascentral.mochila.com",
+            "oas.salon.com",
             "obiloga.noip.me",
             "options.10trade.com",
             "origin-images.insightexpressai.com",
@@ -324,7 +319,12 @@
             "origin-rb.insightexpressai.com",
             "pageerror-download.com",
             "peypalcomus.hostaty.com",
-            "pistolmedia2.amsnl.webair.com",
+            "pistolmedia2.amsnl.webair.com"
+        ],
+        "to_test": [
+            "cliketclak.skynetblogs.be",
+            "feeds.wise-click.com",
+            "oascentral.mochila.com",
             "playsong.mediasongplayer.com",
             "pointofsalelogger.biz",
             "pokpok.meerhits.nl",
