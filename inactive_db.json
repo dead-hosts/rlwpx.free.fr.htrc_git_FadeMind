@@ -178,11 +178,8 @@
             "mm-ws02.prod.millennialmedia.com",
             "movehits.at",
             "mozillafireox.servecounterstrike.com",
-            "mp-gap05.prod.millennialmedia.com"
-        ],
-        "to_test": [
-            "cliketclak.skynetblogs.be",
-            "feeds.wise-click.com",
+            "mp-gap05.prod.millennialmedia.com",
+            "mystats.nl",
             "nra.ie",
             "oak1dpu101.insight.omniture.com",
             "oak1dpu102.insight.omniture.com",
@@ -314,7 +311,11 @@
             "oak1rpt106.insight.omniture.com",
             "oak1rpt107.insight.omniture.com",
             "oak1rpt108.insight.omniture.com",
-            "oas.salon.com",
+            "oas.salon.com"
+        ],
+        "to_test": [
+            "cliketclak.skynetblogs.be",
+            "feeds.wise-click.com",
             "oascentral.mochila.com",
             "obiloga.noip.me",
             "options.10trade.com",
