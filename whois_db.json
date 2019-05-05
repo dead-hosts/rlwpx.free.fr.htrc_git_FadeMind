@@ -23553,7 +23553,7 @@
         "trafficaces.com": {
             "epoch": "1556928000",
             "expiration_date": "04-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "trafficadd.net": {
             "epoch": "1574208000",
@@ -23756,8 +23756,8 @@
             "state": "future"
         },
         "trafficgirl.com": {
-            "epoch": "1557014400",
-            "expiration_date": "05-may-2019",
+            "epoch": "1588636800",
+            "expiration_date": "05-may-2020",
             "state": "future"
         },
         "trafficgoldrush.com": {

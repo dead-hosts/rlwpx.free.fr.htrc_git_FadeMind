@@ -344,13 +344,7 @@
             "sub.smartw.co.kr",
             "subids.tracking202.com",
             "top.c-stat.eu",
-            "topclicks.at"
-        ],
-        "to_test": [
-            "adult.koimedia.com",
-            "adultclicks.us",
-            "img.ads-click.com",
-            "track.blamads.com",
+            "topclicks.at",
             "track.divx.com",
             "track.leadin.com",
             "track.playmoviesx.com",
@@ -358,11 +352,17 @@
             "tracker.twenga.nl",
             "tracking.absolstats.com",
             "tracking.euroads.fi",
+            "tracking.ibexnetwork.com",
             "tracking.optimatic.com",
             "tracking01a.clickrover.com",
             "trackingdev.nixxie.com",
             "trader.erosdlz.com",
-            "traffichouse.biz",
+            "traffichouse.biz"
+        ],
+        "to_test": [
+            "adult.koimedia.com",
+            "adultclicks.us",
+            "img.ads-click.com",
             "up.soft365.com",
             "updatedll.mediathree.net",
             "us.myflavia.com.102.112.2o7.net",
