@@ -421,12 +421,7 @@
             "www.hits4pay.com",
             "www.hoststatistics.com",
             "www.hottrade.biz",
-            "www.imedia-enterprises.com"
-        ],
-        "to_test": [
-            "adult.koimedia.com",
-            "adultclicks.us",
-            "img.ads-click.com",
+            "www.imedia-enterprises.com",
             "www.jalrank.com",
             "www.key-logger.us",
             "www.key-logging-software.org",
@@ -438,6 +433,7 @@
             "www.logequip.com",
             "www.logging.to",
             "www.logworst.nl",
+            "www.mailtracking.com",
             "www.mediacap.net",
             "www.mediadots.com",
             "www.mediasmegaportal.com",
@@ -448,8 +444,12 @@
             "www.mystats.fr",
             "www.navigateur-internet.info",
             "www.ohshitmovies.com",
-            "www.onlineauctiontrader.com",
-            "www.orray.com",
+            "www.onlineauctiontrader.com"
+        ],
+        "to_test": [
+            "adult.koimedia.com",
+            "adultclicks.us",
+            "img.ads-click.com",
             "www.page-rank.net",
             "www.pass-annuel.com",
             "www.pointofsalelogger.biz",
