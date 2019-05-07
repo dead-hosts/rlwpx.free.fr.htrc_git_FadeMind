@@ -21838,7 +21838,7 @@
         "thatshit.com": {
             "epoch": "1557187200",
             "expiration_date": "07-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "the-best-track.com": {
             "epoch": "1684454400",
@@ -22373,7 +22373,7 @@
         "topfree.biz": {
             "epoch": "1557100800",
             "expiration_date": "06-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "topfreeantivirussoftware.com": {
             "epoch": "1568937600",
