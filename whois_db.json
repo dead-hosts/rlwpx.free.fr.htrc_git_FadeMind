@@ -10193,7 +10193,7 @@
         "hitapex.com": {
             "epoch": "1557100800",
             "expiration_date": "06-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "hitass.com": {
             "epoch": "1581552000",
@@ -10203,7 +10203,7 @@
         "hitbest.com": {
             "epoch": "1557100800",
             "expiration_date": "06-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "hitbo.com": {
             "epoch": "1587513600",
@@ -10616,9 +10616,9 @@
             "state": "future"
         },
         "hitporno.com": {
-            "epoch": "1557014400",
-            "expiration_date": "05-may-2019",
-            "state": "past"
+            "epoch": "1588636800",
+            "expiration_date": "05-may-2020",
+            "state": "future"
         },
         "hitpr.org": {
             "epoch": "1585440000",
