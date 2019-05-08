@@ -3738,7 +3738,7 @@
         "casalmedia.com": {
             "epoch": "1557273600",
             "expiration_date": "08-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "cash-professor.com": {
             "epoch": "1567036800",
@@ -4471,8 +4471,8 @@
             "state": "future"
         },
         "clickaudit.com": {
-            "epoch": "1557273600",
-            "expiration_date": "08-may-2019",
+            "epoch": "1588896000",
+            "expiration_date": "08-may-2020",
             "state": "future"
         },
         "clickauditor.net": {
