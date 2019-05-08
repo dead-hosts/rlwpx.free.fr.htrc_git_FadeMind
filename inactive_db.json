@@ -1,8 +1,11 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
-        "1557176871": [
+        "1557349716": [
             "600xt.bbfr.net",
-            "active.macromedia.com",
+            "aarslog.nl",
+            "active.macromedia.com"
+        ],
+        "to_test": [
             "adm.soft365.com",
             "adnet.mediawhiz.com",
             "ads.adonion.com",
@@ -44,6 +47,7 @@
             "click.dictionary.com",
             "click.holland-billing.com",
             "click.lergao.com",
+            "click1.mainadv.com",
             "clicks.walla.co.il",
             "cliketclak.skynetblogs.be",
             "content.ipro.com",
@@ -371,9 +375,9 @@
             "web01.test.millennialmedia.com",
             "webstat.dreamhosters.com",
             "www.10000hits.net",
+            "www.30rated.com",
             "www.5netcounter.com",
             "www.8count.ca",
-            "www.30rated.com",
             "www.abcstats.com",
             "www.academicrank.com",
             "www.aconti.net",
@@ -511,17 +515,14 @@
             "www.xratedzone.com",
             "www.xvika.net",
             "www.xvika.org",
+            "www1.dimeclicks.com",
+            "www3.dimeclicks.com",
             "xbusiness.ideaclic.com",
             "xml.searchtraffic.com",
             "xrtrlog.cngogo.org",
             "xxxrateddvd.co.uk",
             "zalogdamascus.ru",
             "zhitomir-info.biz"
-        ],
-        "to_test": [
-            "click1.mainadv.com",
-            "www1.dimeclicks.com",
-            "www3.dimeclicks.com"
         ]
     }
 }
