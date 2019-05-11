@@ -21258,7 +21258,7 @@
         "statssheet.com": {
             "epoch": "1557532800",
             "expiration_date": "11-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "staunchmedia.com": {
             "epoch": "1573776000",
@@ -21336,8 +21336,8 @@
             "state": "future"
         },
         "strategymedia.net": {
-            "epoch": "1557446400",
-            "expiration_date": "10-may-2019",
+            "epoch": "1589068800",
+            "expiration_date": "10-may-2020",
             "state": "future"
         },
         "streamate.com": {
@@ -21361,8 +21361,8 @@
             "state": "future"
         },
         "styletracking.com": {
-            "epoch": "1557446400",
-            "expiration_date": "10-may-2019",
+            "epoch": "1589068800",
+            "expiration_date": "10-may-2020",
             "state": "future"
         },
         "subcatmedia.com": {
@@ -21616,9 +21616,9 @@
             "state": "future"
         },
         "tantrack.info": {
-            "epoch": "1557360000",
-            "expiration_date": "09-may-2019",
-            "state": "past"
+            "epoch": "1588982400",
+            "expiration_date": "09-may-2020",
+            "state": "future"
         },
         "targetnet.com": {
             "epoch": "1562544000",
