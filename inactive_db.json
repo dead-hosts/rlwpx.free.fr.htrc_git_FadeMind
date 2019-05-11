@@ -88,12 +88,7 @@
             "lhcb-release-area.web.cern.ch",
             "link.ranking.gs",
             "log8.110mb.com",
-            "logfotos.110mb.com"
-        ],
-        "to_test": [
-            "affiliate.admtracker.com",
-            "affiliate.c2mclicks.com",
-            "easytracking.de",
+            "logfotos.110mb.com",
             "logworst.nl",
             "lproot.soft365.com",
             "m.sharpmobilemarketing.onlinetrafficresults.com",
@@ -102,7 +97,12 @@
             "media.adlegend.com",
             "media.gsimedia.net",
             "media.likes.com",
-            "media.maturegratuit.net",
+            "media.maturegratuit.net"
+        ],
+        "to_test": [
+            "affiliate.admtracker.com",
+            "affiliate.c2mclicks.com",
+            "easytracking.de",
             "media.millennialmedia.com",
             "media.rasazrak.info",
             "media.sentabi.com",
