@@ -305,14 +305,7 @@
             "oak1rpt105.insight.omniture.com",
             "oak1rpt106.insight.omniture.com",
             "oak1rpt107.insight.omniture.com",
-            "oak1rpt108.insight.omniture.com"
-        ],
-        "to_test": [
-            "affiliate.admtracker.com",
-            "affiliate.c2mclicks.com",
-            "easytracking.de",
-            "media1.ancestry.com",
-            "media200.110mb.com",
+            "oak1rpt108.insight.omniture.com",
             "oas.salon.com",
             "oascentral.mochila.com",
             "obiloga.noip.me",
@@ -323,7 +316,14 @@
             "pageerror-download.com",
             "peypalcomus.hostaty.com",
             "photoposts.in",
-            "pistolmedia2.amsnl.webair.com",
+            "pistolmedia2.amsnl.webair.com"
+        ],
+        "to_test": [
+            "affiliate.admtracker.com",
+            "affiliate.c2mclicks.com",
+            "easytracking.de",
+            "media1.ancestry.com",
+            "media200.110mb.com",
             "playsong.mediasongplayer.com",
             "pointofsalelogger.biz",
             "pokpok.meerhits.nl",
