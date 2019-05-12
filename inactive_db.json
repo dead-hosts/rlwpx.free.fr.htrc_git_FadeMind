@@ -36,9 +36,7 @@
             "biglots.com.102.112.2o7.net",
             "bodhitree.us",
             "bolinux3.hit.no",
-            "bx.mediat.ro"
-        ],
-        "to_test": [
+            "bx.mediat.ro",
             "cdn.millennialmedia.com",
             "cdn.trafficexchangelist.com",
             "ch.questionmarket.com",
@@ -47,7 +45,9 @@
             "click.dictionary.com",
             "click.holland-billing.com",
             "click.lergao.com",
-            "click1.mainadv.com",
+            "click1.mainadv.com"
+        ],
+        "to_test": [
             "clicks.walla.co.il",
             "cliketclak.skynetblogs.be",
             "content.ipro.com",
