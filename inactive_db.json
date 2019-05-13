@@ -95,10 +95,7 @@
             "lproot.soft365.com",
             "m.sharpmobilemarketing.onlinetrafficresults.com",
             "m.standardinteractive.com",
-            "ma.servecounterstrike.com"
-        ],
-        "to_test": [
-            "invitations.insightexpressai.com",
+            "ma.servecounterstrike.com",
             "media.adlegend.com",
             "media.gsimedia.net",
             "media.likes.com",
@@ -106,8 +103,6 @@
             "media.millennialmedia.com",
             "media.rasazrak.info",
             "media.sentabi.com",
-            "media1.ancestry.com",
-            "media200.110mb.com",
             "medias.europacash.com",
             "medias.maxidivx.com",
             "mediaspub.lequipe.fr",
@@ -173,7 +168,12 @@
             "mi-web40.prod.millennialmedia.com",
             "mi-web41.prod.millennialmedia.com",
             "mi-web42.prod.millennialmedia.com",
-            "mi-web43.prod.millennialmedia.com",
+            "mi-web43.prod.millennialmedia.com"
+        ],
+        "to_test": [
+            "invitations.insightexpressai.com",
+            "media1.ancestry.com",
+            "media200.110mb.com",
             "mittlog.net",
             "mm-gui01.prod.millennialmedia.com",
             "mm-gui02.prod.millennialmedia.com",
