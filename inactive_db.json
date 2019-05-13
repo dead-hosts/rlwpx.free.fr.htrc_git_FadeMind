@@ -176,12 +176,7 @@
             "mm-ws02.prod.millennialmedia.com",
             "movehits.at",
             "mozillafireox.servecounterstrike.com",
-            "mp-gap05.prod.millennialmedia.com"
-        ],
-        "to_test": [
-            "invitations.insightexpressai.com",
-            "media1.ancestry.com",
-            "media200.110mb.com",
+            "mp-gap05.prod.millennialmedia.com",
             "nra.ie",
             "oak1dpu101.insight.omniture.com",
             "oak1dpu102.insight.omniture.com",
@@ -320,7 +315,12 @@
             "origin-images.insightexpressai.com",
             "origin-invitations.insightexpressai.com",
             "origin-rb.insightexpressai.com",
-            "pageerror-download.com",
+            "pageerror-download.com"
+        ],
+        "to_test": [
+            "invitations.insightexpressai.com",
+            "media1.ancestry.com",
+            "media200.110mb.com",
             "peypalcomus.hostaty.com",
             "photoposts.in",
             "pistolmedia2.amsnl.webair.com",
