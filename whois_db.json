@@ -9353,7 +9353,7 @@
         "georgecountyms.com": {
             "epoch": "1557705600",
             "expiration_date": "13-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "geotraffic.net": {
             "epoch": "1569196800",
@@ -9493,7 +9493,7 @@
         "girlsshitting.com": {
             "epoch": "1557619200",
             "expiration_date": "12-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "glbtracker.com": {
             "epoch": "1565136000",
@@ -9576,8 +9576,8 @@
             "state": "future"
         },
         "gohip.com": {
-            "epoch": "1557705600",
-            "expiration_date": "13-may-2019",
+            "epoch": "1589328000",
+            "expiration_date": "13-may-2020",
             "state": "future"
         },
         "gohits.net": {
