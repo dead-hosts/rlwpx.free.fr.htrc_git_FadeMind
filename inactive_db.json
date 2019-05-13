@@ -315,12 +315,7 @@
             "origin-images.insightexpressai.com",
             "origin-invitations.insightexpressai.com",
             "origin-rb.insightexpressai.com",
-            "pageerror-download.com"
-        ],
-        "to_test": [
-            "invitations.insightexpressai.com",
-            "media1.ancestry.com",
-            "media200.110mb.com",
+            "pageerror-download.com",
             "peypalcomus.hostaty.com",
             "photoposts.in",
             "pistolmedia2.amsnl.webair.com",
@@ -329,7 +324,12 @@
             "pokpok.meerhits.nl",
             "preview.leadmediapartners.com",
             "prod.millennialmedia.com",
-            "program.mediaclick.kr",
+            "program.mediaclick.kr"
+        ],
+        "to_test": [
+            "invitations.insightexpressai.com",
+            "media1.ancestry.com",
+            "media200.110mb.com",
             "quickbooksbookkeepingorangecounty.us",
             "rank.ranking.gs",
             "s.rankdirectory.org",
