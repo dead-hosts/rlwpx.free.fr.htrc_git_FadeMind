@@ -10,9 +10,7 @@
             "ads.bnmedia.com",
             "ads.empoweringmedia.net",
             "ads.fidelity-media.com",
-            "ads.fora.tv"
-        ],
-        "to_test": [
+            "ads.fora.tv",
             "ads.stephensmedia.com",
             "adult.koimedia.com",
             "adultclicks.us",
@@ -25,7 +23,9 @@
             "analytics.spongecell.com",
             "andorra.indymedia.org",
             "anepasrater.skynetblogs.be",
-            "antevenio.flux.ads-click.com",
+            "antevenio.flux.ads-click.com"
+        ],
+        "to_test": [
             "app.desktop.ak-networks.com",
             "assets.newsinc.com",
             "assistatv.plughosting.com.br",
