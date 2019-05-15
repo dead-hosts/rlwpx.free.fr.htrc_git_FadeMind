@@ -15071,8 +15071,8 @@
             "state": "future"
         },
         "mycounter.ua": {
-            "epoch": "1557878400",
-            "expiration_date": "15-may-2019",
+            "epoch": "1589500800",
+            "expiration_date": "15-may-2020",
             "state": "future"
         },
         "mydailyflog.com": {
@@ -15088,7 +15088,7 @@
         "myfasterpc.com": {
             "epoch": "1557792000",
             "expiration_date": "14-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "mygiftcounts.net": {
             "epoch": "1576454400",
@@ -15096,9 +15096,9 @@
             "state": "future"
         },
         "mygiftcounts.org": {
-            "epoch": "1557705600",
-            "expiration_date": "13-may-2019",
-            "state": "past"
+            "epoch": "1589328000",
+            "expiration_date": "13-may-2020",
+            "state": "future"
         },
         "myhitbox.com": {
             "epoch": "1573603200",
@@ -15191,8 +15191,8 @@
             "state": "future"
         },
         "mystat-in.net": {
-            "epoch": "1557792000",
-            "expiration_date": "14-may-2019",
+            "epoch": "1620950400",
+            "expiration_date": "14-may-2021",
             "state": "future"
         },
         "mystat.it": {
