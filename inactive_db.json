@@ -338,13 +338,7 @@
             "spreadshirt.com.102.112.2o7.net",
             "stat.17k.com",
             "stat.dk3.com",
-            "stat.infoclear.sco.kr"
-        ],
-        "to_test": [
-            "biglots.com.102.112.2o7.net",
-            "media1.ancestry.com",
-            "media200.110mb.com",
-            "sameralrais.hostaty.com",
+            "stat.infoclear.sco.kr",
             "stats-ec2-46-137-101-227.layar.com",
             "stats.ars4real.com",
             "stats.host1free.com",
@@ -352,7 +346,13 @@
             "stats.style.com",
             "statz.123ads.nl",
             "sub.smartw.co.kr",
-            "subids.tracking202.com",
+            "subids.tracking202.com"
+        ],
+        "to_test": [
+            "biglots.com.102.112.2o7.net",
+            "media1.ancestry.com",
+            "media200.110mb.com",
+            "sameralrais.hostaty.com",
             "top.c-stat.eu",
             "topclicks.at",
             "track.divx.com",
