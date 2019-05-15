@@ -176,12 +176,7 @@
             "movehits.at",
             "mozillafireox.servecounterstrike.com",
             "mp-gap05.prod.millennialmedia.com",
-            "nra.ie"
-        ],
-        "to_test": [
-            "biglots.com.102.112.2o7.net",
-            "media1.ancestry.com",
-            "media200.110mb.com",
+            "nra.ie",
             "oak1dpu101.insight.omniture.com",
             "oak1dpu102.insight.omniture.com",
             "oak1dpu103.insight.omniture.com",
@@ -320,7 +315,14 @@
             "origin-invitations.insightexpressai.com",
             "origin-rb.insightexpressai.com",
             "pageerror-download.com",
-            "peypalcomus.hostaty.com",
+            "pagerank-submit.de",
+            "pagerank-united.de",
+            "peypalcomus.hostaty.com"
+        ],
+        "to_test": [
+            "biglots.com.102.112.2o7.net",
+            "media1.ancestry.com",
+            "media200.110mb.com",
             "photoposts.in",
             "pistolmedia2.amsnl.webair.com",
             "playsong.mediasongplayer.com",
