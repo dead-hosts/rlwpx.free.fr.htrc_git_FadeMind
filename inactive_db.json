@@ -99,14 +99,9 @@
             "media.gsimedia.net",
             "media.likes.com",
             "media.maturegratuit.net",
-            "media.millennialmedia.com"
-        ],
-        "to_test": [
-            "biglots.com.102.112.2o7.net",
+            "media.millennialmedia.com",
             "media.rasazrak.info",
             "media.sentabi.com",
-            "media1.ancestry.com",
-            "media200.110mb.com",
             "medias.europacash.com",
             "medias.maxidivx.com",
             "mediaspub.lequipe.fr",
@@ -177,7 +172,12 @@
             "mm-gui01.prod.millennialmedia.com",
             "mm-gui02.prod.millennialmedia.com",
             "mm-ws01.prod.millennialmedia.com",
-            "mm-ws02.prod.millennialmedia.com",
+            "mm-ws02.prod.millennialmedia.com"
+        ],
+        "to_test": [
+            "biglots.com.102.112.2o7.net",
+            "media1.ancestry.com",
+            "media200.110mb.com",
             "movehits.at",
             "mozillafireox.servecounterstrike.com",
             "mp-gap05.prod.millennialmedia.com",
