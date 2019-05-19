@@ -98,7 +98,11 @@
             "medias.europacash.com",
             "mediaspub.lequipe.fr",
             "mediationcommunautaire.skynetblogs.be",
-            "metrics.retail.fidelity.com"
+            "metrics.retail.fidelity.com",
+            "mi-api01.prod.millennialmedia.com",
+            "mi-agg03.prod.millennialmedia.com",
+            "mi-beta01.prod.millennialmedia.com",
+            "mi-api02.prod.millennialmedia.com"
         ],
         "to_test": [
             "600xt.bbfr.net",
