@@ -138,6 +138,7 @@
             "mi-memstore07.prod.millennialmedia.com",
             "mi-memstore08.prod.millennialmedia.com",
             "mi-qa01.prod.millennialmedia.com",
+            "mi-qa01.prod.millenrod.millennialmedia.com",
             "mi-qa02.prod.millennialmedia.com",
             "mi-rsc01.prod.millennialmedia.com",
             "mi-rsc02.prod.millennialmedia.com",
@@ -399,6 +400,7 @@
             "vlogic.ak-networks.com",
             "wdc.mediation.nexage.com",
             "web.softonic-analytics.net",
+            "web.softonnuel.com",
             "web01.test.millennialmedia.com",
             "webstat.dreamhosters.com",
             "webstats.com.br",
@@ -550,7 +552,9 @@
             "xml.searchtraffic.com",
             "xratedmatureporn.tv",
             "xrtrlog.cngogo.org",
-            "xxxrateddvd.co.uk"
+            "xxxrateddvd.co.uk",
+            "zalogdamascus.ru",
+            "zhitomir-info.biz"
         ],
         "to_test": [
             "ads.empoweringmedia.net",
@@ -559,7 +563,6 @@
             "analytics.conmio.com",
             "easytracking.de",
             "images.stats.lt",
-            "mi-qa01.prod.millenrod.millennialmedia.com",
             "nra.ie",
             "pagerank-submit.de",
             "pagerank-united.de",
@@ -567,7 +570,6 @@
             "pichat-wiki.de",
             "statz.123ads.nl",
             "traderfr.leakingliquids.com",
-            "web.softonnuel.com",
             "www.chanrank.org",
             "www.ez-tracks.com",
             "www.gotrackthis.com",
@@ -578,9 +580,7 @@
             "www.searchvivor.com",
             "www.send-safe.com",
             "www.sextraffic.net",
-            "www.trafficrank.com",
-            "zalogdamascus.ru",
-            "zhitomir-info.biz"
+            "www.trafficrank.com"
         ]
     }
 }
