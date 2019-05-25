@@ -12095,8 +12095,8 @@
         "state": "future"
     },
     "karting-logatec.si": {
-        "epoch": "1558483200",
-        "expiration_date": "22-may-2019",
+        "epoch": 1590105600,
+        "expiration_date": "22-may-2020",
         "state": "future"
     },
     "kartsportmedia.com": {
@@ -12640,9 +12640,9 @@
         "state": "future"
     },
     "linuxtracker.org": {
-        "epoch": "1558742400",
+        "epoch": 1558742400,
         "expiration_date": "25-may-2019",
-        "state": "future"
+        "state": "past"
     },
     "liquidmedianetworks.com": {
         "epoch": "1569542400",
@@ -12660,18 +12660,18 @@
         "state": "future"
     },
     "list-manage1.com": {
-        "epoch": "1558137600",
-        "expiration_date": "18-may-2019",
+        "epoch": 1589760000,
+        "expiration_date": "18-may-2020",
         "state": "future"
     },
     "list-manage2.com": {
-        "epoch": "1558137600",
-        "expiration_date": "18-may-2019",
+        "epoch": 1589760000,
+        "expiration_date": "18-may-2020",
         "state": "future"
     },
     "list-manage3.com": {
-        "epoch": "1558137600",
-        "expiration_date": "18-may-2019",
+        "epoch": 1589760000,
+        "expiration_date": "18-may-2020",
         "state": "future"
     },
     "list-manage4.com": {
@@ -12685,13 +12685,13 @@
         "state": "future"
     },
     "list-manage6.com": {
-        "epoch": "1558137600",
-        "expiration_date": "18-may-2019",
+        "epoch": 1589760000,
+        "expiration_date": "18-may-2020",
         "state": "future"
     },
     "list-manage7.com": {
-        "epoch": "1558137600",
-        "expiration_date": "18-may-2019",
+        "epoch": 1589760000,
+        "expiration_date": "18-may-2020",
         "state": "future"
     },
     "list-manage8.com": {
@@ -12700,8 +12700,8 @@
         "state": "future"
     },
     "list-manage9.com": {
-        "epoch": "1558137600",
-        "expiration_date": "18-may-2019",
+        "epoch": 1589760000,
+        "expiration_date": "18-may-2020",
         "state": "future"
     },
     "list.ru": {
