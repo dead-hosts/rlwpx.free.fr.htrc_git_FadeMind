@@ -6555,9 +6555,9 @@
         "state": "future"
     },
     "dduwghitwzddmrsukswplbfy.biz": {
-        "epoch": "1559088000",
+        "epoch": 1559088000,
         "expiration_date": "29-may-2019",
-        "state": "future"
+        "state": "past"
     },
     "dealsters.com": {
         "epoch": "1559952000",
@@ -6630,9 +6630,9 @@
         "state": "future"
     },
     "derkhqrkkfwsdfexwhhitgelrmzeq.biz": {
-        "epoch": "1559088000",
+        "epoch": 1559088000,
         "expiration_date": "29-may-2019",
-        "state": "future"
+        "state": "past"
     },
     "designbuildmedia.com": {
         "epoch": "1588809600",
@@ -6665,8 +6665,8 @@
         "state": "future"
     },
     "developertrack.com": {
-        "epoch": "1559001600",
-        "expiration_date": "28-may-2019",
+        "epoch": 1590624000,
+        "expiration_date": "28-may-2020",
         "state": "future"
     },
     "devhit.com": {
@@ -6685,9 +6685,9 @@
         "state": "future"
     },
     "dhitlausoxsvghpvluorsmrwc.biz": {
-        "epoch": "1559088000",
+        "epoch": 1559088000,
         "expiration_date": "29-may-2019",
-        "state": "future"
+        "state": "past"
     },
     "dialersworld.com": {
         "epoch": "1535760000",
@@ -6980,8 +6980,8 @@
         "state": "future"
     },
     "doubleclick.com": {
-        "epoch": "1559001600",
-        "expiration_date": "28-may-2019",
+        "epoch": 1590624000,
+        "expiration_date": "28-may-2020",
         "state": "future"
     },
     "doubleclickllc.com": {
