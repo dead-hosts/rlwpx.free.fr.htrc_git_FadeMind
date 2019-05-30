@@ -18,14 +18,8 @@
             "adultclicks.us",
             "affiliate.admtracker.com",
             "affiliate.c2mclicks.com",
-            "allogay.host-php.org"
-        ],
-        "to_test": [
-            "ads.empoweringmedia.net",
-            "ads.mediacapital.pt",
-            "ads1.mediacapital.pt",
+            "allogay.host-php.org",
             "analytics.androidandme.com",
-            "analytics.conmio.com",
             "analytics.dev.popdust.com",
             "analytics.spongecell.com",
             "andorra.indymedia.org",
@@ -34,7 +28,13 @@
             "app.desktop.ak-networks.com",
             "assets.newsinc.com",
             "assistatv.plughosting.com.br",
-            "available.servecounterstrike.com",
+            "available.servecounterstrike.com"
+        ],
+        "to_test": [
+            "ads.empoweringmedia.net",
+            "ads.mediacapital.pt",
+            "ads1.mediacapital.pt",
+            "analytics.conmio.com",
             "aysong.mediasongplayer.com",
             "b.salon.com",
             "bagscountto.superweb.tv",
