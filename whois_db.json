@@ -11665,9 +11665,9 @@
         "state": "future"
     },
     "internetcount.com": {
-        "epoch": "1559260800",
+        "epoch": 1559260800,
         "expiration_date": "31-may-2019",
-        "state": "future"
+        "state": "past"
     },
     "internetcountercheck.com": {
         "epoch": "1579478400",
@@ -11795,9 +11795,9 @@
         "state": "future"
     },
     "isphost.org": {
-        "epoch": "1559260800",
+        "epoch": 1559260800,
         "expiration_date": "31-may-2019",
-        "state": "future"
+        "state": "past"
     },
     "ist-track.com": {
         "epoch": "1573516800",
