@@ -12160,8 +12160,8 @@
         "state": "future"
     },
     "keywordtrafficpro.com": {
-        "epoch": "1559088000",
-        "expiration_date": "29-may-2019",
+        "epoch": 1590710400,
+        "expiration_date": "29-may-2020",
         "state": "future"
     },
     "khikhi.com": {
@@ -12315,8 +12315,8 @@
         "state": "future"
     },
     "landinghall.com": {
-        "epoch": "1559174400",
-        "expiration_date": "30-may-2019",
+        "epoch": 1590796800,
+        "expiration_date": "30-may-2020",
         "state": "future"
     },
     "lanvintraffic.com": {
@@ -12780,9 +12780,9 @@
         "state": "future"
     },
     "llfdlkfusbuhitpaiqklonv.biz": {
-        "epoch": "1559088000",
+        "epoch": 1559088000,
         "expiration_date": "29-may-2019",
-        "state": "future"
+        "state": "past"
     },
     "lltrifutracker.com": {
         "epoch": "1570924800",
