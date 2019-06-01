@@ -2770,8 +2770,8 @@
         "state": "future"
     },
     "bidtrk.com": {
-        "epoch": "1559260800",
-        "expiration_date": "31-may-2019",
+        "epoch": 1590883200,
+        "expiration_date": "31-may-2020",
         "state": "future"
     },
     "big-traffic.com": {
@@ -2875,9 +2875,9 @@
         "state": "future"
     },
     "biqclncebepdgadzplaedhitto.biz": {
-        "epoch": "1559088000",
+        "epoch": 1559088000,
         "expiration_date": "29-may-2019",
-        "state": "future"
+        "state": "past"
     },
     "birdmobster.info": {
         "epoch": "1579219200",
@@ -3435,9 +3435,9 @@
         "state": "future"
     },
     "budsinc.com": {
-        "epoch": "1559347200",
+        "epoch": 1559347200,
         "expiration_date": "01-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "budtrader.com": {
         "epoch": "1648598400",
