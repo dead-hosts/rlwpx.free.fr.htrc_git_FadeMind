@@ -18550,9 +18550,9 @@
         "state": "future"
     },
     "redhothits.com": {
-        "epoch": "1559520000",
+        "epoch": 1559520000,
         "expiration_date": "03-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "redirecthit.com": {
         "epoch": "1583798400",
