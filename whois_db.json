@@ -16560,9 +16560,9 @@
         "state": "future"
     },
     "peedymedia.com": {
-        "epoch": 1559433600,
-        "expiration_date": "02-jun-2019",
-        "state": "past"
+        "epoch": 1591056000,
+        "expiration_date": "02-jun-2020",
+        "state": "future"
     },
     "peekstats.com": {
         "epoch": "1571097600",
@@ -17130,9 +17130,9 @@
         "state": "future"
     },
     "prankishdaddy.com": {
-        "epoch": "1559520000",
+        "epoch": 1559520000,
         "expiration_date": "03-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "pranks.co": {
         "epoch": "1563580800",
