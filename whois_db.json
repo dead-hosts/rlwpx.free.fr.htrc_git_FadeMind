@@ -18260,9 +18260,9 @@
         "state": "future"
     },
     "ratemynurse.com": {
-        "epoch": "1559606400",
+        "epoch": 1559606400,
         "expiration_date": "04-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "ratemypix.com": {
         "epoch": "1589155200",
