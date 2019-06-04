@@ -8275,9 +8275,9 @@
         "state": "future"
     },
     "fatpenguinmedia.com": {
-        "epoch": "1559606400",
+        "epoch": 1559606400,
         "expiration_date": "04-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "fayettecountygeorgia.com": {
         "epoch": "1566345600",
