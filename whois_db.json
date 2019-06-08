@@ -8205,8 +8205,8 @@
         "state": "future"
     },
     "fastmediasearcher.com": {
-        "epoch": "1559865600",
-        "expiration_date": "07-jun-2019",
+        "epoch": 1591488000,
+        "expiration_date": "07-jun-2020",
         "state": "future"
     },
     "fastnclick.com": {
@@ -8275,9 +8275,9 @@
         "state": "future"
     },
     "fatpenguinmedia.com": {
-        "epoch": 1559606400,
-        "expiration_date": "04-jun-2019",
-        "state": "past"
+        "epoch": 1591228800,
+        "expiration_date": "04-jun-2020",
+        "state": "future"
     },
     "fayettecountygeorgia.com": {
         "epoch": "1566345600",
@@ -9055,9 +9055,9 @@
         "state": "future"
     },
     "funnyhits.com": {
-        "epoch": "1559865600",
+        "epoch": 1559865600,
         "expiration_date": "07-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "funnyrank.com": {
         "epoch": "1571356800",
