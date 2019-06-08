@@ -10275,9 +10275,9 @@
         "state": "future"
     },
     "hitco.ru": {
-        "epoch": "1559952000",
+        "epoch": 1559952000,
         "expiration_date": "08-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "hitconnect.com": {
         "epoch": "1582416000",
@@ -10950,9 +10950,9 @@
         "state": "future"
     },
     "hostingclicks.com": {
-        "epoch": "1559952000",
+        "epoch": 1559952000,
         "expiration_date": "08-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "hostingprod.com": {
         "epoch": "1572307200",
