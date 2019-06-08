@@ -11645,9 +11645,9 @@
         "state": "future"
     },
     "intermediator.it": {
-        "epoch": "1559865600",
+        "epoch": 1559865600,
         "expiration_date": "07-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "internationalmedianews.com": {
         "epoch": "1566518400",
@@ -11845,9 +11845,9 @@
         "state": "past"
     },
     "ivimedia.net": {
-        "epoch": "1559865600",
+        "epoch": 1559865600,
         "expiration_date": "07-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "ivpromedia.ru": {
         "epoch": "1561766400",
@@ -11895,9 +11895,9 @@
         "state": "future"
     },
     "jagtraders.com": {
-        "epoch": 1559606400,
-        "expiration_date": "04-jun-2019",
-        "state": "past"
+        "epoch": 1591228800,
+        "expiration_date": "04-jun-2020",
+        "state": "future"
     },
     "jakecruisemedia.com": {
         "epoch": "1566518400",
