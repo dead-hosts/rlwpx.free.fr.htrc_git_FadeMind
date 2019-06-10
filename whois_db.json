@@ -20450,8 +20450,8 @@
         "state": "future"
     },
     "smartadserver.com": {
-        "epoch": "1560124800",
-        "expiration_date": "10-jun-2019",
+        "epoch": 1591747200,
+        "expiration_date": "10-jun-2020",
         "state": "future"
     },
     "smartclick.com": {
@@ -20935,9 +20935,9 @@
         "state": "future"
     },
     "spyboot.com": {
-        "epoch": "1560124800",
+        "epoch": 1560124800,
         "expiration_date": "10-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "spydersempire.com": {
         "epoch": "1580515200",
@@ -21035,8 +21035,8 @@
         "state": "future"
     },
     "standardmedia.co.ke": {
-        "epoch": "1558483200",
-        "expiration_date": "22-may-2019",
+        "epoch": 1590105600,
+        "expiration_date": "22-may-2020",
         "state": "future"
     },
     "starclicks.com": {
