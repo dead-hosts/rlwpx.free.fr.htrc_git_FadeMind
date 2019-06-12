@@ -21795,9 +21795,9 @@
         "state": "future"
     },
     "testdomen.com": {
-        "epoch": "1560297600",
+        "epoch": 1560297600,
         "expiration_date": "12-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "testmedia.net": {
         "epoch": "1533945600",
