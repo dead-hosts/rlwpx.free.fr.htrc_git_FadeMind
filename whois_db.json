@@ -12305,8 +12305,8 @@
         "state": "future"
     },
     "lamedia.ru": {
-        "epoch": "1560211200",
-        "expiration_date": "11-jun-2019",
+        "epoch": 1594512000,
+        "expiration_date": "12-jul-2020",
         "state": "future"
     },
     "lamiaexragazza.com": {
@@ -12420,9 +12420,9 @@
         "state": "future"
     },
     "leadtrackgo.com": {
-        "epoch": "1560211200",
+        "epoch": 1560211200,
         "expiration_date": "11-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "learn-medical-statistics.com": {
         "epoch": "1569542400",
