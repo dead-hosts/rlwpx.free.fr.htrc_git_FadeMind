@@ -23405,8 +23405,8 @@
         "state": "future"
     },
     "tradeventures.com": {
-        "epoch": "1560211200",
-        "expiration_date": "11-jun-2019",
+        "epoch": 1591833600,
+        "expiration_date": "11-jun-2020",
         "state": "future"
     },
     "tradewindsdecking.com": {
@@ -24400,9 +24400,9 @@
         "state": "future"
     },
     "twin-star-media.com": {
-        "epoch": "1560211200",
+        "epoch": 1560211200,
         "expiration_date": "11-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "twinsmedia.com": {
         "epoch": "1566691200",
