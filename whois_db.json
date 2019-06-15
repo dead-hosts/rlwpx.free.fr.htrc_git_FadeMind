@@ -2915,8 +2915,8 @@
         "state": "future"
     },
     "blackoakmedia.com": {
-        "epoch": "1560297600",
-        "expiration_date": "12-jun-2019",
+        "epoch": 1591920000,
+        "expiration_date": "12-jun-2020",
         "state": "future"
     },
     "blacktraffic.com": {
@@ -3580,9 +3580,9 @@
         "state": "future"
     },
     "buyonlinetraffic.com": {
-        "epoch": "1560556800",
+        "epoch": 1560556800,
         "expiration_date": "15-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "buysocialmediamarketing.com": {
         "epoch": "1588464000",
@@ -3820,8 +3820,8 @@
         "state": "future"
     },
     "casinopays.com": {
-        "epoch": "1560384000",
-        "expiration_date": "13-jun-2019",
+        "epoch": 1592006400,
+        "expiration_date": "13-jun-2020",
         "state": "future"
     },
     "casinoranking.com": {
