@@ -1990,8 +1990,8 @@
         "state": "future"
     },
     "asstraffic.biz": {
-        "epoch": "1560297600",
-        "expiration_date": "12-jun-2019",
+        "epoch": 1591920000,
+        "expiration_date": "12-jun-2020",
         "state": "future"
     },
     "asstraffic.com": {
@@ -2300,9 +2300,9 @@
         "state": "future"
     },
     "awmtrade.biz": {
-        "epoch": "1560297600",
+        "epoch": 1560297600,
         "expiration_date": "12-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "awsclic.com": {
         "epoch": "1573084800",
