@@ -21090,9 +21090,9 @@
         "state": "future"
     },
     "statblaster.com": {
-        "epoch": "1560816000",
+        "epoch": 1560816000,
         "expiration_date": "18-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "statbrain.com": {
         "epoch": "1582329600",
