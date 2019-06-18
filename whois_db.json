@@ -460,8 +460,8 @@
         "state": "future"
     },
     "aaronkratenart.com": {
-        "epoch": "1560816000",
-        "expiration_date": "18-jun-2019",
+        "epoch": 1592438400,
+        "expiration_date": "18-jun-2020",
         "state": "future"
     },
     "aatracker.com": {
@@ -640,9 +640,9 @@
         "state": "future"
     },
     "adacountysherriff.org": {
-        "epoch": "1560816000",
+        "epoch": 1560816000,
         "expiration_date": "18-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "adamscountycourt.com": {
         "epoch": "1583452800",
