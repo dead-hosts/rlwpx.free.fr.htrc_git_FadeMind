@@ -16045,9 +16045,9 @@
         "state": "future"
     },
     "onlineuserscounter.com": {
-        "epoch": 1560556800,
-        "expiration_date": "15-jun-2019",
-        "state": "past"
+        "epoch": 1592179200,
+        "expiration_date": "15-jun-2020",
+        "state": "future"
     },
     "onlinewebstats.com": {
         "epoch": "1561075200",
@@ -16115,8 +16115,8 @@
         "state": "future"
     },
     "opentracker.net": {
-        "epoch": "1560816000",
-        "expiration_date": "18-jun-2019",
+        "epoch": 1592438400,
+        "expiration_date": "18-jun-2020",
         "state": "future"
     },
     "openxmedia.com": {
@@ -16320,9 +16320,9 @@
         "state": "future"
     },
     "pacificmediaent.com": {
-        "epoch": "1560816000",
+        "epoch": 1560816000,
         "expiration_date": "18-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "pad-media.com": {
         "epoch": "1564876800",
