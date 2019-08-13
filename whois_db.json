@@ -13125,9 +13125,9 @@
         "state": "future"
     },
     "mamainbed.com": {
-        "epoch": "1561680000",
+        "epoch": 1561680000,
         "expiration_date": "28-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "manhattanmediation.com": {
         "epoch": "1573689600",
@@ -13145,8 +13145,8 @@
         "state": "future"
     },
     "marcimmediato.com": {
-        "epoch": "1562544000",
-        "expiration_date": "08-jul-2019",
+        "epoch": 1594166400,
+        "expiration_date": "08-jul-2020",
         "state": "future"
     },
     "marinsm.com": {
@@ -13170,8 +13170,8 @@
         "state": "future"
     },
     "marrammedia.com": {
-        "epoch": "1565568000",
-        "expiration_date": "12-aug-2019",
+        "epoch": 1597190400,
+        "expiration_date": "12-aug-2020",
         "state": "future"
     },
     "marriedencounter.com": {
@@ -13205,8 +13205,8 @@
         "state": "future"
     },
     "masmedianet.com": {
-        "epoch": "1564531200",
-        "expiration_date": "31-jul-2019",
+        "epoch": 1596153600,
+        "expiration_date": "31-jul-2020",
         "state": "future"
     },
     "mass-traffic.com": {
@@ -13235,13 +13235,13 @@
         "state": "future"
     },
     "masterstats.com": {
-        "epoch": "1563494400",
-        "expiration_date": "19-jul-2019",
+        "epoch": 1595116800,
+        "expiration_date": "19-jul-2020",
         "state": "future"
     },
     "mastertrader.info": {
-        "epoch": "1564790400",
-        "expiration_date": "03-aug-2019",
+        "epoch": 1596412800,
+        "expiration_date": "03-aug-2020",
         "state": "future"
     },
     "matchclick.com": {
@@ -13335,8 +13335,8 @@
         "state": "future"
     },
     "mcounter.com": {
-        "epoch": "1562198400",
-        "expiration_date": "04-jul-2019",
+        "epoch": 1593820800,
+        "expiration_date": "04-jul-2020",
         "state": "future"
     },
     "mcpatrack.tv": {
@@ -13345,8 +13345,8 @@
         "state": "future"
     },
     "mcstatts.com": {
-        "epoch": "1564876800",
-        "expiration_date": "04-aug-2019",
+        "epoch": 1596499200,
+        "expiration_date": "04-aug-2020",
         "state": "future"
     },
     "mdmedia.org": {
@@ -13370,8 +13370,8 @@
         "state": "future"
     },
     "media-app.com": {
-        "epoch": "1563148800",
-        "expiration_date": "15-jul-2019",
+        "epoch": 1594771200,
+        "expiration_date": "15-jul-2020",
         "state": "future"
     },
     "media-apps.cc": {
@@ -13395,13 +13395,13 @@
         "state": "future"
     },
     "media-complex.ru": {
-        "epoch": "1562198400",
-        "expiration_date": "04-jul-2019",
+        "epoch": 1593820800,
+        "expiration_date": "04-jul-2020",
         "state": "future"
     },
     "media-converter.com": {
-        "epoch": "1563840000",
-        "expiration_date": "23-jul-2019",
+        "epoch": 1595462400,
+        "expiration_date": "23-jul-2020",
         "state": "future"
     },
     "media-drive.com": {
@@ -13410,8 +13410,8 @@
         "state": "future"
     },
     "media-info.ru": {
-        "epoch": "1562112000",
-        "expiration_date": "03-jul-2019",
+        "epoch": 1593734400,
+        "expiration_date": "03-jul-2020",
         "state": "future"
     },
     "media-kb.com": {
@@ -13520,8 +13520,8 @@
         "state": "future"
     },
     "media4sale.com": {
-        "epoch": "1561075200",
-        "expiration_date": "21-jun-2019",
+        "epoch": 1592697600,
+        "expiration_date": "21-jun-2020",
         "state": "future"
     },
     "media970.com": {
@@ -13575,8 +13575,8 @@
         "state": "future"
     },
     "mediabrain.net": {
-        "epoch": "1562889600",
-        "expiration_date": "12-jul-2019",
+        "epoch": 1594512000,
+        "expiration_date": "12-jul-2020",
         "state": "future"
     },
     "mediabreakaway.com": {
@@ -13605,13 +13605,13 @@
         "state": "future"
     },
     "mediacap.net": {
-        "epoch": "1562976000",
+        "epoch": 1562976000,
         "expiration_date": "13-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "mediacase.ru": {
-        "epoch": "1563235200",
-        "expiration_date": "16-jul-2019",
+        "epoch": 1594857600,
+        "expiration_date": "16-jul-2020",
         "state": "future"
     },
     "mediacasino.com": {
@@ -13625,13 +13625,13 @@
         "state": "future"
     },
     "mediacellindia.com": {
-        "epoch": "1561939200",
-        "expiration_date": "01-jul-2019",
+        "epoch": 1593561600,
+        "expiration_date": "01-jul-2020",
         "state": "future"
     },
     "mediacentrix.com": {
-        "epoch": "1562371200",
-        "expiration_date": "06-jul-2019",
+        "epoch": 1593993600,
+        "expiration_date": "06-jul-2020",
         "state": "future"
     },
     "mediacharger.com": {
@@ -13640,8 +13640,8 @@
         "state": "future"
     },
     "mediachoice.ru": {
-        "epoch": "1564704000",
-        "expiration_date": "02-aug-2019",
+        "epoch": 1596326400,
+        "expiration_date": "02-aug-2020",
         "state": "future"
     },
     "mediacircusgroup.com": {
@@ -13655,8 +13655,8 @@
         "state": "future"
     },
     "mediacommerce.com.co": {
-        "epoch": "1563235200",
-        "expiration_date": "16-jul-2019",
+        "epoch": 1594857600,
+        "expiration_date": "16-jul-2020",
         "state": "future"
     },
     "mediacontent4you.com": {
@@ -13665,8 +13665,8 @@
         "state": "future"
     },
     "mediacottage.com": {
-        "epoch": "1563753600",
-        "expiration_date": "22-jul-2019",
+        "epoch": 1595376000,
+        "expiration_date": "22-jul-2020",
         "state": "future"
     },
     "mediadial.com": {
@@ -13685,8 +13685,8 @@
         "state": "future"
     },
     "mediadropper.com": {
-        "epoch": "1563148800",
-        "expiration_date": "15-jul-2019",
+        "epoch": 1594771200,
+        "expiration_date": "15-jul-2020",
         "state": "future"
     },
     "mediaeel.com": {
@@ -13695,8 +13695,8 @@
         "state": "future"
     },
     "mediaenabler.com": {
-        "epoch": "1562457600",
-        "expiration_date": "07-jul-2019",
+        "epoch": 1594080000,
+        "expiration_date": "07-jul-2020",
         "state": "future"
     },
     "mediaexchange.com": {
@@ -13715,8 +13715,8 @@
         "state": "future"
     },
     "mediafileshare.com": {
-        "epoch": "1565308800",
-        "expiration_date": "09-aug-2019",
+        "epoch": 1596931200,
+        "expiration_date": "09-aug-2020",
         "state": "future"
     },
     "mediafinancial.com": {
@@ -13725,8 +13725,8 @@
         "state": "future"
     },
     "mediafind.com": {
-        "epoch": "1565049600",
-        "expiration_date": "06-aug-2019",
+        "epoch": 1596672000,
+        "expiration_date": "06-aug-2020",
         "state": "future"
     },
     "mediafirefile.com": {
@@ -13765,8 +13765,8 @@
         "state": "future"
     },
     "mediafreakcity.com": {
-        "epoch": "1562976000",
-        "expiration_date": "13-jul-2019",
+        "epoch": 1594598400,
+        "expiration_date": "13-jul-2020",
         "state": "future"
     },
     "mediafry.com": {
@@ -13780,8 +13780,8 @@
         "state": "future"
     },
     "mediaful.com": {
-        "epoch": "1562976000",
-        "expiration_date": "13-jul-2019",
+        "epoch": 1594598400,
+        "expiration_date": "13-jul-2020",
         "state": "future"
     },
     "mediagay.com": {
@@ -13810,13 +13810,13 @@
         "state": "future"
     },
     "mediaheap.com": {
-        "epoch": "1561680000",
-        "expiration_date": "28-jun-2019",
+        "epoch": 1593302400,
+        "expiration_date": "28-jun-2020",
         "state": "future"
     },
     "mediaheights.com": {
-        "epoch": "1560988800",
-        "expiration_date": "20-jun-2019",
+        "epoch": 1592611200,
+        "expiration_date": "20-jun-2020",
         "state": "future"
     },
     "mediahighway.net": {
@@ -13945,8 +13945,8 @@
         "state": "future"
     },
     "mediamobassets.com": {
-        "epoch": "1561420800",
-        "expiration_date": "25-jun-2019",
+        "epoch": 1593043200,
+        "expiration_date": "25-jun-2020",
         "state": "future"
     },
     "mediamobiles.org": {
@@ -13980,8 +13980,8 @@
         "state": "future"
     },
     "medianamic.com": {
-        "epoch": "1564617600",
-        "expiration_date": "01-aug-2019",
+        "epoch": 1596240000,
+        "expiration_date": "01-aug-2020",
         "state": "future"
     },
     "medianel.com": {
@@ -14040,8 +14040,8 @@
         "state": "future"
     },
     "mediaplayer.co": {
-        "epoch": "1563580800",
-        "expiration_date": "20-jul-2019",
+        "epoch": 1689811200,
+        "expiration_date": "20-jul-2023",
         "state": "future"
     },
     "mediaplayer.me": {
@@ -14100,8 +14100,8 @@
         "state": "future"
     },
     "mediaraily.com": {
-        "epoch": "1563667200",
-        "expiration_date": "21-jul-2019",
+        "epoch": 1595289600,
+        "expiration_date": "21-jul-2020",
         "state": "future"
     },
     "mediarays.info": {
@@ -14185,8 +14185,8 @@
         "state": "future"
     },
     "mediastra.com": {
-        "epoch": "1563148800",
-        "expiration_date": "15-jul-2019",
+        "epoch": 1594771200,
+        "expiration_date": "15-jul-2020",
         "state": "future"
     },
     "mediasystems.pl": {
