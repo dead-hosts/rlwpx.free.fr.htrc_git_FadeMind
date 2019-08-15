@@ -22895,9 +22895,9 @@
         "state": "future"
     },
     "trackingstatalytics.com": {
-        "epoch": "1565827200",
+        "epoch": 1565827200,
         "expiration_date": "15-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "trackingvisits.com": {
         "epoch": "1583366400",
@@ -23080,9 +23080,9 @@
         "state": "future"
     },
     "tradeamerican.com": {
-        "epoch": 1565568000,
-        "expiration_date": "12-aug-2019",
-        "state": "past"
+        "epoch": 1597190400,
+        "expiration_date": "12-aug-2020",
+        "state": "future"
     },
     "tradeando.com": {
         "epoch": "1569888000",
@@ -23175,8 +23175,8 @@
         "state": "future"
     },
     "tradehotspot.com": {
-        "epoch": "1565740800",
-        "expiration_date": "14-aug-2019",
+        "epoch": 1660435200,
+        "expiration_date": "14-aug-2022",
         "state": "future"
     },
     "tradeinf.com": {
