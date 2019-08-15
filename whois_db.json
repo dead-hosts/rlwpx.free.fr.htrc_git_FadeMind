@@ -21850,9 +21850,9 @@
         "state": "future"
     },
     "the-counter.net": {
-        "epoch": "1565827200",
+        "epoch": 1565827200,
         "expiration_date": "15-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "the-hitlist.com": {
         "epoch": "1576713600",
@@ -22510,8 +22510,8 @@
         "state": "future"
     },
     "topratedmovies.com": {
-        "epoch": "1565827200",
-        "expiration_date": "15-aug-2019",
+        "epoch": 1597449600,
+        "expiration_date": "15-aug-2020",
         "state": "future"
     },
     "topratedpics.com": {
@@ -22755,9 +22755,9 @@
         "state": "future"
     },
     "trackandmonitormedia.com": {
-        "epoch": 1565654400,
-        "expiration_date": "13-aug-2019",
-        "state": "past"
+        "epoch": 1597276800,
+        "expiration_date": "13-aug-2020",
+        "state": "future"
     },
     "trackbacksecure.com": {
         "epoch": 1592870400,
