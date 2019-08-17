@@ -651,7 +651,6 @@
         "1565993949": {
             "006.free-adult-counters.x-xtra.com": "INACTIVE",
             "600xt.bbfr.net": "INACTIVE",
-            "active.macromedia.com": "INACTIVE",
             "ad.adtracking.me": "INACTIVE",
             "ads.adonion.com": "INACTIVE",
             "ads.fidelity-media.com": "INACTIVE",
@@ -827,6 +826,9 @@
             "www4.yesadvertising.com": "INACTIVE",
             "www8.yesadvertising.com": "INACTIVE",
             "zalogdamascus.ru": "INACTIVE"
+        },
+        "1566080529": {
+            "active.macromedia.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
