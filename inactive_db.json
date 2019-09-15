@@ -244,18 +244,11 @@
             "www6.paypopup.com": "INACTIVE",
             "xml.searchtraffic.com": "INACTIVE"
         },
-        "1568111697": {
-            "adclick.pruna.com": "INACTIVE"
-        },
-        "1568198102": {
-            "ad.adtracking.me": "INACTIVE"
-        },
+        "1568111697": {},
+        "1568198102": {},
         "1568285394": {},
         "1568372214": {},
         "1568458811": {
-            "006.free-adult-counters.x-xtra.com": "INACTIVE",
-            "600xt.bbfr.net": "INACTIVE",
-            "active.macromedia.com": "INACTIVE",
             "adm.soft365.com": "INACTIVE",
             "admin.clicksor.com": "INACTIVE",
             "adnet.mediawhiz.com": "INACTIVE",
@@ -849,6 +842,13 @@
             "yoursubdomain.bravelog.com": "INACTIVE",
             "zalogdamascus.ru": "INACTIVE",
             "zhitomir-info.biz": "INACTIVE"
+        },
+        "1568586467": {
+            "006.free-adult-counters.x-xtra.com": "INACTIVE",
+            "600xt.bbfr.net": "INACTIVE",
+            "active.macromedia.com": "INACTIVE",
+            "ad.adtracking.me": "INACTIVE",
+            "adclick.pruna.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
