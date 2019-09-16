@@ -15150,8 +15150,8 @@
         "state": "future"
     },
     "mypagerank.net": {
-        "epoch": "1568332800",
-        "expiration_date": "13-sep-2019",
+        "epoch": 1599955200,
+        "expiration_date": "13-sep-2020",
         "state": "future"
     },
     "mypagerank.ru": {
@@ -15205,8 +15205,8 @@
         "state": "future"
     },
     "mystikmedia.com": {
-        "epoch": "1568160000",
-        "expiration_date": "11-sep-2019",
+        "epoch": 1599782400,
+        "expiration_date": "11-sep-2020",
         "state": "future"
     },
     "mytopsearches.com": {
@@ -15375,8 +15375,8 @@
         "state": "future"
     },
     "netcountry.com": {
-        "epoch": "1568332800",
-        "expiration_date": "13-sep-2019",
+        "epoch": 1599955200,
+        "expiration_date": "13-sep-2020",
         "state": "future"
     },
     "nethitters.com": {
@@ -15630,9 +15630,9 @@
         "state": "future"
     },
     "non-stop.biz": {
-        "epoch": "1568505600",
+        "epoch": 1568505600,
         "expiration_date": "15-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "noname-media.com": {
         "epoch": "1571443200",

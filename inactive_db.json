@@ -11,8 +11,6 @@
         "1566598073": {},
         "1566684763": {},
         "1568025287": {
-            "m.standardinteractive.com": "INACTIVE",
-            "movies.erotracks.com": "INACTIVE",
             "oak1dpu101.insight.omniture.com": "INACTIVE",
             "oak1dpu103.insight.omniture.com": "INACTIVE",
             "oak1dpu107.insight.omniture.com": "INACTIVE",
@@ -166,10 +164,6 @@
         "1568285394": {},
         "1568372214": {},
         "1568458811": {
-            "m.sharpmobilemarketing.onlinetrafficresults.com": "INACTIVE",
-            "movehits.at": "INACTIVE",
-            "mozillafireox.servecounterstrike.com": "INACTIVE",
-            "mp-gap05.prod.millennialmedia.com": "INACTIVE",
             "nudegalleries.picturetrades.com": "INACTIVE",
             "nymag.com.102.112.2o7.net": "INACTIVE",
             "oak1dpu102.insight.omniture.com": "INACTIVE",
@@ -760,6 +754,8 @@
             "logs1400.xiti.com": "INACTIVE",
             "logw349.ati-host.net": "INACTIVE",
             "lproot.soft365.com": "INACTIVE",
+            "m.sharpmobilemarketing.onlinetrafficresults.com": "INACTIVE",
+            "m.standardinteractive.com": "INACTIVE",
             "ma.servecounterstrike.com": "INACTIVE",
             "main.clicksor.com": "INACTIVE",
             "mamainbed.com": "INACTIVE",
@@ -853,7 +849,11 @@
             "mm-gui02.prod.millennialmedia.com": "INACTIVE",
             "mm-ws01.prod.millennialmedia.com": "INACTIVE",
             "mm-ws02.prod.millennialmedia.com": "INACTIVE",
-            "mold.remediation.co": "INACTIVE"
+            "mold.remediation.co": "INACTIVE",
+            "movehits.at": "INACTIVE",
+            "movies.erotracks.com": "INACTIVE",
+            "mozillafireox.servecounterstrike.com": "INACTIVE",
+            "mp-gap05.prod.millennialmedia.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
