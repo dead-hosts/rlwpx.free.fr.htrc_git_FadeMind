@@ -23194,6 +23194,11 @@
         "expiration_date": "31-aug-2020",
         "state": "future"
     },
+    "tradelabor.pt": {
+        "epoch": 1583366400,
+        "expiration_date": "05-mar-2020",
+        "state": "future"
+    },
     "tradeleads.su": {
         "epoch": "1582848000",
         "expiration_date": "28-feb-2020",
@@ -23215,9 +23220,9 @@
         "state": "future"
     },
     "trademart.ru": {
-        "epoch": 1567814400,
-        "expiration_date": "07-sep-2019",
-        "state": "past"
+        "epoch": 1599436800,
+        "expiration_date": "07-sep-2020",
+        "state": "future"
     },
     "trademen.com": {
         "epoch": "1574208000",
@@ -23360,9 +23365,9 @@
         "state": "future"
     },
     "tradesinvest.com": {
-        "epoch": "1568592000",
+        "epoch": 1568592000,
         "expiration_date": "16-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "tradeskilljobs.com": {
         "epoch": "1569110400",
@@ -23605,8 +23610,8 @@
         "state": "past"
     },
     "trafficblog.info": {
-        "epoch": "1568505600",
-        "expiration_date": "15-sep-2019",
+        "epoch": 1600128000,
+        "expiration_date": "15-sep-2020",
         "state": "future"
     },
     "trafficbox.net": {
@@ -23635,8 +23640,8 @@
         "state": "future"
     },
     "trafficcashgold.com": {
-        "epoch": "1568246400",
-        "expiration_date": "12-sep-2019",
+        "epoch": 1599868800,
+        "expiration_date": "12-sep-2020",
         "state": "future"
     },
     "trafficcenter.com": {
@@ -23695,8 +23700,8 @@
         "state": "future"
     },
     "trafficdiscount.com": {
-        "epoch": "1568160000",
-        "expiration_date": "11-sep-2019",
+        "epoch": 1599782400,
+        "expiration_date": "11-sep-2020",
         "state": "future"
     },
     "trafficdispatch.com": {
@@ -23740,8 +23745,8 @@
         "state": "future"
     },
     "trafficg.com": {
-        "epoch": "1568246400",
-        "expiration_date": "12-sep-2019",
+        "epoch": 1599868800,
+        "expiration_date": "12-sep-2020",
         "state": "future"
     },
     "trafficgenerationsummit.com": {
