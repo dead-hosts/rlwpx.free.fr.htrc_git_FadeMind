@@ -895,8 +895,8 @@
         "state": "future"
     },
     "adtrade.net": {
-        "epoch": "1568505600",
-        "expiration_date": "15-sep-2019",
+        "epoch": 1600128000,
+        "expiration_date": "15-sep-2020",
         "state": "future"
     },
     "adtrade.ro": {
@@ -985,9 +985,9 @@
         "state": "future"
     },
     "adultdvdhits.com": {
-        "epoch": 1561334400,
-        "expiration_date": "24-jun-2019",
-        "state": "past"
+        "epoch": 1599868800,
+        "expiration_date": "12-sep-2020",
+        "state": "future"
     },
     "adultfriendfinder.com": {
         "epoch": "1574899200",
@@ -1675,9 +1675,9 @@
         "state": "future"
     },
     "analystic.org": {
-        "epoch": "1568505600",
+        "epoch": 1568505600,
         "expiration_date": "15-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "analyt.com": {
         "epoch": "1577836800",
