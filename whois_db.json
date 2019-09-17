@@ -5140,9 +5140,9 @@
         "state": "future"
     },
     "clickpyramid.com": {
-        "epoch": "1568678400",
+        "epoch": 1568678400,
         "expiration_date": "17-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "clickratehosting.com": {
         "epoch": 1596412800,
@@ -5150,8 +5150,8 @@
         "state": "future"
     },
     "clickrightnow.com": {
-        "epoch": "1568678400",
-        "expiration_date": "17-sep-2019",
+        "epoch": 1575590400,
+        "expiration_date": "06-dec-2019",
         "state": "future"
     },
     "clickriver.com": {
