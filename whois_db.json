@@ -12310,8 +12310,8 @@
         "state": "future"
     },
     "lamiaexragazza.com": {
-        "epoch": "1568678400",
-        "expiration_date": "17-sep-2019",
+        "epoch": 1600300800,
+        "expiration_date": "17-sep-2020",
         "state": "future"
     },
     "landinghall.com": {
@@ -12320,9 +12320,9 @@
         "state": "future"
     },
     "lanvintraffic.com": {
-        "epoch": 1568505600,
-        "expiration_date": "15-sep-2019",
-        "state": "past"
+        "epoch": 1600128000,
+        "expiration_date": "15-sep-2020",
+        "state": "future"
     },
     "laptop-enews.com": {
         "epoch": "1568851200",
