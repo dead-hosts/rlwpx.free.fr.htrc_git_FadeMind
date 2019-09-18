@@ -2755,8 +2755,8 @@
         "state": "future"
     },
     "bidstats.com": {
-        "epoch": "1568764800",
-        "expiration_date": "18-sep-2019",
+        "epoch": 1600387200,
+        "expiration_date": "18-sep-2020",
         "state": "future"
     },
     "bidsystem.com": {
@@ -2895,9 +2895,9 @@
         "state": "future"
     },
     "blackgoldtrade.com": {
-        "epoch": 1561852800,
-        "expiration_date": "30-jun-2019",
-        "state": "past"
+        "epoch": 1600387200,
+        "expiration_date": "18-sep-2020",
+        "state": "future"
     },
     "blacklightmedia.com": {
         "epoch": "1586476800",
