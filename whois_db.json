@@ -7615,9 +7615,9 @@
         "state": "future"
     },
     "epokertraffic.com": {
-        "epoch": "1568764800",
+        "epoch": 1568764800,
         "expiration_date": "18-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "eprank.com": {
         "epoch": "1577318400",
@@ -8055,9 +8055,9 @@
         "state": "future"
     },
     "ezcount.net": {
-        "epoch": 1562112000,
-        "expiration_date": "03-jul-2019",
-        "state": "past"
+        "epoch": 1600387200,
+        "expiration_date": "18-sep-2020",
+        "state": "future"
     },
     "ezhits4u.com": {
         "epoch": "1572048000",
