@@ -11080,9 +11080,9 @@
         "state": "future"
     },
     "htmlcounter.com": {
-        "epoch": "1568851200",
+        "epoch": 1568851200,
         "expiration_date": "19-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "hugetraffic.com": {
         "epoch": "1724889600",
