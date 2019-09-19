@@ -13470,9 +13470,9 @@
         "state": "future"
     },
     "media-servers.net": {
-        "epoch": "1568851200",
+        "epoch": 1568851200,
         "expiration_date": "19-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "media-solution.ru": {
         "epoch": 1591142400,
@@ -13995,9 +13995,9 @@
         "state": "future"
     },
     "medianetgroup.it": {
-        "epoch": "1568764800",
+        "epoch": 1568764800,
         "expiration_date": "18-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "medianews.com.pl": {
         "epoch": "1584489600",
@@ -14200,8 +14200,8 @@
         "state": "future"
     },
     "mediatalo.info": {
-        "epoch": "1568764800",
-        "expiration_date": "18-sep-2019",
+        "epoch": 1600387200,
+        "expiration_date": "18-sep-2020",
         "state": "future"
     },
     "mediataskmaster.com": {
