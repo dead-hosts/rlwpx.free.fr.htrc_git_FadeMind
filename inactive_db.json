@@ -19,9 +19,6 @@
         "1568586467": {},
         "1568715974": {},
         "1568844391": {
-            "download.fairdialer.de": "INACTIVE",
-            "dtrack.secdls.com": "INACTIVE",
-            "dynamix.trafficrevmaster.com": "INACTIVE",
             "en.compteur.fr": "INACTIVE",
             "erohits.nl": "INACTIVE",
             "erohits.us": "INACTIVE",
@@ -926,7 +923,10 @@
             "dev.millennialmedia.com": "INACTIVE",
             "dialers.netcollex.net": "INACTIVE",
             "dl.elex.soft365.com": "INACTIVE",
-            "dmeserv.newsinc.com": "INACTIVE"
+            "dmeserv.newsinc.com": "INACTIVE",
+            "download.fairdialer.de": "INACTIVE",
+            "dtrack.secdls.com": "INACTIVE",
+            "dynamix.trafficrevmaster.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
