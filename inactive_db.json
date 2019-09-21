@@ -19,12 +19,6 @@
         "1568586467": {},
         "1568715974": {},
         "1568844391": {
-            "de.sitestat.nedstat.net": "INACTIVE",
-            "dev.media.adxpansion.com": "INACTIVE",
-            "dev.millennialmedia.com": "INACTIVE",
-            "dialers.netcollex.net": "INACTIVE",
-            "dl.elex.soft365.com": "INACTIVE",
-            "dmeserv.newsinc.com": "INACTIVE",
             "download.fairdialer.de": "INACTIVE",
             "dtrack.secdls.com": "INACTIVE",
             "dynamix.trafficrevmaster.com": "INACTIVE",
@@ -926,7 +920,13 @@
             "dd2.insightexpress.com": "INACTIVE",
             "de.couponhit.com": "INACTIVE",
             "de.nedstat.net": "INACTIVE",
-            "demo.psoft.net": "INACTIVE"
+            "de.sitestat.nedstat.net": "INACTIVE",
+            "demo.psoft.net": "INACTIVE",
+            "dev.media.adxpansion.com": "INACTIVE",
+            "dev.millennialmedia.com": "INACTIVE",
+            "dialers.netcollex.net": "INACTIVE",
+            "dl.elex.soft365.com": "INACTIVE",
+            "dmeserv.newsinc.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
