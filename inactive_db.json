@@ -19,13 +19,9 @@
         "1568586467": {},
         "1568715974": {},
         "1568844391": {
-            "lproot.soft365.com": "INACTIVE",
             "m.sharpmobilemarketing.onlinetrafficresults.com": "INACTIVE",
             "m.standardinteractive.com": "INACTIVE",
             "ma.servecounterstrike.com": "INACTIVE",
-            "mailing.xiti.com": "INACTIVE",
-            "main.clicksor.com": "INACTIVE",
-            "mamainbed.com": "INACTIVE",
             "mci12.clicksor.com": "INACTIVE",
             "media.adlegend.com": "INACTIVE",
             "media.gsimedia.net": "INACTIVE",
@@ -929,7 +925,11 @@
             "logs1404.xiti.com": "INACTIVE",
             "logv15.xiti.com": "INACTIVE",
             "logvtest.xiti.com": "INACTIVE",
-            "logw349.ati-host.net": "INACTIVE"
+            "logw349.ati-host.net": "INACTIVE",
+            "lproot.soft365.com": "INACTIVE",
+            "mailing.xiti.com": "INACTIVE",
+            "main.clicksor.com": "INACTIVE",
+            "mamainbed.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
