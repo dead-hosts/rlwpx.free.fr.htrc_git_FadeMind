@@ -17235,9 +17235,9 @@
         "state": "future"
     },
     "printmediaworks.com": {
-        "epoch": "1569110400",
+        "epoch": 1569110400,
         "expiration_date": "22-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "priorityclick.com": {
         "epoch": "1577923200",
