@@ -14550,9 +14550,9 @@
         "state": "future"
     },
     "mixtraffic.com": {
-        "epoch": "1569110400",
+        "epoch": 1569110400,
         "expiration_date": "22-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "mlinktracker.com": {
         "epoch": "1588377600",
@@ -14605,9 +14605,9 @@
         "state": "future"
     },
     "mnstat.com": {
-        "epoch": "1569110400",
+        "epoch": 1569110400,
         "expiration_date": "22-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "mobihit.info": {
         "epoch": "1579910400",
@@ -14690,8 +14690,8 @@
         "state": "future"
     },
     "monitorgirls.com": {
-        "epoch": "1569024000",
-        "expiration_date": "21-sep-2019",
+        "epoch": 1600646400,
+        "expiration_date": "21-sep-2020",
         "state": "future"
     },
     "monitorhq.com": {
