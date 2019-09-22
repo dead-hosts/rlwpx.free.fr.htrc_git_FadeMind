@@ -23370,8 +23370,8 @@
         "state": "future"
     },
     "tradeskilljobs.com": {
-        "epoch": "1569110400",
-        "expiration_date": "22-sep-2019",
+        "epoch": 1600732800,
+        "expiration_date": "22-sep-2020",
         "state": "future"
     },
     "tradestuff.com": {
@@ -23530,8 +23530,8 @@
         "state": "future"
     },
     "traffic-zoom.com": {
-        "epoch": "1569110400",
-        "expiration_date": "22-sep-2019",
+        "epoch": 1600732800,
+        "expiration_date": "22-sep-2020",
         "state": "future"
     },
     "traffic.biz": {
@@ -23885,9 +23885,9 @@
         "state": "future"
     },
     "trafficmagnet.net": {
-        "epoch": 1568764800,
-        "expiration_date": "18-sep-2019",
-        "state": "past"
+        "epoch": 1600387200,
+        "expiration_date": "18-sep-2020",
+        "state": "future"
     },
     "trafficmarketplace.com": {
         "epoch": "1585699200",
