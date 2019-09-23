@@ -26340,8 +26340,8 @@
         "state": "future"
     },
     "xratedhost.com": {
-        "epoch": "1568937600",
-        "expiration_date": "20-sep-2019",
+        "epoch": 1600560000,
+        "expiration_date": "20-sep-2020",
         "state": "future"
     },
     "xratedhostz.com": {
@@ -26665,9 +26665,9 @@
         "state": "future"
     },
     "xxxcount.com": {
-        "epoch": "1569196800",
+        "epoch": 1569196800,
         "expiration_date": "23-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "xxxcounter.com": {
         "epoch": "1575676800",
