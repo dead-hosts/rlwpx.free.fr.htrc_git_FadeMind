@@ -20,17 +20,6 @@
         "1568715974": {},
         "1568844391": {},
         "1569063477": {
-            "datalookup.sitestat.com": "INACTIVE",
-            "db01.test.millennialmedia.com": "INACTIVE",
-            "db2.collective-media.net": "INACTIVE",
-            "dd1.insightexpress.com": "INACTIVE",
-            "dd2.insightexpress.com": "INACTIVE",
-            "de.couponhit.com": "INACTIVE",
-            "de.nedstat.net": "INACTIVE",
-            "de.sitestat.nedstat.net": "INACTIVE",
-            "demo.psoft.net": "INACTIVE",
-            "dev.media.adxpansion.com": "INACTIVE",
-            "dev.millennialmedia.com": "INACTIVE",
             "dialers.netcollex.net": "INACTIVE",
             "dl.elex.soft365.com": "INACTIVE",
             "dmeserv.newsinc.com": "INACTIVE",
@@ -917,7 +906,18 @@
             "counter.megaindex.ru": "INACTIVE",
             "counter.russiansubmitter.com": "INACTIVE",
             "creative.clicksor.com": "INACTIVE",
-            "csc.beap.bc.yahoo.com": "INACTIVE"
+            "csc.beap.bc.yahoo.com": "INACTIVE",
+            "datalookup.sitestat.com": "INACTIVE",
+            "db01.test.millennialmedia.com": "INACTIVE",
+            "db2.collective-media.net": "INACTIVE",
+            "dd1.insightexpress.com": "INACTIVE",
+            "dd2.insightexpress.com": "INACTIVE",
+            "de.couponhit.com": "INACTIVE",
+            "de.nedstat.net": "INACTIVE",
+            "de.sitestat.nedstat.net": "INACTIVE",
+            "demo.psoft.net": "INACTIVE",
+            "dev.media.adxpansion.com": "INACTIVE",
+            "dev.millennialmedia.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
