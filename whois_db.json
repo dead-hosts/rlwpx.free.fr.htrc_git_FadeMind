@@ -5635,9 +5635,9 @@
         "state": "future"
     },
     "co2stats.com": {
-        "epoch": "1569196800",
+        "epoch": 1569196800,
         "expiration_date": "23-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "cocomedia.ca": {
         "epoch": "1574208000",
