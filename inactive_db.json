@@ -26,10 +26,6 @@
             "active.macromedia.com": "INACTIVE",
             "ad.adtracking.me": "INACTIVE",
             "adclick.pruna.com": "INACTIVE",
-            "pistolmedia2.amsnl.webair.com": "INACTIVE",
-            "pointofsalelogger.biz": "INACTIVE",
-            "pokpok.meerhits.nl": "INACTIVE",
-            "preview.leadmediapartners.com": "INACTIVE",
             "prod.millennialmedia.com": "INACTIVE",
             "program.mediaclick.kr": "INACTIVE",
             "qa1.collective-media.net": "INACTIVE",
@@ -919,7 +915,11 @@
             "pdf.xiti.com": "INACTIVE",
             "peelover.picturetrades.com": "INACTIVE",
             "perso.wareteam.com": "INACTIVE",
-            "peypalcomus.hostaty.com": "INACTIVE"
+            "peypalcomus.hostaty.com": "INACTIVE",
+            "pistolmedia2.amsnl.webair.com": "INACTIVE",
+            "pointofsalelogger.biz": "INACTIVE",
+            "pokpok.meerhits.nl": "INACTIVE",
+            "preview.leadmediapartners.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
