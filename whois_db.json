@@ -11890,9 +11890,9 @@
         "state": "future"
     },
     "izmirsiviltoplumorgutleri.com": {
-        "epoch": "1569456000",
+        "epoch": 1569456000,
         "expiration_date": "26-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "jagtraders.com": {
         "epoch": 1591228800,
