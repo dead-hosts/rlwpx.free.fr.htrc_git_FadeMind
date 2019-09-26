@@ -277,10 +277,6 @@
         },
         "1569245547": {
             "f.veoh.com": "INACTIVE",
-            "faz.ivwbox.de": "INACTIVE",
-            "feeds.weselltraffic.com": "INACTIVE",
-            "flogmaster.110mb.com": "INACTIVE",
-            "forum.slothtrader.com": "INACTIVE",
             "fr.couponhit.com": "INACTIVE",
             "fr.minisite.paflechien-prize.com": "INACTIVE",
             "fr.nedstat.net": "INACTIVE",
@@ -924,7 +920,11 @@
             "erohits.us": "INACTIVE",
             "es.nedstat.net": "INACTIVE",
             "ethnicgirls.picturetrades.com": "INACTIVE",
-            "event.zroitracker.com": "INACTIVE"
+            "event.zroitracker.com": "INACTIVE",
+            "faz.ivwbox.de": "INACTIVE",
+            "feeds.weselltraffic.com": "INACTIVE",
+            "flogmaster.110mb.com": "INACTIVE",
+            "forum.slothtrader.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
