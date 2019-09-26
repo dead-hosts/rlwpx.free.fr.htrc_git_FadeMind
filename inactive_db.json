@@ -275,17 +275,7 @@
             "zalogdamascus.ru": "INACTIVE",
             "zhitomir-info.biz": "INACTIVE"
         },
-        "1569245547": {
-            "wdc.collective-media.net": "INACTIVE",
-            "wdc.mediation.nexage.com": "INACTIVE",
-            "web-track.be": "INACTIVE",
-            "web.softonic-analytics.net": "INACTIVE",
-            "web01.test.millennialmedia.com": "INACTIVE",
-            "webmedia.co.il": "INACTIVE",
-            "webstat.dreamhosters.com": "INACTIVE",
-            "webstats.com.br": "INACTIVE",
-            "webstats.perfectworld.com": "INACTIVE"
-        },
+        "1569245547": {},
         "1569407017": {
             "006.free-adult-counters.x-xtra.com": "INACTIVE",
             "600xt.bbfr.net": "INACTIVE",
@@ -923,7 +913,16 @@
             "vizisense.komli.net": "INACTIVE",
             "vlcmedia.gblogee.com": "INACTIVE",
             "vlogic.ak-networks.com": "INACTIVE",
-            "wa.snsbank.nl": "INACTIVE"
+            "wa.snsbank.nl": "INACTIVE",
+            "wdc.collective-media.net": "INACTIVE",
+            "wdc.mediation.nexage.com": "INACTIVE",
+            "web-track.be": "INACTIVE",
+            "web.softonic-analytics.net": "INACTIVE",
+            "web01.test.millennialmedia.com": "INACTIVE",
+            "webmedia.co.il": "INACTIVE",
+            "webstat.dreamhosters.com": "INACTIVE",
+            "webstats.com.br": "INACTIVE",
+            "webstats.perfectworld.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
