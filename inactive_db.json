@@ -23,10 +23,6 @@
         "1569155313": {},
         "1569245547": {},
         "1569407017": {
-            "dl.elex.soft365.com": "INACTIVE",
-            "dmeserv.newsinc.com": "INACTIVE",
-            "download.fairdialer.de": "INACTIVE",
-            "dtrack.secdls.com": "INACTIVE",
             "dynamix.trafficrevmaster.com": "INACTIVE",
             "en.compteur.fr": "INACTIVE",
             "erohits.nl": "INACTIVE",
@@ -953,7 +949,11 @@
             "demo.psoft.net": "INACTIVE",
             "dev.media.adxpansion.com": "INACTIVE",
             "dev.millennialmedia.com": "INACTIVE",
-            "dialers.netcollex.net": "INACTIVE"
+            "dialers.netcollex.net": "INACTIVE",
+            "dl.elex.soft365.com": "INACTIVE",
+            "dmeserv.newsinc.com": "INACTIVE",
+            "download.fairdialer.de": "INACTIVE",
+            "dtrack.secdls.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
