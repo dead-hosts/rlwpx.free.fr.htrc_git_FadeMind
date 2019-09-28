@@ -22,14 +22,8 @@
         "1569063477": {},
         "1569155313": {},
         "1569245547": {},
-        "1569407017": {
-            "jsandboxer.cjt1.net": "INACTIVE",
-            "jumcna.cjt1.net": "INACTIVE",
-            "jwebbsense.cjt1.net": "INACTIVE",
-            "lbimedia.net": "INACTIVE"
-        },
+        "1569407017": {},
         "1569493421": {
-            "leck.servecounterstrike.com": "INACTIVE",
             "levtr.110mb.com": "INACTIVE",
             "lhcb-release-area.web.cern.ch": "INACTIVE",
             "link.ranking.gs": "INACTIVE",
@@ -954,7 +948,12 @@
             "jlcphoto.com": "INACTIVE",
             "jmbi58.cjt1.net": "INACTIVE",
             "jnova.cjt1.net": "INACTIVE",
-            "jpirate.cjt1.net": "INACTIVE"
+            "jpirate.cjt1.net": "INACTIVE",
+            "jsandboxer.cjt1.net": "INACTIVE",
+            "jumcna.cjt1.net": "INACTIVE",
+            "jwebbsense.cjt1.net": "INACTIVE",
+            "lbimedia.net": "INACTIVE",
+            "leck.servecounterstrike.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
