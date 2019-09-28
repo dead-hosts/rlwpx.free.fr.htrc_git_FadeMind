@@ -2610,9 +2610,9 @@
         "state": "future"
     },
     "belstat.com": {
-        "epoch": "1569542400",
+        "epoch": 1569542400,
         "expiration_date": "27-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "belstat.fr": {
         "epoch": "1586390400",
@@ -2740,9 +2740,9 @@
         "state": "future"
     },
     "biblelog.com": {
-        "epoch": "1569628800",
+        "epoch": 1569628800,
         "expiration_date": "28-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "bicountyhealth.org": {
         "epoch": "1580428800",
