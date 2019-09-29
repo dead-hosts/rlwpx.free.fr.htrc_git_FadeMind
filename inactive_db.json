@@ -24,9 +24,6 @@
         "1569245547": {},
         "1569407017": {},
         "1569493421": {
-            "wa.snsbank.nl": "INACTIVE",
-            "wdc.collective-media.net": "INACTIVE",
-            "wdc.mediation.nexage.com": "INACTIVE",
             "web-track.be": "INACTIVE",
             "web.softonic-analytics.net": "INACTIVE",
             "web01.test.millennialmedia.com": "INACTIVE",
@@ -962,7 +959,11 @@
             "vitals.bandolino.com": "INACTIVE",
             "vizisense.komli.net": "INACTIVE",
             "vlcmedia.gblogee.com": "INACTIVE",
-            "vlogic.ak-networks.com": "INACTIVE"
+            "vlogic.ak-networks.com": "INACTIVE",
+            "wa.snsbank.nl": "INACTIVE",
+            "wapstranky.cz": "INACTIVE",
+            "wdc.collective-media.net": "INACTIVE",
+            "wdc.mediation.nexage.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
