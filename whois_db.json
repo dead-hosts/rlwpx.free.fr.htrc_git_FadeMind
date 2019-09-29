@@ -25820,9 +25820,9 @@
         "state": "future"
     },
     "wisdomedia.com": {
-        "epoch": "1569715200",
+        "epoch": 1569715200,
         "expiration_date": "29-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "wishbonemedia.com": {
         "epoch": "1673395200",
