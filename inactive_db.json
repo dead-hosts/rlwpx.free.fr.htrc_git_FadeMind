@@ -26,15 +26,6 @@
         "1569493421": {},
         "1569623071": {},
         "1569709782": {
-            "count.dba.dk": "INACTIVE",
-            "count.jdyou.com": "INACTIVE",
-            "count.qiannao.com": "INACTIVE",
-            "count.rbc.ru": "INACTIVE",
-            "count.timedg.com": "INACTIVE",
-            "counter.blog.livedoor.com": "INACTIVE",
-            "counter.gemius.pl": "INACTIVE",
-            "counter.holms.ru": "INACTIVE",
-            "counter.russiansubmitter.com": "INACTIVE",
             "creative.clicksor.com": "INACTIVE",
             "csc.beap.bc.yahoo.com": "INACTIVE",
             "datalookup.sitestat.com": "INACTIVE",
@@ -973,7 +964,16 @@
             "clicktracksolutions.com": "INACTIVE",
             "cliketclak.skynetblogs.be": "INACTIVE",
             "content.ipro.com": "INACTIVE",
-            "core.bluefly.com": "INACTIVE"
+            "core.bluefly.com": "INACTIVE",
+            "count.dba.dk": "INACTIVE",
+            "count.jdyou.com": "INACTIVE",
+            "count.qiannao.com": "INACTIVE",
+            "count.rbc.ru": "INACTIVE",
+            "count.timedg.com": "INACTIVE",
+            "counter.blog.livedoor.com": "INACTIVE",
+            "counter.gemius.pl": "INACTIVE",
+            "counter.holms.ru": "INACTIVE",
+            "counter.russiansubmitter.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
