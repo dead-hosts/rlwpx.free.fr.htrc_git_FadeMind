@@ -27,10 +27,7 @@
         "1569623071": {},
         "1569709782": {},
         "1569798126": {
-            "event.zroitracker.com": "INACTIVE",
             "f.veoh.com": "INACTIVE",
-            "faz.ivwbox.de": "INACTIVE",
-            "feeds.weselltraffic.com": "INACTIVE",
             "flogmaster.110mb.com": "INACTIVE",
             "forum.slothtrader.com": "INACTIVE",
             "fr.couponhit.com": "INACTIVE",
@@ -980,7 +977,11 @@
             "eslonx02.espotting.com": "INACTIVE",
             "esmtp.espotting.com": "INACTIVE",
             "estrevx02.espotting.com": "INACTIVE",
-            "ethnicgirls.picturetrades.com": "INACTIVE"
+            "ethnicgirls.picturetrades.com": "INACTIVE",
+            "event.zroitracker.com": "INACTIVE",
+            "faz.ivwbox.de": "INACTIVE",
+            "feeds.weselltraffic.com": "INACTIVE",
+            "finatime.ivwbox.de": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
