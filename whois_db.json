@@ -21495,8 +21495,8 @@
         "state": "future"
     },
     "susnet.se": {
-        "epoch": "1569974400",
-        "expiration_date": "02-oct-2019",
+        "epoch": 1601596800,
+        "expiration_date": "02-oct-2020",
         "state": "future"
     },
     "sustainedhits.com": {
@@ -21570,9 +21570,9 @@
         "state": "future"
     },
     "sxtrader.net": {
-        "epoch": "1569974400",
+        "epoch": 1569974400,
         "expiration_date": "02-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "symbioticmedia.com": {
         "epoch": "1586563200",
