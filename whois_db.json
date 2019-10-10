@@ -395,9 +395,9 @@
         "state": "future"
     },
     "911promotion.com": {
-        "epoch": "1570665600",
+        "epoch": 1570665600,
         "expiration_date": "10-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "980media.com": {
         "epoch": "1572048000",
