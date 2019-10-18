@@ -2600,9 +2600,9 @@
         "state": "future"
     },
     "beeplog.it": {
-        "epoch": "1570233600",
+        "epoch": 1570233600,
         "expiration_date": "05-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "beertraffic.biz": {
         "epoch": 1600732800,
@@ -3120,8 +3120,8 @@
         "state": "future"
     },
     "boingdragon.com": {
-        "epoch": "1571184000",
-        "expiration_date": "16-oct-2019",
+        "epoch": 1602806400,
+        "expiration_date": "16-oct-2020",
         "state": "future"
     },
     "bois-de-boulogne.com": {
@@ -3150,8 +3150,8 @@
         "state": "future"
     },
     "bonetrade.com": {
-        "epoch": "1570233600",
-        "expiration_date": "05-oct-2019",
+        "epoch": 1601856000,
+        "expiration_date": "05-oct-2020",
         "state": "future"
     },
     "bonghits.com": {
