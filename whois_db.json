@@ -5965,8 +5965,8 @@
         "state": "future"
     },
     "counter160.com": {
-        "epoch": "1570579200",
-        "expiration_date": "09-oct-2019",
+        "epoch": 1602201600,
+        "expiration_date": "09-oct-2020",
         "state": "future"
     },
     "counter4u.com": {
@@ -6000,8 +6000,8 @@
         "state": "future"
     },
     "countere.com": {
-        "epoch": "1571184000",
-        "expiration_date": "16-oct-2019",
+        "epoch": 1578096000,
+        "expiration_date": "04-jan-2020",
         "state": "future"
     },
     "counterguide.com": {
@@ -6020,9 +6020,9 @@
         "state": "future"
     },
     "counterpointchorale.com": {
-        "epoch": "1571270400",
+        "epoch": 1571270400,
         "expiration_date": "17-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "counters4u.com": {
         "epoch": 1593907200,
@@ -6180,8 +6180,8 @@
         "state": "future"
     },
     "crankoff.com": {
-        "epoch": "1571184000",
-        "expiration_date": "16-oct-2019",
+        "epoch": 1602806400,
+        "expiration_date": "16-oct-2020",
         "state": "future"
     },
     "cranksex.com": {
