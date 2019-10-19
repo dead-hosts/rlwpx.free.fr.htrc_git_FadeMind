@@ -25115,13 +25115,13 @@
         "state": "future"
     },
     "wa2go.com": {
-        "epoch": "1570665600",
-        "expiration_date": "10-oct-2019",
+        "epoch": 1577664000,
+        "expiration_date": "30-dec-2019",
         "state": "future"
     },
     "waldemartraffic.com": {
-        "epoch": "1570147200",
-        "expiration_date": "04-oct-2019",
+        "epoch": 1601769600,
+        "expiration_date": "04-oct-2020",
         "state": "future"
     },
     "walkinrates.com": {
@@ -25160,9 +25160,9 @@
         "state": "future"
     },
     "wapstranky.cz": {
-        "epoch": 1564444800,
-        "expiration_date": "30-jul-2019",
-        "state": "past"
+        "epoch": 1602201600,
+        "expiration_date": "09-oct-2020",
+        "state": "future"
     },
     "waptrack.net": {
         "epoch": "1578096000",
@@ -25465,8 +25465,8 @@
         "state": "future"
     },
     "webstat.net": {
-        "epoch": "1571356800",
-        "expiration_date": "18-oct-2019",
+        "epoch": 1634515200,
+        "expiration_date": "18-oct-2021",
         "state": "future"
     },
     "webstat.se": {
