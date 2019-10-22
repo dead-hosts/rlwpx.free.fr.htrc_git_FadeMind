@@ -1,23 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1571458031": {
-            "maildata9.gohip.com": "INACTIVE"
-        },
-        "1571458032": {
-            "maildata.gohip.com": "INACTIVE"
-        },
-        "1571458033": {
-            "mailrecv12.gohip.com": "INACTIVE"
-        },
-        "1571458037": {
-            "mailrecv3.gohip.com": "INACTIVE"
-        },
-        "1571458186": {
-            "media.brandreachsys.com": "INACTIVE"
-        },
-        "1571458207": {
-            "media.chocam.com": "INACTIVE"
-        },
         "1571463733": {
             "media-zvip.carpediem.fr": "INACTIVE"
         },
@@ -2151,244 +2133,6 @@
         },
         "1571500271": {
             "sw0a.omniture.com": "INACTIVE"
-        },
-        "1571513971": {
-            "lookup24-ext.hitbox.com": "INACTIVE"
-        },
-        "1571513978": {
-            "lookup25-ext.hitbox.com": "INACTIVE"
-        },
-        "1571513984": {
-            "lookup26-ext.hitbox.com": "INACTIVE"
-        },
-        "1571513990": {
-            "lookup27-ext.hitbox.com": "INACTIVE"
-        },
-        "1571513996": {
-            "lookup28-ext.hitbox.com": "INACTIVE"
-        },
-        "1571514002": {
-            "lookup29-ext.hitbox.com": "INACTIVE"
-        },
-        "1571514009": {
-            "lovegravy.media-toolbar.com": "INACTIVE"
-        },
-        "1571514022": {
-            "lproot.soft365.com": "INACTIVE"
-        },
-        "1571514023": {
-            "lse.uk.intellitxt.com": "INACTIVE",
-            "lsesoutheast.uk.intellitxt.com": "INACTIVE"
-        },
-        "1571514024": {
-            "ltp2qzteb4.s.ad6media.fr": "INACTIVE"
-        },
-        "1571514030": {
-            "lulinbay.hit.bg": "INACTIVE"
-        },
-        "1571514036": {
-            "lululemonout370.hit.bg": "INACTIVE"
-        },
-        "1571514043": {
-            "lycos.espotting.com": "INACTIVE",
-            "lycos1.hit.bg": "INACTIVE"
-        },
-        "1571514044": {
-            "ma156-r.analytics.edgesuite.net": "INACTIVE",
-            "ma204-r.analytics.edgesuite.net": "INACTIVE",
-            "ma211-r.analytics.edgesuite.net": "INACTIVE"
-        },
-        "1571514045": {
-            "ma74-r.analytics.edgesuite.net": "INACTIVE",
-            "ma76-c.analytics.edgesuite.net": "INACTIVE"
-        },
-        "1571514046": {
-            "ma76-r.analytics.edgesuite.net": "INACTIVE"
-        },
-        "1571514052": {
-            "machetestyle.media-toolbar.com": "INACTIVE",
-            "macobserver.us.intellitxt.com": "INACTIVE",
-            "macwelt.de.intellitxt.com": "INACTIVE",
-            "madamenoire.us.intellitxt.com": "INACTIVE"
-        },
-        "1571514060": {
-            "mad.stat.v-56.com": "INACTIVE"
-        },
-        "1571514061": {
-            "magazines.com.102.112.2o7.net": "INACTIVE"
-        },
-        "1571514067": {
-            "maginnonlinev1beta.media-toolbar.com": "INACTIVE"
-        },
-        "1571514073": {
-            "mail.casalemedia.com": "INACTIVE"
-        },
-        "1571514079": {
-            "mailer.hitbox.com": "INACTIVE"
-        },
-        "1571514080": {
-            "mail.mediaodyssey.com": "INACTIVE",
-            "mailing.xiti.com": "INACTIVE"
-        },
-        "1571514087": {
-            "mail.sj2.omniture.com": "INACTIVE"
-        },
-        "1571514093": {
-            "mailx2nl.hitbox.com": "INACTIVE"
-        },
-        "1571514104": {
-            "main.clicksor.com": "INACTIVE"
-        },
-        "1571514110": {
-            "main.mdrates.com": "INACTIVE",
-            "mainstreet.us.intellitxt.com": "INACTIVE",
-            "majorgeeks.us.intellitxt.com": "INACTIVE"
-        },
-        "1571514117": {
-            "makstudent.hit.bg": "INACTIVE",
-            "mamainbed.com": "INACTIVE"
-        },
-        "1571514123": {
-            "manta.hitbox.com": "INACTIVE"
-        },
-        "1571514130": {
-            "map.hitbox.com": "INACTIVE"
-        },
-        "1571514136": {
-            "mapledark.media-toolbar.com": "INACTIVE"
-        },
-        "1571514142": {
-            "maritimes.indymedia.org": "INACTIVE"
-        },
-        "1571514148": {
-            "marvincity.media-toolbar.com": "INACTIVE"
-        },
-        "1571514149": {
-            "ma.servecounterstrike.com": "INACTIVE"
-        },
-        "1571514155": {
-            "mashable.tags.crwdcntrl.net": "INACTIVE"
-        },
-        "1571514161": {
-            "mastercardfeed2.hitbox.com": "INACTIVE"
-        },
-        "1571514167": {
-            "mau.sextracker.com": "INACTIVE",
-            "max.de.intellitxt.com": "INACTIVE"
-        },
-        "1571514174": {
-            "maxg.media-toolbar.com": "INACTIVE"
-        },
-        "1571514180": {
-            "maximfeed2.hitbox.com": "INACTIVE",
-            "mbox4e-prod19.offermatica.com": "INACTIVE"
-        },
-        "1571514196": {
-            "mci12.clicksor.com": "INACTIVE",
-            "mclient.ivwbox.de": "INACTIVE"
-        },
-        "1571514197": {
-            "mcm.fr.intellitxt.com": "INACTIVE",
-            "mdm.casadomedia.se": "INACTIVE"
-        },
-        "1571514198": {
-            "mdws.metrocreditu.com": "INACTIVE"
-        },
-        "1571514199": {
-            "media-0.vpptechnologies.com": "INACTIVE"
-        },
-        "1571514205": {
-            "media1.adsoftware.com": "INACTIVE",
-            "media10.popmarker.com": "INACTIVE"
-        },
-        "1571514206": {
-            "media1.ancestry.com": "INACTIVE"
-        },
-        "1571514212": {
-            "media-1.vpptechnologies.com": "INACTIVE",
-            "media1.popmarker.com": "INACTIVE"
-        },
-        "1571514229": {
-            "media200.110mb.com": "INACTIVE"
-        },
-        "1571514235": {
-            "media2.popmarker.com": "INACTIVE"
-        },
-        "1571514241": {
-            "media2.travelzoo.com": "INACTIVE"
-        },
-        "1571514242": {
-            "media-2.vpptechnologies.com": "INACTIVE"
-        },
-        "1571514248": {
-            "media-3.vpptechnologies.com": "INACTIVE",
-            "media3.popmarker.com": "INACTIVE"
-        },
-        "1571514255": {
-            "media-4.vpptechnologies.com": "INACTIVE",
-            "media4.popmarker.com": "INACTIVE"
-        },
-        "1571514262": {
-            "media-5.vpptechnologies.com": "INACTIVE",
-            "media5.popmarker.com": "INACTIVE"
-        },
-        "1571514269": {
-            "media6.popmarker.com": "INACTIVE"
-        },
-        "1571514270": {
-            "media-6.vpptechnologies.com": "INACTIVE"
-        },
-        "1571514276": {
-            "media-7.vpptechnologies.com": "INACTIVE",
-            "media7.popmarker.com": "INACTIVE"
-        },
-        "1571514282": {
-            "media8.popmarker.com": "INACTIVE"
-        },
-        "1571514283": {
-            "media-8.vpptechnologies.com": "INACTIVE"
-        },
-        "1571514289": {
-            "media9.popmarker.com": "INACTIVE"
-        },
-        "1571514290": {
-            "media.acces-charme.com": "INACTIVE",
-            "media.adlegend.com": "INACTIVE"
-        },
-        "1571514296": {
-            "media.adrevolver.com": "INACTIVE"
-        },
-        "1571514303": {
-            "media.alldanzradio.com": "INACTIVE"
-        },
-        "1571514309": {
-            "media.amoureux.com": "INACTIVE"
-        },
-        "1571514310": {
-            "media.an.qa.fastclick.net": "INACTIVE"
-        },
-        "1571514311": {
-            "media-a.vpptechnologies.com": "INACTIVE",
-            "media.b.lead.program3.com": "INACTIVE"
-        },
-        "1571514318": {
-            "media.bonnint.net": "INACTIVE",
-            "mediaboxen.no": "INACTIVE"
-        },
-        "1571514325": {
-            "mediabox.extra.hu": "INACTIVE"
-        },
-        "1571514331": {
-            "media.broomfieldenterprise.com": "INACTIVE"
-        },
-        "1571514337": {
-            "media.buzzparadise.com": "INACTIVE"
-        },
-        "1571514338": {
-            "media-b.vpptechnologies.com": "INACTIVE"
-        },
-        "1571514344": {
-            "media.choiceradio.com": "INACTIVE"
         },
         "1571514345": {
             "media-c.vpptechnologies.com": "INACTIVE"
@@ -20371,6 +20115,268 @@
         },
         "1571775923": {
             "lookup23-ext.hitbox.com": "INACTIVE"
+        },
+        "1571776728": {
+            "lookup24-ext.hitbox.com": "INACTIVE"
+        },
+        "1571776734": {
+            "lookup25-ext.hitbox.com": "INACTIVE"
+        },
+        "1571776740": {
+            "lookup26-ext.hitbox.com": "INACTIVE"
+        },
+        "1571776747": {
+            "lookup27-ext.hitbox.com": "INACTIVE"
+        },
+        "1571776753": {
+            "lookup28-ext.hitbox.com": "INACTIVE"
+        },
+        "1571776759": {
+            "lookup29-ext.hitbox.com": "INACTIVE"
+        },
+        "1571776768": {
+            "lovegravy.media-toolbar.com": "INACTIVE"
+        },
+        "1571776793": {
+            "lproot.soft365.com": "INACTIVE"
+        },
+        "1571776794": {
+            "lse.uk.intellitxt.com": "INACTIVE",
+            "lsesoutheast.uk.intellitxt.com": "INACTIVE"
+        },
+        "1571776800": {
+            "ltp2qzteb4.s.ad6media.fr": "INACTIVE"
+        },
+        "1571776814": {
+            "lulinbay.hit.bg": "INACTIVE"
+        },
+        "1571776820": {
+            "lululemonout370.hit.bg": "INACTIVE"
+        },
+        "1571776831": {
+            "lycos1.hit.bg": "INACTIVE"
+        },
+        "1571776832": {
+            "lycos.espotting.com": "INACTIVE"
+        },
+        "1571776833": {
+            "ma156-r.analytics.edgesuite.net": "INACTIVE"
+        },
+        "1571776834": {
+            "ma204-r.analytics.edgesuite.net": "INACTIVE",
+            "ma211-r.analytics.edgesuite.net": "INACTIVE",
+            "ma74-r.analytics.edgesuite.net": "INACTIVE"
+        },
+        "1571776835": {
+            "ma76-c.analytics.edgesuite.net": "INACTIVE",
+            "ma76-r.analytics.edgesuite.net": "INACTIVE"
+        },
+        "1571776842": {
+            "machetestyle.media-toolbar.com": "INACTIVE"
+        },
+        "1571776844": {
+            "macobserver.us.intellitxt.com": "INACTIVE",
+            "macwelt.de.intellitxt.com": "INACTIVE"
+        },
+        "1571776845": {
+            "madamenoire.us.intellitxt.com": "INACTIVE"
+        },
+        "1571776854": {
+            "mad.stat.v-56.com": "INACTIVE"
+        },
+        "1571776855": {
+            "magazines.com.102.112.2o7.net": "INACTIVE"
+        },
+        "1571776863": {
+            "maginnonlinev1beta.media-toolbar.com": "INACTIVE"
+        },
+        "1571776870": {
+            "mail.casalemedia.com": "INACTIVE"
+        },
+        "1571776878": {
+            "mailer.hitbox.com": "INACTIVE"
+        },
+        "1571776879": {
+            "mailing.xiti.com": "INACTIVE"
+        },
+        "1571776880": {
+            "mail.mediaodyssey.com": "INACTIVE"
+        },
+        "1571776892": {
+            "mail.sj2.omniture.com": "INACTIVE"
+        },
+        "1571776900": {
+            "mailx2nl.hitbox.com": "INACTIVE"
+        },
+        "1571776917": {
+            "main.clicksor.com": "INACTIVE"
+        },
+        "1571776923": {
+            "main.mdrates.com": "INACTIVE"
+        },
+        "1571776924": {
+            "mainstreet.us.intellitxt.com": "INACTIVE",
+            "majorgeeks.us.intellitxt.com": "INACTIVE"
+        },
+        "1571776931": {
+            "makstudent.hit.bg": "INACTIVE"
+        },
+        "1571776937": {
+            "mamainbed.com": "INACTIVE"
+        },
+        "1571776945": {
+            "manta.hitbox.com": "INACTIVE"
+        },
+        "1571776954": {
+            "map.hitbox.com": "INACTIVE"
+        },
+        "1571776960": {
+            "mapledark.media-toolbar.com": "INACTIVE"
+        },
+        "1571776968": {
+            "maritimes.indymedia.org": "INACTIVE"
+        },
+        "1571776993": {
+            "ma.servecounterstrike.com": "INACTIVE",
+            "marvincity.media-toolbar.com": "INACTIVE"
+        },
+        "1571777000": {
+            "mashable.tags.crwdcntrl.net": "INACTIVE"
+        },
+        "1571777014": {
+            "mastercardfeed2.hitbox.com": "INACTIVE"
+        },
+        "1571777039": {
+            "mau.sextracker.com": "INACTIVE",
+            "max.de.intellitxt.com": "INACTIVE"
+        },
+        "1571777046": {
+            "maxg.media-toolbar.com": "INACTIVE"
+        },
+        "1571777052": {
+            "maximfeed2.hitbox.com": "INACTIVE"
+        },
+        "1571777071": {
+            "mbox4e-prod19.offermatica.com": "INACTIVE"
+        },
+        "1571777089": {
+            "mci12.clicksor.com": "INACTIVE"
+        },
+        "1571777092": {
+            "mclient.ivwbox.de": "INACTIVE"
+        },
+        "1571777093": {
+            "mcm.fr.intellitxt.com": "INACTIVE"
+        },
+        "1571777097": {
+            "mdm.casadomedia.se": "INACTIVE"
+        },
+        "1571777107": {
+            "mdws.metrocreditu.com": "INACTIVE"
+        },
+        "1571777110": {
+            "media-0.vpptechnologies.com": "INACTIVE"
+        },
+        "1571777117": {
+            "media10.popmarker.com": "INACTIVE"
+        },
+        "1571777121": {
+            "media1.adsoftware.com": "INACTIVE",
+            "media1.ancestry.com": "INACTIVE"
+        },
+        "1571777127": {
+            "media1.popmarker.com": "INACTIVE"
+        },
+        "1571777128": {
+            "media-1.vpptechnologies.com": "INACTIVE"
+        },
+        "1571777145": {
+            "media200.110mb.com": "INACTIVE"
+        },
+        "1571777153": {
+            "media2.popmarker.com": "INACTIVE"
+        },
+        "1571777160": {
+            "media2.travelzoo.com": "INACTIVE"
+        },
+        "1571777161": {
+            "media-2.vpptechnologies.com": "INACTIVE"
+        },
+        "1571777175": {
+            "media3.popmarker.com": "INACTIVE"
+        },
+        "1571777176": {
+            "media-3.vpptechnologies.com": "INACTIVE"
+        },
+        "1571777183": {
+            "media4.popmarker.com": "INACTIVE"
+        },
+        "1571777185": {
+            "media-4.vpptechnologies.com": "INACTIVE"
+        },
+        "1571777191": {
+            "media5.popmarker.com": "INACTIVE"
+        },
+        "1571777192": {
+            "media-5.vpptechnologies.com": "INACTIVE"
+        },
+        "1571777198": {
+            "media6.popmarker.com": "INACTIVE"
+        },
+        "1571777199": {
+            "media-6.vpptechnologies.com": "INACTIVE"
+        },
+        "1571777206": {
+            "media7.popmarker.com": "INACTIVE"
+        },
+        "1571777207": {
+            "media-7.vpptechnologies.com": "INACTIVE"
+        },
+        "1571777214": {
+            "media-8.vpptechnologies.com": "INACTIVE",
+            "media8.popmarker.com": "INACTIVE"
+        },
+        "1571777221": {
+            "media.acces-charme.com": "INACTIVE",
+            "media9.popmarker.com": "INACTIVE"
+        },
+        "1571777222": {
+            "media.adlegend.com": "INACTIVE"
+        },
+        "1571777229": {
+            "media.adrevolver.com": "INACTIVE"
+        },
+        "1571777237": {
+            "media.alldanzradio.com": "INACTIVE"
+        },
+        "1571777244": {
+            "media.amoureux.com": "INACTIVE"
+        },
+        "1571777245": {
+            "media.an.qa.fastclick.net": "INACTIVE"
+        },
+        "1571777250": {
+            "media-a.vpptechnologies.com": "INACTIVE"
+        },
+        "1571777257": {
+            "media.b.lead.program3.com": "INACTIVE"
+        },
+        "1571777272": {
+            "media.bonnint.net": "INACTIVE",
+            "mediaboxen.no": "INACTIVE"
+        },
+        "1571777279": {
+            "mediabox.extra.hu": "INACTIVE"
+        },
+        "1571777295": {
+            "media.broomfieldenterprise.com": "INACTIVE"
+        },
+        "1571777302": {
+            "media-b.vpptechnologies.com": "INACTIVE",
+            "media.buzzparadise.com": "INACTIVE"
+        },
+        "1571777317": {
+            "media.choiceradio.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
