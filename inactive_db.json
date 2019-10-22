@@ -1,8 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1571440512": {
-            "ads.jerk2it.com": "INACTIVE"
-        },
         "1571440629": {
             "aff.attractiontracker.com": "INACTIVE"
         },
@@ -36,219 +33,6 @@
         "1571450075": {
             "fastgooglestatsanalytics.co.cc": "INACTIVE"
         },
-        "1571453864": {
-            "ads.adonion.com": "INACTIVE"
-        },
-        "1571453870": {
-            "ads.adviva.net": "INACTIVE"
-        },
-        "1571453877": {
-            "adsame.tianjimedia.com": "INACTIVE"
-        },
-        "1571453883": {
-            "ads.ask.com": "INACTIVE"
-        },
-        "1571453890": {
-            "ads.autostrade.it": "INACTIVE"
-        },
-        "1571453906": {
-            "ads.bnmedia.com": "INACTIVE"
-        },
-        "1571453912": {
-            "ads.boardtracker.com": "INACTIVE",
-            "ads.bostonmedia.com": "INACTIVE"
-        },
-        "1571453918": {
-            "ads.businessweek.com": "INACTIVE"
-        },
-        "1571453924": {
-            "ads.clickability.com": "INACTIVE"
-        },
-        "1571453931": {
-            "ads.clickheal.com": "INACTIVE",
-            "ads.clickpaid.com": "INACTIVE"
-        },
-        "1571453932": {
-            "ads.clicksor.cn": "INACTIVE"
-        },
-        "1571453945": {
-            "ads.clicksor.com": "INACTIVE"
-        },
-        "1571453946": {
-            "ads.crakmedia.com": "INACTIVE",
-            "adsclick.uc.cn": "INACTIVE"
-        },
-        "1571453953": {
-            "ads.duenorthmedia.com": "INACTIVE"
-        },
-        "1571453959": {
-            "ads.elitetrader.com": "INACTIVE",
-            "adserver.flossiemediagroup.com": "INACTIVE",
-            "adserver.hispanoclick.com": "INACTIVE"
-        },
-        "1571453960": {
-            "adserver.trackstats.info": "INACTIVE"
-        },
-        "1571453966": {
-            "adserver.trader.ca": "INACTIVE"
-        },
-        "1571453973": {
-            "adserver.virginmedia.com": "INACTIVE"
-        },
-        "1571453979": {
-            "ads.fidelity-media.com": "INACTIVE",
-            "adserv.tamedia.ch": "INACTIVE"
-        },
-        "1571453980": {
-            "ads.fora.tv": "INACTIVE"
-        },
-        "1571453986": {
-            "ads.fortunecity.com": "INACTIVE"
-        },
-        "1571453992": {
-            "ads.gplusmedia.com": "INACTIVE"
-        },
-        "1571453999": {
-            "ads.havamedia.net": "INACTIVE"
-        },
-        "1571454005": {
-            "ads.hdn.valueclick.net": "INACTIVE"
-        },
-        "1571454011": {
-            "ads.he.valueclick.net": "INACTIVE"
-        },
-        "1571455740": {
-            "ads.hitbox.com": "INACTIVE"
-        },
-        "1571455746": {
-            "ads.hnet.valueclick.net": "INACTIVE"
-        },
-        "1571455752": {
-            "ads.hookedmediagroup.com": "INACTIVE"
-        },
-        "1571455758": {
-            "ads.huma.valueclick.net": "INACTIVE"
-        },
-        "1571455763": {
-            "adsiplytmedia.indiatimes.com": "INACTIVE"
-        },
-        "1571455769": {
-            "ads.link.valueclick.net": "INACTIVE"
-        },
-        "1571455775": {
-            "ads.lov.valueclick.net": "INACTIVE"
-        },
-        "1571455782": {
-            "ads.mediabeam.com": "INACTIVE",
-            "ads.mediaforge.com": "INACTIVE",
-            "ads.mediaodyssey.com": "INACTIVE"
-        },
-        "1571455789": {
-            "adsmediaturf.indiatimes.com": "INACTIVE"
-        },
-        "1571455795": {
-            "ads.mediatwo.com": "INACTIVE"
-        },
-        "1571455801": {
-            "ads.mediawhite.com": "INACTIVE"
-        },
-        "1571455808": {
-            "ads.mirrormedia.co.uk": "INACTIVE"
-        },
-        "1571455814": {
-            "ads.mixtraffic.com": "INACTIVE"
-        },
-        "1571455820": {
-            "ads.mplx.valueclick.net": "INACTIVE"
-        },
-        "1571455826": {
-            "ads.mtv.valueclick.net": "INACTIVE"
-        },
-        "1571455832": {
-            "ads.neudesicmediagroup.com": "INACTIVE"
-        },
-        "1571455838": {
-            "ads.pageranking.org": "INACTIVE"
-        },
-        "1571455845": {
-            "ads.pitchforkmedia.com": "INACTIVE"
-        },
-        "1571455851": {
-            "ads.pointroll.com": "INACTIVE"
-        },
-        "1571455857": {
-            "ads.pr.valueclick.net": "INACTIVE"
-        },
-        "1571455863": {
-            "ads.qcns.valueclick.net": "INACTIVE"
-        },
-        "1571455869": {
-            "ads.rentclicks.com": "INACTIVE"
-        },
-        "1571455870": {
-            "ads.revsci.net": "INACTIVE",
-            "ads.seattletimes.com": "INACTIVE"
-        },
-        "1571455876": {
-            "ads.sfomedia.com": "INACTIVE",
-            "ads.stephensmedia.com": "INACTIVE"
-        },
-        "1571455882": {
-            "ads.tcdc.valueclick.net": "INACTIVE"
-        },
-        "1571455889": {
-            "ads.telecinco.es": "INACTIVE",
-            "ads.track.net": "INACTIVE",
-            "ads.tripod.com": "INACTIVE",
-            "ads.truthmedia.com": "INACTIVE"
-        },
-        "1571455895": {
-            "ads.valuead.com": "INACTIVE"
-        },
-        "1571455901": {
-            "ads.valueclick.net": "INACTIVE"
-        },
-        "1571455908": {
-            "ads.vclick.vn": "INACTIVE"
-        },
-        "1571455914": {
-            "ads.vcuk.valueclick.net": "INACTIVE",
-            "ads.webmedia.co.il": "INACTIVE"
-        },
-        "1571455915": {
-            "ads.weownthetraffic.com": "INACTIVE"
-        },
-        "1571455921": {
-            "ads.zeusclicks.com": "INACTIVE",
-            "ads.zone-media.com": "INACTIVE",
-            "adt.com.102.112.2o7.net": "INACTIVE"
-        },
-        "1571455928": {
-            "adtegrity.spinbox.net": "INACTIVE"
-        },
-        "1571455929": {
-            "ad.thinkmedia.cn": "INACTIVE"
-        },
-        "1571455935": {
-            "ad.touchnclick.co.kr": "INACTIVE"
-        },
-        "1571455941": {
-            "adtrack.cimedia.net": "INACTIVE"
-        },
-        "1571455948": {
-            "adtrack.pichunter.com": "INACTIVE",
-            "adult.admediation.net": "INACTIVE",
-            "adultclicks.us": "INACTIVE"
-        },
-        "1571455955": {
-            "adult-tracker.bravehost.com": "INACTIVE",
-            "adult.hitel.net": "INACTIVE",
-            "adult.koimedia.com": "INACTIVE"
-        },
-        "1571455962": {
-            "adultxxl.hit.bg": "INACTIVE",
-            "advancedsearch.virginmedia.com": "INACTIVE"
-        },
         "1571458031": {
             "maildata9.gohip.com": "INACTIVE"
         },
@@ -266,30 +50,6 @@
         },
         "1571458207": {
             "media.chocam.com": "INACTIVE"
-        },
-        "1571459277": {
-            "adv.entercasino.com": "INACTIVE"
-        },
-        "1571459283": {
-            "advertbvdfx.hitbox.com": "INACTIVE"
-        },
-        "1571459289": {
-            "advertbvfeed2.hitbox.com": "INACTIVE"
-        },
-        "1571459295": {
-            "advert.mediaswiss.rs": "INACTIVE",
-            "advertising.online-media24.de": "INACTIVE"
-        },
-        "1571459296": {
-            "adv-g002.us.intellitxt.com": "INACTIVE",
-            "adv-g003.us.intellitxt.com": "INACTIVE",
-            "advfn.fr.intellitxt.com": "INACTIVE"
-        },
-        "1571459302": {
-            "ad.yadro.ru": "INACTIVE"
-        },
-        "1571459308": {
-            "ad.yourmedia.com": "INACTIVE"
         },
         "1571459314": {
             "a.environmentaldefense.org": "INACTIVE"
@@ -19827,6 +19587,275 @@
         },
         "1571705414": {
             "ads.aco.valueclick.net": "INACTIVE"
+        },
+        "1571705975": {
+            "ads.adonion.com": "INACTIVE"
+        },
+        "1571705982": {
+            "ads.adviva.net": "INACTIVE"
+        },
+        "1571705996": {
+            "adsame.tianjimedia.com": "INACTIVE"
+        },
+        "1571706002": {
+            "ads.ask.com": "INACTIVE"
+        },
+        "1571706009": {
+            "ads.autostrade.it": "INACTIVE"
+        },
+        "1571706025": {
+            "ads.bnmedia.com": "INACTIVE"
+        },
+        "1571706031": {
+            "ads.boardtracker.com": "INACTIVE"
+        },
+        "1571706032": {
+            "ads.bostonmedia.com": "INACTIVE"
+        },
+        "1571706038": {
+            "ads.businessweek.com": "INACTIVE"
+        },
+        "1571706047": {
+            "ads.clickability.com": "INACTIVE"
+        },
+        "1571706054": {
+            "ads.clickheal.com": "INACTIVE"
+        },
+        "1571706055": {
+            "ads.clickpaid.com": "INACTIVE"
+        },
+        "1571706057": {
+            "ads.clicksor.cn": "INACTIVE"
+        },
+        "1571706073": {
+            "ads.clicksor.com": "INACTIVE"
+        },
+        "1571706074": {
+            "ads.crakmedia.com": "INACTIVE",
+            "adsclick.uc.cn": "INACTIVE"
+        },
+        "1571706082": {
+            "ads.duenorthmedia.com": "INACTIVE"
+        },
+        "1571706088": {
+            "ads.elitetrader.com": "INACTIVE"
+        },
+        "1571706093": {
+            "adserver.flossiemediagroup.com": "INACTIVE"
+        },
+        "1571706094": {
+            "adserver.hispanoclick.com": "INACTIVE"
+        },
+        "1571706100": {
+            "adserver.trackstats.info": "INACTIVE"
+        },
+        "1571706106": {
+            "adserver.trader.ca": "INACTIVE"
+        },
+        "1571706113": {
+            "adserver.virginmedia.com": "INACTIVE"
+        },
+        "1571706119": {
+            "adserv.tamedia.ch": "INACTIVE"
+        },
+        "1571706122": {
+            "ads.fidelity-media.com": "INACTIVE",
+            "ads.fora.tv": "INACTIVE"
+        },
+        "1571706128": {
+            "ads.fortunecity.com": "INACTIVE"
+        },
+        "1571706135": {
+            "ads.gplusmedia.com": "INACTIVE"
+        },
+        "1571706142": {
+            "ads.havamedia.net": "INACTIVE"
+        },
+        "1571706148": {
+            "ads.hdn.valueclick.net": "INACTIVE"
+        },
+        "1571706155": {
+            "ads.he.valueclick.net": "INACTIVE"
+        },
+        "1571706167": {
+            "ads.hitbox.com": "INACTIVE"
+        },
+        "1571706174": {
+            "ads.hnet.valueclick.net": "INACTIVE"
+        },
+        "1571706180": {
+            "ads.hookedmediagroup.com": "INACTIVE"
+        },
+        "1571706187": {
+            "ads.huma.valueclick.net": "INACTIVE"
+        },
+        "1571706192": {
+            "adsiplytmedia.indiatimes.com": "INACTIVE"
+        },
+        "1571706200": {
+            "ads.link.valueclick.net": "INACTIVE"
+        },
+        "1571706206": {
+            "ads.lov.valueclick.net": "INACTIVE"
+        },
+        "1571706214": {
+            "ads.mediabeam.com": "INACTIVE"
+        },
+        "1571706215": {
+            "ads.mediaforge.com": "INACTIVE"
+        },
+        "1571706216": {
+            "ads.mediaodyssey.com": "INACTIVE"
+        },
+        "1571706225": {
+            "adsmediaturf.indiatimes.com": "INACTIVE"
+        },
+        "1571706232": {
+            "ads.mediatwo.com": "INACTIVE"
+        },
+        "1571706238": {
+            "ads.mediawhite.com": "INACTIVE"
+        },
+        "1571706244": {
+            "ads.mirrormedia.co.uk": "INACTIVE"
+        },
+        "1571706251": {
+            "ads.mixtraffic.com": "INACTIVE"
+        },
+        "1571706257": {
+            "ads.mplx.valueclick.net": "INACTIVE"
+        },
+        "1571706270": {
+            "ads.mtv.valueclick.net": "INACTIVE"
+        },
+        "1571706277": {
+            "ads.neudesicmediagroup.com": "INACTIVE"
+        },
+        "1571706284": {
+            "ads.pageranking.org": "INACTIVE"
+        },
+        "1571706291": {
+            "ads.pitchforkmedia.com": "INACTIVE"
+        },
+        "1571706298": {
+            "ads.pointroll.com": "INACTIVE"
+        },
+        "1571706304": {
+            "ads.pr.valueclick.net": "INACTIVE"
+        },
+        "1571706311": {
+            "ads.qcns.valueclick.net": "INACTIVE"
+        },
+        "1571706319": {
+            "ads.rentclicks.com": "INACTIVE",
+            "ads.revsci.net": "INACTIVE"
+        },
+        "1571706320": {
+            "ads.seattletimes.com": "INACTIVE"
+        },
+        "1571706326": {
+            "ads.sfomedia.com": "INACTIVE"
+        },
+        "1571706334": {
+            "ads.stephensmedia.com": "INACTIVE"
+        },
+        "1571706343": {
+            "ads.tcdc.valueclick.net": "INACTIVE"
+        },
+        "1571706350": {
+            "ads.telecinco.es": "INACTIVE"
+        },
+        "1571706357": {
+            "ads.track.net": "INACTIVE"
+        },
+        "1571706365": {
+            "ads.trafficaces.com": "INACTIVE"
+        },
+        "1571706366": {
+            "ads.tripod.com": "INACTIVE",
+            "ads.truthmedia.com": "INACTIVE"
+        },
+        "1571706373": {
+            "ads.valuead.com": "INACTIVE"
+        },
+        "1571706379": {
+            "ads.valueclick.net": "INACTIVE"
+        },
+        "1571706389": {
+            "ads.vcuk.valueclick.net": "INACTIVE"
+        },
+        "1571706390": {
+            "ads.webmedia.co.il": "INACTIVE",
+            "ads.weownthetraffic.com": "INACTIVE"
+        },
+        "1571706397": {
+            "ads.zeusclicks.com": "INACTIVE",
+            "ads.zone-media.com": "INACTIVE"
+        },
+        "1571706398": {
+            "adt.com.102.112.2o7.net": "INACTIVE"
+        },
+        "1571706405": {
+            "adtegrity.spinbox.net": "INACTIVE"
+        },
+        "1571706406": {
+            "ad.thinkmedia.cn": "INACTIVE"
+        },
+        "1571706413": {
+            "ad.touchnclick.co.kr": "INACTIVE"
+        },
+        "1571706420": {
+            "adtrack.cimedia.net": "INACTIVE"
+        },
+        "1571706426": {
+            "adtrack.pichunter.com": "INACTIVE"
+        },
+        "1571706431": {
+            "adult.admediation.net": "INACTIVE"
+        },
+        "1571706441": {
+            "adultclicks.us": "INACTIVE"
+        },
+        "1571706454": {
+            "adult.hitel.net": "INACTIVE"
+        },
+        "1571706456": {
+            "adult.koimedia.com": "INACTIVE"
+        },
+        "1571706484": {
+            "adult-tracker.bravehost.com": "INACTIVE"
+        },
+        "1571706506": {
+            "adultxxl.hit.bg": "INACTIVE"
+        },
+        "1571706516": {
+            "advancedsearch.virginmedia.com": "INACTIVE"
+        },
+        "1571706523": {
+            "adv.entercasino.com": "INACTIVE"
+        },
+        "1571706529": {
+            "advertbvdfx.hitbox.com": "INACTIVE"
+        },
+        "1571706535": {
+            "advertbvfeed2.hitbox.com": "INACTIVE"
+        },
+        "1571706543": {
+            "advertising.online-media24.de": "INACTIVE"
+        },
+        "1571706551": {
+            "advert.mediaswiss.rs": "INACTIVE",
+            "advfn.fr.intellitxt.com": "INACTIVE"
+        },
+        "1571706552": {
+            "adv-g002.us.intellitxt.com": "INACTIVE",
+            "adv-g003.us.intellitxt.com": "INACTIVE"
+        },
+        "1571706564": {
+            "ad.yadro.ru": "INACTIVE"
+        },
+        "1571706571": {
+            "ad.yourmedia.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
