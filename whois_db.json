@@ -8015,8 +8015,8 @@
         "state": "future"
     },
     "extradesir.com": {
-        "epoch": "1571529600",
-        "expiration_date": "20-oct-2019",
+        "epoch": 1603152000,
+        "expiration_date": "20-oct-2020",
         "state": "future"
     },
     "extrawatch.com": {
@@ -8150,8 +8150,8 @@
         "state": "future"
     },
     "familysafemedia.com": {
-        "epoch": "1571529600",
-        "expiration_date": "20-oct-2019",
+        "epoch": 1603152000,
+        "expiration_date": "20-oct-2020",
         "state": "future"
     },
     "familytrack.com": {
@@ -8225,9 +8225,9 @@
         "state": "future"
     },
     "fastrackexpress.com": {
-        "epoch": "1571702400",
+        "epoch": 1571702400,
         "expiration_date": "22-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "fastrackprojects.com": {
         "epoch": "1572220800",
