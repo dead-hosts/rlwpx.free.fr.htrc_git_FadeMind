@@ -10630,9 +10630,9 @@
         "state": "future"
     },
     "hitq.com": {
-        "epoch": "1572048000",
+        "epoch": 1572048000,
         "expiration_date": "26-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "hitradio1550.com": {
         "epoch": "1577318400",
@@ -10905,8 +10905,8 @@
         "state": "future"
     },
     "holyshit.net": {
-        "epoch": "1571875200",
-        "expiration_date": "24-oct-2019",
+        "epoch": 1603497600,
+        "expiration_date": "24-oct-2020",
         "state": "future"
     },
     "homemediakit.com": {
@@ -11430,9 +11430,9 @@
         "state": "future"
     },
     "indiamonitor.com": {
-        "epoch": "1572048000",
+        "epoch": 1572048000,
         "expiration_date": "26-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "indieclick.com": {
         "epoch": "1582070400",
