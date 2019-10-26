@@ -1930,8 +1930,8 @@
         "state": "future"
     },
     "ashecountync.com": {
-        "epoch": "1572048000",
-        "expiration_date": "26-oct-2019",
+        "epoch": 1603670400,
+        "expiration_date": "26-oct-2020",
         "state": "future"
     },
     "asiamachinerytrader.com": {
@@ -2360,9 +2360,9 @@
         "state": "future"
     },
     "backgammon-rank.com": {
-        "epoch": "1572048000",
+        "epoch": 1572048000,
         "expiration_date": "26-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "backlinktraffic.com": {
         "epoch": 1591315200,
@@ -2380,9 +2380,9 @@
         "state": "future"
     },
     "baknrate.com": {
-        "epoch": "1571961600",
+        "epoch": 1571961600,
         "expiration_date": "25-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "baku-media.ru": {
         "epoch": "1572566400",
