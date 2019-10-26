@@ -1,14 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1571759140": {
-            "clicklog.hd.baofeng.com": "INACTIVE"
-        },
-        "1571759146": {
-            "clicklog.moviebox.baofeng.com": "INACTIVE"
-        },
-        "1571759153": {
-            "clicklog.moviebox.baofeng.net": "INACTIVE"
-        },
         "1571760586": {
             "cn.clickable.net": "INACTIVE"
         },
@@ -5307,25 +5298,6 @@
         "1571798021": {
             "tetra.hitbox.com": "INACTIVE"
         },
-        "1571798461": {
-            "click1.clickdensity.com": "INACTIVE"
-        },
-        "1571798462": {
-            "click1.mainadv.com": "INACTIVE"
-        },
-        "1571798468": {
-            "click2.cafepress.com": "INACTIVE"
-        },
-        "1571798469": {
-            "click.ad-link.jp": "INACTIVE"
-        },
-        "1571798476": {
-            "click.adv.livedoor.com": "INACTIVE"
-        },
-        "1571798482": {
-            "click.aristotle.net": "INACTIVE",
-            "click.buzzcity.com": "INACTIVE"
-        },
         "1571798483": {
             "teva.com.102.112.2o7.net": "INACTIVE",
             "teva.fr.intellitxt.com": "INACTIVE"
@@ -5671,135 +5643,6 @@
         },
         "1571799023": {
             "track.47news.jp": "INACTIVE"
-        },
-        "1571799477": {
-            "click.cashengines.com": "INACTIVE",
-            "clickcashmoney.biz": "INACTIVE"
-        },
-        "1571799488": {
-            "click.dictionary.com": "INACTIVE",
-            "clickcash.webpower.com": "INACTIVE"
-        },
-        "1571799489": {
-            "click.dofantasy.com": "INACTIVE"
-        },
-        "1571799495": {
-            "clickeu.admailtiser.com": "INACTIVE"
-        },
-        "1571799501": {
-            "clickeu.tractionize.com": "INACTIVE",
-            "clickforbbws.com": "INACTIVE"
-        },
-        "1571799502": {
-            "click.igg.com": "INACTIVE"
-        },
-        "1571799508": {
-            "click.ipc.ru": "INACTIVE",
-            "click.juiceadv.com": "INACTIVE"
-        },
-        "1571799515": {
-            "click.lergao.com": "INACTIVE"
-        },
-        "1571799522": {
-            "click.livedoor.com": "INACTIVE",
-            "click.loudgames.com": "INACTIVE",
-            "clickme.es": "INACTIVE"
-        },
-        "1571799523": {
-            "click.oxcash.com": "INACTIVE",
-            "click.payserve.com": "INACTIVE",
-            "clicknet.es": "INACTIVE"
-        },
-        "1571799530": {
-            "click.raincollectionequipment.com": "INACTIVE",
-            "click.revsharecash.com": "INACTIVE"
-        },
-        "1571799536": {
-            "clicks11.geoads.com": "INACTIVE"
-        },
-        "1571799537": {
-            "clicks2.oxcash.com": "INACTIVE"
-        },
-        "1571799543": {
-            "clicks2.traffictrader.net": "INACTIVE"
-        },
-        "1571799550": {
-            "clicks.beap.ad.yieldmanager.net": "INACTIVE",
-            "clicks.beap.bc.yahoo.com": "INACTIVE",
-            "clicks3.traffictrader.net": "INACTIVE"
-        },
-        "1571799551": {
-            "clicks.dealer.com": "INACTIVE",
-            "clicks.dt.mydas.mobi": "INACTIVE"
-        },
-        "1571799557": {
-            "clicks.equantum.com": "INACTIVE"
-        },
-        "1571799563": {
-            "clicks.eutopia.traffictrader.net": "INACTIVE",
-            "clicks.igg.com": "INACTIVE"
-        },
-        "1571799570": {
-            "click.sina.com.cn": "INACTIVE"
-        },
-        "1571799576": {
-            "clicks.izea.com": "INACTIVE"
-        },
-        "1571799577": {
-            "clicks.mods.de": "INACTIVE"
-        },
-        "1571799583": {
-            "clicks.natwest.com": "INACTIVE"
-        },
-        "1571799590": {
-            "clicks.oxcash.com": "INACTIVE"
-        },
-        "1571799596": {
-            "clicks.rbs.co.uk": "INACTIVE"
-        },
-        "1571799602": {
-            "clicksrv.libero.it": "INACTIVE"
-        },
-        "1571799608": {
-            "clicks.traffictrader.net": "INACTIVE"
-        },
-        "1571799609": {
-            "clicks.unifiedpost.com": "INACTIVE",
-            "clicks.walla.co.il": "INACTIVE"
-        },
-        "1571799610": {
-            "click.tianyaui.com": "INACTIVE",
-            "clicktracks.barrystickets.com": "INACTIVE"
-        },
-        "1571799611": {
-            "clicktracksolutions.com": "INACTIVE"
-        },
-        "1571799617": {
-            "click.trafikkfondet.no": "INACTIVE"
-        },
-        "1571799624": {
-            "click.uctrac.com": "INACTIVE"
-        },
-        "1571799625": {
-            "click.union.360buy.com": "INACTIVE"
-        },
-        "1571799628": {
-            "clickus.tractionize.com": "INACTIVE"
-        },
-        "1571799635": {
-            "click.v1.de.euserv.gam.adaos-ads.net": "INACTIVE"
-        },
-        "1571799641": {
-            "click.voc.com.cn": "INACTIVE"
-        },
-        "1571799648": {
-            "click.youreletters3.com": "INACTIVE"
-        },
-        "1571799654": {
-            "click.zipcodez.com": "INACTIVE"
-        },
-        "1571799660": {
-            "clientlog.users.conduit.com": "INACTIVE"
         },
         "1571799666": {
             "clientreport.random-logic.com": "INACTIVE"
@@ -20376,6 +20219,177 @@
         },
         "1572061990": {
             "claudia-demarmels.hit.bg": "INACTIVE"
+        },
+        "1572063715": {
+            "clichri885.narod.ru": "INACTIVE"
+        },
+        "1572063729": {
+            "click1.clickdensity.com": "INACTIVE",
+            "click1.mainadv.com": "INACTIVE"
+        },
+        "1572063743": {
+            "click2.cafepress.com": "INACTIVE"
+        },
+        "1572063793": {
+            "click.ad-link.jp": "INACTIVE"
+        },
+        "1572063806": {
+            "click.adv.livedoor.com": "INACTIVE"
+        },
+        "1572063815": {
+            "click.aristotle.net": "INACTIVE"
+        },
+        "1572063845": {
+            "click.buzzcity.com": "INACTIVE"
+        },
+        "1572063860": {
+            "click.cashengines.com": "INACTIVE",
+            "clickcashmoney.biz": "INACTIVE"
+        },
+        "1572063868": {
+            "clickcash.webpower.com": "INACTIVE"
+        },
+        "1572063898": {
+            "click.dictionary.com": "INACTIVE"
+        },
+        "1572063902": {
+            "click.dofantasy.com": "INACTIVE"
+        },
+        "1572063911": {
+            "clickeu.admailtiser.com": "INACTIVE",
+            "clickeu.tractionize.com": "INACTIVE"
+        },
+        "1572063930": {
+            "clickforbbws.com": "INACTIVE"
+        },
+        "1572063962": {
+            "click.igg.com": "INACTIVE"
+        },
+        "1572063972": {
+            "click.ipc.ru": "INACTIVE"
+        },
+        "1572063974": {
+            "click.juiceadv.com": "INACTIVE"
+        },
+        "1572063986": {
+            "click.lergao.com": "INACTIVE"
+        },
+        "1572063996": {
+            "click.livedoor.com": "INACTIVE"
+        },
+        "1572064000": {
+            "click.loudgames.com": "INACTIVE"
+        },
+        "1572064007": {
+            "clickme.es": "INACTIVE"
+        },
+        "1572064033": {
+            "clicknet.es": "INACTIVE"
+        },
+        "1572064052": {
+            "click.oxcash.com": "INACTIVE"
+        },
+        "1572064059": {
+            "click.payserve.com": "INACTIVE"
+        },
+        "1572064075": {
+            "click.raincollectionequipment.com": "INACTIVE"
+        },
+        "1572064079": {
+            "click.revsharecash.com": "INACTIVE"
+        },
+        "1572064091": {
+            "clicks11.geoads.com": "INACTIVE"
+        },
+        "1572064097": {
+            "clicks2.oxcash.com": "INACTIVE"
+        },
+        "1572064104": {
+            "clicks2.traffictrader.net": "INACTIVE"
+        },
+        "1572064110": {
+            "clicks3.traffictrader.net": "INACTIVE"
+        },
+        "1572064127": {
+            "clicks.beap.ad.yieldmanager.net": "INACTIVE"
+        },
+        "1572064128": {
+            "clicks.beap.bc.yahoo.com": "INACTIVE"
+        },
+        "1572064129": {
+            "clicks.dealer.com": "INACTIVE",
+            "clicks.dt.mydas.mobi": "INACTIVE"
+        },
+        "1572064136": {
+            "clicks.equantum.com": "INACTIVE"
+        },
+        "1572064143": {
+            "clicks.eutopia.traffictrader.net": "INACTIVE"
+        },
+        "1572064146": {
+            "clicks.igg.com": "INACTIVE"
+        },
+        "1572064155": {
+            "click.sina.com.cn": "INACTIVE"
+        },
+        "1572064162": {
+            "clicks.izea.com": "INACTIVE"
+        },
+        "1572064164": {
+            "clicks.mods.de": "INACTIVE"
+        },
+        "1572064171": {
+            "clicks.natwest.com": "INACTIVE"
+        },
+        "1572064179": {
+            "clicks.oxcash.com": "INACTIVE"
+        },
+        "1572064186": {
+            "clicks.rbs.co.uk": "INACTIVE"
+        },
+        "1572064192": {
+            "clicksrv.libero.it": "INACTIVE"
+        },
+        "1572064200": {
+            "clicks.traffictrader.net": "INACTIVE"
+        },
+        "1572064202": {
+            "clicks.unifiedpost.com": "INACTIVE"
+        },
+        "1572064205": {
+            "clicks.walla.co.il": "INACTIVE"
+        },
+        "1572064221": {
+            "click.tianyaui.com": "INACTIVE"
+        },
+        "1572064230": {
+            "clicktracks.barrystickets.com": "INACTIVE",
+            "clicktracksolutions.com": "INACTIVE"
+        },
+        "1572064243": {
+            "click.trafikkfondet.no": "INACTIVE"
+        },
+        "1572064253": {
+            "click.uctrac.com": "INACTIVE"
+        },
+        "1572064256": {
+            "click.union.360buy.com": "INACTIVE",
+            "clickus.tractionize.com": "INACTIVE"
+        },
+        "1572064262": {
+            "click.v1.de.euserv.gam.adaos-ads.net": "INACTIVE"
+        },
+        "1572064270": {
+            "click.voc.com.cn": "INACTIVE"
+        },
+        "1572064288": {
+            "click.youreletters3.com": "INACTIVE"
+        },
+        "1572064295": {
+            "click.zipcodez.com": "INACTIVE"
+        },
+        "1572064316": {
+            "clientlog.users.conduit.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
