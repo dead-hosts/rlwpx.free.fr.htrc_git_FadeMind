@@ -1,29 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1572042113": {
-            "ad2.emediate.se": "INACTIVE"
-        },
-        "1572042119": {
-            "ad2.firehousezone.com": "INACTIVE"
-        },
-        "1572042121": {
-            "ad2.trafficgate.net": "INACTIVE"
-        },
-        "1572042130": {
-            "ad3.pamedia.com.au": "INACTIVE"
-        },
-        "1572042153": {
-            "ad.adtracking.me": "INACTIVE"
-        },
-        "1572042166": {
-            "ad.bodyclick.net": "INACTIVE"
-        },
-        "1572042180": {
-            "adclick.pruna.com": "INACTIVE"
-        },
-        "1572042183": {
-            "adcounter.theglobeandmail.com": "INACTIVE"
-        },
         "1572048573": {
             "ad.doubleclick.net.78185.9450.302br.net": "INACTIVE"
         },
@@ -20550,6 +20526,30 @@
         },
         "1572216325": {
             "ad1.yourmedia.com": "INACTIVE"
+        },
+        "1572216471": {
+            "ad2.emediate.se": "INACTIVE"
+        },
+        "1572216477": {
+            "ad2.firehousezone.com": "INACTIVE"
+        },
+        "1572216479": {
+            "ad2.trafficgate.net": "INACTIVE"
+        },
+        "1572216488": {
+            "ad3.pamedia.com.au": "INACTIVE"
+        },
+        "1572216511": {
+            "ad.adtracking.me": "INACTIVE"
+        },
+        "1572216525": {
+            "ad.bodyclick.net": "INACTIVE"
+        },
+        "1572216543": {
+            "adclick.pruna.com": "INACTIVE"
+        },
+        "1572216547": {
+            "adcounter.theglobeandmail.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
