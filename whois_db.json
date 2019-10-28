@@ -3980,9 +3980,9 @@
         "state": "future"
     },
     "chartlog.com": {
-        "epoch": "1572220800",
+        "epoch": 1572220800,
         "expiration_date": "28-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "chatham-county-nc.com": {
         "epoch": "1581033600",
