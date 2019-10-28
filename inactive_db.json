@@ -1,275 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1572070359": {
-            "derreisefuehrer.de.intellitxt.com": "INACTIVE"
-        },
-        "1572070371": {
-            "designeroutl563.hit.bg": "INACTIVE"
-        },
-        "1572070373": {
-            "de.sitestat.nedstat.net": "INACTIVE"
-        },
-        "1572070389": {
-            "dev-01.hitbox.com": "INACTIVE"
-        },
-        "1572070395": {
-            "dev101-snat.hitbox.com": "INACTIVE"
-        },
-        "1572070401": {
-            "dev102-ssl.hitbox.com": "INACTIVE"
-        },
-        "1572070407": {
-            "dev103-ext.hitbox.com": "INACTIVE"
-        },
-        "1572070414": {
-            "dev109-ext.hitbox.com": "INACTIVE"
-        },
-        "1572070420": {
-            "devadmin.cimedia.com": "INACTIVE"
-        },
-        "1572070426": {
-            "dev.ajc.cimedia.com": "INACTIVE"
-        },
-        "1572070435": {
-            "dev.insightexpressai.com": "INACTIVE"
-        },
-        "1572070441": {
-            "dev.insightexpress.com": "INACTIVE",
-            "dev.media.adxpansion.com": "INACTIVE",
-            "dev.mediafriendsinc.com": "INACTIVE"
-        },
-        "1572070442": {
-            "dev.millennialmedia.com": "INACTIVE"
-        },
-        "1572070449": {
-            "dev-popchart-ext.hitbox.com": "INACTIVE"
-        },
-        "1572070456": {
-            "df.telemetry.microsoft.com": "INACTIVE"
-        },
-        "1572070463": {
-            "dggcvj.hit.bg": "INACTIVE"
-        },
-        "1572070472": {
-            "dhbx.hitbox.com": "INACTIVE"
-        },
-        "1572070478": {
-            "dhcp-l3-237.hitbox.com": "INACTIVE"
-        },
-        "1572070484": {
-            "dhcp-l3-240.hitbox.com": "INACTIVE"
-        },
-        "1572070490": {
-            "dhcp-l3-241.hitbox.com": "INACTIVE"
-        },
-        "1572070497": {
-            "dhcp-l3-242.hitbox.com": "INACTIVE"
-        },
-        "1572070503": {
-            "dhcp-l3-245.hitbox.com": "INACTIVE"
-        },
-        "1572070509": {
-            "dhcp-l3-246.hitbox.com": "INACTIVE"
-        },
-        "1572070515": {
-            "dhcp-l3-248.hitbox.com": "INACTIVE"
-        },
-        "1572070521": {
-            "dhcp-l3-249.hitbox.com": "INACTIVE"
-        },
-        "1572070530": {
-            "dhmonitor.dinaserver.com": "INACTIVE"
-        },
-        "1572070536": {
-            "dhnet.media-toolbar.com": "INACTIVE"
-        },
-        "1572070540": {
-            "dialers.netcollex.net": "INACTIVE"
-        },
-        "1572070547": {
-            "dictionnaire.phpmyvisites.net": "INACTIVE"
-        },
-        "1572070554": {
-            "differentmusiknonstopradio.media-toolbar.com": "INACTIVE"
-        },
-        "1572070561": {
-            "digdemo.hitbox.com": "INACTIVE"
-        },
-        "1572070567": {
-            "digdfxmbeam.hitbox.com": "INACTIVE"
-        },
-        "1572070573": {
-            "digdfxwdpro.hitbox.com": "INACTIVE"
-        },
-        "1572070579": {
-            "digfeed2.hitbox.com": "INACTIVE"
-        },
-        "1572070586": {
-            "digfeed.hitbox.com": "INACTIVE"
-        },
-        "1572070592": {
-            "digg.analytics.live.com": "INACTIVE"
-        },
-        "1572070594": {
-            "digistats.westjet.com": "INACTIVE"
-        },
-        "1572070605": {
-            "digital-world.de.intellitxt.com": "INACTIVE"
-        },
-        "1572070612": {
-            "digprofeed.hitbox.com": "INACTIVE"
-        },
-        "1572070620": {
-            "dinamo.media-toolbar.com": "INACTIVE"
-        },
-        "1572070627": {
-            "dioial.hit.bg": "INACTIVE"
-        },
-        "1572070642": {
-            "directory.linkshare.com": "INACTIVE"
-        },
-        "1572070652": {
-            "disneydfx.hitbox.com": "INACTIVE",
-            "disneylandparis.com.102.112.2o7.net": "INACTIVE"
-        },
-        "1572070667": {
-            "divane.hit.bg": "INACTIVE"
-        },
-        "1572071844": {
-            "dk.espotting.com": "INACTIVE"
-        },
-        "1572071851": {
-            "dl01.casalemedia.com": "INACTIVE"
-        },
-        "1572071858": {
-            "dl02.casalemedia.com": "INACTIVE"
-        },
-        "1572071865": {
-            "dl.casalemedia.com": "INACTIVE",
-            "dl.clicktraffix.com": "INACTIVE"
-        },
-        "1572071879": {
-            "dl.elex.soft365.com": "INACTIVE"
-        },
-        "1572071885": {
-            "dlogin.hitbox.com": "INACTIVE"
-        },
-        "1572071887": {
-            "dmeserv.newsinc.com": "INACTIVE"
-        },
-        "1572071894": {
-            "dmtrack.buy.qq.com": "INACTIVE"
-        },
-        "1572071909": {
-            "dmxtrilogy.hitbox.com": "INACTIVE"
-        },
-        "1572071915": {
-            "dmz2.omniture.com": "INACTIVE"
-        },
-        "1572071923": {
-            "dnplugin.digitalnames.net": "INACTIVE"
-        },
-        "1572071930": {
-            "dns01.hitbox.com": "INACTIVE"
-        },
-        "1572071936": {
-            "dns02.hitbox.com": "INACTIVE"
-        },
-        "1572071942": {
-            "dns1.miva.com": "INACTIVE"
-        },
-        "1572071948": {
-            "dns2.miva.com": "INACTIVE"
-        },
-        "1572071955": {
-            "dns.hitbox.com": "INACTIVE"
-        },
-        "1572071962": {
-            "docs.indymedia.org": "INACTIVE"
-        },
-        "1572071975": {
-            "doelog.jugem.jp": "INACTIVE"
-        },
-        "1572071976": {
-            "dogpile.espotting.com": "INACTIVE"
-        },
-        "1572071986": {
-            "dolly-dollar.hit.bg": "INACTIVE"
-        },
-        "1572072004": {
-            "dorange1.media-toolbar.com": "INACTIVE",
-            "dota-allstars.us.intellitxt.com": "INACTIVE"
-        },
-        "1572072005": {
-            "dotnetheaven.us.intellitxt.com": "INACTIVE"
-        },
-        "1572072007": {
-            "dotnetslackers.us.intellitxt.com": "INACTIVE"
-        },
-        "1572072021": {
-            "doubleclick.igalive.com": "INACTIVE"
-        },
-        "1572072026": {
-            "doubleclick.thirdparty.ooyala.com": "INACTIVE"
-        },
-        "1572072027": {
-            "doubleviking.us.intellitxt.com": "INACTIVE"
-        },
-        "1572072029": {
-            "down.fr.intellitxt.com": "INACTIVE"
-        },
-        "1572072035": {
-            "download-1.visicommedia.com": "INACTIVE"
-        },
-        "1572072036": {
-            "download32.us.intellitxt.com": "INACTIVE"
-        },
-        "1572072044": {
-            "download.fairdialer.de": "INACTIVE"
-        },
-        "1572072051": {
-            "download.hitbox.com": "INACTIVE",
-            "downloads.de.intellitxt.com": "INACTIVE"
-        },
-        "1572072055": {
-            "downloads.memedia.com": "INACTIVE"
-        },
-        "1572072056": {
-            "download.stardialer.de": "INACTIVE"
-        },
-        "1572072062": {
-            "download.websearch.com": "INACTIVE"
-        },
-        "1572072069": {
-            "download.zhongsou.com": "INACTIVE"
-        },
-        "1572072071": {
-            "dp2.specificclick.net": "INACTIVE"
-        },
-        "1572072072": {
-            "drdobbs.us.intellitxt.com": "INACTIVE",
-            "dreamcast.ign.us.intellitxt.com": "INACTIVE"
-        },
-        "1572072086": {
-            "driverguide.us.intellitxt.com": "INACTIVE"
-        },
-        "1572072093": {
-            "drizzydrake.us.intellitxt.com": "INACTIVE",
-            "dropcharge.stardialer.de": "INACTIVE"
-        },
-        "1572072094": {
-            "drsfostersmith.com.102.112.2o7.net": "INACTIVE",
-            "drugscom.us.intellitxt.com": "INACTIVE"
-        },
-        "1572072095": {
-            "ds.ign.us.intellitxt.com": "INACTIVE"
-        },
-        "1572072102": {
-            "dsnfs01-30.hitbox.com": "INACTIVE"
-        },
-        "1572072108": {
-            "dsnfs01.hitbox.com": "INACTIVE"
-        },
         "1572072113": {
             "dtrack.secdls.com": "INACTIVE"
         },
@@ -20561,6 +20291,279 @@
         },
         "1572224882": {
             "derodehaan.media-toolbar.com": "INACTIVE"
+        },
+        "1572224976": {
+            "derreisefuehrer.de.intellitxt.com": "INACTIVE"
+        },
+        "1572224991": {
+            "designeroutl563.hit.bg": "INACTIVE"
+        },
+        "1572224993": {
+            "de.sitestat.nedstat.net": "INACTIVE"
+        },
+        "1572225009": {
+            "dev-01.hitbox.com": "INACTIVE"
+        },
+        "1572225016": {
+            "dev101-snat.hitbox.com": "INACTIVE"
+        },
+        "1572225022": {
+            "dev102-ssl.hitbox.com": "INACTIVE"
+        },
+        "1572225028": {
+            "dev103-ext.hitbox.com": "INACTIVE"
+        },
+        "1572225034": {
+            "dev109-ext.hitbox.com": "INACTIVE"
+        },
+        "1572225040": {
+            "devadmin.cimedia.com": "INACTIVE"
+        },
+        "1572225047": {
+            "dev.ajc.cimedia.com": "INACTIVE"
+        },
+        "1572225059": {
+            "dev.insightexpressai.com": "INACTIVE"
+        },
+        "1572225065": {
+            "dev.insightexpress.com": "INACTIVE",
+            "dev.media.adxpansion.com": "INACTIVE",
+            "dev.mediafriendsinc.com": "INACTIVE"
+        },
+        "1572225066": {
+            "dev.millennialmedia.com": "INACTIVE"
+        },
+        "1572225073": {
+            "dev-popchart-ext.hitbox.com": "INACTIVE"
+        },
+        "1572225080": {
+            "df.telemetry.microsoft.com": "INACTIVE"
+        },
+        "1572225087": {
+            "dggcvj.hit.bg": "INACTIVE"
+        },
+        "1572225096": {
+            "dhbx.hitbox.com": "INACTIVE"
+        },
+        "1572225102": {
+            "dhcp-l3-237.hitbox.com": "INACTIVE"
+        },
+        "1572225108": {
+            "dhcp-l3-240.hitbox.com": "INACTIVE"
+        },
+        "1572225114": {
+            "dhcp-l3-241.hitbox.com": "INACTIVE"
+        },
+        "1572225121": {
+            "dhcp-l3-242.hitbox.com": "INACTIVE"
+        },
+        "1572225127": {
+            "dhcp-l3-245.hitbox.com": "INACTIVE"
+        },
+        "1572225133": {
+            "dhcp-l3-246.hitbox.com": "INACTIVE"
+        },
+        "1572225139": {
+            "dhcp-l3-248.hitbox.com": "INACTIVE"
+        },
+        "1572225145": {
+            "dhcp-l3-249.hitbox.com": "INACTIVE"
+        },
+        "1572225155": {
+            "dhmonitor.dinaserver.com": "INACTIVE"
+        },
+        "1572225162": {
+            "dhnet.media-toolbar.com": "INACTIVE"
+        },
+        "1572225167": {
+            "dialers.netcollex.net": "INACTIVE"
+        },
+        "1572225174": {
+            "dictionnaire.phpmyvisites.net": "INACTIVE"
+        },
+        "1572225181": {
+            "differentmusiknonstopradio.media-toolbar.com": "INACTIVE"
+        },
+        "1572225188": {
+            "digdemo.hitbox.com": "INACTIVE"
+        },
+        "1572225195": {
+            "digdfxmbeam.hitbox.com": "INACTIVE"
+        },
+        "1572225201": {
+            "digdfxwdpro.hitbox.com": "INACTIVE"
+        },
+        "1572225207": {
+            "digfeed2.hitbox.com": "INACTIVE"
+        },
+        "1572225213": {
+            "digfeed.hitbox.com": "INACTIVE"
+        },
+        "1572225219": {
+            "digg.analytics.live.com": "INACTIVE"
+        },
+        "1572225221": {
+            "digistats.westjet.com": "INACTIVE"
+        },
+        "1572225233": {
+            "digital-world.de.intellitxt.com": "INACTIVE"
+        },
+        "1572225239": {
+            "digprofeed.hitbox.com": "INACTIVE"
+        },
+        "1572225250": {
+            "dinamo.media-toolbar.com": "INACTIVE"
+        },
+        "1572225257": {
+            "dioial.hit.bg": "INACTIVE"
+        },
+        "1572225258": {
+            "directads.mcafee.com": "INACTIVE"
+        },
+        "1572225274": {
+            "directory.linkshare.com": "INACTIVE"
+        },
+        "1572225284": {
+            "disneydfx.hitbox.com": "INACTIVE",
+            "disneylandparis.com.102.112.2o7.net": "INACTIVE"
+        },
+        "1572225299": {
+            "divane.hit.bg": "INACTIVE"
+        },
+        "1572225306": {
+            "dk.espotting.com": "INACTIVE"
+        },
+        "1572225313": {
+            "dl01.casalemedia.com": "INACTIVE"
+        },
+        "1572225319": {
+            "dl02.casalemedia.com": "INACTIVE"
+        },
+        "1572225326": {
+            "dl.casalemedia.com": "INACTIVE"
+        },
+        "1572225327": {
+            "dl.clicktraffix.com": "INACTIVE"
+        },
+        "1572225341": {
+            "dl.elex.soft365.com": "INACTIVE"
+        },
+        "1572225347": {
+            "dlogin.hitbox.com": "INACTIVE"
+        },
+        "1572225348": {
+            "dmeserv.newsinc.com": "INACTIVE"
+        },
+        "1572225356": {
+            "dmtrack.buy.qq.com": "INACTIVE"
+        },
+        "1572225371": {
+            "dmxtrilogy.hitbox.com": "INACTIVE"
+        },
+        "1572225377": {
+            "dmz2.omniture.com": "INACTIVE"
+        },
+        "1572225385": {
+            "dnplugin.digitalnames.net": "INACTIVE"
+        },
+        "1572225391": {
+            "dns01.hitbox.com": "INACTIVE"
+        },
+        "1572225398": {
+            "dns02.hitbox.com": "INACTIVE"
+        },
+        "1572225404": {
+            "dns1.miva.com": "INACTIVE"
+        },
+        "1572225410": {
+            "dns2.miva.com": "INACTIVE"
+        },
+        "1572225417": {
+            "dns.hitbox.com": "INACTIVE"
+        },
+        "1572225424": {
+            "docs.indymedia.org": "INACTIVE"
+        },
+        "1572225437": {
+            "doelog.jugem.jp": "INACTIVE"
+        },
+        "1572225438": {
+            "dogpile.espotting.com": "INACTIVE"
+        },
+        "1572225448": {
+            "dolly-dollar.hit.bg": "INACTIVE"
+        },
+        "1572225469": {
+            "dorange1.media-toolbar.com": "INACTIVE",
+            "dota-allstars.us.intellitxt.com": "INACTIVE"
+        },
+        "1572225470": {
+            "dotnetheaven.us.intellitxt.com": "INACTIVE"
+        },
+        "1572225472": {
+            "dotnetslackers.us.intellitxt.com": "INACTIVE"
+        },
+        "1572225484": {
+            "doubleclick.igalive.com": "INACTIVE"
+        },
+        "1572225489": {
+            "doubleclick.thirdparty.ooyala.com": "INACTIVE"
+        },
+        "1572225490": {
+            "doubleviking.us.intellitxt.com": "INACTIVE"
+        },
+        "1572225492": {
+            "down.fr.intellitxt.com": "INACTIVE"
+        },
+        "1572225498": {
+            "download-1.visicommedia.com": "INACTIVE",
+            "download32.us.intellitxt.com": "INACTIVE"
+        },
+        "1572225507": {
+            "download.fairdialer.de": "INACTIVE"
+        },
+        "1572225513": {
+            "download.hitbox.com": "INACTIVE"
+        },
+        "1572225516": {
+            "downloads.de.intellitxt.com": "INACTIVE"
+        },
+        "1572225520": {
+            "download.stardialer.de": "INACTIVE",
+            "downloads.memedia.com": "INACTIVE"
+        },
+        "1572225527": {
+            "download.websearch.com": "INACTIVE"
+        },
+        "1572225534": {
+            "download.zhongsou.com": "INACTIVE"
+        },
+        "1572225536": {
+            "dp2.specificclick.net": "INACTIVE"
+        },
+        "1572225538": {
+            "drdobbs.us.intellitxt.com": "INACTIVE",
+            "dreamcast.ign.us.intellitxt.com": "INACTIVE"
+        },
+        "1572225552": {
+            "driverguide.us.intellitxt.com": "INACTIVE"
+        },
+        "1572225559": {
+            "drizzydrake.us.intellitxt.com": "INACTIVE",
+            "dropcharge.stardialer.de": "INACTIVE"
+        },
+        "1572225560": {
+            "drsfostersmith.com.102.112.2o7.net": "INACTIVE",
+            "drugscom.us.intellitxt.com": "INACTIVE"
+        },
+        "1572225561": {
+            "ds.ign.us.intellitxt.com": "INACTIVE"
+        },
+        "1572225568": {
+            "dsnfs01-30.hitbox.com": "INACTIVE"
+        },
+        "1572225574": {
+            "dsnfs01.hitbox.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
