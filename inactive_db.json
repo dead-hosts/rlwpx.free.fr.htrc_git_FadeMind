@@ -1,260 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1572115713": {
-            "stagevrx01-ssl.hitbox.com": "INACTIVE"
-        },
-        "1572115720": {
-            "stagingadi.insightexpress.com": "INACTIVE"
-        },
-        "1572115726": {
-            "staging.insightexpressai.com": "INACTIVE"
-        },
-        "1572115727": {
-            "staging.testandtarget.omniture.com": "INACTIVE"
-        },
-        "1572115734": {
-            "standard.co.uk.102.122.2o7.net": "INACTIVE"
-        },
-        "1572115736": {
-            "standard.kratedemo.com": "INACTIVE",
-            "starcasm.us.intellitxt.com": "INACTIVE"
-        },
-        "1572115738": {
-            "starpulse.us.intellitxt.com": "INACTIVE"
-        },
-        "1572115745": {
-            "startpagina.metriweb.be": "INACTIVE"
-        },
-        "1572115746": {
-            "startpunt.nu.site-id.nl": "INACTIVE"
-        },
-        "1572115759": {
-            "stat.17k.com": "INACTIVE"
-        },
-        "1572115766": {
-            "stat1.vipstat.com": "INACTIVE"
-        },
-        "1572115771": {
-            "stat2.corp.56.com": "INACTIVE"
-        },
-        "1572115778": {
-            "stat2.corp.v-56.com": "INACTIVE"
-        },
-        "1572115785": {
-            "stat2.stat.v-56.com": "INACTIVE"
-        },
-        "1572115792": {
-            "stat2.vodone.com": "INACTIVE"
-        },
-        "1572115801": {
-            "stat3.corp.56.com": "INACTIVE"
-        },
-        "1572115808": {
-            "stat3.corp.v-56.com": "INACTIVE"
-        },
-        "1572115821": {
-            "stat3.stat.v-56.com": "INACTIVE"
-        },
-        "1572115828": {
-            "stat4.comby.ru": "INACTIVE"
-        },
-        "1572115836": {
-            "stat4.corp.56.com": "INACTIVE"
-        },
-        "1572115843": {
-            "stat4.corp.v-56.com": "INACTIVE"
-        },
-        "1572115851": {
-            "stat4.stat.v-56.com": "INACTIVE"
-        },
-        "1572115860": {
-            "stat.56.com": "INACTIVE"
-        },
-        "1572115866": {
-            "stat5.comby.ru": "INACTIVE"
-        },
-        "1572115869": {
-            "stat.axelspringer.hu": "INACTIVE"
-        },
-        "1572115878": {
-            "stat.blogads.com": "INACTIVE"
-        },
-        "1572115885": {
-            "stat.caijing.com.cn": "INACTIVE"
-        },
-        "1572115892": {
-            "stat.ccidnet.com": "INACTIVE"
-        },
-        "1572115895": {
-            "stat.cocolog-nifty.com": "INACTIVE"
-        },
-        "1572115903": {
-            "stat.correioweb.com.br": "INACTIVE"
-        },
-        "1572115906": {
-            "stat.dealtime.com": "INACTIVE"
-        },
-        "1572115907": {
-            "stat.discuz.com": "INACTIVE",
-            "stat.dk3.com": "INACTIVE"
-        },
-        "1572115914": {
-            "stat.download.xunlei.com": "INACTIVE"
-        },
-        "1572115924": {
-            "stat.ent.mop.com": "INACTIVE"
-        },
-        "1572115933": {
-            "stat.game.pps.tv": "INACTIVE"
-        },
-        "1572115940": {
-            "stat.gaya.cn": "INACTIVE"
-        },
-        "1572115955": {
-            "static.clickpapa.com": "INACTIVE"
-        },
-        "1572115965": {
-            "static.ifa.empflixlive.com": "INACTIVE"
-        },
-        "1572115972": {
-            "static.ifa.slutloadlive.com": "INACTIVE"
-        },
-        "1572115978": {
-            "static.ifa.yobtcams.com": "INACTIVE"
-        },
-        "1572115985": {
-            "static-ip-77-89-115-230.promax.media.pl": "INACTIVE"
-        },
-        "1572115991": {
-            "static-ip-87-248-75-41.promax.media.pl": "INACTIVE"
-        },
-        "1572115996": {
-            "statik.kappa.ro": "INACTIVE"
-        },
-        "1572115998": {
-            "stat.infoclear.sco.kr": "INACTIVE"
-        },
-        "1572116000": {
-            "statistic.qarchive.org": "INACTIVE"
-        },
-        "1572116008": {
-            "statistics.douww.com": "INACTIVE"
-        },
-        "1572116014": {
-            "statistics.elsevier.nl": "INACTIVE"
-        },
-        "1572116048": {
-            "statkirov.fatal.ru": "INACTIVE"
-        },
-        "1572116063": {
-            "stat.ppstream.com": "INACTIVE"
-        },
-        "1572116065": {
-            "stat.radioblogclub.com": "INACTIVE"
-        },
-        "1572116066": {
-            "stat.ringier.sk": "INACTIVE",
-            "stat.rolledwil.biz": "INACTIVE"
-        },
-        "1572116074": {
-            "stat.ruvr.ru": "INACTIVE"
-        },
-        "1572116075": {
-            "stats0.one.ru": "INACTIVE"
-        },
-        "1572116076": {
-            "stats1.one.ru": "INACTIVE"
-        },
-        "1572116082": {
-            "stats1.porntrack.com": "INACTIVE"
-        },
-        "1572116099": {
-            "stats2.hitbox.com": "INACTIVE"
-        },
-        "1572116101": {
-            "stats2.one.ru": "INACTIVE"
-        },
-        "1572116107": {
-            "stats2.porntrack.com": "INACTIVE"
-        },
-        "1572116114": {
-            "stats2.radiocompanion.com": "INACTIVE"
-        },
-        "1572116121": {
-            "stats.34point2.com": "INACTIVE"
-        },
-        "1572116128": {
-            "stats3.clicktracks.com": "INACTIVE"
-        },
-        "1572116134": {
-            "stats3.porntrack.com": "INACTIVE"
-        },
-        "1572116142": {
-            "stats4.porntrack.com": "INACTIVE"
-        },
-        "1572116162": {
-            "stats.agent.co.il": "INACTIVE"
-        },
-        "1572116168": {
-            "stats.agentinteractive.com": "INACTIVE"
-        },
-        "1572116281": {
-            "stats.applifier.com": "INACTIVE"
-        },
-        "1572116282": {
-            "stats.ars4real.com": "INACTIVE"
-        },
-        "1572116288": {
-            "stats.askmoses.com": "INACTIVE"
-        },
-        "1572116296": {
-            "stats.blogger.com": "INACTIVE"
-        },
-        "1572116304": {
-            "stats.buzzparadise.com": "INACTIVE"
-        },
-        "1572116312": {
-            "stats.carpediem.fr": "INACTIVE"
-        },
-        "1572116319": {
-            "stats.cashring.com": "INACTIVE"
-        },
-        "1572116337": {
-            "stats.crossmediaservices.com": "INACTIVE"
-        },
-        "1572116344": {
-            "stats.dallasnews.com": "INACTIVE"
-        },
-        "1572116350": {
-            "stats.datagram.com": "INACTIVE"
-        },
-        "1572116352": {
-            "stats.dcvwebfarm.com": "INACTIVE"
-        },
-        "1572116358": {
-            "stats.directnic.com": "INACTIVE"
-        },
-        "1572116360": {
-            "stats.dnparking.com": "INACTIVE"
-        },
-        "1572116366": {
-            "stat.sdo.com": "INACTIVE"
-        },
-        "1572116367": {
-            "stats-ec2-46-137-101-227.layar.com": "INACTIVE"
-        },
-        "1572116376": {
-            "stats.esomniture.com": "INACTIVE"
-        },
-        "1572116384": {
-            "stats.fittkaumaass.de": "INACTIVE"
-        },
-        "1572116393": {
-            "stats.gamestop.com": "INACTIVE"
-        },
-        "1572116402": {
-            "stats.groupninetyfour.com": "INACTIVE"
-        },
         "1572116407": {
             "stats.hellforge.gameriot.com": "INACTIVE"
         },
@@ -20558,6 +20303,264 @@
         },
         "1572258489": {
             "stagerapi-ssl.hitbox.com": "INACTIVE"
+        },
+        "1572258598": {
+            "stagevrx01-ssl.hitbox.com": "INACTIVE"
+        },
+        "1572258604": {
+            "stagingadi.insightexpress.com": "INACTIVE"
+        },
+        "1572258610": {
+            "staging.insightexpressai.com": "INACTIVE"
+        },
+        "1572258611": {
+            "staging.testandtarget.omniture.com": "INACTIVE"
+        },
+        "1572258618": {
+            "standard.co.uk.102.122.2o7.net": "INACTIVE"
+        },
+        "1572258619": {
+            "standard.kratedemo.com": "INACTIVE"
+        },
+        "1572258620": {
+            "starcasm.us.intellitxt.com": "INACTIVE"
+        },
+        "1572258624": {
+            "starpulse.us.intellitxt.com": "INACTIVE"
+        },
+        "1572258634": {
+            "startpagina.metriweb.be": "INACTIVE"
+        },
+        "1572258635": {
+            "startpunt.nu.site-id.nl": "INACTIVE"
+        },
+        "1572258647": {
+            "stat.17k.com": "INACTIVE"
+        },
+        "1572258655": {
+            "stat1.vipstat.com": "INACTIVE"
+        },
+        "1572258664": {
+            "stat2.corp.56.com": "INACTIVE"
+        },
+        "1572258675": {
+            "stat2.corp.v-56.com": "INACTIVE"
+        },
+        "1572258686": {
+            "stat2.stat.v-56.com": "INACTIVE"
+        },
+        "1572258693": {
+            "stat2.vodone.com": "INACTIVE"
+        },
+        "1572258702": {
+            "stat3.corp.56.com": "INACTIVE"
+        },
+        "1572258709": {
+            "stat3.corp.v-56.com": "INACTIVE"
+        },
+        "1572258718": {
+            "stat3.stat.v-56.com": "INACTIVE"
+        },
+        "1572258725": {
+            "stat4.comby.ru": "INACTIVE"
+        },
+        "1572258734": {
+            "stat4.corp.56.com": "INACTIVE"
+        },
+        "1572258740": {
+            "stat4.corp.v-56.com": "INACTIVE"
+        },
+        "1572258754": {
+            "stat4.stat.v-56.com": "INACTIVE"
+        },
+        "1572258764": {
+            "stat.56.com": "INACTIVE"
+        },
+        "1572258770": {
+            "stat5.comby.ru": "INACTIVE"
+        },
+        "1572258772": {
+            "stat.axelspringer.hu": "INACTIVE"
+        },
+        "1572258782": {
+            "stat.blogads.com": "INACTIVE"
+        },
+        "1572258789": {
+            "stat.caijing.com.cn": "INACTIVE"
+        },
+        "1572258796": {
+            "stat.ccidnet.com": "INACTIVE"
+        },
+        "1572258799": {
+            "stat.cocolog-nifty.com": "INACTIVE"
+        },
+        "1572258805": {
+            "stat.correioweb.com.br": "INACTIVE"
+        },
+        "1572258808": {
+            "stat.dealtime.com": "INACTIVE"
+        },
+        "1572258810": {
+            "stat.dk3.com": "INACTIVE"
+        },
+        "1572258817": {
+            "stat.download.xunlei.com": "INACTIVE"
+        },
+        "1572258828": {
+            "stat.ent.mop.com": "INACTIVE"
+        },
+        "1572258836": {
+            "stat.game.pps.tv": "INACTIVE"
+        },
+        "1572258853": {
+            "static.clickpapa.com": "INACTIVE"
+        },
+        "1572258862": {
+            "static.ifa.empflixlive.com": "INACTIVE"
+        },
+        "1572258869": {
+            "static.ifa.slutloadlive.com": "INACTIVE"
+        },
+        "1572258875": {
+            "static.ifa.yobtcams.com": "INACTIVE"
+        },
+        "1572258882": {
+            "static-ip-77-89-115-230.promax.media.pl": "INACTIVE"
+        },
+        "1572258888": {
+            "static-ip-87-248-75-41.promax.media.pl": "INACTIVE"
+        },
+        "1572258891": {
+            "statik.kappa.ro": "INACTIVE"
+        },
+        "1572258894": {
+            "stat.infoclear.sco.kr": "INACTIVE"
+        },
+        "1572258896": {
+            "statistic.qarchive.org": "INACTIVE"
+        },
+        "1572258904": {
+            "statistics.douww.com": "INACTIVE"
+        },
+        "1572258910": {
+            "statistics.elsevier.nl": "INACTIVE"
+        },
+        "1572258944": {
+            "statkirov.fatal.ru": "INACTIVE"
+        },
+        "1572258966": {
+            "stat.ppstream.com": "INACTIVE"
+        },
+        "1572258967": {
+            "stat.radioblogclub.com": "INACTIVE"
+        },
+        "1572258968": {
+            "stat.ringier.sk": "INACTIVE"
+        },
+        "1572258969": {
+            "stat.rolledwil.biz": "INACTIVE"
+        },
+        "1572258976": {
+            "stat.ruvr.ru": "INACTIVE"
+        },
+        "1572258977": {
+            "stats0.one.ru": "INACTIVE"
+        },
+        "1572258978": {
+            "stats1.one.ru": "INACTIVE"
+        },
+        "1572258984": {
+            "stats1.porntrack.com": "INACTIVE"
+        },
+        "1572259001": {
+            "stats2.hitbox.com": "INACTIVE"
+        },
+        "1572259002": {
+            "stats2.one.ru": "INACTIVE"
+        },
+        "1572259009": {
+            "stats2.porntrack.com": "INACTIVE"
+        },
+        "1572259015": {
+            "stats2.radiocompanion.com": "INACTIVE"
+        },
+        "1572259023": {
+            "stats.34point2.com": "INACTIVE"
+        },
+        "1572259029": {
+            "stats3.clicktracks.com": "INACTIVE"
+        },
+        "1572259035": {
+            "stats3.porntrack.com": "INACTIVE"
+        },
+        "1572259043": {
+            "stats4.porntrack.com": "INACTIVE"
+        },
+        "1572259058": {
+            "stats.agent.co.il": "INACTIVE"
+        },
+        "1572259064": {
+            "stats.agentinteractive.com": "INACTIVE"
+        },
+        "1572259067": {
+            "stats.applifier.com": "INACTIVE"
+        },
+        "1572259068": {
+            "stats.ars4real.com": "INACTIVE"
+        },
+        "1572259074": {
+            "stats.askmoses.com": "INACTIVE"
+        },
+        "1572259083": {
+            "stats.blogger.com": "INACTIVE"
+        },
+        "1572259091": {
+            "stats.buzzparadise.com": "INACTIVE"
+        },
+        "1572259099": {
+            "stats.carpediem.fr": "INACTIVE"
+        },
+        "1572259105": {
+            "stats.cashring.com": "INACTIVE"
+        },
+        "1572259123": {
+            "stats.crossmediaservices.com": "INACTIVE"
+        },
+        "1572259130": {
+            "stat.sd.360.cn": "INACTIVE"
+        },
+        "1572259136": {
+            "stats.dallasnews.com": "INACTIVE"
+        },
+        "1572259143": {
+            "stats.datagram.com": "INACTIVE"
+        },
+        "1572259144": {
+            "stats.dcvwebfarm.com": "INACTIVE"
+        },
+        "1572259151": {
+            "stats.directnic.com": "INACTIVE"
+        },
+        "1572259152": {
+            "stats.dnparking.com": "INACTIVE"
+        },
+        "1572259159": {
+            "stat.sdo.com": "INACTIVE"
+        },
+        "1572259160": {
+            "stats-ec2-46-137-101-227.layar.com": "INACTIVE"
+        },
+        "1572259168": {
+            "stats.esomniture.com": "INACTIVE"
+        },
+        "1572259177": {
+            "stats.fittkaumaass.de": "INACTIVE"
+        },
+        "1572259187": {
+            "stats.gamestop.com": "INACTIVE"
+        },
+        "1572259196": {
+            "stats.groupninetyfour.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
