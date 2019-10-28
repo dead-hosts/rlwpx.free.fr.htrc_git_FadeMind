@@ -1,243 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1572108625": {
-            "media-6.vpptechnologies.com": "INACTIVE"
-        },
-        "1572108632": {
-            "media-7.vpptechnologies.com": "INACTIVE",
-            "media7.popmarker.com": "INACTIVE"
-        },
-        "1572108639": {
-            "media8.popmarker.com": "INACTIVE"
-        },
-        "1572108640": {
-            "media-8.vpptechnologies.com": "INACTIVE"
-        },
-        "1572108647": {
-            "media.acces-charme.com": "INACTIVE",
-            "media9.popmarker.com": "INACTIVE"
-        },
-        "1572108648": {
-            "media.adlegend.com": "INACTIVE"
-        },
-        "1572108654": {
-            "media.adrevolver.com": "INACTIVE"
-        },
-        "1572108663": {
-            "media.alldanzradio.com": "INACTIVE"
-        },
-        "1572108669": {
-            "media.amoureux.com": "INACTIVE"
-        },
-        "1572108670": {
-            "media.an.qa.fastclick.net": "INACTIVE"
-        },
-        "1572108676": {
-            "media-a.vpptechnologies.com": "INACTIVE"
-        },
-        "1572108680": {
-            "media.b.lead.program3.com": "INACTIVE"
-        },
-        "1572108694": {
-            "media.bonnint.net": "INACTIVE"
-        },
-        "1572108695": {
-            "mediaboxen.no": "INACTIVE"
-        },
-        "1572108702": {
-            "mediabox.extra.hu": "INACTIVE"
-        },
-        "1572108719": {
-            "media.broomfieldenterprise.com": "INACTIVE"
-        },
-        "1572108725": {
-            "media.buzzparadise.com": "INACTIVE"
-        },
-        "1572108726": {
-            "media-b.vpptechnologies.com": "INACTIVE"
-        },
-        "1572108744": {
-            "media.choiceradio.com": "INACTIVE"
-        },
-        "1572108764": {
-            "media-c.vpptechnologies.com": "INACTIVE"
-        },
-        "1572108771": {
-            "media.daxon.fr": "INACTIVE"
-        },
-        "1572108774": {
-            "media.domain.com.au": "INACTIVE"
-        },
-        "1572108775": {
-            "media-d.vpptechnologies.com": "INACTIVE"
-        },
-        "1572108784": {
-            "media.eurolive.com": "INACTIVE"
-        },
-        "1572108785": {
-            "media-e.vpptechnologies.com": "INACTIVE"
-        },
-        "1572108792": {
-            "media.exchange.bg": "INACTIVE"
-        },
-        "1572108806": {
-            "media.fiksu.com": "INACTIVE"
-        },
-        "1572108819": {
-            "media-f.vpptechnologies.com": "INACTIVE"
-        },
-        "1572108830": {
-            "media.gsimedia.net": "INACTIVE"
-        },
-        "1572108836": {
-            "media.hw.adxpansion.com": "INACTIVE"
-        },
-        "1572108842": {
-            "media.infinit.net": "INACTIVE"
-        },
-        "1572108843": {
-            "media.intelia.it": "INACTIVE"
-        },
-        "1572108856": {
-            "medialab.semissourian.com": "INACTIVE"
-        },
-        "1572108864": {
-            "media.lbn.ru": "INACTIVE",
-            "media.lead.program3.com": "INACTIVE"
-        },
-        "1572108865": {
-            "media.likes.com": "INACTIVE"
-        },
-        "1572108874": {
-            "media.lincassa.com": "INACTIVE"
-        },
-        "1572108885": {
-            "media.maturegratuit.net": "INACTIVE"
-        },
-        "1572108892": {
-            "media.mediaplazza.com": "INACTIVE"
-        },
-        "1572108899": {
-            "mediamedis.blogas.lt": "INACTIVE"
-        },
-        "1572108902": {
-            "media.millennialmedia.com": "INACTIVE"
-        },
-        "1572108919": {
-            "media.monliveshow.com": "INACTIVE"
-        },
-        "1572108926": {
-            "mediamoov.sponsorboost.com": "INACTIVE"
-        },
-        "1572108934": {
-            "media.mybet.com": "INACTIVE",
-            "media.mydas.mobi": "INACTIVE"
-        },
-        "1572108952": {
-            "medianet.yadro.ru": "INACTIVE"
-        },
-        "1572108967": {
-            "media.nipa.co.th": "INACTIVE"
-        },
-        "1572108974": {
-            "media.nk-net.pl": "INACTIVE"
-        },
-        "1572108980": {
-            "mediaonela.myblogtoolbar.com": "INACTIVE"
-        },
-        "1572108982": {
-            "mediaparad.ru": "INACTIVE"
-        },
-        "1572108987": {
-            "mediaplan.ovh.net": "INACTIVE"
-        },
-        "1572108993": {
-            "mediaplayerclassic.taazablog.com": "INACTIVE"
-        },
-        "1572108995": {
-            "mediaplayercom.com": "INACTIVE"
-        },
-        "1572109001": {
-            "mediaplazza.net": "INACTIVE"
-        },
-        "1572109009": {
-            "media.pointroll.com": "INACTIVE"
-        },
-        "1572109016": {
-            "mediapool.etaligent.net": "INACTIVE"
-        },
-        "1572109022": {
-            "media.popmarker.com": "INACTIVE"
-        },
-        "1572109037": {
-            "media.pumpone.com": "INACTIVE"
-        },
-        "1572109142": {
-            "media.rasazrak.info": "INACTIVE"
-        },
-        "1572109171": {
-            "media.scanscout.com": "INACTIVE"
-        },
-        "1572109180": {
-            "media.senddroid.com": "INACTIVE",
-            "media.sentabi.com": "INACTIVE"
-        },
-        "1572109188": {
-            "medias.europacash.com": "INACTIVE"
-        },
-        "1572109195": {
-            "media.sexinyourcity.com": "INACTIVE"
-        },
-        "1572109202": {
-            "media-shop.tbuy.biz": "INACTIVE"
-        },
-        "1572109206": {
-            "medias.maxidivx.com": "INACTIVE"
-        },
-        "1572109210": {
-            "mediaspub.lequipe.fr": "INACTIVE"
-        },
-        "1572109219": {
-            "mediatex.in": "INACTIVE"
-        },
-        "1572109221": {
-            "mediationcommunautaire.skynetblogs.be": "INACTIVE"
-        },
-        "1572109242": {
-            "media.transsextv.com": "INACTIVE"
-        },
-        "1572109268": {
-            "media.yesmessenger.com": "INACTIVE"
-        },
-        "1572109272": {
-            "medicalscrubsmall.com.102.112.2o7.net": "INACTIVE",
-            "medindia.us.intellitxt.com": "INACTIVE"
-        },
-        "1572109295": {
-            "members.swimsuitnetwork.com": "INACTIVE"
-        },
-        "1572109304": {
-            "memetricsdfx.hitbox.com": "INACTIVE",
-            "memoclic.fr.intellitxt.com": "INACTIVE"
-        },
-        "1572109305": {
-            "mentalfloss.us.intellitxt.com": "INACTIVE"
-        },
-        "1572109311": {
-            "menu.mdrates.com": "INACTIVE"
-        },
-        "1572109319": {
-            "merilian.hit.bg": "INACTIVE"
-        },
-        "1572109320": {
-            "messaging.meetic.com.akadns.net": "INACTIVE"
-        },
-        "1572109334": {
-            "metric.minna.com": "INACTIVE"
-        },
-        "1572109342": {
-            "metrics1.conxion.com": "INACTIVE"
-        },
         "1572109348": {
             "metrics1.inetu.net": "INACTIVE"
         },
@@ -20556,6 +20318,239 @@
         },
         "1572251377": {
             "media6.popmarker.com": "INACTIVE"
+        },
+        "1572251489": {
+            "media-6.vpptechnologies.com": "INACTIVE"
+        },
+        "1572251496": {
+            "media7.popmarker.com": "INACTIVE"
+        },
+        "1572251497": {
+            "media-7.vpptechnologies.com": "INACTIVE"
+        },
+        "1572251504": {
+            "media8.popmarker.com": "INACTIVE"
+        },
+        "1572251505": {
+            "media-8.vpptechnologies.com": "INACTIVE"
+        },
+        "1572251512": {
+            "media.acces-charme.com": "INACTIVE",
+            "media9.popmarker.com": "INACTIVE"
+        },
+        "1572251513": {
+            "media.adlegend.com": "INACTIVE"
+        },
+        "1572251520": {
+            "media.adrevolver.com": "INACTIVE"
+        },
+        "1572251528": {
+            "media.alldanzradio.com": "INACTIVE"
+        },
+        "1572251535": {
+            "media.amoureux.com": "INACTIVE"
+        },
+        "1572251536": {
+            "media.an.qa.fastclick.net": "INACTIVE"
+        },
+        "1572251541": {
+            "media-a.vpptechnologies.com": "INACTIVE"
+        },
+        "1572251551": {
+            "media.b.lead.program3.com": "INACTIVE"
+        },
+        "1572251565": {
+            "media.bonnint.net": "INACTIVE"
+        },
+        "1572251566": {
+            "mediaboxen.no": "INACTIVE"
+        },
+        "1572251573": {
+            "mediabox.extra.hu": "INACTIVE"
+        },
+        "1572251588": {
+            "media.brandreachsys.com": "INACTIVE"
+        },
+        "1572251595": {
+            "media.broomfieldenterprise.com": "INACTIVE"
+        },
+        "1572251601": {
+            "media.buzzparadise.com": "INACTIVE"
+        },
+        "1572251602": {
+            "media-b.vpptechnologies.com": "INACTIVE"
+        },
+        "1572251620": {
+            "media.choiceradio.com": "INACTIVE"
+        },
+        "1572251643": {
+            "media-c.vpptechnologies.com": "INACTIVE"
+        },
+        "1572251650": {
+            "media.daxon.fr": "INACTIVE"
+        },
+        "1572251653": {
+            "media.domain.com.au": "INACTIVE"
+        },
+        "1572251655": {
+            "media-d.vpptechnologies.com": "INACTIVE"
+        },
+        "1572251658": {
+            "media-e.vpptechnologies.com": "INACTIVE"
+        },
+        "1572251665": {
+            "media.exchange.bg": "INACTIVE"
+        },
+        "1572251673": {
+            "media.fiksu.com": "INACTIVE"
+        },
+        "1572251686": {
+            "media-f.vpptechnologies.com": "INACTIVE"
+        },
+        "1572251694": {
+            "media.gsimedia.net": "INACTIVE"
+        },
+        "1572251700": {
+            "media.hw.adxpansion.com": "INACTIVE"
+        },
+        "1572251706": {
+            "media.infinit.net": "INACTIVE"
+        },
+        "1572251709": {
+            "media.intelia.it": "INACTIVE"
+        },
+        "1572251730": {
+            "media.lbn.ru": "INACTIVE",
+            "media.lead.program3.com": "INACTIVE"
+        },
+        "1572251731": {
+            "media.likes.com": "INACTIVE"
+        },
+        "1572251737": {
+            "media.lincassa.com": "INACTIVE"
+        },
+        "1572251751": {
+            "media.maturegratuit.net": "INACTIVE"
+        },
+        "1572251758": {
+            "media.mediaplazza.com": "INACTIVE"
+        },
+        "1572251765": {
+            "mediamedis.blogas.lt": "INACTIVE"
+        },
+        "1572251768": {
+            "media.millennialmedia.com": "INACTIVE"
+        },
+        "1572251784": {
+            "mediamoov.sponsorboost.com": "INACTIVE"
+        },
+        "1572251792": {
+            "media.mybet.com": "INACTIVE"
+        },
+        "1572251793": {
+            "media.mydas.mobi": "INACTIVE"
+        },
+        "1572251808": {
+            "medianet.yadro.ru": "INACTIVE"
+        },
+        "1572251824": {
+            "media.nipa.co.th": "INACTIVE"
+        },
+        "1572251831": {
+            "media.nk-net.pl": "INACTIVE"
+        },
+        "1572251832": {
+            "mediaonela.myblogtoolbar.com": "INACTIVE"
+        },
+        "1572251833": {
+            "mediaparad.ru": "INACTIVE"
+        },
+        "1572251838": {
+            "mediaplan.ovh.net": "INACTIVE"
+        },
+        "1572251845": {
+            "mediaplayerclassic.taazablog.com": "INACTIVE"
+        },
+        "1572251846": {
+            "mediaplayercom.com": "INACTIVE"
+        },
+        "1572251859": {
+            "mediaplazza.net": "INACTIVE"
+        },
+        "1572251867": {
+            "media.pointroll.com": "INACTIVE"
+        },
+        "1572251874": {
+            "mediapool.etaligent.net": "INACTIVE"
+        },
+        "1572251880": {
+            "media.popmarker.com": "INACTIVE"
+        },
+        "1572251896": {
+            "media.pumpone.com": "INACTIVE"
+        },
+        "1572251903": {
+            "media.rasazrak.info": "INACTIVE"
+        },
+        "1572251932": {
+            "media.scanscout.com": "INACTIVE"
+        },
+        "1572251945": {
+            "media.senddroid.com": "INACTIVE",
+            "media.sentabi.com": "INACTIVE"
+        },
+        "1572251953": {
+            "medias.europacash.com": "INACTIVE"
+        },
+        "1572251960": {
+            "media.sexinyourcity.com": "INACTIVE"
+        },
+        "1572251967": {
+            "media-shop.tbuy.biz": "INACTIVE"
+        },
+        "1572251970": {
+            "medias.maxidivx.com": "INACTIVE"
+        },
+        "1572251974": {
+            "mediaspub.lequipe.fr": "INACTIVE"
+        },
+        "1572251980": {
+            "mediatex.in": "INACTIVE"
+        },
+        "1572251982": {
+            "mediationcommunautaire.skynetblogs.be": "INACTIVE"
+        },
+        "1572252002": {
+            "media.transsextv.com": "INACTIVE"
+        },
+        "1572252026": {
+            "medicalscrubsmall.com.102.112.2o7.net": "INACTIVE",
+            "medindia.us.intellitxt.com": "INACTIVE"
+        },
+        "1572252048": {
+            "members.swimsuitnetwork.com": "INACTIVE"
+        },
+        "1572252058": {
+            "memetricsdfx.hitbox.com": "INACTIVE",
+            "memoclic.fr.intellitxt.com": "INACTIVE"
+        },
+        "1572252059": {
+            "mentalfloss.us.intellitxt.com": "INACTIVE"
+        },
+        "1572252065": {
+            "menu.mdrates.com": "INACTIVE"
+        },
+        "1572252073": {
+            "merilian.hit.bg": "INACTIVE"
+        },
+        "1572252074": {
+            "messaging.meetic.com.akadns.net": "INACTIVE"
+        },
+        "1572252082": {
+            "metric.minna.com": "INACTIVE"
+        },
+        "1572252089": {
+            "metrics1.conxion.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
