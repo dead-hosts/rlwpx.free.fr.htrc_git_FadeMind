@@ -1,296 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1572099800": {
-            "ehg-veritas.hitbox.com": "INACTIVE"
-        },
-        "1572099806": {
-            "ehg-verizoncommunications.hitbox.com": "INACTIVE"
-        },
-        "1572099812": {
-            "ehg-verizon.hitbox.com": "INACTIVE"
-        },
-        "1572099819": {
-            "ehg-verizonwireless.hitbox.com": "INACTIVE"
-        },
-        "1572099825": {
-            "ehg-verticalresponse.hitbox.com": "INACTIVE"
-        },
-        "1572099831": {
-            "ehg-verticalwebventures.hitbox.com": "INACTIVE"
-        },
-        "1572099837": {
-            "ehg-viacom.hitbox.com": "INACTIVE"
-        },
-        "1572099843": {
-            "ehg-vicroads.hitbox.com": "INACTIVE"
-        },
-        "1572099849": {
-            "ehg-victoriangov.hitbox.com": "INACTIVE"
-        },
-        "1572099856": {
-            "ehg-videoegg.hitbox.com": "INACTIVE"
-        },
-        "1572099862": {
-            "ehg-vidprofessor.hitbox.com": "INACTIVE"
-        },
-        "1572099868": {
-            "ehg-vigetlabs.hitbox.com": "INACTIVE"
-        },
-        "1572099874": {
-            "ehg-vintedge.hitbox.com": "INACTIVE"
-        },
-        "1572099880": {
-            "ehg-vintedgepteltd.hitbox.com": "INACTIVE"
-        },
-        "1572099887": {
-            "ehg-virginblue.hitbox.com": "INACTIVE"
-        },
-        "1572099893": {
-            "ehg-virginiahospitalcenter1p.hitbox.com": "INACTIVE"
-        },
-        "1572099899": {
-            "ehg-virginiahospital.hitbox.com": "INACTIVE"
-        },
-        "1572099905": {
-            "ehg-virgopublishing.hitbox.com": "INACTIVE"
-        },
-        "1572099911": {
-            "ehg-visibillity.hitbox.com": "INACTIVE"
-        },
-        "1572099918": {
-            "ehg-visiblepath.hitbox.com": "INACTIVE"
-        },
-        "1572099924": {
-            "ehg-visibletechnologies.hitbox.com": "INACTIVE"
-        },
-        "1572099930": {
-            "ehg-visioncareholdings.hitbox.com": "INACTIVE"
-        },
-        "1572099936": {
-            "ehg-visionretailinginc.hitbox.com": "INACTIVE"
-        },
-        "1572099942": {
-            "ehg-vitamix.hitbox.com": "INACTIVE"
-        },
-        "1572099949": {
-            "ehg-vivacances.hitbox.com": "INACTIVE"
-        },
-        "1572099955": {
-            "ehg-vizzavi.hitbox.com": "INACTIVE"
-        },
-        "1572099961": {
-            "ehg-vliegtarieven.hitbox.com": "INACTIVE"
-        },
-        "1572099967": {
-            "ehg-vmixmediainc.hitbox.com": "INACTIVE"
-        },
-        "1572099973": {
-            "ehg-vmware.hitbox.com": "INACTIVE"
-        },
-        "1572099980": {
-            "ehg-voce.hitbox.com": "INACTIVE"
-        },
-        "1572099986": {
-            "ehg-vodafone.hitbox.com": "INACTIVE"
-        },
-        "1572099992": {
-            "ehg-vogel.hitbox.com": "INACTIVE"
-        },
-        "1572099998": {
-            "ehg-volania.hitbox.com": "INACTIVE"
-        },
-        "1572100004": {
-            "ehg-volvogroup.hitbox.com": "INACTIVE"
-        },
-        "1572100011": {
-            "ehg-vonage.1p.hitbox.com": "INACTIVE"
-        },
-        "1572100017": {
-            "ehg-vonage.hitbox.com": "INACTIVE"
-        },
-        "1572100023": {
-            "ehg-voyantmediainc.hitbox.com": "INACTIVE"
-        },
-        "1572100029": {
-            "ehg-vrroomedia.hitbox.com": "INACTIVE"
-        },
-        "1572100035": {
-            "ehg-vssn.hitbox.com": "INACTIVE"
-        },
-        "1572100041": {
-            "ehg-vzug.hitbox.com": "INACTIVE"
-        },
-        "1572100048": {
-            "ehg-vzw.hitbox.com": "INACTIVE"
-        },
-        "1572100054": {
-            "ehg-w3data1p.hitbox.com": "INACTIVE"
-        },
-        "1572100060": {
-            "ehg-w3data.hitbox.com": "INACTIVE"
-        },
-        "1572100066": {
-            "ehg-wabiseek.hitbox.com": "INACTIVE"
-        },
-        "1572100072": {
-            "ehg-wachovia.hitbox.com": "INACTIVE"
-        },
-        "1572100079": {
-            "ehg-wacomtechnology.hitbox.com": "INACTIVE"
-        },
-        "1572100085": {
-            "ehg-wallace.hitbox.com": "INACTIVE"
-        },
-        "1572100091": {
-            "ehg-wallstreetcard.hitbox.com": "INACTIVE"
-        },
-        "1572100097": {
-            "ehg-wamu.hitbox.com": "INACTIVE"
-        },
-        "1572100103": {
-            "ehg-warnerbrothers.hitbox.com": "INACTIVE"
-        },
-        "1572100110": {
-            "ehg-warnermusic.hitbox.com": "INACTIVE"
-        },
-        "1572100116": {
-            "ehg-washingtonmutual.hitbox.com": "INACTIVE"
-        },
-        "1572100122": {
-            "ehg-wastemanagement.hitbox.com": "INACTIVE"
-        },
-        "1572100523": {
-            "ehg-watlow.hitbox.com": "INACTIVE"
-        },
-        "1572100530": {
-            "ehg-wayport.hitbox.com": "INACTIVE"
-        },
-        "1572100536": {
-            "ehg-wchospitality.hitbox.com": "INACTIVE"
-        },
-        "1572100542": {
-            "ehg-wdproapps.hitbox.com": "INACTIVE"
-        },
-        "1572100548": {
-            "ehg-webanalyticsasiapteltd.hitbox.com": "INACTIVE"
-        },
-        "1572100554": {
-            "ehg-webanalyticsqualcomm.1p.hitbox.com": "INACTIVE"
-        },
-        "1572100561": {
-            "ehg-webassist1p.hitbox.com": "INACTIVE"
-        },
-        "1572100567": {
-            "ehg-webassist.hitbox.com": "INACTIVE"
-        },
-        "1572100573": {
-            "ehg-webassociatesinc.hitbox.com": "INACTIVE"
-        },
-        "1572100579": {
-            "ehg-webasto.hitbox.com": "INACTIVE"
-        },
-        "1572100585": {
-            "ehg-webbyawards.hitbox.com": "INACTIVE"
-        },
-        "1572100591": {
-            "ehg-webcapades.hitbox.com": "INACTIVE"
-        },
-        "1572100598": {
-            "ehg-webchutney.hitbox.com": "INACTIVE"
-        },
-        "1572100604": {
-            "ehg-webchutneystudio.hitbox.com": "INACTIVE"
-        },
-        "1572100610": {
-            "ehg-webcollage.hitbox.com": "INACTIVE"
-        },
-        "1572100616": {
-            "ehg-webershandwick.hitbox.com": "INACTIVE"
-        },
-        "1572100622": {
-            "ehg-webex.hitbox.com": "INACTIVE"
-        },
-        "1572100629": {
-            "ehg-webguidepartner.hitbox.com": "INACTIVE"
-        },
-        "1572100635": {
-            "ehg-webhostdir.hitbox.com": "INACTIVE"
-        },
-        "1572100641": {
-            "ehg-webmd1p.hitbox.com": "INACTIVE"
-        },
-        "1572100647": {
-            "ehg-webmd.hitbox.com": "INACTIVE"
-        },
-        "1572100653": {
-            "ehg-webquest.hitbox.com": "INACTIVE"
-        },
-        "1572100660": {
-            "ehg-websense.hitbox.com": "INACTIVE"
-        },
-        "1572100666": {
-            "ehg-websitebiz.hitbox.com": "INACTIVE"
-        },
-        "1572100672": {
-            "ehg-webworks.hitbox.com": "INACTIVE"
-        },
-        "1572100678": {
-            "ehg-webzone.hitbox.com": "INACTIVE"
-        },
-        "1572100684": {
-            "ehg-weddingchannel.hitbox.com": "INACTIVE"
-        },
-        "1572100691": {
-            "ehg-weddingtv.hitbox.com": "INACTIVE"
-        },
-        "1572100697": {
-            "ehg-weddingwindow.hitbox.com": "INACTIVE"
-        },
-        "1572100703": {
-            "ehg-westcorp.hitbox.com": "INACTIVE"
-        },
-        "1572100709": {
-            "ehg-westmarkhotels.hitbox.com": "INACTIVE"
-        },
-        "1572100715": {
-            "ehg-weston.hitbox.com": "INACTIVE"
-        },
-        "1572100722": {
-            "ehg-westshore.hitbox.com": "INACTIVE"
-        },
-        "1572100728": {
-            "ehg-westwoodcollege.hitbox.com": "INACTIVE"
-        },
-        "1572100734": {
-            "ehg-wetseal.hitbox.com": "INACTIVE"
-        },
-        "1572100740": {
-            "ehg-whbill.hitbox.com": "INACTIVE"
-        },
-        "1572100746": {
-            "ehg-wheelabrator.hitbox.com": "INACTIVE"
-        },
-        "1572100753": {
-            "ehg-which.hitbox.com": "INACTIVE"
-        },
-        "1572100759": {
-            "ehg-whirlpool.hitbox.com": "INACTIVE"
-        },
-        "1572100765": {
-            "ehg-whitbread.hitbox.com": "INACTIVE"
-        },
-        "1572100771": {
-            "ehg-whn.hitbox.com": "INACTIVE"
-        },
-        "1572100777": {
-            "ehg-wholelattelove.hitbox.com": "INACTIVE"
-        },
-        "1572100784": {
-            "ehg-whoscalling.hitbox.com": "INACTIVE"
-        },
-        "1572100790": {
-            "ehg-widegroup.hitbox.com": "INACTIVE"
-        },
         "1572100796": {
             "ehg-wildattire.hitbox.com": "INACTIVE"
         },
@@ -20564,6 +20273,297 @@
         },
         "1572244209": {
             "ehg-veohnetworksinc.hitbox.com": "INACTIVE"
+        },
+        "1572244342": {
+            "ehg-veritas.hitbox.com": "INACTIVE"
+        },
+        "1572244349": {
+            "ehg-verizoncommunications.hitbox.com": "INACTIVE"
+        },
+        "1572244355": {
+            "ehg-verizon.hitbox.com": "INACTIVE"
+        },
+        "1572244361": {
+            "ehg-verizonwireless.hitbox.com": "INACTIVE"
+        },
+        "1572244367": {
+            "ehg-verticalresponse.hitbox.com": "INACTIVE"
+        },
+        "1572244373": {
+            "ehg-verticalwebventures.hitbox.com": "INACTIVE"
+        },
+        "1572244380": {
+            "ehg-viacom.hitbox.com": "INACTIVE"
+        },
+        "1572244386": {
+            "ehg-vicroads.hitbox.com": "INACTIVE"
+        },
+        "1572244392": {
+            "ehg-victoriangov.hitbox.com": "INACTIVE"
+        },
+        "1572244398": {
+            "ehg-videoegg.hitbox.com": "INACTIVE"
+        },
+        "1572244404": {
+            "ehg-vidprofessor.hitbox.com": "INACTIVE"
+        },
+        "1572244411": {
+            "ehg-vigetlabs.hitbox.com": "INACTIVE"
+        },
+        "1572244417": {
+            "ehg-vintedge.hitbox.com": "INACTIVE"
+        },
+        "1572244423": {
+            "ehg-vintedgepteltd.hitbox.com": "INACTIVE"
+        },
+        "1572244429": {
+            "ehg-virginblue.hitbox.com": "INACTIVE"
+        },
+        "1572244435": {
+            "ehg-virginiahospitalcenter1p.hitbox.com": "INACTIVE"
+        },
+        "1572244442": {
+            "ehg-virginiahospital.hitbox.com": "INACTIVE"
+        },
+        "1572244448": {
+            "ehg-virgopublishing.hitbox.com": "INACTIVE"
+        },
+        "1572244454": {
+            "ehg-visibillity.hitbox.com": "INACTIVE"
+        },
+        "1572244460": {
+            "ehg-visiblepath.hitbox.com": "INACTIVE"
+        },
+        "1572244466": {
+            "ehg-visibletechnologies.hitbox.com": "INACTIVE"
+        },
+        "1572244472": {
+            "ehg-visioncareholdings.hitbox.com": "INACTIVE"
+        },
+        "1572244479": {
+            "ehg-visionretailinginc.hitbox.com": "INACTIVE"
+        },
+        "1572244485": {
+            "ehg-vitamix.hitbox.com": "INACTIVE"
+        },
+        "1572244491": {
+            "ehg-vivacances.hitbox.com": "INACTIVE"
+        },
+        "1572244497": {
+            "ehg-vizzavi.hitbox.com": "INACTIVE"
+        },
+        "1572244503": {
+            "ehg-vliegtarieven.hitbox.com": "INACTIVE"
+        },
+        "1572244510": {
+            "ehg-vmixmediainc.hitbox.com": "INACTIVE"
+        },
+        "1572244516": {
+            "ehg-vmware.hitbox.com": "INACTIVE"
+        },
+        "1572244522": {
+            "ehg-voce.hitbox.com": "INACTIVE"
+        },
+        "1572244528": {
+            "ehg-vodafone.hitbox.com": "INACTIVE"
+        },
+        "1572244534": {
+            "ehg-vogel.hitbox.com": "INACTIVE"
+        },
+        "1572244541": {
+            "ehg-volania.hitbox.com": "INACTIVE"
+        },
+        "1572244547": {
+            "ehg-volvogroup.hitbox.com": "INACTIVE"
+        },
+        "1572244553": {
+            "ehg-vonage.1p.hitbox.com": "INACTIVE"
+        },
+        "1572244559": {
+            "ehg-vonage.hitbox.com": "INACTIVE"
+        },
+        "1572244565": {
+            "ehg-voyantmediainc.hitbox.com": "INACTIVE"
+        },
+        "1572244572": {
+            "ehg-vrroomedia.hitbox.com": "INACTIVE"
+        },
+        "1572244578": {
+            "ehg-vssn.hitbox.com": "INACTIVE"
+        },
+        "1572244584": {
+            "ehg-vzug.hitbox.com": "INACTIVE"
+        },
+        "1572244590": {
+            "ehg-vzw.hitbox.com": "INACTIVE"
+        },
+        "1572244596": {
+            "ehg-w3data1p.hitbox.com": "INACTIVE"
+        },
+        "1572244603": {
+            "ehg-w3data.hitbox.com": "INACTIVE"
+        },
+        "1572244609": {
+            "ehg-wabiseek.hitbox.com": "INACTIVE"
+        },
+        "1572244615": {
+            "ehg-wachovia.hitbox.com": "INACTIVE"
+        },
+        "1572244621": {
+            "ehg-wacomtechnology.hitbox.com": "INACTIVE"
+        },
+        "1572244627": {
+            "ehg-wallace.hitbox.com": "INACTIVE"
+        },
+        "1572244634": {
+            "ehg-wallstreetcard.hitbox.com": "INACTIVE"
+        },
+        "1572244640": {
+            "ehg-wamu.hitbox.com": "INACTIVE"
+        },
+        "1572244646": {
+            "ehg-warnerbrothers.hitbox.com": "INACTIVE"
+        },
+        "1572244652": {
+            "ehg-warnermusic.hitbox.com": "INACTIVE"
+        },
+        "1572244658": {
+            "ehg-washingtonmutual.hitbox.com": "INACTIVE"
+        },
+        "1572244665": {
+            "ehg-wastemanagement.hitbox.com": "INACTIVE"
+        },
+        "1572244671": {
+            "ehg-watlow.hitbox.com": "INACTIVE"
+        },
+        "1572244677": {
+            "ehg-wayport.hitbox.com": "INACTIVE"
+        },
+        "1572244683": {
+            "ehg-wchospitality.hitbox.com": "INACTIVE"
+        },
+        "1572244689": {
+            "ehg-wdproapps.hitbox.com": "INACTIVE"
+        },
+        "1572244696": {
+            "ehg-webanalyticsasiapteltd.hitbox.com": "INACTIVE"
+        },
+        "1572244702": {
+            "ehg-webanalyticsqualcomm.1p.hitbox.com": "INACTIVE"
+        },
+        "1572244708": {
+            "ehg-webassist1p.hitbox.com": "INACTIVE"
+        },
+        "1572244714": {
+            "ehg-webassist.hitbox.com": "INACTIVE"
+        },
+        "1572244720": {
+            "ehg-webassociatesinc.hitbox.com": "INACTIVE"
+        },
+        "1572244727": {
+            "ehg-webasto.hitbox.com": "INACTIVE"
+        },
+        "1572244733": {
+            "ehg-webbyawards.hitbox.com": "INACTIVE"
+        },
+        "1572244739": {
+            "ehg-webcapades.hitbox.com": "INACTIVE"
+        },
+        "1572244745": {
+            "ehg-webchutney.hitbox.com": "INACTIVE"
+        },
+        "1572244751": {
+            "ehg-webchutneystudio.hitbox.com": "INACTIVE"
+        },
+        "1572244757": {
+            "ehg-webcollage.hitbox.com": "INACTIVE"
+        },
+        "1572244764": {
+            "ehg-webershandwick.hitbox.com": "INACTIVE"
+        },
+        "1572244770": {
+            "ehg-webex.hitbox.com": "INACTIVE"
+        },
+        "1572244776": {
+            "ehg-webguidepartner.hitbox.com": "INACTIVE"
+        },
+        "1572244782": {
+            "ehg-webhostdir.hitbox.com": "INACTIVE"
+        },
+        "1572244788": {
+            "ehg-webmd1p.hitbox.com": "INACTIVE"
+        },
+        "1572244795": {
+            "ehg-webmd.hitbox.com": "INACTIVE"
+        },
+        "1572244801": {
+            "ehg-webquest.hitbox.com": "INACTIVE"
+        },
+        "1572244807": {
+            "ehg-websense.hitbox.com": "INACTIVE"
+        },
+        "1572244813": {
+            "ehg-websitebiz.hitbox.com": "INACTIVE"
+        },
+        "1572244819": {
+            "ehg-webworks.hitbox.com": "INACTIVE"
+        },
+        "1572244826": {
+            "ehg-webzone.hitbox.com": "INACTIVE"
+        },
+        "1572244832": {
+            "ehg-weddingchannel.hitbox.com": "INACTIVE"
+        },
+        "1572244838": {
+            "ehg-weddingtv.hitbox.com": "INACTIVE"
+        },
+        "1572244844": {
+            "ehg-weddingwindow.hitbox.com": "INACTIVE"
+        },
+        "1572244850": {
+            "ehg-westcorp.hitbox.com": "INACTIVE"
+        },
+        "1572244857": {
+            "ehg-westmarkhotels.hitbox.com": "INACTIVE"
+        },
+        "1572244863": {
+            "ehg-weston.hitbox.com": "INACTIVE"
+        },
+        "1572244869": {
+            "ehg-westshore.hitbox.com": "INACTIVE"
+        },
+        "1572244875": {
+            "ehg-westwoodcollege.hitbox.com": "INACTIVE"
+        },
+        "1572244881": {
+            "ehg-wetseal.hitbox.com": "INACTIVE"
+        },
+        "1572244888": {
+            "ehg-whbill.hitbox.com": "INACTIVE"
+        },
+        "1572244894": {
+            "ehg-wheelabrator.hitbox.com": "INACTIVE"
+        },
+        "1572244900": {
+            "ehg-which.hitbox.com": "INACTIVE"
+        },
+        "1572244906": {
+            "ehg-whirlpool.hitbox.com": "INACTIVE"
+        },
+        "1572244912": {
+            "ehg-whitbread.hitbox.com": "INACTIVE"
+        },
+        "1572244918": {
+            "ehg-whn.hitbox.com": "INACTIVE"
+        },
+        "1572244925": {
+            "ehg-wholelattelove.hitbox.com": "INACTIVE"
+        },
+        "1572244931": {
+            "ehg-whoscalling.hitbox.com": "INACTIVE"
+        },
+        "1572244937": {
+            "ehg-widegroup.hitbox.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
