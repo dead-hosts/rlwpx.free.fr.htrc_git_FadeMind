@@ -1,38 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1572216311": {
-            "ad1.emediate.se": "INACTIVE"
-        },
-        "1572216318": {
-            "ad1.pamedia.com.au": "INACTIVE"
-        },
-        "1572216325": {
-            "ad1.yourmedia.com": "INACTIVE"
-        },
-        "1572216471": {
-            "ad2.emediate.se": "INACTIVE"
-        },
-        "1572216477": {
-            "ad2.firehousezone.com": "INACTIVE"
-        },
-        "1572216479": {
-            "ad2.trafficgate.net": "INACTIVE"
-        },
-        "1572216488": {
-            "ad3.pamedia.com.au": "INACTIVE"
-        },
-        "1572216511": {
-            "ad.adtracking.me": "INACTIVE"
-        },
-        "1572216525": {
-            "ad.bodyclick.net": "INACTIVE"
-        },
-        "1572216543": {
-            "adclick.pruna.com": "INACTIVE"
-        },
-        "1572216547": {
-            "adcounter.theglobeandmail.com": "INACTIVE"
-        },
         "1572217325": {
             "ad.doubleclick.net.52702.9389.302br.net": "INACTIVE"
         },
@@ -20549,6 +20516,39 @@
         },
         "1572389163": {
             "ad1.emediate.dk": "INACTIVE"
+        },
+        "1572389279": {
+            "ad1.emediate.se": "INACTIVE"
+        },
+        "1572389287": {
+            "ad1.pamedia.com.au": "INACTIVE"
+        },
+        "1572389294": {
+            "ad1.yourmedia.com": "INACTIVE"
+        },
+        "1572389320": {
+            "ad2.emediate.se": "INACTIVE"
+        },
+        "1572389326": {
+            "ad2.firehousezone.com": "INACTIVE"
+        },
+        "1572389328": {
+            "ad2.trafficgate.net": "INACTIVE"
+        },
+        "1572389337": {
+            "ad3.pamedia.com.au": "INACTIVE"
+        },
+        "1572389361": {
+            "ad.adtracking.me": "INACTIVE"
+        },
+        "1572389374": {
+            "ad.bodyclick.net": "INACTIVE"
+        },
+        "1572389389": {
+            "adclick.pruna.com": "INACTIVE"
+        },
+        "1572389392": {
+            "adcounter.theglobeandmail.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
