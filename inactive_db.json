@@ -1,333 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1572265437": {
-            "wss-csw-8.hitbox.com": "INACTIVE"
-        },
-        "1572265443": {
-            "wss-csw-9.hitbox.com": "INACTIVE"
-        },
-        "1572265449": {
-            "wsseuropedfx.hitbox.com": "INACTIVE"
-        },
-        "1572265455": {
-            "wss-fas-1a.hitbox.com": "INACTIVE"
-        },
-        "1572265461": {
-            "wss-fas-1b.hitbox.com": "INACTIVE"
-        },
-        "1572265468": {
-            "wss-fas-2a.hitbox.com": "INACTIVE"
-        },
-        "1572265474": {
-            "wss-fas-2b.hitbox.com": "INACTIVE"
-        },
-        "1572265480": {
-            "wss-fas-3a.hitbox.com": "INACTIVE"
-        },
-        "1572265486": {
-            "wss-fas-3b.hitbox.com": "INACTIVE"
-        },
-        "1572265493": {
-            "wss-fas-4a.hitbox.com": "INACTIVE"
-        },
-        "1572265499": {
-            "wss-fas-4b.hitbox.com": "INACTIVE"
-        },
-        "1572265505": {
-            "wss-fcsw-3.hitbox.com": "INACTIVE"
-        },
-        "1572265511": {
-            "wss-gw-12008.hitbox.com": "INACTIVE"
-        },
-        "1572265517": {
-            "wss-gw-2.hitbox.com": "INACTIVE"
-        },
-        "1572265524": {
-            "wss-gw-4-gig.hitbox.com": "INACTIVE"
-        },
-        "1572265530": {
-            "wssincdfx.hitbox.com": "INACTIVE"
-        },
-        "1572265536": {
-            "wss-snat.hitbox.com": "INACTIVE"
-        },
-        "1572265538": {
-            "wstat.pptv.com": "INACTIVE"
-        },
-        "1572265550": {
-            "ws.yellowpages.ca": "INACTIVE"
-        },
-        "1572265557": {
-            "wt.logmein.com": "INACTIVE"
-        },
-        "1572265563": {
-            "wvl.indymedia.org": "INACTIVE"
-        },
-        "1572265570": {
-            "wvwr1.hitbox.com": "INACTIVE"
-        },
-        "1572265577": {
-            "ww1.hitbox.com": "INACTIVE"
-        },
-        "1572265583": {
-            "ww2.hitbox.com": "INACTIVE"
-        },
-        "1572265590": {
-            "ww2.teenhitchhikers.com": "INACTIVE"
-        },
-        "1572265596": {
-            "ww3a.hitbox.com": "INACTIVE"
-        },
-        "1572265602": {
-            "ww3.hitbox.com": "INACTIVE"
-        },
-        "1572265608": {
-            "wwa.hitbox.com": "INACTIVE"
-        },
-        "1572265609": {
-            "ww.auto-trade.com": "INACTIVE",
-            "ww.cashcount.com": "INACTIVE"
-        },
-        "1572265616": {
-            "wwc.hitbox.com": "INACTIVE"
-        },
-        "1572265622": {
-            "wwd.hitbox.com": "INACTIVE"
-        },
-        "1572265623": {
-            "ww-eu.steelhousemedia.com": "INACTIVE",
-            "wwe.us.intellitxt.com": "INACTIVE"
-        },
-        "1572265631": {
-            "wwtdd.tags.crwdcntrl.net": "INACTIVE",
-            "wwtdd.us.intellitxt.com": "INACTIVE"
-        },
-        "1572265645": {
-            "www10.paypopup.com": "INACTIVE"
-        },
-        "1572265646": {
-            "www10.yesadvertising.com": "INACTIVE"
-        },
-        "1572265647": {
-            "www11.yesadvertising.com": "INACTIVE"
-        },
-        "1572265653": {
-            "www.123click.cl": "INACTIVE"
-        },
-        "1572265658": {
-            "www.123-traffic.net": "INACTIVE",
-            "www12.statcan.ca": "INACTIVE",
-            "www12.yesadvertising.com": "INACTIVE"
-        },
-        "1572265659": {
-            "www13.yesadvertising.com": "INACTIVE",
-            "www14.yesadvertising.com": "INACTIVE"
-        },
-        "1572265660": {
-            "www15.yesadvertising.com": "INACTIVE"
-        },
-        "1572265682": {
-            "www1.counter.bloke.com": "INACTIVE"
-        },
-        "1572265685": {
-            "www1.dimeclicks.com": "INACTIVE"
-        },
-        "1572265686": {
-            "www1.gohip.com": "INACTIVE"
-        },
-        "1572265689": {
-            "www1.paypopup.com": "INACTIVE"
-        },
-        "1572265698": {
-            "www1.trackerbot.com": "INACTIVE"
-        },
-        "1572265700": {
-            "www1.yesadvertising.com": "INACTIVE"
-        },
-        "1572265701": {
-            "www210.paypopup.com": "INACTIVE",
-            "www211.paypopup.com": "INACTIVE",
-            "www212.paypopup.com": "INACTIVE"
-        },
-        "1572265702": {
-            "www213.paypopup.com": "INACTIVE",
-            "www214.paypopup.com": "INACTIVE",
-            "www215.paypopup.com": "INACTIVE",
-            "www215.yesadvertising.com": "INACTIVE"
-        },
-        "1572265703": {
-            "www216.paypopup.com": "INACTIVE",
-            "www216.yesadvertising.com": "INACTIVE",
-            "www217.paypopup.com": "INACTIVE"
-        },
-        "1572265704": {
-            "www217.yesadvertising.com": "INACTIVE",
-            "www218.paypopup.com": "INACTIVE",
-            "www218.yesadvertising.com": "INACTIVE"
-        },
-        "1572265705": {
-            "www21.paypopup.com": "INACTIVE",
-            "www219.paypopup.com": "INACTIVE",
-            "www219.yesadvertising.com": "INACTIVE"
-        },
-        "1572265706": {
-            "www220.paypopup.com": "INACTIVE",
-            "www220.yesadvertising.com": "INACTIVE",
-            "www221.paypopup.com": "INACTIVE",
-            "www221.yesadvertising.com": "INACTIVE"
-        },
-        "1572265718": {
-            "www2.counter.bloke.com": "INACTIVE"
-        },
-        "1572265724": {
-            "www2.paypopup.com": "INACTIVE"
-        },
-        "1572265849": {
-            "www2.survey-poll.com": "INACTIVE"
-        },
-        "1572265858": {
-            "www.3click.com": "INACTIVE"
-        },
-        "1572265864": {
-            "www3.counter.bloke.com": "INACTIVE"
-        },
-        "1572265872": {
-            "www3.dimeclicks.com": "INACTIVE"
-        },
-        "1572265875": {
-            "www3.paypopup.com": "INACTIVE"
-        },
-        "1572265879": {
-            "www3.yesadvertising.com": "INACTIVE"
-        },
-        "1572265886": {
-            "www40.statcan.ca": "INACTIVE"
-        },
-        "1572265893": {
-            "www40.statcan.gc.ca": "INACTIVE"
-        },
-        "1572265895": {
-            "www.49media.com": "INACTIVE"
-        },
-        "1572265901": {
-            "www4.counter.bloke.com": "INACTIVE"
-        },
-        "1572265902": {
-            "www.4gameranking.com": "INACTIVE"
-        },
-        "1572265904": {
-            "www4.paypopup.com": "INACTIVE",
-            "www4.yesadvertising.com": "INACTIVE"
-        },
-        "1572265911": {
-            "www5.cj.com": "INACTIVE"
-        },
-        "1572265917": {
-            "www5.counter.bloke.com": "INACTIVE"
-        },
-        "1572265919": {
-            "www.5netcounter.com": "INACTIVE",
-            "www5.paypopup.com": "INACTIVE"
-        },
-        "1572265920": {
-            "www5.yesadvertising.com": "INACTIVE"
-        },
-        "1572265926": {
-            "www69.hit.bg": "INACTIVE"
-        },
-        "1572265933": {
-            "www6.counter.bloke.com": "INACTIVE"
-        },
-        "1572265935": {
-            "www6.paypopup.com": "INACTIVE",
-            "www6.yesadvertising.com": "INACTIVE"
-        },
-        "1572265942": {
-            "www7.counter.bloke.com": "INACTIVE"
-        },
-        "1572265946": {
-            "www7.yesadvertising.com": "INACTIVE"
-        },
-        "1572265955": {
-            "www8.counter.bloke.com": "INACTIVE"
-        },
-        "1572265956": {
-            "www8.gohip.com": "INACTIVE"
-        },
-        "1572265957": {
-            "www8.paypopup.com": "INACTIVE",
-            "www8.yesadvertising.com": "INACTIVE",
-            "www91.intel.com": "INACTIVE"
-        },
-        "1572265967": {
-            "www.99count.com": "INACTIVE"
-        },
-        "1572265973": {
-            "www.99counters.com": "INACTIVE"
-        },
-        "1572265980": {
-            "www9.collectiblestoday.com": "INACTIVE"
-        },
-        "1572265986": {
-            "www9.counter.bloke.com": "INACTIVE"
-        },
-        "1572265987": {
-            "www9.paypopup.com": "INACTIVE",
-            "www9.yesadvertising.com": "INACTIVE"
-        },
-        "1572265994": {
-            "www.a013.com": "INACTIVE"
-        },
-        "1572266003": {
-            "www.absolutelyfreebies.com": "INACTIVE"
-        },
-        "1572266020": {
-            "www.acmemedia.lt": "INACTIVE"
-        },
-        "1572266021": {
-            "www.aconti.net": "INACTIVE"
-        },
-        "1572266030": {
-            "www.actiontrade.com": "INACTIVE"
-        },
-        "1572266043": {
-            "www.addtrades.com": "INACTIVE"
-        },
-        "1572266045": {
-            "www.adgtracker.com": "INACTIVE",
-            "www.adjuggler.com": "INACTIVE"
-        },
-        "1572266047": {
-            "www.adleadstats.com": "INACTIVE"
-        },
-        "1572266048": {
-            "www.ad-media.org": "INACTIVE"
-        },
-        "1572266055": {
-            "www.admonitor.net": "INACTIVE"
-        },
-        "1572266063": {
-            "www.adranking.de": "INACTIVE"
-        },
-        "1572266071": {
-            "www.adult1.admediation.net": "INACTIVE"
-        },
-        "1572266072": {
-            "www.adult-click.com": "INACTIVE",
-            "www.adult.admediation.net": "INACTIVE"
-        },
-        "1572266079": {
-            "www.adult-click.de": "INACTIVE"
-        },
-        "1572266089": {
-            "www.adult-tracker.de": "INACTIVE"
-        },
-        "1572266103": {
-            "www.adultxxl.hit.bg": "INACTIVE"
-        },
-        "1572266127": {
-            "www.aehits.com": "INACTIVE"
-        },
         "1572266140": {
             "www.affistats.com": "INACTIVE"
         },
@@ -20727,6 +20399,353 @@
         },
         "1572440969": {
             "wss-csw-7.hitbox.com": "INACTIVE"
+        },
+        "1572441122": {
+            "wss-csw-8.hitbox.com": "INACTIVE"
+        },
+        "1572441129": {
+            "wss-csw-9.hitbox.com": "INACTIVE"
+        },
+        "1572441135": {
+            "wsseuropedfx.hitbox.com": "INACTIVE"
+        },
+        "1572441141": {
+            "wss-fas-1a.hitbox.com": "INACTIVE"
+        },
+        "1572441147": {
+            "wss-fas-1b.hitbox.com": "INACTIVE"
+        },
+        "1572441154": {
+            "wss-fas-2a.hitbox.com": "INACTIVE"
+        },
+        "1572441160": {
+            "wss-fas-2b.hitbox.com": "INACTIVE"
+        },
+        "1572441166": {
+            "wss-fas-3a.hitbox.com": "INACTIVE"
+        },
+        "1572441172": {
+            "wss-fas-3b.hitbox.com": "INACTIVE"
+        },
+        "1572441178": {
+            "wss-fas-4a.hitbox.com": "INACTIVE"
+        },
+        "1572441185": {
+            "wss-fas-4b.hitbox.com": "INACTIVE"
+        },
+        "1572441191": {
+            "wss-fcsw-3.hitbox.com": "INACTIVE"
+        },
+        "1572441197": {
+            "wss-gw-12008.hitbox.com": "INACTIVE"
+        },
+        "1572441204": {
+            "wss-gw-2.hitbox.com": "INACTIVE"
+        },
+        "1572441210": {
+            "wss-gw-4-gig.hitbox.com": "INACTIVE"
+        },
+        "1572441216": {
+            "wssincdfx.hitbox.com": "INACTIVE"
+        },
+        "1572441222": {
+            "wss-snat.hitbox.com": "INACTIVE"
+        },
+        "1572441224": {
+            "wstat.pptv.com": "INACTIVE"
+        },
+        "1572441236": {
+            "ws.yellowpages.ca": "INACTIVE"
+        },
+        "1572441243": {
+            "wt.logmein.com": "INACTIVE"
+        },
+        "1572441249": {
+            "wvl.indymedia.org": "INACTIVE"
+        },
+        "1572441256": {
+            "wvwr1.hitbox.com": "INACTIVE"
+        },
+        "1572441263": {
+            "ww1.hitbox.com": "INACTIVE"
+        },
+        "1572441269": {
+            "ww2.hitbox.com": "INACTIVE"
+        },
+        "1572441275": {
+            "ww2.teenhitchhikers.com": "INACTIVE"
+        },
+        "1572441281": {
+            "ww3a.hitbox.com": "INACTIVE"
+        },
+        "1572441288": {
+            "ww3.hitbox.com": "INACTIVE"
+        },
+        "1572441294": {
+            "wwa.hitbox.com": "INACTIVE"
+        },
+        "1572441295": {
+            "ww.auto-trade.com": "INACTIVE",
+            "ww.cashcount.com": "INACTIVE"
+        },
+        "1572441302": {
+            "wwc.hitbox.com": "INACTIVE"
+        },
+        "1572441309": {
+            "wwd.hitbox.com": "INACTIVE"
+        },
+        "1572441310": {
+            "ww-eu.steelhousemedia.com": "INACTIVE",
+            "wwe.us.intellitxt.com": "INACTIVE"
+        },
+        "1572441317": {
+            "wwtdd.tags.crwdcntrl.net": "INACTIVE",
+            "wwtdd.us.intellitxt.com": "INACTIVE"
+        },
+        "1572441333": {
+            "www10.paypopup.com": "INACTIVE"
+        },
+        "1572441334": {
+            "www10.yesadvertising.com": "INACTIVE"
+        },
+        "1572441335": {
+            "www11.yesadvertising.com": "INACTIVE"
+        },
+        "1572441341": {
+            "www.123click.cl": "INACTIVE"
+        },
+        "1572441346": {
+            "www.123-traffic.net": "INACTIVE",
+            "www12.statcan.ca": "INACTIVE",
+            "www12.yesadvertising.com": "INACTIVE"
+        },
+        "1572441347": {
+            "www13.yesadvertising.com": "INACTIVE"
+        },
+        "1572441348": {
+            "www14.yesadvertising.com": "INACTIVE",
+            "www15.yesadvertising.com": "INACTIVE"
+        },
+        "1572441362": {
+            "www.180searchassistant.com": "INACTIVE"
+        },
+        "1572441375": {
+            "www1.counter.bloke.com": "INACTIVE"
+        },
+        "1572441376": {
+            "www1.dimeclicks.com": "INACTIVE"
+        },
+        "1572441379": {
+            "www1.paypopup.com": "INACTIVE"
+        },
+        "1572441394": {
+            "www.1stwebmaster.com": "INACTIVE"
+        },
+        "1572441406": {
+            "www1.track4.com": "INACTIVE"
+        },
+        "1572441412": {
+            "www1.trackerbot.com": "INACTIVE"
+        },
+        "1572441414": {
+            "www1.yesadvertising.com": "INACTIVE"
+        },
+        "1572441416": {
+            "www210.paypopup.com": "INACTIVE",
+            "www211.paypopup.com": "INACTIVE",
+            "www212.paypopup.com": "INACTIVE"
+        },
+        "1572441417": {
+            "www213.paypopup.com": "INACTIVE",
+            "www214.paypopup.com": "INACTIVE",
+            "www215.paypopup.com": "INACTIVE"
+        },
+        "1572441418": {
+            "www215.yesadvertising.com": "INACTIVE",
+            "www216.paypopup.com": "INACTIVE",
+            "www216.yesadvertising.com": "INACTIVE",
+            "www217.paypopup.com": "INACTIVE"
+        },
+        "1572441419": {
+            "www217.yesadvertising.com": "INACTIVE",
+            "www218.paypopup.com": "INACTIVE",
+            "www218.yesadvertising.com": "INACTIVE"
+        },
+        "1572441420": {
+            "www21.paypopup.com": "INACTIVE",
+            "www219.paypopup.com": "INACTIVE",
+            "www219.yesadvertising.com": "INACTIVE",
+            "www220.paypopup.com": "INACTIVE"
+        },
+        "1572441421": {
+            "www220.yesadvertising.com": "INACTIVE",
+            "www221.paypopup.com": "INACTIVE",
+            "www221.yesadvertising.com": "INACTIVE"
+        },
+        "1572441435": {
+            "www2.counter.bloke.com": "INACTIVE"
+        },
+        "1572441441": {
+            "www2.paypopup.com": "INACTIVE"
+        },
+        "1572441448": {
+            "www2.survey-poll.com": "INACTIVE"
+        },
+        "1572441458": {
+            "www.3click.com": "INACTIVE"
+        },
+        "1572441464": {
+            "www3.counter.bloke.com": "INACTIVE"
+        },
+        "1572441469": {
+            "www3.dimeclicks.com": "INACTIVE"
+        },
+        "1572441472": {
+            "www3.paypopup.com": "INACTIVE"
+        },
+        "1572441480": {
+            "www3.yesadvertising.com": "INACTIVE"
+        },
+        "1572441487": {
+            "www40.statcan.ca": "INACTIVE"
+        },
+        "1572441494": {
+            "www40.statcan.gc.ca": "INACTIVE"
+        },
+        "1572441496": {
+            "www.49media.com": "INACTIVE"
+        },
+        "1572441502": {
+            "www4.counter.bloke.com": "INACTIVE"
+        },
+        "1572441503": {
+            "www.4gameranking.com": "INACTIVE"
+        },
+        "1572441505": {
+            "www4.paypopup.com": "INACTIVE"
+        },
+        "1572441506": {
+            "www4.yesadvertising.com": "INACTIVE"
+        },
+        "1572441513": {
+            "www5.cj.com": "INACTIVE"
+        },
+        "1572441519": {
+            "www5.counter.bloke.com": "INACTIVE"
+        },
+        "1572441520": {
+            "www.5netcounter.com": "INACTIVE"
+        },
+        "1572441521": {
+            "www5.paypopup.com": "INACTIVE",
+            "www5.yesadvertising.com": "INACTIVE"
+        },
+        "1572441528": {
+            "www69.hit.bg": "INACTIVE"
+        },
+        "1572441534": {
+            "www6.counter.bloke.com": "INACTIVE"
+        },
+        "1572441535": {
+            "www6.gohip.com": "INACTIVE"
+        },
+        "1572441536": {
+            "www6.paypopup.com": "INACTIVE"
+        },
+        "1572441537": {
+            "www6.yesadvertising.com": "INACTIVE"
+        },
+        "1572441544": {
+            "www7.counter.bloke.com": "INACTIVE"
+        },
+        "1572441546": {
+            "www7.yesadvertising.com": "INACTIVE"
+        },
+        "1572441554": {
+            "www8.counter.bloke.com": "INACTIVE"
+        },
+        "1572441555": {
+            "www8.gohip.com": "INACTIVE"
+        },
+        "1572441556": {
+            "www8.paypopup.com": "INACTIVE",
+            "www8.yesadvertising.com": "INACTIVE"
+        },
+        "1572441557": {
+            "www91.intel.com": "INACTIVE"
+        },
+        "1572441567": {
+            "www.99count.com": "INACTIVE"
+        },
+        "1572441573": {
+            "www.99counters.com": "INACTIVE"
+        },
+        "1572441580": {
+            "www9.collectiblestoday.com": "INACTIVE"
+        },
+        "1572441586": {
+            "www9.counter.bloke.com": "INACTIVE"
+        },
+        "1572441588": {
+            "www9.paypopup.com": "INACTIVE",
+            "www9.yesadvertising.com": "INACTIVE"
+        },
+        "1572441594": {
+            "www.a013.com": "INACTIVE"
+        },
+        "1572441602": {
+            "www.absolutelyfreebies.com": "INACTIVE"
+        },
+        "1572441614": {
+            "www.acmemedia.lt": "INACTIVE"
+        },
+        "1572441616": {
+            "www.aconti.net": "INACTIVE"
+        },
+        "1572441624": {
+            "www.actiontrade.com": "INACTIVE"
+        },
+        "1572441640": {
+            "www.addtrades.com": "INACTIVE"
+        },
+        "1572441641": {
+            "www.adgtracker.com": "INACTIVE"
+        },
+        "1572441642": {
+            "www.adjuggler.com": "INACTIVE"
+        },
+        "1572441647": {
+            "www.adleadstats.com": "INACTIVE"
+        },
+        "1572441649": {
+            "www.ad-media.org": "INACTIVE"
+        },
+        "1572441655": {
+            "www.admonitor.net": "INACTIVE"
+        },
+        "1572441664": {
+            "www.adranking.de": "INACTIVE"
+        },
+        "1572441672": {
+            "www.adult1.admediation.net": "INACTIVE"
+        },
+        "1572441673": {
+            "www.adult.admediation.net": "INACTIVE"
+        },
+        "1572441674": {
+            "www.adult-click.com": "INACTIVE"
+        },
+        "1572441681": {
+            "www.adult-click.de": "INACTIVE"
+        },
+        "1572441690": {
+            "www.adult-tracker.de": "INACTIVE"
+        },
+        "1572441703": {
+            "www.adultxxl.hit.bg": "INACTIVE"
+        },
+        "1572441728": {
+            "www.aehits.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
