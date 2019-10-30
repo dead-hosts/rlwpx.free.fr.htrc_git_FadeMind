@@ -15365,8 +15365,8 @@
         "state": "future"
     },
     "net-promoter.com": {
-        "epoch": "1572393600",
-        "expiration_date": "30-oct-2019",
+        "epoch": 1579132800,
+        "expiration_date": "16-jan-2020",
         "state": "future"
     },
     "net-radar.com": {
@@ -15630,9 +15630,9 @@
         "state": "future"
     },
     "non-stop.biz": {
-        "epoch": 1568505600,
-        "expiration_date": "15-sep-2019",
-        "state": "past"
+        "epoch": 1600128000,
+        "expiration_date": "15-sep-2020",
+        "state": "future"
     },
     "noname-media.com": {
         "epoch": 1603065600,
