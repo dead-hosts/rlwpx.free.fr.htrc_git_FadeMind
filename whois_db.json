@@ -14105,9 +14105,9 @@
         "state": "future"
     },
     "mediarays.info": {
-        "epoch": "1572393600",
+        "epoch": 1572393600,
         "expiration_date": "30-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "mediareader.net": {
         "epoch": 1598745600,
@@ -14325,8 +14325,8 @@
         "state": "future"
     },
     "megacount.net": {
-        "epoch": "1572307200",
-        "expiration_date": "29-oct-2019",
+        "epoch": 1603929600,
+        "expiration_date": "29-oct-2020",
         "state": "future"
     },
     "megadialer.com": {
