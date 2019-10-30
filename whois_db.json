@@ -26130,9 +26130,9 @@
         "state": "future"
     },
     "xplaptop.com": {
-        "epoch": "1572393600",
+        "epoch": 1572393600,
         "expiration_date": "30-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "xpsn.com": {
         "epoch": "1582070400",
@@ -26655,9 +26655,9 @@
         "state": "future"
     },
     "xxx-traffic.biz": {
-        "epoch": "1572393600",
+        "epoch": 1572393600,
         "expiration_date": "30-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "xxxclick.com": {
         "epoch": 1629763200,
@@ -26860,8 +26860,8 @@
         "state": "future"
     },
     "yfdmedia.com": {
-        "epoch": "1572307200",
-        "expiration_date": "29-oct-2019",
+        "epoch": 1603929600,
+        "expiration_date": "29-oct-2020",
         "state": "future"
     },
     "yieldmanager.com": {
