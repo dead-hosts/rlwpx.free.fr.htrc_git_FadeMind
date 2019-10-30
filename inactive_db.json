@@ -1,296 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1572244788": {
-            "ehg-webmd1p.hitbox.com": "INACTIVE"
-        },
-        "1572244795": {
-            "ehg-webmd.hitbox.com": "INACTIVE"
-        },
-        "1572244801": {
-            "ehg-webquest.hitbox.com": "INACTIVE"
-        },
-        "1572244807": {
-            "ehg-websense.hitbox.com": "INACTIVE"
-        },
-        "1572244813": {
-            "ehg-websitebiz.hitbox.com": "INACTIVE"
-        },
-        "1572244819": {
-            "ehg-webworks.hitbox.com": "INACTIVE"
-        },
-        "1572244826": {
-            "ehg-webzone.hitbox.com": "INACTIVE"
-        },
-        "1572244832": {
-            "ehg-weddingchannel.hitbox.com": "INACTIVE"
-        },
-        "1572244838": {
-            "ehg-weddingtv.hitbox.com": "INACTIVE"
-        },
-        "1572244844": {
-            "ehg-weddingwindow.hitbox.com": "INACTIVE"
-        },
-        "1572244850": {
-            "ehg-westcorp.hitbox.com": "INACTIVE"
-        },
-        "1572244857": {
-            "ehg-westmarkhotels.hitbox.com": "INACTIVE"
-        },
-        "1572244863": {
-            "ehg-weston.hitbox.com": "INACTIVE"
-        },
-        "1572244869": {
-            "ehg-westshore.hitbox.com": "INACTIVE"
-        },
-        "1572244875": {
-            "ehg-westwoodcollege.hitbox.com": "INACTIVE"
-        },
-        "1572244881": {
-            "ehg-wetseal.hitbox.com": "INACTIVE"
-        },
-        "1572244888": {
-            "ehg-whbill.hitbox.com": "INACTIVE"
-        },
-        "1572244894": {
-            "ehg-wheelabrator.hitbox.com": "INACTIVE"
-        },
-        "1572244900": {
-            "ehg-which.hitbox.com": "INACTIVE"
-        },
-        "1572244906": {
-            "ehg-whirlpool.hitbox.com": "INACTIVE"
-        },
-        "1572244912": {
-            "ehg-whitbread.hitbox.com": "INACTIVE"
-        },
-        "1572244918": {
-            "ehg-whn.hitbox.com": "INACTIVE"
-        },
-        "1572244925": {
-            "ehg-wholelattelove.hitbox.com": "INACTIVE"
-        },
-        "1572244931": {
-            "ehg-whoscalling.hitbox.com": "INACTIVE"
-        },
-        "1572244937": {
-            "ehg-widegroup.hitbox.com": "INACTIVE"
-        },
-        "1572245084": {
-            "ehg-wildattire.hitbox.com": "INACTIVE"
-        },
-        "1572245090": {
-            "ehg-wildoats.hitbox.com": "INACTIVE"
-        },
-        "1572245096": {
-            "ehg-wildpackets.hitbox.com": "INACTIVE"
-        },
-        "1572245102": {
-            "ehg-wilkinson.hitbox.com": "INACTIVE"
-        },
-        "1572245108": {
-            "ehg-wiltel.hitbox.com": "INACTIVE"
-        },
-        "1572245115": {
-            "ehg-wilton.hitbox.com": "INACTIVE"
-        },
-        "1572245121": {
-            "ehg-win2000mag.hitbox.com": "INACTIVE"
-        },
-        "1572245127": {
-            "ehg-winelibrary.hitbox.com": "INACTIVE"
-        },
-        "1572245133": {
-            "ehg-winetasting.hitbox.com": "INACTIVE"
-        },
-        "1572245139": {
-            "ehg-winnercomm.hitbox.com": "INACTIVE"
-        },
-        "1572245146": {
-            "ehg-wirelessemporium.hitbox.com": "INACTIVE"
-        },
-        "1572245152": {
-            "ehg-wirespeed.hitbox.com": "INACTIVE"
-        },
-        "1572245158": {
-            "ehg-wisdomark.hitbox.com": "INACTIVE"
-        },
-        "1572245164": {
-            "ehg-witness.hitbox.com": "INACTIVE"
-        },
-        "1572245170": {
-            "ehg-wizardsofthecoast.hitbox.com": "INACTIVE"
-        },
-        "1572245177": {
-            "ehg-wmc.hitbox.com": "INACTIVE"
-        },
-        "1572245183": {
-            "ehg-womanswallstreet.hitbox.com": "INACTIVE"
-        },
-        "1572245189": {
-            "ehg-wordandbrown.hitbox.com": "INACTIVE"
-        },
-        "1572245195": {
-            "ehg-workday.hitbox.com": "INACTIVE"
-        },
-        "1572245201": {
-            "ehg-workingassets.hitbox.com": "INACTIVE"
-        },
-        "1572245208": {
-            "ehg-worldbank.hitbox.com": "INACTIVE"
-        },
-        "1572245214": {
-            "ehg-worldpay.hitbox.com": "INACTIVE"
-        },
-        "1572245220": {
-            "ehg-worldvision.hitbox.com": "INACTIVE"
-        },
-        "1572245226": {
-            "ehg-worldwildlifefund.hitbox.com": "INACTIVE"
-        },
-        "1572245232": {
-            "ehg-wowinternet.hitbox.com": "INACTIVE"
-        },
-        "1572245239": {
-            "ehg-wpt.hitbox.com": "INACTIVE"
-        },
-        "1572245245": {
-            "ehg-wss2.hitbox.com": "INACTIVE"
-        },
-        "1572245251": {
-            "ehg-wss40test.hitbox.com": "INACTIVE"
-        },
-        "1572245257": {
-            "ehg-wsseurope.hitbox.com": "INACTIVE"
-        },
-        "1572245263": {
-            "ehg-wss.hitbox.com": "INACTIVE"
-        },
-        "1572245270": {
-            "ehg-wsstest.hitbox.com": "INACTIVE"
-        },
-        "1572245276": {
-            "ehg-wssuk.hitbox.com": "INACTIVE"
-        },
-        "1572245282": {
-            "ehg-wyndhamvacationownership.hitbox.com": "INACTIVE"
-        },
-        "1572245288": {
-            "ehg-wynnresortsltd.hitbox.com": "INACTIVE"
-        },
-        "1572245294": {
-            "ehg-wysetechnologyinc.hitbox.com": "INACTIVE"
-        },
-        "1572245301": {
-            "ehg-xandria.hitbox.com": "INACTIVE"
-        },
-        "1572245307": {
-            "ehg-xavieruniversity.hitbox.com": "INACTIVE"
-        },
-        "1572245313": {
-            "ehg-xerox.hitbox.com": "INACTIVE"
-        },
-        "1572245319": {
-            "ehg-xgaming.hitbox.com": "INACTIVE"
-        },
-        "1572245325": {
-            "ehg-xilinx1p.hitbox.com": "INACTIVE"
-        },
-        "1572245332": {
-            "ehg-xilinx.hitbox.com": "INACTIVE"
-        },
-        "1572245338": {
-            "ehg-xinc.hitbox.com": "INACTIVE"
-        },
-        "1572245344": {
-            "ehg-xingtone.hitbox.com": "INACTIVE"
-        },
-        "1572245350": {
-            "ehg-xmsatelliteradio.hitbox.com": "INACTIVE"
-        },
-        "1572245356": {
-            "ehg-xonos.hitbox.com": "INACTIVE"
-        },
-        "1572245363": {
-            "ehg-xoomcorp.hitbox.com": "INACTIVE"
-        },
-        "1572245369": {
-            "ehg-xpresstradellc.hitbox.com": "INACTIVE"
-        },
-        "1572245375": {
-            "ehg-xrentdvd1p.hitbox.com": "INACTIVE"
-        },
-        "1572245381": {
-            "ehg-xrllc.hitbox.com": "INACTIVE"
-        },
-        "1572245387": {
-            "ehg-xxolympicwintergames.hitbox.com": "INACTIVE"
-        },
-        "1572245394": {
-            "ehg-y2m.hitbox.com": "INACTIVE"
-        },
-        "1572245400": {
-            "ehg-yahoo.hitbox.com": "INACTIVE"
-        },
-        "1572245406": {
-            "ehg-yakpak.hitbox.com": "INACTIVE"
-        },
-        "1572245412": {
-            "ehg-yamaha1p.hitbox.com": "INACTIVE"
-        },
-        "1572245418": {
-            "ehg-yamahacanadamusic.hitbox.com": "INACTIVE"
-        },
-        "1572245424": {
-            "ehg-yamaha.hitbox.com": "INACTIVE"
-        },
-        "1572245431": {
-            "ehg-yamahamotors.hitbox.com": "INACTIVE"
-        },
-        "1572245437": {
-            "ehg-yanbal.hitbox.com": "INACTIVE"
-        },
-        "1572245443": {
-            "ehg-yellowpages.hitbox.com": "INACTIVE"
-        },
-        "1572245449": {
-            "ehg-yooxspa.hitbox.com": "INACTIVE"
-        },
-        "1572245455": {
-            "ehg-youngprofessionals.hitbox.com": "INACTIVE"
-        },
-        "1572245462": {
-            "ehg-yourvitamins.hitbox.com": "INACTIVE"
-        },
-        "1572245468": {
-            "ehg-youtube.hitbox.com": "INACTIVE"
-        },
-        "1572245474": {
-            "ehg-ypcorp.hitbox.com": "INACTIVE"
-        },
-        "1572245480": {
-            "ehg-yves.hitbox.com": "INACTIVE"
-        },
-        "1572245486": {
-            "ehg-yvesrocher.hitbox.com": "INACTIVE"
-        },
-        "1572245493": {
-            "ehg-z57.hitbox.com": "INACTIVE"
-        },
-        "1572245499": {
-            "ehg-zaaz.hitbox.com": "INACTIVE"
-        },
-        "1572245505": {
-            "ehg-zazzle.hitbox.com": "INACTIVE"
-        },
-        "1572245511": {
-            "ehg-zentropypartners.hitbox.com": "INACTIVE"
-        },
-        "1572245517": {
-            "ehg-zicam.hitbox.com": "INACTIVE"
-        },
-        "1572245524": {
-            "ehg-ziffdavis.hitbox.com": "INACTIVE"
-        },
         "1572245530": {
             "ehg-ziki.hitbox.com": "INACTIVE"
         },
@@ -20505,6 +20214,297 @@
         },
         "1572415727": {
             "ehg-webhostdir.hitbox.com": "INACTIVE"
+        },
+        "1572415848": {
+            "ehg-webmd1p.hitbox.com": "INACTIVE"
+        },
+        "1572415854": {
+            "ehg-webmd.hitbox.com": "INACTIVE"
+        },
+        "1572415861": {
+            "ehg-webquest.hitbox.com": "INACTIVE"
+        },
+        "1572415867": {
+            "ehg-websense.hitbox.com": "INACTIVE"
+        },
+        "1572415873": {
+            "ehg-websitebiz.hitbox.com": "INACTIVE"
+        },
+        "1572415879": {
+            "ehg-webworks.hitbox.com": "INACTIVE"
+        },
+        "1572415886": {
+            "ehg-webzone.hitbox.com": "INACTIVE"
+        },
+        "1572415892": {
+            "ehg-weddingchannel.hitbox.com": "INACTIVE"
+        },
+        "1572415898": {
+            "ehg-weddingtv.hitbox.com": "INACTIVE"
+        },
+        "1572415904": {
+            "ehg-weddingwindow.hitbox.com": "INACTIVE"
+        },
+        "1572415911": {
+            "ehg-westcorp.hitbox.com": "INACTIVE"
+        },
+        "1572415917": {
+            "ehg-westmarkhotels.hitbox.com": "INACTIVE"
+        },
+        "1572415923": {
+            "ehg-weston.hitbox.com": "INACTIVE"
+        },
+        "1572415929": {
+            "ehg-westshore.hitbox.com": "INACTIVE"
+        },
+        "1572415936": {
+            "ehg-westwoodcollege.hitbox.com": "INACTIVE"
+        },
+        "1572415942": {
+            "ehg-wetseal.hitbox.com": "INACTIVE"
+        },
+        "1572415948": {
+            "ehg-whbill.hitbox.com": "INACTIVE"
+        },
+        "1572415954": {
+            "ehg-wheelabrator.hitbox.com": "INACTIVE"
+        },
+        "1572415961": {
+            "ehg-which.hitbox.com": "INACTIVE"
+        },
+        "1572415967": {
+            "ehg-whirlpool.hitbox.com": "INACTIVE"
+        },
+        "1572415973": {
+            "ehg-whitbread.hitbox.com": "INACTIVE"
+        },
+        "1572415979": {
+            "ehg-whn.hitbox.com": "INACTIVE"
+        },
+        "1572415986": {
+            "ehg-wholelattelove.hitbox.com": "INACTIVE"
+        },
+        "1572415992": {
+            "ehg-whoscalling.hitbox.com": "INACTIVE"
+        },
+        "1572415998": {
+            "ehg-widegroup.hitbox.com": "INACTIVE"
+        },
+        "1572416004": {
+            "ehg-wildattire.hitbox.com": "INACTIVE"
+        },
+        "1572416011": {
+            "ehg-wildoats.hitbox.com": "INACTIVE"
+        },
+        "1572416017": {
+            "ehg-wildpackets.hitbox.com": "INACTIVE"
+        },
+        "1572416023": {
+            "ehg-wilkinson.hitbox.com": "INACTIVE"
+        },
+        "1572416029": {
+            "ehg-wiltel.hitbox.com": "INACTIVE"
+        },
+        "1572416036": {
+            "ehg-wilton.hitbox.com": "INACTIVE"
+        },
+        "1572416042": {
+            "ehg-win2000mag.hitbox.com": "INACTIVE"
+        },
+        "1572416048": {
+            "ehg-winelibrary.hitbox.com": "INACTIVE"
+        },
+        "1572416054": {
+            "ehg-winetasting.hitbox.com": "INACTIVE"
+        },
+        "1572416061": {
+            "ehg-winnercomm.hitbox.com": "INACTIVE"
+        },
+        "1572416067": {
+            "ehg-wirelessemporium.hitbox.com": "INACTIVE"
+        },
+        "1572416073": {
+            "ehg-wirespeed.hitbox.com": "INACTIVE"
+        },
+        "1572416079": {
+            "ehg-wisdomark.hitbox.com": "INACTIVE"
+        },
+        "1572416085": {
+            "ehg-witness.hitbox.com": "INACTIVE"
+        },
+        "1572416092": {
+            "ehg-wizardsofthecoast.hitbox.com": "INACTIVE"
+        },
+        "1572416098": {
+            "ehg-wmc.hitbox.com": "INACTIVE"
+        },
+        "1572416104": {
+            "ehg-womanswallstreet.hitbox.com": "INACTIVE"
+        },
+        "1572416110": {
+            "ehg-wordandbrown.hitbox.com": "INACTIVE"
+        },
+        "1572416117": {
+            "ehg-workday.hitbox.com": "INACTIVE"
+        },
+        "1572416123": {
+            "ehg-workingassets.hitbox.com": "INACTIVE"
+        },
+        "1572416129": {
+            "ehg-worldbank.hitbox.com": "INACTIVE"
+        },
+        "1572416135": {
+            "ehg-worldpay.hitbox.com": "INACTIVE"
+        },
+        "1572416142": {
+            "ehg-worldvision.hitbox.com": "INACTIVE"
+        },
+        "1572416148": {
+            "ehg-worldwildlifefund.hitbox.com": "INACTIVE"
+        },
+        "1572416154": {
+            "ehg-wowinternet.hitbox.com": "INACTIVE"
+        },
+        "1572416160": {
+            "ehg-wpt.hitbox.com": "INACTIVE"
+        },
+        "1572416167": {
+            "ehg-wss2.hitbox.com": "INACTIVE"
+        },
+        "1572416173": {
+            "ehg-wss40test.hitbox.com": "INACTIVE"
+        },
+        "1572416179": {
+            "ehg-wsseurope.hitbox.com": "INACTIVE"
+        },
+        "1572416185": {
+            "ehg-wss.hitbox.com": "INACTIVE"
+        },
+        "1572416192": {
+            "ehg-wsstest.hitbox.com": "INACTIVE"
+        },
+        "1572416198": {
+            "ehg-wssuk.hitbox.com": "INACTIVE"
+        },
+        "1572416204": {
+            "ehg-wyndhamvacationownership.hitbox.com": "INACTIVE"
+        },
+        "1572416210": {
+            "ehg-wynnresortsltd.hitbox.com": "INACTIVE"
+        },
+        "1572416217": {
+            "ehg-wysetechnologyinc.hitbox.com": "INACTIVE"
+        },
+        "1572416223": {
+            "ehg-xandria.hitbox.com": "INACTIVE"
+        },
+        "1572416229": {
+            "ehg-xavieruniversity.hitbox.com": "INACTIVE"
+        },
+        "1572416235": {
+            "ehg-xerox.hitbox.com": "INACTIVE"
+        },
+        "1572416242": {
+            "ehg-xgaming.hitbox.com": "INACTIVE"
+        },
+        "1572416248": {
+            "ehg-xilinx1p.hitbox.com": "INACTIVE"
+        },
+        "1572416254": {
+            "ehg-xilinx.hitbox.com": "INACTIVE"
+        },
+        "1572416260": {
+            "ehg-xinc.hitbox.com": "INACTIVE"
+        },
+        "1572416266": {
+            "ehg-xingtone.hitbox.com": "INACTIVE"
+        },
+        "1572416273": {
+            "ehg-xmsatelliteradio.hitbox.com": "INACTIVE"
+        },
+        "1572416279": {
+            "ehg-xonos.hitbox.com": "INACTIVE"
+        },
+        "1572416285": {
+            "ehg-xoomcorp.hitbox.com": "INACTIVE"
+        },
+        "1572416291": {
+            "ehg-xpresstradellc.hitbox.com": "INACTIVE"
+        },
+        "1572416298": {
+            "ehg-xrentdvd1p.hitbox.com": "INACTIVE"
+        },
+        "1572416304": {
+            "ehg-xrllc.hitbox.com": "INACTIVE"
+        },
+        "1572416310": {
+            "ehg-xxolympicwintergames.hitbox.com": "INACTIVE"
+        },
+        "1572416316": {
+            "ehg-y2m.hitbox.com": "INACTIVE"
+        },
+        "1572416323": {
+            "ehg-yahoo.hitbox.com": "INACTIVE"
+        },
+        "1572416329": {
+            "ehg-yakpak.hitbox.com": "INACTIVE"
+        },
+        "1572416335": {
+            "ehg-yamaha1p.hitbox.com": "INACTIVE"
+        },
+        "1572416341": {
+            "ehg-yamahacanadamusic.hitbox.com": "INACTIVE"
+        },
+        "1572416348": {
+            "ehg-yamaha.hitbox.com": "INACTIVE"
+        },
+        "1572416354": {
+            "ehg-yamahamotors.hitbox.com": "INACTIVE"
+        },
+        "1572416360": {
+            "ehg-yanbal.hitbox.com": "INACTIVE"
+        },
+        "1572416366": {
+            "ehg-yellowpages.hitbox.com": "INACTIVE"
+        },
+        "1572416373": {
+            "ehg-yooxspa.hitbox.com": "INACTIVE"
+        },
+        "1572416379": {
+            "ehg-youngprofessionals.hitbox.com": "INACTIVE"
+        },
+        "1572416385": {
+            "ehg-yourvitamins.hitbox.com": "INACTIVE"
+        },
+        "1572416391": {
+            "ehg-youtube.hitbox.com": "INACTIVE"
+        },
+        "1572416398": {
+            "ehg-ypcorp.hitbox.com": "INACTIVE"
+        },
+        "1572416404": {
+            "ehg-yves.hitbox.com": "INACTIVE"
+        },
+        "1572416410": {
+            "ehg-yvesrocher.hitbox.com": "INACTIVE"
+        },
+        "1572416416": {
+            "ehg-z57.hitbox.com": "INACTIVE"
+        },
+        "1572416423": {
+            "ehg-zaaz.hitbox.com": "INACTIVE"
+        },
+        "1572416429": {
+            "ehg-zazzle.hitbox.com": "INACTIVE"
+        },
+        "1572416435": {
+            "ehg-zentropypartners.hitbox.com": "INACTIVE"
+        },
+        "1572416441": {
+            "ehg-zicam.hitbox.com": "INACTIVE"
+        },
+        "1572416448": {
+            "ehg-ziffdavis.hitbox.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
