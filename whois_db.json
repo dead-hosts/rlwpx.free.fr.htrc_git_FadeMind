@@ -19575,9 +19575,9 @@
         "state": "future"
     },
     "sexblog-tracker.com": {
-        "epoch": "1572480000",
+        "epoch": 1572480000,
         "expiration_date": "31-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "sexclick.com": {
         "epoch": "1587859200",
