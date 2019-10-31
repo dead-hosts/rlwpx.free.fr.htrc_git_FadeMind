@@ -1,316 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1572398515": {
-            "eas3.emediate.eu": "INACTIVE"
-        },
-        "1572398521": {
-            "eas3.emediate.se": "INACTIVE"
-        },
-        "1572398528": {
-            "eas4.emediate.eu": "INACTIVE"
-        },
-        "1572398534": {
-            "eas5.emediate.eu": "INACTIVE"
-        },
-        "1572398540": {
-            "eas.almamedia.fi": "INACTIVE"
-        },
-        "1572398541": {
-            "eastsideboxing.us.intellitxt.com": "INACTIVE"
-        },
-        "1572398547": {
-            "eatingwell.us.intellitxt.com": "INACTIVE"
-        },
-        "1572398563": {
-            "e.banmamedia.com": "INACTIVE",
-            "ebaumsworld.us.intellitxt.com": "INACTIVE"
-        },
-        "1572398564": {
-            "ebay0.112.2o7.net": "INACTIVE"
-        },
-        "1572398573": {
-            "ebenezer.316castmedia.com": "INACTIVE"
-        },
-        "1572398576": {
-            "ebooksportal.us.intellitxt.com": "INACTIVE"
-        },
-        "1572398583": {
-            "ec1.hitbox.com": "INACTIVE"
-        },
-        "1572398584": {
-            "ecanadanow.us.intellitxt.com": "INACTIVE"
-        },
-        "1572398590": {
-            "ece5stats1.theglobeandmail.com": "INACTIVE"
-        },
-        "1572398596": {
-            "ecestats.theglobeandmail.com": "INACTIVE",
-            "echangnet.us.intellitxt.com": "INACTIVE"
-        },
-        "1572398598": {
-            "ecommercetimes.us.intellitxt.com": "INACTIVE"
-        },
-        "1572398614": {
-            "eddamedia.tns-cs.net": "INACTIVE",
-            "edge19-2.testandtarget.omniture.com": "INACTIVE"
-        },
-        "1572398615": {
-            "edge19.staging.testandtarget.omniture.com": "INACTIVE",
-            "edge19.testandtarget.omniture.com": "INACTIVE"
-        },
-        "1572398616": {
-            "ediets.us.intellitxt.com": "INACTIVE",
-            "edinformatics.us.intellitxt.com": "INACTIVE"
-        },
-        "1572398624": {
-            "eepn.us.intellitxt.com": "INACTIVE"
-        },
-        "1572398625": {
-            "efanguide.us.intellitxt.com": "INACTIVE"
-        },
-        "1572398626": {
-            "efluxmedia.uk.intellitxt.com": "INACTIVE"
-        },
-        "1572398628": {
-            "egotastic.us.intellitxt.com": "INACTIVE"
-        },
-        "1572398629": {
-            "eharmony.us.intellitxt.com": "INACTIVE"
-        },
-        "1572398631": {
-            "ehealthforum.us.intellitxt.com": "INACTIVE"
-        },
-        "1572398637": {
-            "ehg-1000bulbs1p.hitbox.com": "INACTIVE"
-        },
-        "1572398643": {
-            "ehg-118golf.hitbox.com": "INACTIVE"
-        },
-        "1572398649": {
-            "ehg-1822direkt.hitbox.com": "INACTIVE"
-        },
-        "1572398656": {
-            "ehg-1fbusa1p.hitbox.com": "INACTIVE"
-        },
-        "1572398662": {
-            "ehg-1stepbeyond.hitbox.com": "INACTIVE"
-        },
-        "1572398668": {
-            "ehg-1sttech.hitbox.com": "INACTIVE"
-        },
-        "1572398674": {
-            "ehg-247test.hitbox.com": "INACTIVE"
-        },
-        "1572398680": {
-            "ehg-247workspace.hitbox.com": "INACTIVE"
-        },
-        "1572398687": {
-            "ehg-2ndsightinc.hitbox.com": "INACTIVE"
-        },
-        "1572398693": {
-            "ehg-2xmoinscher.hitbox.com": "INACTIVE"
-        },
-        "1572398699": {
-            "ehg-3balls.hitbox.com": "INACTIVE"
-        },
-        "1572398705": {
-            "ehg-3i.hitbox.com": "INACTIVE"
-        },
-        "1572398711": {
-            "ehg-40test.hitbox.com": "INACTIVE"
-        },
-        "1572398717": {
-            "ehg-411web.hitbox.com": "INACTIVE"
-        },
-        "1572398724": {
-            "ehg42.hitbox.com": "INACTIVE"
-        },
-        "1572398730": {
-            "ehg4.hitbox.com": "INACTIVE"
-        },
-        "1572398736": {
-            "ehg-500lb.hitbox.com": "INACTIVE"
-        },
-        "1572398742": {
-            "ehg-6.6testing.hitbox.com": "INACTIVE"
-        },
-        "1572398749": {
-            "ehg-6smarketing.hitbox.com": "INACTIVE"
-        },
-        "1572398755": {
-            "ehg-6smktng.hitbox.com": "INACTIVE"
-        },
-        "1572398761": {
-            "ehg-aaa.hitbox.com": "INACTIVE"
-        },
-        "1572398767": {
-            "ehg-aaamidatlantic.hitbox.com": "INACTIVE"
-        },
-        "1572398773": {
-            "ehg-aabreecoffee.hitbox.com": "INACTIVE"
-        },
-        "1572398779": {
-            "ehg-aacr.hitbox.com": "INACTIVE"
-        },
-        "1572398786": {
-            "ehg-aafp.hitbox.com": "INACTIVE"
-        },
-        "1572398792": {
-            "ehg-aami.hitbox.com": "INACTIVE"
-        },
-        "1572398798": {
-            "ehg-aarp.hitbox.com": "INACTIVE"
-        },
-        "1572398804": {
-            "ehg-abbey.hitbox.com": "INACTIVE"
-        },
-        "1572398810": {
-            "ehg-abc2.hitbox.com": "INACTIVE"
-        },
-        "1572398817": {
-            "ehg-abcnetmarketing.hitbox.com": "INACTIVE"
-        },
-        "1572398823": {
-            "ehg-abcvacuum.hitbox.com": "INACTIVE"
-        },
-        "1572398829": {
-            "ehg-abitude.hitbox.com": "INACTIVE"
-        },
-        "1572398835": {
-            "ehg-aboavista.hitbox.com": "INACTIVE"
-        },
-        "1572398841": {
-            "ehg-abscissa.hitbox.com": "INACTIVE"
-        },
-        "1572398848": {
-            "ehg-abupsala.hitbox.com": "INACTIVE"
-        },
-        "1572398854": {
-            "ehg-accelrysinc.hitbox.com": "INACTIVE"
-        },
-        "1572398860": {
-            "ehg-accenture.hitbox.com": "INACTIVE"
-        },
-        "1572398866": {
-            "ehg-accessaccounting.hitbox.com": "INACTIVE"
-        },
-        "1572398872": {
-            "ehg-accuweather.hitbox.com": "INACTIVE"
-        },
-        "1572398879": {
-            "ehg-acdsystems.hitbox.com": "INACTIVE"
-        },
-        "1572398885": {
-            "ehg-acemart.hitbox.com": "INACTIVE"
-        },
-        "1572398891": {
-            "ehg-acml.hitbox.com": "INACTIVE"
-        },
-        "1572398897": {
-            "ehg-acreisaustralia.hitbox.com": "INACTIVE"
-        },
-        "1572398903": {
-            "ehg-acromegalyinfo1p.hitbox.com": "INACTIVE"
-        },
-        "1572398910": {
-            "ehg-acteva.hitbox.com": "INACTIVE"
-        },
-        "1572398916": {
-            "ehg-actionfanatics.hitbox.com": "INACTIVE"
-        },
-        "1572398922": {
-            "ehg-activemediagroup.hitbox.com": "INACTIVE"
-        },
-        "1572398928": {
-            "ehg-activestatesoftwareinc.hitbox.com": "INACTIVE"
-        },
-        "1572398934": {
-            "ehg-acxiomcorporation.hitbox.com": "INACTIVE"
-        },
-        "1572398941": {
-            "ehg-adamson.hitbox.com": "INACTIVE"
-        },
-        "1572398947": {
-            "ehg-adaptivemarketing.hitbox.com": "INACTIVE"
-        },
-        "1572398953": {
-            "ehg-adeptscience1p.hitbox.com": "INACTIVE"
-        },
-        "1572398959": {
-            "ehg-adeptscience.hitbox.com": "INACTIVE"
-        },
-        "1572398965": {
-            "ehg-adessosystems.hitbox.com": "INACTIVE"
-        },
-        "1572398972": {
-            "ehg-adidas.hitbox.com": "INACTIVE"
-        },
-        "1572398978": {
-            "ehg-adidasus.hitbox.com": "INACTIVE"
-        },
-        "1572398984": {
-            "ehg-admaiora.hitbox.com": "INACTIVE"
-        },
-        "1572398990": {
-            "ehg-admiralinsurance.hitbox.com": "INACTIVE"
-        },
-        "1572398996": {
-            "ehg-adobe1p.hitbox.com": "INACTIVE"
-        },
-        "1572399003": {
-            "ehg-adobesystems.hitbox.com": "INACTIVE"
-        },
-        "1572399009": {
-            "ehg-ads.hitbox.com": "INACTIVE"
-        },
-        "1572399015": {
-            "ehg-adteractive.hitbox.com": "INACTIVE"
-        },
-        "1572399021": {
-            "ehg-advanceauto.hitbox.com": "INACTIVE"
-        },
-        "1572399027": {
-            "ehg-advancedmicrodevices.hitbox.com": "INACTIVE"
-        },
-        "1572399034": {
-            "ehg-advanstar.hitbox.com": "INACTIVE"
-        },
-        "1572399040": {
-            "ehg-advantabankcorp.hitbox.com": "INACTIVE"
-        },
-        "1572399046": {
-            "ehg-adveno.hitbox.com": "INACTIVE"
-        },
-        "1572399052": {
-            "ehg-adventurecompany.hitbox.com": "INACTIVE"
-        },
-        "1572399058": {
-            "ehg-adversitement.hitbox.com": "INACTIVE"
-        },
-        "1572399065": {
-            "ehg-advertisementbv.hitbox.com": "INACTIVE"
-        },
-        "1572399071": {
-            "ehg-advocare.hitbox.com": "INACTIVE"
-        },
-        "1572399077": {
-            "ehg-affiliateprograms.hitbox.com": "INACTIVE"
-        },
-        "1572399083": {
-            "ehg-affinitynet.hitbox.com": "INACTIVE"
-        },
-        "1572399089": {
-            "ehg-affymetrix.hitbox.com": "INACTIVE"
-        },
-        "1572399096": {
-            "ehg-agency.hitbox.com": "INACTIVE"
-        },
-        "1572399217": {
-            "ehg-aggbid.hitbox.com": "INACTIVE"
-        },
-        "1572399224": {
-            "ehg-agilesoftware.hitbox.com": "INACTIVE"
-        },
         "1572399230": {
             "ehg-aha.hitbox.com": "INACTIVE"
         },
@@ -20727,6 +20416,315 @@
         },
         "1572488473": {
             "eas2.emediate.eu": "INACTIVE"
+        },
+        "1572488944": {
+            "eas3.emediate.eu": "INACTIVE"
+        },
+        "1572488951": {
+            "eas3.emediate.se": "INACTIVE"
+        },
+        "1572488957": {
+            "eas4.emediate.eu": "INACTIVE"
+        },
+        "1572488963": {
+            "eas5.emediate.eu": "INACTIVE"
+        },
+        "1572488970": {
+            "eas.almamedia.fi": "INACTIVE"
+        },
+        "1572488971": {
+            "eastsideboxing.us.intellitxt.com": "INACTIVE"
+        },
+        "1572488978": {
+            "eatingwell.us.intellitxt.com": "INACTIVE"
+        },
+        "1572488993": {
+            "e.banmamedia.com": "INACTIVE"
+        },
+        "1572488994": {
+            "ebaumsworld.us.intellitxt.com": "INACTIVE",
+            "ebay0.112.2o7.net": "INACTIVE"
+        },
+        "1572489004": {
+            "ebenezer.316castmedia.com": "INACTIVE"
+        },
+        "1572489006": {
+            "ebooksportal.us.intellitxt.com": "INACTIVE"
+        },
+        "1572489014": {
+            "ec1.hitbox.com": "INACTIVE",
+            "ecanadanow.us.intellitxt.com": "INACTIVE"
+        },
+        "1572489021": {
+            "ece5stats1.theglobeandmail.com": "INACTIVE"
+        },
+        "1572489027": {
+            "ecestats.theglobeandmail.com": "INACTIVE",
+            "echangnet.us.intellitxt.com": "INACTIVE"
+        },
+        "1572489028": {
+            "ecommercetimes.us.intellitxt.com": "INACTIVE"
+        },
+        "1572489044": {
+            "eddamedia.tns-cs.net": "INACTIVE",
+            "edge19-2.testandtarget.omniture.com": "INACTIVE"
+        },
+        "1572489045": {
+            "edge19.staging.testandtarget.omniture.com": "INACTIVE",
+            "edge19.testandtarget.omniture.com": "INACTIVE"
+        },
+        "1572489046": {
+            "ediets.us.intellitxt.com": "INACTIVE",
+            "edinformatics.us.intellitxt.com": "INACTIVE"
+        },
+        "1572489055": {
+            "eepn.us.intellitxt.com": "INACTIVE"
+        },
+        "1572489056": {
+            "efanguide.us.intellitxt.com": "INACTIVE"
+        },
+        "1572489059": {
+            "efluxmedia.uk.intellitxt.com": "INACTIVE"
+        },
+        "1572489061": {
+            "egotastic.us.intellitxt.com": "INACTIVE"
+        },
+        "1572489062": {
+            "eharmony.us.intellitxt.com": "INACTIVE"
+        },
+        "1572489064": {
+            "ehealthforum.us.intellitxt.com": "INACTIVE"
+        },
+        "1572489070": {
+            "ehg-1000bulbs1p.hitbox.com": "INACTIVE"
+        },
+        "1572489077": {
+            "ehg-118golf.hitbox.com": "INACTIVE"
+        },
+        "1572489083": {
+            "ehg-1822direkt.hitbox.com": "INACTIVE"
+        },
+        "1572489089": {
+            "ehg-1fbusa1p.hitbox.com": "INACTIVE"
+        },
+        "1572489095": {
+            "ehg-1stepbeyond.hitbox.com": "INACTIVE"
+        },
+        "1572489101": {
+            "ehg-1sttech.hitbox.com": "INACTIVE"
+        },
+        "1572489108": {
+            "ehg-247test.hitbox.com": "INACTIVE"
+        },
+        "1572489114": {
+            "ehg-247workspace.hitbox.com": "INACTIVE"
+        },
+        "1572489120": {
+            "ehg-2ndsightinc.hitbox.com": "INACTIVE"
+        },
+        "1572489126": {
+            "ehg-2xmoinscher.hitbox.com": "INACTIVE"
+        },
+        "1572489132": {
+            "ehg-3balls.hitbox.com": "INACTIVE"
+        },
+        "1572489139": {
+            "ehg-3i.hitbox.com": "INACTIVE"
+        },
+        "1572489145": {
+            "ehg-40test.hitbox.com": "INACTIVE"
+        },
+        "1572489151": {
+            "ehg-411web.hitbox.com": "INACTIVE"
+        },
+        "1572489157": {
+            "ehg42.hitbox.com": "INACTIVE"
+        },
+        "1572489163": {
+            "ehg4.hitbox.com": "INACTIVE"
+        },
+        "1572489170": {
+            "ehg-500lb.hitbox.com": "INACTIVE"
+        },
+        "1572489176": {
+            "ehg-6.6testing.hitbox.com": "INACTIVE"
+        },
+        "1572489182": {
+            "ehg-6smarketing.hitbox.com": "INACTIVE"
+        },
+        "1572489188": {
+            "ehg-6smktng.hitbox.com": "INACTIVE"
+        },
+        "1572489194": {
+            "ehg-aaa.hitbox.com": "INACTIVE"
+        },
+        "1572489201": {
+            "ehg-aaamidatlantic.hitbox.com": "INACTIVE"
+        },
+        "1572489207": {
+            "ehg-aabreecoffee.hitbox.com": "INACTIVE"
+        },
+        "1572489213": {
+            "ehg-aacr.hitbox.com": "INACTIVE"
+        },
+        "1572489219": {
+            "ehg-aafp.hitbox.com": "INACTIVE"
+        },
+        "1572489225": {
+            "ehg-aami.hitbox.com": "INACTIVE"
+        },
+        "1572489231": {
+            "ehg-aarp.hitbox.com": "INACTIVE"
+        },
+        "1572489238": {
+            "ehg-abbey.hitbox.com": "INACTIVE"
+        },
+        "1572489244": {
+            "ehg-abc2.hitbox.com": "INACTIVE"
+        },
+        "1572489250": {
+            "ehg-abcnetmarketing.hitbox.com": "INACTIVE"
+        },
+        "1572489256": {
+            "ehg-abcvacuum.hitbox.com": "INACTIVE"
+        },
+        "1572489262": {
+            "ehg-abitude.hitbox.com": "INACTIVE"
+        },
+        "1572489269": {
+            "ehg-aboavista.hitbox.com": "INACTIVE"
+        },
+        "1572489275": {
+            "ehg-abscissa.hitbox.com": "INACTIVE"
+        },
+        "1572489281": {
+            "ehg-abupsala.hitbox.com": "INACTIVE"
+        },
+        "1572489287": {
+            "ehg-accelrysinc.hitbox.com": "INACTIVE"
+        },
+        "1572489293": {
+            "ehg-accenture.hitbox.com": "INACTIVE"
+        },
+        "1572489300": {
+            "ehg-accessaccounting.hitbox.com": "INACTIVE"
+        },
+        "1572489306": {
+            "ehg-accuweather.hitbox.com": "INACTIVE"
+        },
+        "1572489312": {
+            "ehg-acdsystems.hitbox.com": "INACTIVE"
+        },
+        "1572489318": {
+            "ehg-acemart.hitbox.com": "INACTIVE"
+        },
+        "1572489324": {
+            "ehg-acml.hitbox.com": "INACTIVE"
+        },
+        "1572489331": {
+            "ehg-acreisaustralia.hitbox.com": "INACTIVE"
+        },
+        "1572489337": {
+            "ehg-acromegalyinfo1p.hitbox.com": "INACTIVE"
+        },
+        "1572489343": {
+            "ehg-acteva.hitbox.com": "INACTIVE"
+        },
+        "1572489349": {
+            "ehg-actionfanatics.hitbox.com": "INACTIVE"
+        },
+        "1572489355": {
+            "ehg-activemediagroup.hitbox.com": "INACTIVE"
+        },
+        "1572489362": {
+            "ehg-activestatesoftwareinc.hitbox.com": "INACTIVE"
+        },
+        "1572489368": {
+            "ehg-acxiomcorporation.hitbox.com": "INACTIVE"
+        },
+        "1572489374": {
+            "ehg-adamson.hitbox.com": "INACTIVE"
+        },
+        "1572489380": {
+            "ehg-adaptivemarketing.hitbox.com": "INACTIVE"
+        },
+        "1572489386": {
+            "ehg-adeptscience1p.hitbox.com": "INACTIVE"
+        },
+        "1572489393": {
+            "ehg-adeptscience.hitbox.com": "INACTIVE"
+        },
+        "1572489399": {
+            "ehg-adessosystems.hitbox.com": "INACTIVE"
+        },
+        "1572489405": {
+            "ehg-adidas.hitbox.com": "INACTIVE"
+        },
+        "1572489411": {
+            "ehg-adidasus.hitbox.com": "INACTIVE"
+        },
+        "1572489417": {
+            "ehg-admaiora.hitbox.com": "INACTIVE"
+        },
+        "1572489424": {
+            "ehg-admiralinsurance.hitbox.com": "INACTIVE"
+        },
+        "1572489430": {
+            "ehg-adobe1p.hitbox.com": "INACTIVE"
+        },
+        "1572489436": {
+            "ehg-adobesystems.hitbox.com": "INACTIVE"
+        },
+        "1572489442": {
+            "ehg-ads.hitbox.com": "INACTIVE"
+        },
+        "1572489448": {
+            "ehg-adteractive.hitbox.com": "INACTIVE"
+        },
+        "1572489454": {
+            "ehg-advanceauto.hitbox.com": "INACTIVE"
+        },
+        "1572489461": {
+            "ehg-advancedmicrodevices.hitbox.com": "INACTIVE"
+        },
+        "1572489467": {
+            "ehg-advanstar.hitbox.com": "INACTIVE"
+        },
+        "1572489473": {
+            "ehg-advantabankcorp.hitbox.com": "INACTIVE"
+        },
+        "1572489479": {
+            "ehg-adveno.hitbox.com": "INACTIVE"
+        },
+        "1572489485": {
+            "ehg-adventurecompany.hitbox.com": "INACTIVE"
+        },
+        "1572489492": {
+            "ehg-adversitement.hitbox.com": "INACTIVE"
+        },
+        "1572489498": {
+            "ehg-advertisementbv.hitbox.com": "INACTIVE"
+        },
+        "1572489504": {
+            "ehg-advocare.hitbox.com": "INACTIVE"
+        },
+        "1572489510": {
+            "ehg-affiliateprograms.hitbox.com": "INACTIVE"
+        },
+        "1572489516": {
+            "ehg-affinitynet.hitbox.com": "INACTIVE"
+        },
+        "1572489523": {
+            "ehg-affymetrix.hitbox.com": "INACTIVE"
+        },
+        "1572489529": {
+            "ehg-agency.hitbox.com": "INACTIVE"
+        },
+        "1572489535": {
+            "ehg-aggbid.hitbox.com": "INACTIVE"
+        },
+        "1572489541": {
+            "ehg-agilesoftware.hitbox.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
