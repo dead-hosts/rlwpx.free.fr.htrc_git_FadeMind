@@ -16200,9 +16200,9 @@
         "state": "future"
     },
     "ostelogen.dk": {
-        "epoch": "1572480000",
+        "epoch": 1572480000,
         "expiration_date": "31-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "otnnetwork.net": {
         "epoch": "1587686400",
