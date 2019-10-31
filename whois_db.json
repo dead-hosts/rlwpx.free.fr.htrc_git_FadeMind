@@ -13220,9 +13220,9 @@
         "state": "future"
     },
     "masslinemedia.com": {
-        "epoch": 1572393600,
-        "expiration_date": "30-oct-2019",
-        "state": "past"
+        "epoch": 1604016000,
+        "expiration_date": "30-oct-2020",
+        "state": "future"
     },
     "masterclick.com": {
         "epoch": "1573862400",
@@ -13530,9 +13530,9 @@
         "state": "future"
     },
     "mediaadult.com": {
-        "epoch": "1572480000",
+        "epoch": 1572480000,
         "expiration_date": "31-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "mediaandmorestore.com": {
         "epoch": "1640304000",
