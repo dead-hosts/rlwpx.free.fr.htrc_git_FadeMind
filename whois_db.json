@@ -23995,9 +23995,9 @@
         "state": "future"
     },
     "trafficroundup.com": {
-        "epoch": "1572566400",
+        "epoch": 1572566400,
         "expiration_date": "01-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "trafficsage.com": {
         "epoch": "1582416000",
