@@ -23245,8 +23245,8 @@
         "state": "future"
     },
     "tradepbs.com": {
-        "epoch": "1572480000",
-        "expiration_date": "31-oct-2019",
+        "epoch": 1604102400,
+        "expiration_date": "31-oct-2020",
         "state": "future"
     },
     "tradepixel.com": {
@@ -23325,8 +23325,8 @@
         "state": "future"
     },
     "traderz.org": {
-        "epoch": "1572480000",
-        "expiration_date": "31-oct-2019",
+        "epoch": 1604102400,
+        "expiration_date": "31-oct-2020",
         "state": "future"
     },
     "tradescape.biz": {
@@ -23835,9 +23835,9 @@
         "state": "future"
     },
     "trafficjar.com": {
-        "epoch": "1572566400",
+        "epoch": 1572566400,
         "expiration_date": "01-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "traffick.com": {
         "epoch": "1625097600",
