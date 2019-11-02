@@ -5295,9 +5295,9 @@
         "state": "future"
     },
     "clicksvideo.com": {
-        "epoch": "1572652800",
+        "epoch": 1572652800,
         "expiration_date": "02-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "clicktale.net": {
         "epoch": 1592697600,
