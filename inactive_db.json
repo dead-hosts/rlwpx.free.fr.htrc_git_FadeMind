@@ -1,563 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1572548114": {
-            "noc-out.hitbox.com": "INACTIVE"
-        },
-        "1572548120": {
-            "noc-snat.hitbox.com": "INACTIVE"
-        },
-        "1572548121": {
-            "no.espotting.com": "INACTIVE",
-            "nodevice.uk.intellitxt.com": "INACTIVE"
-        },
-        "1572548127": {
-            "nokiadfx.hitbox.com": "INACTIVE"
-        },
-        "1572549462": {
-            "nokiafeed2.hitbox.com": "INACTIVE"
-        },
-        "1572549476": {
-            "northbaysearchenginenorthbayradio.media-toolbar.com": "INACTIVE"
-        },
-        "1572549483": {
-            "noshmimmizrahit.myforumtoolbar.com": "INACTIVE"
-        },
-        "1572549484": {
-            "notebookjournal.de.intellitxt.com": "INACTIVE"
-        },
-        "1572549491": {
-            "nottscounty.rivals.net": "INACTIVE"
-        },
-        "1572549493": {
-            "nowhere.jp.intellitxt.com": "INACTIVE"
-        },
-        "1572549499": {
-            "npendfx.hitbox.com": "INACTIVE"
-        },
-        "1572549506": {
-            "npm.tags.crwdcntrl.net": "INACTIVE"
-        },
-        "1572549514": {
-            "ns1.247media.com": "INACTIVE"
-        },
-        "1572549515": {
-            "ns1.fastclick.net": "INACTIVE"
-        },
-        "1572549521": {
-            "ns1.hitbox.com": "INACTIVE",
-            "ns1.mediaplex.com": "INACTIVE"
-        },
-        "1572549522": {
-            "ns1.omniture.com": "INACTIVE",
-            "ns1.sj1.omniture.com": "INACTIVE"
-        },
-        "1572549528": {
-            "ns1.sj2.omniture.com": "INACTIVE"
-        },
-        "1572549531": {
-            "ns2.fastclick.net": "INACTIVE"
-        },
-        "1572549537": {
-            "ns2.hitbox.com": "INACTIVE",
-            "ns2.mediaplex.com": "INACTIVE"
-        },
-        "1572549538": {
-            "ns2.w3open.com": "INACTIVE"
-        },
-        "1572549539": {
-            "ns-3.2o7.net": "INACTIVE"
-        },
-        "1572549545": {
-            "ns3.hitbox.com": "INACTIVE"
-        },
-        "1572549551": {
-            "ns3.iad.cimedia.net": "INACTIVE",
-            "ns3.mediaplex.com": "INACTIVE"
-        },
-        "1572549552": {
-            "ns4.rb-media-group.de": "INACTIVE"
-        },
-        "1572549560": {
-            "ns-ehg-vip.hitbox.com": "INACTIVE"
-        },
-        "1572549566": {
-            "nse.hitbox.com": "INACTIVE"
-        },
-        "1572549572": {
-            "ns-freehg-vip.hitbox.com": "INACTIVE"
-        },
-        "1572549573": {
-            "ns.mediaplex.com": "INACTIVE"
-        },
-        "1572549581": {
-            "ns-staging-vip.hitbox.com": "INACTIVE"
-        },
-        "1572549582": {
-            "ns.valueclick.com": "INACTIVE"
-        },
-        "1572549588": {
-            "ns-vip2.hitbox.com": "INACTIVE"
-        },
-        "1572549594": {
-            "ns-vip3.hitbox.com": "INACTIVE"
-        },
-        "1572549595": {
-            "ntcompatible.us.intellitxt.com": "INACTIVE"
-        },
-        "1572549601": {
-            "nt-es.imrworldwide.com": "INACTIVE"
-        },
-        "1572549602": {
-            "nubella.us.intellitxt.com": "INACTIVE"
-        },
-        "1572549603": {
-            "nudegalleries.picturetrades.com": "INACTIVE"
-        },
-        "1572549612": {
-            "nudist.hit.bg": "INACTIVE"
-        },
-        "1572549618": {
-            "nullfeed.hitbox.com": "INACTIVE"
-        },
-        "1572549619": {
-            "nvnews.us.intellitxt.com": "INACTIVE"
-        },
-        "1572549626": {
-            "nwmutual.hitbox.com": "INACTIVE",
-            "ny1-g001.us.intellitxt.com": "INACTIVE",
-            "ny1-g002.us.intellitxt.com": "INACTIVE",
-            "ny1-g003.us.intellitxt.com": "INACTIVE"
-        },
-        "1572549627": {
-            "ny1-g004.us.intellitxt.com": "INACTIVE",
-            "ny1-g005.us.intellitxt.com": "INACTIVE",
-            "ny1-g006.us.intellitxt.com": "INACTIVE",
-            "ny1-g007.us.intellitxt.com": "INACTIVE"
-        },
-        "1572549628": {
-            "ny1-g008.us.intellitxt.com": "INACTIVE",
-            "ny1-g009.us.intellitxt.com": "INACTIVE",
-            "ny1-g010.us.intellitxt.com": "INACTIVE",
-            "ny1-g011.us.intellitxt.com": "INACTIVE",
-            "ny1-g012.us.intellitxt.com": "INACTIVE",
-            "ny1-g013.us.intellitxt.com": "INACTIVE"
-        },
-        "1572549629": {
-            "ny1-g014.us.intellitxt.com": "INACTIVE",
-            "ny1-g015.us.intellitxt.com": "INACTIVE",
-            "ny1-g016.us.intellitxt.com": "INACTIVE",
-            "ny1-g666.us.intellitxt.com": "INACTIVE"
-        },
-        "1572549636": {
-            "nylifedfx.hitbox.com": "INACTIVE"
-        },
-        "1572549643": {
-            "nylifefeed2.hitbox.com": "INACTIVE"
-        },
-        "1572549644": {
-            "nymag.com.102.112.2o7.net": "INACTIVE",
-            "nysdot.gov.102.112.2o7.net": "INACTIVE"
-        },
-        "1572549653": {
-            "oak1dpu101.insight.omniture.com": "INACTIVE"
-        },
-        "1572549654": {
-            "oak1dpu102.insight.omniture.com": "INACTIVE",
-            "oak1dpu103.insight.omniture.com": "INACTIVE",
-            "oak1dpu106.insight.omniture.com": "INACTIVE"
-        },
-        "1572549655": {
-            "oak1dpu107.insight.omniture.com": "INACTIVE",
-            "oak1dpu115.insight.omniture.com": "INACTIVE",
-            "oak1dpu116.insight.omniture.com": "INACTIVE"
-        },
-        "1572549656": {
-            "oak1dpu117.insight.omniture.com": "INACTIVE",
-            "oak1dpu118.insight.omniture.com": "INACTIVE",
-            "oak1dpu119.insight.omniture.com": "INACTIVE"
-        },
-        "1572549657": {
-            "oak1dpu120.insight.omniture.com": "INACTIVE",
-            "oak1dpu121.insight.omniture.com": "INACTIVE",
-            "oak1dpu122.insight.omniture.com": "INACTIVE"
-        },
-        "1572549658": {
-            "oak1dpu123.insight.omniture.com": "INACTIVE",
-            "oak1dpu124.insight.omniture.com": "INACTIVE",
-            "oak1dpu125.insight.omniture.com": "INACTIVE"
-        },
-        "1572549659": {
-            "oak1dpu126.insight.omniture.com": "INACTIVE",
-            "oak1dpu127.insight.omniture.com": "INACTIVE",
-            "oak1dpu128.insight.omniture.com": "INACTIVE",
-            "oak1dpu129.insight.omniture.com": "INACTIVE"
-        },
-        "1572549660": {
-            "oak1dpu130.insight.omniture.com": "INACTIVE",
-            "oak1dpu131.insight.omniture.com": "INACTIVE",
-            "oak1dpu132.insight.omniture.com": "INACTIVE"
-        },
-        "1572549661": {
-            "oak1dpu133.insight.omniture.com": "INACTIVE",
-            "oak1dpu134.insight.omniture.com": "INACTIVE",
-            "oak1dpu135.insight.omniture.com": "INACTIVE"
-        },
-        "1572549662": {
-            "oak1dpu136.insight.omniture.com": "INACTIVE",
-            "oak1dpu137.insight.omniture.com": "INACTIVE",
-            "oak1dpu138.insight.omniture.com": "INACTIVE"
-        },
-        "1572549663": {
-            "oak1dpu139.insight.omniture.com": "INACTIVE",
-            "oak1dpu140.insight.omniture.com": "INACTIVE",
-            "oak1dpu141.insight.omniture.com": "INACTIVE"
-        },
-        "1572549664": {
-            "oak1dpu142.insight.omniture.com": "INACTIVE",
-            "oak1dpu143.insight.omniture.com": "INACTIVE",
-            "oak1dpu144.insight.omniture.com": "INACTIVE"
-        },
-        "1572549665": {
-            "oak1dpu145.insight.omniture.com": "INACTIVE",
-            "oak1dpu146.insight.omniture.com": "INACTIVE",
-            "oak1dpu147.insight.omniture.com": "INACTIVE"
-        },
-        "1572549666": {
-            "oak1dpu148.insight.omniture.com": "INACTIVE",
-            "oak1dpu149.insight.omniture.com": "INACTIVE",
-            "oak1dpu150.insight.omniture.com": "INACTIVE"
-        },
-        "1572549667": {
-            "oak1dpu151.insight.omniture.com": "INACTIVE",
-            "oak1dpu152.insight.omniture.com": "INACTIVE",
-            "oak1dpu153.insight.omniture.com": "INACTIVE"
-        },
-        "1572549668": {
-            "oak1dpu154.insight.omniture.com": "INACTIVE",
-            "oak1dpu155.insight.omniture.com": "INACTIVE",
-            "oak1dpu156.insight.omniture.com": "INACTIVE"
-        },
-        "1572549669": {
-            "oak1dpu157.insight.omniture.com": "INACTIVE",
-            "oak1dpu158.insight.omniture.com": "INACTIVE",
-            "oak1dpu159.insight.omniture.com": "INACTIVE"
-        },
-        "1572549670": {
-            "oak1dpu160.insight.omniture.com": "INACTIVE",
-            "oak1dpu161.insight.omniture.com": "INACTIVE",
-            "oak1dpu162.insight.omniture.com": "INACTIVE"
-        },
-        "1572549671": {
-            "oak1dpu163.insight.omniture.com": "INACTIVE",
-            "oak1dpu164.insight.omniture.com": "INACTIVE",
-            "oak1dpu165.insight.omniture.com": "INACTIVE"
-        },
-        "1572549672": {
-            "oak1dpu166.insight.omniture.com": "INACTIVE",
-            "oak1dpu167.insight.omniture.com": "INACTIVE",
-            "oak1dpu168.insight.omniture.com": "INACTIVE"
-        },
-        "1572549673": {
-            "oak1dpu169.insight.omniture.com": "INACTIVE",
-            "oak1dpu170.insight.omniture.com": "INACTIVE",
-            "oak1dpu171.insight.omniture.com": "INACTIVE"
-        },
-        "1572549674": {
-            "oak1dpu172.insight.omniture.com": "INACTIVE",
-            "oak1dpu173.insight.omniture.com": "INACTIVE",
-            "oak1dpu174.insight.omniture.com": "INACTIVE"
-        },
-        "1572549675": {
-            "oak1dpu175.insight.omniture.com": "INACTIVE",
-            "oak1dpu176.insight.omniture.com": "INACTIVE",
-            "oak1dpu177.insight.omniture.com": "INACTIVE"
-        },
-        "1572549676": {
-            "oak1dpu178.insight.omniture.com": "INACTIVE",
-            "oak1dpu179.insight.omniture.com": "INACTIVE",
-            "oak1dpu180.insight.omniture.com": "INACTIVE"
-        },
-        "1572549677": {
-            "oak1dpu181.insight.omniture.com": "INACTIVE",
-            "oak1dpu182.insight.omniture.com": "INACTIVE",
-            "oak1dpu183.insight.omniture.com": "INACTIVE"
-        },
-        "1572549678": {
-            "oak1dpu184.insight.omniture.com": "INACTIVE",
-            "oak1dpu185.insight.omniture.com": "INACTIVE",
-            "oak1dpu186.insight.omniture.com": "INACTIVE"
-        },
-        "1572549679": {
-            "oak1dpu187.insight.omniture.com": "INACTIVE",
-            "oak1dpu188.insight.omniture.com": "INACTIVE",
-            "oak1dpu189.insight.omniture.com": "INACTIVE"
-        },
-        "1572549680": {
-            "oak1dpu190.insight.omniture.com": "INACTIVE",
-            "oak1dpu191.insight.omniture.com": "INACTIVE",
-            "oak1dpu192.insight.omniture.com": "INACTIVE"
-        },
-        "1572549681": {
-            "oak1dpu193.insight.omniture.com": "INACTIVE",
-            "oak1dpu194.insight.omniture.com": "INACTIVE",
-            "oak1dpu195.insight.omniture.com": "INACTIVE"
-        },
-        "1572549682": {
-            "oak1dpu196.insight.omniture.com": "INACTIVE",
-            "oak1dpu197.insight.omniture.com": "INACTIVE",
-            "oak1dpu198.insight.omniture.com": "INACTIVE"
-        },
-        "1572549683": {
-            "oak1dpu199.insight.omniture.com": "INACTIVE",
-            "oak1dpu200.insight.omniture.com": "INACTIVE",
-            "oak1dpu201.insight.omniture.com": "INACTIVE"
-        },
-        "1572549684": {
-            "oak1dpu202.insight.omniture.com": "INACTIVE",
-            "oak1dpu203.insight.omniture.com": "INACTIVE",
-            "oak1dpu204.insight.omniture.com": "INACTIVE"
-        },
-        "1572549685": {
-            "oak1dpu205.insight.omniture.com": "INACTIVE",
-            "oak1dpu206.insight.omniture.com": "INACTIVE",
-            "oak1dpu207.insight.omniture.com": "INACTIVE"
-        },
-        "1572549686": {
-            "oak1dpu208.insight.omniture.com": "INACTIVE",
-            "oak1dpu209.insight.omniture.com": "INACTIVE",
-            "oak1dpu210.insight.omniture.com": "INACTIVE"
-        },
-        "1572549687": {
-            "oak1dpu213.insight.omniture.com": "INACTIVE",
-            "oak1dpu214.insight.omniture.com": "INACTIVE",
-            "oak1dpu215.insight.omniture.com": "INACTIVE"
-        },
-        "1572549688": {
-            "oak1dpu216.insight.omniture.com": "INACTIVE",
-            "oak1dpu217.insight.omniture.com": "INACTIVE",
-            "oak1fsu101.insight.omniture.com": "INACTIVE"
-        },
-        "1572549689": {
-            "oak1fsu102.insight.omniture.com": "INACTIVE",
-            "oak1fsu103.insight.omniture.com": "INACTIVE",
-            "oak1fsu104.insight.omniture.com": "INACTIVE"
-        },
-        "1572549690": {
-            "oak1fsu105.insight.omniture.com": "INACTIVE",
-            "oak1fsu106.insight.omniture.com": "INACTIVE",
-            "oak1fsu107.insight.omniture.com": "INACTIVE"
-        },
-        "1572549691": {
-            "oak1fsu108.insight.omniture.com": "INACTIVE",
-            "oak1fsu109.insight.omniture.com": "INACTIVE",
-            "oak1fsu115.insight.omniture.com": "INACTIVE"
-        },
-        "1572549692": {
-            "oak1fsu116.insight.omniture.com": "INACTIVE",
-            "oak1fsu117.insight.omniture.com": "INACTIVE",
-            "oak1fsu118.insight.omniture.com": "INACTIVE"
-        },
-        "1572549693": {
-            "oak1fsu119.insight.omniture.com": "INACTIVE",
-            "oak1fsu120.insight.omniture.com": "INACTIVE",
-            "oak1fsu121.insight.omniture.com": "INACTIVE"
-        },
-        "1572549694": {
-            "oak1rpt101.insight.omniture.com": "INACTIVE",
-            "oak1rpt102.insight.omniture.com": "INACTIVE",
-            "oak1rpt103.insight.omniture.com": "INACTIVE"
-        },
-        "1572549695": {
-            "oak1rpt104.insight.omniture.com": "INACTIVE",
-            "oak1rpt105.insight.omniture.com": "INACTIVE",
-            "oak1rpt106.insight.omniture.com": "INACTIVE"
-        },
-        "1572549696": {
-            "oak1rpt107.insight.omniture.com": "INACTIVE",
-            "oak1rpt108.insight.omniture.com": "INACTIVE"
-        },
-        "1572549707": {
-            "oascentral.mochila.com": "INACTIVE",
-            "oascentral.nephrologynews.com": "INACTIVE"
-        },
-        "1572549711": {
-            "oascentral.newsmax.com": "INACTIVE"
-        },
-        "1572549713": {
-            "oascentral.rcrnews.com": "INACTIVE"
-        },
-        "1572549714": {
-            "oascentral.recroom.com": "INACTIVE"
-        },
-        "1572549718": {
-            "oascentral.virtualtourist.com": "INACTIVE"
-        },
-        "1572549719": {
-            "oas.deejay.it": "INACTIVE",
-            "oas.five.tv": "INACTIVE",
-            "oas.foxnews.com": "INACTIVE"
-        },
-        "1572549726": {
-            "oas.hitbox.com": "INACTIVE",
-            "oas.ilsecoloxix.it": "INACTIVE"
-        },
-        "1572549732": {
-            "oasis.omniture.com": "INACTIVE"
-        },
-        "1572549738": {
-            "oas.maktoobblog.com": "INACTIVE"
-        },
-        "1572549739": {
-            "oas.northernandshell.co.uk": "INACTIVE",
-            "oas.offremedia.com": "INACTIVE"
-        },
-        "1572549740": {
-            "oas.salon.com": "INACTIVE",
-            "oas.stv.tv": "INACTIVE"
-        },
-        "1572549746": {
-            "oas.toronto.com": "INACTIVE",
-            "oas.trustnet.com": "INACTIVE"
-        },
-        "1572549752": {
-            "oas.uniontrib.com": "INACTIVE"
-        },
-        "1572549758": {
-            "oas.villagevoice.com": "INACTIVE"
-        },
-        "1572549765": {
-            "oas.vtsgonline.com": "INACTIVE"
-        },
-        "1572549767": {
-            "obgyn.us.intellitxt.com": "INACTIVE"
-        },
-        "1572549768": {
-            "obiloga.noip.me": "INACTIVE"
-        },
-        "1572549773": {
-            "oceanup.us.intellitxt.com": "INACTIVE"
-        },
-        "1572549774": {
-            "ocmodshop.us.intellitxt.com": "INACTIVE",
-            "octools.us.intellitxt.com": "INACTIVE",
-            "ocworkbench.us.intellitxt.com": "INACTIVE",
-            "odditysoftware.us.intellitxt.com": "INACTIVE"
-        },
-        "1572549775": {
-            "o.detik.com": "INACTIVE"
-        },
-        "1572549789": {
-            "offermaticadfx.hitbox.com": "INACTIVE"
-        },
-        "1572549796": {
-            "offers.memedia.com": "INACTIVE"
-        },
-        "1572549803": {
-            "offers.whenu.com": "INACTIVE"
-        },
-        "1572549804": {
-            "officer.us.intellitxt.com": "INACTIVE"
-        },
-        "1572549811": {
-            "offlinelog.faceplusplus.com": "INACTIVE"
-        },
-        "1572549812": {
-            "off-road.us.intellitxt.com": "INACTIVE"
-        },
-        "1572549819": {
-            "oforugold.123log.de": "INACTIVE"
-        },
-        "1572549820": {
-            "ogaming.us.intellitxt.com": "INACTIVE"
-        },
-        "1572549822": {
-            "ohgizmo.us.intellitxt.com": "INACTIVE"
-        },
-        "1572549829": {
-            "ohybe1.hit.bg": "INACTIVE"
-        },
-        "1572549836": {
-            "ohybe.hit.bg": "INACTIVE"
-        },
-        "1572549849": {
-            "okcupid.tags.crwdcntrl.net": "INACTIVE",
-            "okmagazine.us.intellitxt.com": "INACTIVE"
-        },
-        "1572549850": {
-            "ok.uk.intellitxt.com": "INACTIVE"
-        },
-        "1572549906": {
-            "omega-money-counters.qarchive.org": "INACTIVE"
-        },
-        "1572549912": {
-            "om.onlineshoes.com": "INACTIVE"
-        },
-        "1572549933": {
-            "onehitshot.googlecode.com": "INACTIVE"
-        },
-        "1572549936": {
-            "onjava.us.intellitxt.com": "INACTIVE",
-            "onlamp.us.intellitxt.com": "INACTIVE"
-        },
-        "1572549937": {
-            "onlinecasinoranked.com": "INACTIVE"
-        },
-        "1572549938": {
-            "onlineclick.net": "INACTIVE"
-        },
-        "1572549946": {
-            "onlinespiele.de.intellitxt.com": "INACTIVE"
-        },
-        "1572549955": {
-            "onstor1-mgt-out.hitbox.com": "INACTIVE"
-        },
-        "1572549961": {
-            "onstor2-mgt-out.hitbox.com": "INACTIVE"
-        },
-        "1572549962": {
-            "ontheflix.us.intellitxt.com": "INACTIVE"
-        },
-        "1572549964": {
-            "oocenter.us.intellitxt.com": "INACTIVE"
-        },
-        "1572549970": {
-            "oodis01.timetrackingweb.com": "INACTIVE"
-        },
-        "1572549976": {
-            "ooo-yeah.hit.bg": "INACTIVE"
-        },
-        "1572549978": {
-            "opentable.com.102.112.2o7.net": "INACTIVE"
-        },
-        "1572549985": {
-            "openx.engagedmediamags.com": "INACTIVE"
-        },
-        "1572549993": {
-            "opers.hit.bg": "INACTIVE"
-        },
-        "1572550007": {
-            "optimize.indieclick.com": "INACTIVE"
-        },
-        "1572550014": {
-            "optimostdfx.hitbox.com": "INACTIVE",
-            "options.10trade.com": "INACTIVE"
-        },
-        "1572550023": {
-            "oraclesvca2.oracle.com": "INACTIVE"
-        },
-        "1572550024": {
-            "orange-county-dating.servik.com": "INACTIVE"
-        },
-        "1572550025": {
-            "organicseo.us.intellitxt.com": "INACTIVE",
-            "origin.espotting.com": "INACTIVE"
-        },
-        "1572550026": {
-            "origin-images.insightexpressai.com": "INACTIVE",
-            "origin-invitations.insightexpressai.com": "INACTIVE",
-            "origin-rb.insightexpressai.com": "INACTIVE",
-            "origin.se.espotting.com": "INACTIVE"
-        },
         "1572550041": {
             "osdir.us.intellitxt.com": "INACTIVE"
         },
@@ -20543,6 +19985,557 @@
         },
         "1572727954": {
             "noc-new.hitbox.com": "INACTIVE"
+        },
+        "1572728066": {
+            "noc-out.hitbox.com": "INACTIVE"
+        },
+        "1572728072": {
+            "noc-snat.hitbox.com": "INACTIVE"
+        },
+        "1572728073": {
+            "no.espotting.com": "INACTIVE",
+            "nodevice.uk.intellitxt.com": "INACTIVE"
+        },
+        "1572728080": {
+            "nokiadfx.hitbox.com": "INACTIVE"
+        },
+        "1572728086": {
+            "nokiafeed2.hitbox.com": "INACTIVE"
+        },
+        "1572728100": {
+            "northbaysearchenginenorthbayradio.media-toolbar.com": "INACTIVE"
+        },
+        "1572728107": {
+            "noshmimmizrahit.myforumtoolbar.com": "INACTIVE"
+        },
+        "1572728109": {
+            "notebookjournal.de.intellitxt.com": "INACTIVE"
+        },
+        "1572728115": {
+            "nottscounty.rivals.net": "INACTIVE"
+        },
+        "1572728117": {
+            "nowhere.jp.intellitxt.com": "INACTIVE"
+        },
+        "1572728118": {
+            "n.pay-click.ru": "INACTIVE"
+        },
+        "1572728124": {
+            "npendfx.hitbox.com": "INACTIVE"
+        },
+        "1572728130": {
+            "npm.tags.crwdcntrl.net": "INACTIVE"
+        },
+        "1572728139": {
+            "ns1.247media.com": "INACTIVE"
+        },
+        "1572728140": {
+            "ns1.fastclick.net": "INACTIVE"
+        },
+        "1572728146": {
+            "ns1.hitbox.com": "INACTIVE"
+        },
+        "1572728147": {
+            "ns1.mediaplex.com": "INACTIVE",
+            "ns1.omniture.com": "INACTIVE",
+            "ns1.sj1.omniture.com": "INACTIVE"
+        },
+        "1572728153": {
+            "ns1.sj2.omniture.com": "INACTIVE"
+        },
+        "1572728156": {
+            "ns2.fastclick.net": "INACTIVE"
+        },
+        "1572728162": {
+            "ns2.hitbox.com": "INACTIVE",
+            "ns2.mediaplex.com": "INACTIVE"
+        },
+        "1572728163": {
+            "ns-3.2o7.net": "INACTIVE",
+            "ns2.w3open.com": "INACTIVE"
+        },
+        "1572728169": {
+            "ns3.hitbox.com": "INACTIVE"
+        },
+        "1572728176": {
+            "ns3.iad.cimedia.net": "INACTIVE",
+            "ns3.mediaplex.com": "INACTIVE"
+        },
+        "1572728177": {
+            "ns4.rb-media-group.de": "INACTIVE"
+        },
+        "1572728184": {
+            "ns-ehg-vip.hitbox.com": "INACTIVE"
+        },
+        "1572728190": {
+            "nse.hitbox.com": "INACTIVE"
+        },
+        "1572728197": {
+            "ns-freehg-vip.hitbox.com": "INACTIVE"
+        },
+        "1572728198": {
+            "ns.mediaplex.com": "INACTIVE"
+        },
+        "1572728206": {
+            "ns-staging-vip.hitbox.com": "INACTIVE",
+            "ns.valueclick.com": "INACTIVE"
+        },
+        "1572728212": {
+            "ns-vip2.hitbox.com": "INACTIVE"
+        },
+        "1572728219": {
+            "ns-vip3.hitbox.com": "INACTIVE"
+        },
+        "1572728220": {
+            "ntcompatible.us.intellitxt.com": "INACTIVE"
+        },
+        "1572728226": {
+            "nt-es.imrworldwide.com": "INACTIVE"
+        },
+        "1572728227": {
+            "nubella.us.intellitxt.com": "INACTIVE"
+        },
+        "1572728228": {
+            "nudegalleries.picturetrades.com": "INACTIVE"
+        },
+        "1572728237": {
+            "nudist.hit.bg": "INACTIVE"
+        },
+        "1572728243": {
+            "nullfeed.hitbox.com": "INACTIVE"
+        },
+        "1572728244": {
+            "nvnews.us.intellitxt.com": "INACTIVE"
+        },
+        "1572728251": {
+            "nwmutual.hitbox.com": "INACTIVE",
+            "ny1-g001.us.intellitxt.com": "INACTIVE",
+            "ny1-g002.us.intellitxt.com": "INACTIVE",
+            "ny1-g003.us.intellitxt.com": "INACTIVE",
+            "ny1-g004.us.intellitxt.com": "INACTIVE"
+        },
+        "1572728252": {
+            "ny1-g005.us.intellitxt.com": "INACTIVE",
+            "ny1-g006.us.intellitxt.com": "INACTIVE",
+            "ny1-g007.us.intellitxt.com": "INACTIVE",
+            "ny1-g008.us.intellitxt.com": "INACTIVE",
+            "ny1-g009.us.intellitxt.com": "INACTIVE"
+        },
+        "1572728253": {
+            "ny1-g010.us.intellitxt.com": "INACTIVE",
+            "ny1-g011.us.intellitxt.com": "INACTIVE",
+            "ny1-g012.us.intellitxt.com": "INACTIVE",
+            "ny1-g013.us.intellitxt.com": "INACTIVE",
+            "ny1-g014.us.intellitxt.com": "INACTIVE"
+        },
+        "1572728254": {
+            "ny1-g015.us.intellitxt.com": "INACTIVE",
+            "ny1-g016.us.intellitxt.com": "INACTIVE",
+            "ny1-g666.us.intellitxt.com": "INACTIVE"
+        },
+        "1572728261": {
+            "nylifedfx.hitbox.com": "INACTIVE"
+        },
+        "1572728268": {
+            "nylifefeed2.hitbox.com": "INACTIVE"
+        },
+        "1572728269": {
+            "nymag.com.102.112.2o7.net": "INACTIVE",
+            "nysdot.gov.102.112.2o7.net": "INACTIVE"
+        },
+        "1572728278": {
+            "oak1dpu101.insight.omniture.com": "INACTIVE"
+        },
+        "1572728279": {
+            "oak1dpu102.insight.omniture.com": "INACTIVE",
+            "oak1dpu103.insight.omniture.com": "INACTIVE",
+            "oak1dpu106.insight.omniture.com": "INACTIVE"
+        },
+        "1572728280": {
+            "oak1dpu107.insight.omniture.com": "INACTIVE",
+            "oak1dpu115.insight.omniture.com": "INACTIVE",
+            "oak1dpu116.insight.omniture.com": "INACTIVE"
+        },
+        "1572728281": {
+            "oak1dpu117.insight.omniture.com": "INACTIVE",
+            "oak1dpu118.insight.omniture.com": "INACTIVE",
+            "oak1dpu119.insight.omniture.com": "INACTIVE"
+        },
+        "1572728282": {
+            "oak1dpu120.insight.omniture.com": "INACTIVE",
+            "oak1dpu121.insight.omniture.com": "INACTIVE",
+            "oak1dpu122.insight.omniture.com": "INACTIVE"
+        },
+        "1572728283": {
+            "oak1dpu123.insight.omniture.com": "INACTIVE",
+            "oak1dpu124.insight.omniture.com": "INACTIVE",
+            "oak1dpu125.insight.omniture.com": "INACTIVE"
+        },
+        "1572728284": {
+            "oak1dpu126.insight.omniture.com": "INACTIVE",
+            "oak1dpu127.insight.omniture.com": "INACTIVE",
+            "oak1dpu128.insight.omniture.com": "INACTIVE"
+        },
+        "1572728285": {
+            "oak1dpu129.insight.omniture.com": "INACTIVE",
+            "oak1dpu130.insight.omniture.com": "INACTIVE",
+            "oak1dpu131.insight.omniture.com": "INACTIVE"
+        },
+        "1572728286": {
+            "oak1dpu132.insight.omniture.com": "INACTIVE",
+            "oak1dpu133.insight.omniture.com": "INACTIVE",
+            "oak1dpu134.insight.omniture.com": "INACTIVE"
+        },
+        "1572728287": {
+            "oak1dpu135.insight.omniture.com": "INACTIVE",
+            "oak1dpu136.insight.omniture.com": "INACTIVE",
+            "oak1dpu137.insight.omniture.com": "INACTIVE"
+        },
+        "1572728288": {
+            "oak1dpu138.insight.omniture.com": "INACTIVE",
+            "oak1dpu139.insight.omniture.com": "INACTIVE",
+            "oak1dpu140.insight.omniture.com": "INACTIVE"
+        },
+        "1572728289": {
+            "oak1dpu141.insight.omniture.com": "INACTIVE",
+            "oak1dpu142.insight.omniture.com": "INACTIVE",
+            "oak1dpu143.insight.omniture.com": "INACTIVE"
+        },
+        "1572728290": {
+            "oak1dpu144.insight.omniture.com": "INACTIVE",
+            "oak1dpu145.insight.omniture.com": "INACTIVE",
+            "oak1dpu146.insight.omniture.com": "INACTIVE"
+        },
+        "1572728291": {
+            "oak1dpu147.insight.omniture.com": "INACTIVE",
+            "oak1dpu148.insight.omniture.com": "INACTIVE",
+            "oak1dpu149.insight.omniture.com": "INACTIVE"
+        },
+        "1572728292": {
+            "oak1dpu150.insight.omniture.com": "INACTIVE",
+            "oak1dpu151.insight.omniture.com": "INACTIVE",
+            "oak1dpu152.insight.omniture.com": "INACTIVE"
+        },
+        "1572728293": {
+            "oak1dpu153.insight.omniture.com": "INACTIVE",
+            "oak1dpu154.insight.omniture.com": "INACTIVE",
+            "oak1dpu155.insight.omniture.com": "INACTIVE"
+        },
+        "1572728294": {
+            "oak1dpu156.insight.omniture.com": "INACTIVE",
+            "oak1dpu157.insight.omniture.com": "INACTIVE",
+            "oak1dpu158.insight.omniture.com": "INACTIVE"
+        },
+        "1572728295": {
+            "oak1dpu159.insight.omniture.com": "INACTIVE",
+            "oak1dpu160.insight.omniture.com": "INACTIVE",
+            "oak1dpu161.insight.omniture.com": "INACTIVE"
+        },
+        "1572728296": {
+            "oak1dpu162.insight.omniture.com": "INACTIVE",
+            "oak1dpu163.insight.omniture.com": "INACTIVE",
+            "oak1dpu164.insight.omniture.com": "INACTIVE"
+        },
+        "1572728297": {
+            "oak1dpu165.insight.omniture.com": "INACTIVE",
+            "oak1dpu166.insight.omniture.com": "INACTIVE",
+            "oak1dpu167.insight.omniture.com": "INACTIVE"
+        },
+        "1572728298": {
+            "oak1dpu168.insight.omniture.com": "INACTIVE",
+            "oak1dpu169.insight.omniture.com": "INACTIVE",
+            "oak1dpu170.insight.omniture.com": "INACTIVE"
+        },
+        "1572728299": {
+            "oak1dpu171.insight.omniture.com": "INACTIVE",
+            "oak1dpu172.insight.omniture.com": "INACTIVE",
+            "oak1dpu173.insight.omniture.com": "INACTIVE"
+        },
+        "1572728300": {
+            "oak1dpu174.insight.omniture.com": "INACTIVE",
+            "oak1dpu175.insight.omniture.com": "INACTIVE",
+            "oak1dpu176.insight.omniture.com": "INACTIVE"
+        },
+        "1572728301": {
+            "oak1dpu177.insight.omniture.com": "INACTIVE",
+            "oak1dpu178.insight.omniture.com": "INACTIVE",
+            "oak1dpu179.insight.omniture.com": "INACTIVE"
+        },
+        "1572728302": {
+            "oak1dpu180.insight.omniture.com": "INACTIVE",
+            "oak1dpu181.insight.omniture.com": "INACTIVE",
+            "oak1dpu182.insight.omniture.com": "INACTIVE"
+        },
+        "1572728303": {
+            "oak1dpu183.insight.omniture.com": "INACTIVE",
+            "oak1dpu184.insight.omniture.com": "INACTIVE",
+            "oak1dpu185.insight.omniture.com": "INACTIVE"
+        },
+        "1572728304": {
+            "oak1dpu186.insight.omniture.com": "INACTIVE",
+            "oak1dpu187.insight.omniture.com": "INACTIVE",
+            "oak1dpu188.insight.omniture.com": "INACTIVE"
+        },
+        "1572728305": {
+            "oak1dpu189.insight.omniture.com": "INACTIVE",
+            "oak1dpu190.insight.omniture.com": "INACTIVE",
+            "oak1dpu191.insight.omniture.com": "INACTIVE"
+        },
+        "1572728306": {
+            "oak1dpu192.insight.omniture.com": "INACTIVE",
+            "oak1dpu193.insight.omniture.com": "INACTIVE",
+            "oak1dpu194.insight.omniture.com": "INACTIVE"
+        },
+        "1572728307": {
+            "oak1dpu195.insight.omniture.com": "INACTIVE",
+            "oak1dpu196.insight.omniture.com": "INACTIVE",
+            "oak1dpu197.insight.omniture.com": "INACTIVE"
+        },
+        "1572728308": {
+            "oak1dpu198.insight.omniture.com": "INACTIVE",
+            "oak1dpu199.insight.omniture.com": "INACTIVE",
+            "oak1dpu200.insight.omniture.com": "INACTIVE"
+        },
+        "1572728309": {
+            "oak1dpu201.insight.omniture.com": "INACTIVE",
+            "oak1dpu202.insight.omniture.com": "INACTIVE",
+            "oak1dpu203.insight.omniture.com": "INACTIVE"
+        },
+        "1572728310": {
+            "oak1dpu204.insight.omniture.com": "INACTIVE",
+            "oak1dpu205.insight.omniture.com": "INACTIVE",
+            "oak1dpu206.insight.omniture.com": "INACTIVE"
+        },
+        "1572728311": {
+            "oak1dpu207.insight.omniture.com": "INACTIVE",
+            "oak1dpu208.insight.omniture.com": "INACTIVE",
+            "oak1dpu209.insight.omniture.com": "INACTIVE"
+        },
+        "1572728312": {
+            "oak1dpu210.insight.omniture.com": "INACTIVE",
+            "oak1dpu213.insight.omniture.com": "INACTIVE",
+            "oak1dpu214.insight.omniture.com": "INACTIVE"
+        },
+        "1572728313": {
+            "oak1dpu215.insight.omniture.com": "INACTIVE",
+            "oak1dpu216.insight.omniture.com": "INACTIVE",
+            "oak1dpu217.insight.omniture.com": "INACTIVE"
+        },
+        "1572728314": {
+            "oak1fsu101.insight.omniture.com": "INACTIVE",
+            "oak1fsu102.insight.omniture.com": "INACTIVE",
+            "oak1fsu103.insight.omniture.com": "INACTIVE"
+        },
+        "1572728315": {
+            "oak1fsu104.insight.omniture.com": "INACTIVE",
+            "oak1fsu105.insight.omniture.com": "INACTIVE",
+            "oak1fsu106.insight.omniture.com": "INACTIVE"
+        },
+        "1572728316": {
+            "oak1fsu107.insight.omniture.com": "INACTIVE",
+            "oak1fsu108.insight.omniture.com": "INACTIVE",
+            "oak1fsu109.insight.omniture.com": "INACTIVE"
+        },
+        "1572728317": {
+            "oak1fsu115.insight.omniture.com": "INACTIVE",
+            "oak1fsu116.insight.omniture.com": "INACTIVE",
+            "oak1fsu117.insight.omniture.com": "INACTIVE"
+        },
+        "1572728318": {
+            "oak1fsu118.insight.omniture.com": "INACTIVE",
+            "oak1fsu119.insight.omniture.com": "INACTIVE",
+            "oak1fsu120.insight.omniture.com": "INACTIVE"
+        },
+        "1572728319": {
+            "oak1fsu121.insight.omniture.com": "INACTIVE",
+            "oak1rpt101.insight.omniture.com": "INACTIVE",
+            "oak1rpt102.insight.omniture.com": "INACTIVE"
+        },
+        "1572728320": {
+            "oak1rpt103.insight.omniture.com": "INACTIVE",
+            "oak1rpt104.insight.omniture.com": "INACTIVE",
+            "oak1rpt105.insight.omniture.com": "INACTIVE"
+        },
+        "1572728321": {
+            "oak1rpt106.insight.omniture.com": "INACTIVE",
+            "oak1rpt107.insight.omniture.com": "INACTIVE",
+            "oak1rpt108.insight.omniture.com": "INACTIVE"
+        },
+        "1572728334": {
+            "oascentral.mochila.com": "INACTIVE",
+            "oascentral.nephrologynews.com": "INACTIVE"
+        },
+        "1572728338": {
+            "oascentral.newsmax.com": "INACTIVE"
+        },
+        "1572728341": {
+            "oascentral.rcrnews.com": "INACTIVE",
+            "oascentral.recroom.com": "INACTIVE"
+        },
+        "1572728346": {
+            "oascentral.virtualtourist.com": "INACTIVE"
+        },
+        "1572728347": {
+            "oas.deejay.it": "INACTIVE",
+            "oas.five.tv": "INACTIVE",
+            "oas.foxnews.com": "INACTIVE"
+        },
+        "1572728353": {
+            "oas.hitbox.com": "INACTIVE"
+        },
+        "1572728354": {
+            "oas.ilsecoloxix.it": "INACTIVE"
+        },
+        "1572728360": {
+            "oasis.omniture.com": "INACTIVE"
+        },
+        "1572728366": {
+            "oas.maktoobblog.com": "INACTIVE",
+            "oas.northernandshell.co.uk": "INACTIVE"
+        },
+        "1572728367": {
+            "oas.offremedia.com": "INACTIVE",
+            "oas.salon.com": "INACTIVE"
+        },
+        "1572728368": {
+            "oas.stv.tv": "INACTIVE"
+        },
+        "1572728374": {
+            "oas.toronto.com": "INACTIVE",
+            "oas.trustnet.com": "INACTIVE"
+        },
+        "1572728380": {
+            "oas.uniontrib.com": "INACTIVE"
+        },
+        "1572728387": {
+            "oas.villagevoice.com": "INACTIVE"
+        },
+        "1572728393": {
+            "oas.vtsgonline.com": "INACTIVE"
+        },
+        "1572728395": {
+            "obgyn.us.intellitxt.com": "INACTIVE"
+        },
+        "1572728396": {
+            "obiloga.noip.me": "INACTIVE"
+        },
+        "1572728398": {
+            "oceanup.us.intellitxt.com": "INACTIVE",
+            "ocmodshop.us.intellitxt.com": "INACTIVE"
+        },
+        "1572728399": {
+            "octools.us.intellitxt.com": "INACTIVE",
+            "ocworkbench.us.intellitxt.com": "INACTIVE",
+            "odditysoftware.us.intellitxt.com": "INACTIVE"
+        },
+        "1572728400": {
+            "o.detik.com": "INACTIVE"
+        },
+        "1572728414": {
+            "offermaticadfx.hitbox.com": "INACTIVE"
+        },
+        "1572728423": {
+            "offers.memedia.com": "INACTIVE"
+        },
+        "1572728427": {
+            "offers.whenu.com": "INACTIVE",
+            "officer.us.intellitxt.com": "INACTIVE"
+        },
+        "1572728434": {
+            "offlinelog.faceplusplus.com": "INACTIVE"
+        },
+        "1572728436": {
+            "off-road.us.intellitxt.com": "INACTIVE"
+        },
+        "1572728443": {
+            "oforugold.123log.de": "INACTIVE",
+            "ogaming.us.intellitxt.com": "INACTIVE"
+        },
+        "1572728445": {
+            "ohgizmo.us.intellitxt.com": "INACTIVE"
+        },
+        "1572728452": {
+            "ohybe1.hit.bg": "INACTIVE"
+        },
+        "1572728459": {
+            "ohybe.hit.bg": "INACTIVE"
+        },
+        "1572728471": {
+            "okcupid.tags.crwdcntrl.net": "INACTIVE"
+        },
+        "1572728472": {
+            "ok.uk.intellitxt.com": "INACTIVE",
+            "okmagazine.us.intellitxt.com": "INACTIVE"
+        },
+        "1572728529": {
+            "omega-money-counters.qarchive.org": "INACTIVE"
+        },
+        "1572728537": {
+            "om.onlineshoes.com": "INACTIVE"
+        },
+        "1572728557": {
+            "onehitshot.googlecode.com": "INACTIVE"
+        },
+        "1572728560": {
+            "onjava.us.intellitxt.com": "INACTIVE",
+            "onlamp.us.intellitxt.com": "INACTIVE"
+        },
+        "1572728562": {
+            "onlinecasinoranked.com": "INACTIVE",
+            "onlineclick.net": "INACTIVE"
+        },
+        "1572728565": {
+            "onlinespiele.de.intellitxt.com": "INACTIVE"
+        },
+        "1572728574": {
+            "onstor1-mgt-out.hitbox.com": "INACTIVE"
+        },
+        "1572728580": {
+            "onstor2-mgt-out.hitbox.com": "INACTIVE",
+            "ontheflix.us.intellitxt.com": "INACTIVE"
+        },
+        "1572728582": {
+            "oocenter.us.intellitxt.com": "INACTIVE"
+        },
+        "1572728588": {
+            "oodis01.timetrackingweb.com": "INACTIVE"
+        },
+        "1572728595": {
+            "ooo-yeah.hit.bg": "INACTIVE"
+        },
+        "1572728596": {
+            "opentable.com.102.112.2o7.net": "INACTIVE"
+        },
+        "1572728603": {
+            "openx.engagedmediamags.com": "INACTIVE"
+        },
+        "1572728610": {
+            "opers.hit.bg": "INACTIVE"
+        },
+        "1572728621": {
+            "optimize.indieclick.com": "INACTIVE"
+        },
+        "1572728628": {
+            "optimostdfx.hitbox.com": "INACTIVE",
+            "options.10trade.com": "INACTIVE"
+        },
+        "1572728643": {
+            "oraclesvca2.oracle.com": "INACTIVE"
+        },
+        "1572728644": {
+            "orange-county-dating.servik.com": "INACTIVE"
+        },
+        "1572728645": {
+            "organicseo.us.intellitxt.com": "INACTIVE"
+        },
+        "1572728646": {
+            "origin-images.insightexpressai.com": "INACTIVE",
+            "origin-invitations.insightexpressai.com": "INACTIVE",
+            "origin.espotting.com": "INACTIVE"
+        },
+        "1572728647": {
+            "origin-rb.insightexpressai.com": "INACTIVE",
+            "origin.se.espotting.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
