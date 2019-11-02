@@ -1875,9 +1875,9 @@
         "state": "future"
     },
     "arkansascountydata.com": {
-        "epoch": "1572652800",
+        "epoch": 1572652800,
         "expiration_date": "02-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "arlingtonracetrack.com": {
         "epoch": 1595980800,
@@ -2385,8 +2385,8 @@
         "state": "future"
     },
     "baku-media.ru": {
-        "epoch": "1572566400",
-        "expiration_date": "01-nov-2019",
+        "epoch": 1604188800,
+        "expiration_date": "01-nov-2020",
         "state": "future"
     },
     "balconymedia.net": {
