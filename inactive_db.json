@@ -1,296 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1572713194": {
-            "ehg-netbankinc.hitbox.com": "INACTIVE"
-        },
-        "1572713200": {
-            "ehg-netcollex.hitbox.com": "INACTIVE"
-        },
-        "1572713206": {
-            "ehg-neteller.hitbox.com": "INACTIVE"
-        },
-        "1572713212": {
-            "ehg-netquote.hitbox.com": "INACTIVE"
-        },
-        "1572713218": {
-            "ehg-netstone.hitbox.com": "INACTIVE"
-        },
-        "1572713225": {
-            "ehg-nettour.hitbox.com": "INACTIVE"
-        },
-        "1572713231": {
-            "ehg-networkcomputinglab.hitbox.com": "INACTIVE"
-        },
-        "1572713237": {
-            "ehg-networkten.hitbox.com": "INACTIVE"
-        },
-        "1572713243": {
-            "ehg-networkworld1p.hitbox.com": "INACTIVE"
-        },
-        "1572713249": {
-            "ehg-networkworld.hitbox.com": "INACTIVE"
-        },
-        "1572713256": {
-            "ehg-neuftelecom.hitbox.com": "INACTIVE"
-        },
-        "1572713262": {
-            "ehg-newarkinone.hitbox.com": "INACTIVE"
-        },
-        "1572713268": {
-            "ehg-newcentury.hitbox.com": "INACTIVE"
-        },
-        "1572713274": {
-            "ehg-newedgenetworks.hitbox.com": "INACTIVE"
-        },
-        "1572713280": {
-            "ehg-newegg.hitbox.com": "INACTIVE"
-        },
-        "1572713287": {
-            "ehg-newfrontiermedia.hitbox.com": "INACTIVE"
-        },
-        "1572713293": {
-            "ehg-newmediagateway.hitbox.com": "INACTIVE"
-        },
-        "1572713299": {
-            "ehg-newotm.hitbox.com": "INACTIVE"
-        },
-        "1572713305": {
-            "ehg-newportcorporation.hitbox.com": "INACTIVE"
-        },
-        "1572713311": {
-            "ehg-newpowergas.hitbox.com": "INACTIVE"
-        },
-        "1572713318": {
-            "ehg-newscientist1p.hitbox.com": "INACTIVE"
-        },
-        "1572713324": {
-            "ehg-newscientist.hitbox.com": "INACTIVE"
-        },
-        "1572713330": {
-            "ehg-newsinteractive.hitbox.com": "INACTIVE"
-        },
-        "1572713336": {
-            "ehg-newsint.hitbox.com": "INACTIVE"
-        },
-        "1572713342": {
-            "ehg-newyorklife.hitbox.com": "INACTIVE"
-        },
-        "1572713349": {
-            "ehg-newyorkpost.hitbox.com": "INACTIVE"
-        },
-        "1572713355": {
-            "ehg-nexstar.hitbox.com": "INACTIVE"
-        },
-        "1572713361": {
-            "ehg-nextleft.hitbox.com": "INACTIVE"
-        },
-        "1572713367": {
-            "ehg-nextpage.hitbox.com": "INACTIVE"
-        },
-        "1572713373": {
-            "ehg-nexusmedia.hitbox.com": "INACTIVE"
-        },
-        "1572713380": {
-            "ehg-nfpa1p.hitbox.com": "INACTIVE"
-        },
-        "1572713386": {
-            "ehg-nfusiongroup.hitbox.com": "INACTIVE"
-        },
-        "1572713392": {
-            "ehg-nicheshops1p.hitbox.com": "INACTIVE"
-        },
-        "1572713398": {
-            "ehg-nicholsonkovac.hitbox.com": "INACTIVE"
-        },
-        "1572713404": {
-            "ehg-nike.hitbox.com": "INACTIVE"
-        },
-        "1572713410": {
-            "ehg-nikoninc.hitbox.com": "INACTIVE"
-        },
-        "1572713417": {
-            "ehg-nissan.hitbox.com": "INACTIVE"
-        },
-        "1572713423": {
-            "ehg-nokiafin.hitbox.com": "INACTIVE"
-        },
-        "1572713429": {
-            "ehg-nordnetbank.hitbox.com": "INACTIVE"
-        },
-        "1572713435": {
-            "ehg-northerntrust.hitbox.com": "INACTIVE"
-        },
-        "1572713441": {
-            "ehg-northjerseymediagroup.hitbox.com": "INACTIVE"
-        },
-        "1572713448": {
-            "ehg-northlineexpress.hitbox.com": "INACTIVE"
-        },
-        "1572713454": {
-            "ehg-northshorecreditunion.hitbox.com": "INACTIVE"
-        },
-        "1572713460": {
-            "ehg-northwestern.hitbox.com": "INACTIVE"
-        },
-        "1572713466": {
-            "ehg-norwichunion1p.hitbox.com": "INACTIVE"
-        },
-        "1572713472": {
-            "ehg-norwichunion.hitbox.com": "INACTIVE"
-        },
-        "1572713479": {
-            "ehg-novartis.hitbox.com": "INACTIVE"
-        },
-        "1572713485": {
-            "ehg-novartisoncology1p.hitbox.com": "INACTIVE"
-        },
-        "1572713491": {
-            "ehg-novartispharmaceuticals2.hitbox.com": "INACTIVE"
-        },
-        "1572713497": {
-            "ehg-novascotialiquorcorp.hitbox.com": "INACTIVE"
-        },
-        "1572713503": {
-            "ehg-novell.hitbox.com": "INACTIVE"
-        },
-        "1572713510": {
-            "ehg-noven.hitbox.com": "INACTIVE"
-        },
-        "1572713516": {
-            "ehg-novo.hitbox.com": "INACTIVE"
-        },
-        "1572713522": {
-            "ehg-nowmagazine.hitbox.com": "INACTIVE"
-        },
-        "1572713528": {
-            "ehg-nowonspecial.hitbox.com": "INACTIVE"
-        },
-        "1572713534": {
-            "ehg-npge.hitbox.com": "INACTIVE"
-        },
-        "1572713541": {
-            "ehg-nsbank.hitbox.com": "INACTIVE"
-        },
-        "1572713547": {
-            "ehg-nse.hitbox.com": "INACTIVE"
-        },
-        "1572713553": {
-            "ehg-ns.hitbox.com": "INACTIVE"
-        },
-        "1572713559": {
-            "ehg-nspacetechnologyinc.hitbox.com": "INACTIVE"
-        },
-        "1572713565": {
-            "ehg-ntiab.hitbox.com": "INACTIVE"
-        },
-        "1572713572": {
-            "ehg-nti.hitbox.com": "INACTIVE"
-        },
-        "1572713578": {
-            "ehg-ntn.hitbox.com": "INACTIVE"
-        },
-        "1572713584": {
-            "ehg-nuhorizons.hitbox.com": "INACTIVE"
-        },
-        "1572713590": {
-            "ehg-nuride.hitbox.com": "INACTIVE"
-        },
-        "1572713596": {
-            "ehg-nurun.hitbox.com": "INACTIVE"
-        },
-        "1572713603": {
-            "ehg-nuruninc.hitbox.com": "INACTIVE"
-        },
-        "1572713609": {
-            "ehg-nvidia.hitbox.com": "INACTIVE"
-        },
-        "1572713615": {
-            "ehg-nvtech.hitbox.com": "INACTIVE"
-        },
-        "1572713621": {
-            "ehg-nwa.hitbox.com": "INACTIVE"
-        },
-        "1572713627": {
-            "ehg-nwc.hitbox.com": "INACTIVE"
-        },
-        "1572713634": {
-            "ehg-nyjets.hitbox.com": "INACTIVE"
-        },
-        "1572713640": {
-            "ehg-nypost.1p.hitbox.com": "INACTIVE"
-        },
-        "1572713646": {
-            "ehg-obius.hitbox.com": "INACTIVE"
-        },
-        "1572713652": {
-            "ehg-ocregister.1p.hitbox.com": "INACTIVE"
-        },
-        "1572713658": {
-            "ehg-octopus.hitbox.com": "INACTIVE"
-        },
-        "1572713665": {
-            "ehg-oetker.hitbox.com": "INACTIVE"
-        },
-        "1572713671": {
-            "ehg-offermatica.hitbox.com": "INACTIVE"
-        },
-        "1572713677": {
-            "ehg-officeworld.hitbox.com": "INACTIVE"
-        },
-        "1572713808": {
-            "ehg-officexpect.hitbox.com": "INACTIVE"
-        },
-        "1572713815": {
-            "ehg-ogilvy.hitbox.com": "INACTIVE"
-        },
-        "1572713821": {
-            "ehg-ogilvyinteractive.hitbox.com": "INACTIVE"
-        },
-        "1572713827": {
-            "ehg-ogilvyspore.hitbox.com": "INACTIVE"
-        },
-        "1572713833": {
-            "ehg-oglivyint.hitbox.com": "INACTIVE"
-        },
-        "1572713840": {
-            "ehg-ohra.hitbox.com": "INACTIVE"
-        },
-        "1572713846": {
-            "ehg-ojd.hitbox.com": "INACTIVE"
-        },
-        "1572713852": {
-            "ehg-okini1p.hitbox.com": "INACTIVE"
-        },
-        "1572713858": {
-            "ehg-okini.hitbox.com": "INACTIVE"
-        },
-        "1572713864": {
-            "ehg-olympus.hitbox.com": "INACTIVE"
-        },
-        "1572713870": {
-            "ehg-omnibility.hitbox.com": "INACTIVE"
-        },
-        "1572713877": {
-            "ehg-oncologymedicalservices1p.hitbox.com": "INACTIVE"
-        },
-        "1572713883": {
-            "ehg-onebeaconinsurance.hitbox.com": "INACTIVE"
-        },
-        "1572713889": {
-            "ehg-oneinternet.hitbox.com": "INACTIVE"
-        },
-        "1572713895": {
-            "ehg-onepersonhealth.hitbox.com": "INACTIVE"
-        },
-        "1572713901": {
-            "ehg-oneshare.hitbox.com": "INACTIVE"
-        },
-        "1572713908": {
-            "ehg-onestopinternet.hitbox.com": "INACTIVE"
-        },
-        "1572713914": {
-            "ehg-onforce.hitbox.com": "INACTIVE"
-        },
         "1572713920": {
             "ehg-onlinearc.hitbox.com": "INACTIVE"
         },
@@ -20519,6 +20228,297 @@
         },
         "1572916694": {
             "ehg-netapparel.hitbox.com": "INACTIVE"
+        },
+        "1572917467": {
+            "ehg-netbankinc.hitbox.com": "INACTIVE"
+        },
+        "1572917473": {
+            "ehg-netcollex.hitbox.com": "INACTIVE"
+        },
+        "1572917479": {
+            "ehg-neteller.hitbox.com": "INACTIVE"
+        },
+        "1572917485": {
+            "ehg-netquote.hitbox.com": "INACTIVE"
+        },
+        "1572917492": {
+            "ehg-netstone.hitbox.com": "INACTIVE"
+        },
+        "1572917498": {
+            "ehg-nettour.hitbox.com": "INACTIVE"
+        },
+        "1572917504": {
+            "ehg-networkcomputinglab.hitbox.com": "INACTIVE"
+        },
+        "1572917510": {
+            "ehg-networkten.hitbox.com": "INACTIVE"
+        },
+        "1572917516": {
+            "ehg-networkworld1p.hitbox.com": "INACTIVE"
+        },
+        "1572917523": {
+            "ehg-networkworld.hitbox.com": "INACTIVE"
+        },
+        "1572917529": {
+            "ehg-neuftelecom.hitbox.com": "INACTIVE"
+        },
+        "1572917535": {
+            "ehg-newarkinone.hitbox.com": "INACTIVE"
+        },
+        "1572917541": {
+            "ehg-newcentury.hitbox.com": "INACTIVE"
+        },
+        "1572917547": {
+            "ehg-newedgenetworks.hitbox.com": "INACTIVE"
+        },
+        "1572917554": {
+            "ehg-newegg.hitbox.com": "INACTIVE"
+        },
+        "1572917560": {
+            "ehg-newfrontiermedia.hitbox.com": "INACTIVE"
+        },
+        "1572917566": {
+            "ehg-newmediagateway.hitbox.com": "INACTIVE"
+        },
+        "1572917572": {
+            "ehg-newotm.hitbox.com": "INACTIVE"
+        },
+        "1572917578": {
+            "ehg-newportcorporation.hitbox.com": "INACTIVE"
+        },
+        "1572917585": {
+            "ehg-newpowergas.hitbox.com": "INACTIVE"
+        },
+        "1572917591": {
+            "ehg-newscientist1p.hitbox.com": "INACTIVE"
+        },
+        "1572917597": {
+            "ehg-newscientist.hitbox.com": "INACTIVE"
+        },
+        "1572917603": {
+            "ehg-newsinteractive.hitbox.com": "INACTIVE"
+        },
+        "1572917609": {
+            "ehg-newsint.hitbox.com": "INACTIVE"
+        },
+        "1572917615": {
+            "ehg-newyorklife.hitbox.com": "INACTIVE"
+        },
+        "1572917622": {
+            "ehg-newyorkpost.hitbox.com": "INACTIVE"
+        },
+        "1572917628": {
+            "ehg-nexstar.hitbox.com": "INACTIVE"
+        },
+        "1572917634": {
+            "ehg-nextleft.hitbox.com": "INACTIVE"
+        },
+        "1572917640": {
+            "ehg-nextpage.hitbox.com": "INACTIVE"
+        },
+        "1572917646": {
+            "ehg-nexusmedia.hitbox.com": "INACTIVE"
+        },
+        "1572917653": {
+            "ehg-nfpa1p.hitbox.com": "INACTIVE"
+        },
+        "1572917659": {
+            "ehg-nfusiongroup.hitbox.com": "INACTIVE"
+        },
+        "1572917665": {
+            "ehg-nicheshops1p.hitbox.com": "INACTIVE"
+        },
+        "1572917671": {
+            "ehg-nicholsonkovac.hitbox.com": "INACTIVE"
+        },
+        "1572917677": {
+            "ehg-nike.hitbox.com": "INACTIVE"
+        },
+        "1572917684": {
+            "ehg-nikoninc.hitbox.com": "INACTIVE"
+        },
+        "1572917690": {
+            "ehg-nissan.hitbox.com": "INACTIVE"
+        },
+        "1572917696": {
+            "ehg-nokiafin.hitbox.com": "INACTIVE"
+        },
+        "1572917702": {
+            "ehg-nordnetbank.hitbox.com": "INACTIVE"
+        },
+        "1572917708": {
+            "ehg-northerntrust.hitbox.com": "INACTIVE"
+        },
+        "1572917715": {
+            "ehg-northjerseymediagroup.hitbox.com": "INACTIVE"
+        },
+        "1572917721": {
+            "ehg-northlineexpress.hitbox.com": "INACTIVE"
+        },
+        "1572917727": {
+            "ehg-northshorecreditunion.hitbox.com": "INACTIVE"
+        },
+        "1572917733": {
+            "ehg-northwestern.hitbox.com": "INACTIVE"
+        },
+        "1572917739": {
+            "ehg-norwichunion1p.hitbox.com": "INACTIVE"
+        },
+        "1572917746": {
+            "ehg-norwichunion.hitbox.com": "INACTIVE"
+        },
+        "1572917752": {
+            "ehg-novartis.hitbox.com": "INACTIVE"
+        },
+        "1572917758": {
+            "ehg-novartisoncology1p.hitbox.com": "INACTIVE"
+        },
+        "1572917764": {
+            "ehg-novartispharmaceuticals2.hitbox.com": "INACTIVE"
+        },
+        "1572917770": {
+            "ehg-novascotialiquorcorp.hitbox.com": "INACTIVE"
+        },
+        "1572917777": {
+            "ehg-novell.hitbox.com": "INACTIVE"
+        },
+        "1572917783": {
+            "ehg-noven.hitbox.com": "INACTIVE"
+        },
+        "1572917789": {
+            "ehg-novo.hitbox.com": "INACTIVE"
+        },
+        "1572917795": {
+            "ehg-nowmagazine.hitbox.com": "INACTIVE"
+        },
+        "1572917801": {
+            "ehg-nowonspecial.hitbox.com": "INACTIVE"
+        },
+        "1572917808": {
+            "ehg-npge.hitbox.com": "INACTIVE"
+        },
+        "1572917814": {
+            "ehg-nsbank.hitbox.com": "INACTIVE"
+        },
+        "1572917820": {
+            "ehg-nse.hitbox.com": "INACTIVE"
+        },
+        "1572917826": {
+            "ehg-ns.hitbox.com": "INACTIVE"
+        },
+        "1572917832": {
+            "ehg-nspacetechnologyinc.hitbox.com": "INACTIVE"
+        },
+        "1572917839": {
+            "ehg-ntiab.hitbox.com": "INACTIVE"
+        },
+        "1572917845": {
+            "ehg-nti.hitbox.com": "INACTIVE"
+        },
+        "1572917851": {
+            "ehg-ntn.hitbox.com": "INACTIVE"
+        },
+        "1572917857": {
+            "ehg-nuhorizons.hitbox.com": "INACTIVE"
+        },
+        "1572917863": {
+            "ehg-nuride.hitbox.com": "INACTIVE"
+        },
+        "1572917869": {
+            "ehg-nurun.hitbox.com": "INACTIVE"
+        },
+        "1572917876": {
+            "ehg-nuruninc.hitbox.com": "INACTIVE"
+        },
+        "1572917882": {
+            "ehg-nvidia.hitbox.com": "INACTIVE"
+        },
+        "1572917888": {
+            "ehg-nvtech.hitbox.com": "INACTIVE"
+        },
+        "1572917894": {
+            "ehg-nwa.hitbox.com": "INACTIVE"
+        },
+        "1572917900": {
+            "ehg-nwc.hitbox.com": "INACTIVE"
+        },
+        "1572917907": {
+            "ehg-nyjets.hitbox.com": "INACTIVE"
+        },
+        "1572917913": {
+            "ehg-nypost.1p.hitbox.com": "INACTIVE"
+        },
+        "1572917919": {
+            "ehg-obius.hitbox.com": "INACTIVE"
+        },
+        "1572917925": {
+            "ehg-ocregister.1p.hitbox.com": "INACTIVE"
+        },
+        "1572917931": {
+            "ehg-octopus.hitbox.com": "INACTIVE"
+        },
+        "1572917938": {
+            "ehg-oetker.hitbox.com": "INACTIVE"
+        },
+        "1572917944": {
+            "ehg-offermatica.hitbox.com": "INACTIVE"
+        },
+        "1572917950": {
+            "ehg-officeworld.hitbox.com": "INACTIVE"
+        },
+        "1572917956": {
+            "ehg-officexpect.hitbox.com": "INACTIVE"
+        },
+        "1572917962": {
+            "ehg-ogilvy.hitbox.com": "INACTIVE"
+        },
+        "1572917969": {
+            "ehg-ogilvyinteractive.hitbox.com": "INACTIVE"
+        },
+        "1572917975": {
+            "ehg-ogilvyspore.hitbox.com": "INACTIVE"
+        },
+        "1572917981": {
+            "ehg-oglivyint.hitbox.com": "INACTIVE"
+        },
+        "1572917987": {
+            "ehg-ohra.hitbox.com": "INACTIVE"
+        },
+        "1572917993": {
+            "ehg-ojd.hitbox.com": "INACTIVE"
+        },
+        "1572918000": {
+            "ehg-okini1p.hitbox.com": "INACTIVE"
+        },
+        "1572918006": {
+            "ehg-okini.hitbox.com": "INACTIVE"
+        },
+        "1572918012": {
+            "ehg-olympus.hitbox.com": "INACTIVE"
+        },
+        "1572918018": {
+            "ehg-omnibility.hitbox.com": "INACTIVE"
+        },
+        "1572918024": {
+            "ehg-oncologymedicalservices1p.hitbox.com": "INACTIVE"
+        },
+        "1572918031": {
+            "ehg-onebeaconinsurance.hitbox.com": "INACTIVE"
+        },
+        "1572918037": {
+            "ehg-oneinternet.hitbox.com": "INACTIVE"
+        },
+        "1572918043": {
+            "ehg-onepersonhealth.hitbox.com": "INACTIVE"
+        },
+        "1572918049": {
+            "ehg-oneshare.hitbox.com": "INACTIVE"
+        },
+        "1572918055": {
+            "ehg-onestopinternet.hitbox.com": "INACTIVE"
+        },
+        "1572918062": {
+            "ehg-onforce.hitbox.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
