@@ -19405,9 +19405,9 @@
         "state": "future"
     },
     "seehits.com": {
-        "epoch": "1572825600",
+        "epoch": 1572825600,
         "expiration_date": "04-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "sehit.com": {
         "epoch": "1581033600",
@@ -19570,8 +19570,8 @@
         "state": "future"
     },
     "sexatfirstclick.com": {
-        "epoch": "1572739200",
-        "expiration_date": "03-nov-2019",
+        "epoch": 1604361600,
+        "expiration_date": "03-nov-2020",
         "state": "future"
     },
     "sexblog-tracker.com": {
@@ -19595,9 +19595,9 @@
         "state": "future"
     },
     "sexcount.net": {
-        "epoch": 1572652800,
-        "expiration_date": "02-nov-2019",
-        "state": "past"
+        "epoch": 1604275200,
+        "expiration_date": "02-nov-2020",
+        "state": "future"
     },
     "sexcounter.com": {
         "epoch": "1580256000",
@@ -20150,8 +20150,8 @@
         "state": "future"
     },
     "shittypictures.com": {
-        "epoch": "1572739200",
-        "expiration_date": "03-nov-2019",
+        "epoch": 1604361600,
+        "expiration_date": "03-nov-2020",
         "state": "future"
     },
     "shittyshit.com": {
