@@ -22020,9 +22020,9 @@
         "state": "future"
     },
     "thetrafficexchange.com": {
-        "epoch": "1572912000",
+        "epoch": 1572912000,
         "expiration_date": "05-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "thetrafficlawyer.net": {
         "epoch": 1597968000,
@@ -22405,8 +22405,8 @@
         "state": "future"
     },
     "toplala.com": {
-        "epoch": "1572739200",
-        "expiration_date": "03-nov-2019",
+        "epoch": 1579651200,
+        "expiration_date": "22-jan-2020",
         "state": "future"
     },
     "toplinenet.com": {
