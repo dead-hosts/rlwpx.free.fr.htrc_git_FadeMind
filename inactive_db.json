@@ -20334,36 +20334,6 @@
         "1573175626": {
             "ads.clickability.com": "INACTIVE"
         },
-        "1574290635": {
-            "ad.bodyclick.net": "INACTIVE"
-        },
-        "1574290649": {
-            "adclick.pruna.com": "INACTIVE"
-        },
-        "1574290698": {
-            "ad.doubleclick.net.14144.9059.302br.net": "INACTIVE"
-        },
-        "1574290750": {
-            "ad.doubleclick.net.17147.9083.302br.net": "INACTIVE"
-        },
-        "1574332208": {
-            "ad.doubleclick.net.14487.9070.302br.net": "INACTIVE"
-        },
-        "1574332254": {
-            "ad.doubleclick.net.17282.9079.302br.net": "INACTIVE"
-        },
-        "1574332326": {
-            "ad.doubleclick.net.18290.9085.302br.net": "INACTIVE"
-        },
-        "1574332389": {
-            "ad.doubleclick.net.21551.9075.302br.net": "INACTIVE"
-        },
-        "1574332440": {
-            "ad.doubleclick.net.22645.9137.302br.net": "INACTIVE"
-        },
-        "1574332458": {
-            "ad.doubleclick.net.22646.9137.302br.net": "INACTIVE"
-        },
         "1574463652": {
             "006.free-adult-counters.x-xtra.com": "INACTIVE",
             "00fun.casalemedia.com": "INACTIVE"
@@ -20468,6 +20438,10 @@
         },
         "1574463678": {
             "ad.adtracking.me": "INACTIVE"
+        },
+        "1574464395": {
+            "ad.bodyclick.net": "INACTIVE",
+            "adclick.pruna.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
