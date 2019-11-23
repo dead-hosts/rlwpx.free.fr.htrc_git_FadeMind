@@ -710,12 +710,12 @@
         "state": "future"
     },
     "addtrades.com": {
-        "epoch": "1579564800",
+        "epoch": 1579564800.0,
         "expiration_date": "21-jan-2020",
         "state": "future"
     },
     "addynamix.com": {
-        "epoch": 1590192000,
+        "epoch": 1590192000.0,
         "expiration_date": "23-may-2020",
         "state": "future"
     },
