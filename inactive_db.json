@@ -1,114 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1574463652": {
-            "006.free-adult-counters.x-xtra.com": "INACTIVE",
-            "00fun.casalemedia.com": "INACTIVE"
-        },
-        "1574463654": {
-            "144-123-242-80-stat.customer.blic.net": "INACTIVE",
-            "14713804a.l2m.net": "INACTIVE",
-            "1559.stats.misstrends.com": "INACTIVE",
-            "1734.stats.misstrends.com": "INACTIVE",
-            "1800.stats.misstrends.com": "INACTIVE"
-        },
-        "1574463655": {
-            "1867.stats.misstrends.com": "INACTIVE",
-            "1932.stats.misstrends.com": "INACTIVE",
-            "1cgi.hitbox.com": "INACTIVE"
-        },
-        "1574463657": {
-            "21stcenturyfeed.hitbox.com": "INACTIVE",
-            "2278.stats.misstrends.com": "INACTIVE",
-            "237-194-23-217-stat.customer.blic.net": "INACTIVE"
-        },
-        "1574463658": {
-            "2cgi.hitbox.com": "INACTIVE"
-        },
-        "1574463659": {
-            "2.vacationmedia.net": "INACTIVE",
-            "30280827a.l2m.net": "INACTIVE",
-            "333.hitbox.com": "INACTIVE",
-            "33universal.adprimemedia.com": "INACTIVE"
-        },
-        "1574463660": {
-            "3dns-3.adobe.com": "INACTIVE",
-            "4184.stats.misstrends.com": "INACTIVE",
-            "444.hitbox.com": "INACTIVE"
-        },
-        "1574463661": {
-            "4imprint.com.102.112.2o7.net": "INACTIVE",
-            "511tactical.com.102.112.2o7.net": "INACTIVE",
-            "555.hitbox.com": "INACTIVE",
-            "599.stats.misstrends.com": "INACTIVE",
-            "600xt.bbfr.net": "INACTIVE",
-            "602.stats.misstrends.com": "INACTIVE"
-        },
-        "1574463662": {
-            "604.stats.misstrends.com": "INACTIVE",
-            "606.stats.misstrends.com": "INACTIVE",
-            "60secondstory.contagiousmedia.org": "INACTIVE",
-            "64-91-64-21.stat.centurytel.net": "INACTIVE",
-            "654.stats.misstrends.com": "INACTIVE",
-            "663.stats.misstrends.com": "INACTIVE",
-            "671.stats.misstrends.com": "INACTIVE",
-            "680.stats.misstrends.com": "INACTIVE",
-            "699.stats.misstrends.com": "INACTIVE"
-        },
-        "1574463663": {
-            "726.stats.misstrends.com": "INACTIVE",
-            "750.stats.misstrends.com": "INACTIVE",
-            "803.stats.misstrends.com": "INACTIVE",
-            "815.stats.misstrends.com": "INACTIVE",
-            "873.stats.misstrends.com": "INACTIVE"
-        },
-        "1574463664": {
-            "879.stats.misstrends.com": "INACTIVE",
-            "926.stats.misstrends.com": "INACTIVE",
-            "986.stats.misstrends.com": "INACTIVE"
-        },
-        "1574463666": {
-            "aaa-eto-me.hit.bg": "INACTIVE",
-            "aavacations.com.102.112.2o7.net": "INACTIVE",
-            "abajournal.com.102.112.2o7.net": "INACTIVE",
-            "abce.hitbox.com": "INACTIVE",
-            "abci.hitbox.com": "INACTIVE"
-        },
-        "1574463667": {
-            "ab.vcmedia.com": "INACTIVE",
-            "abhitest.2cnt.net": "INACTIVE",
-            "accenturedfx.hitbox.com": "INACTIVE"
-        },
-        "1574463668": {
-            "access.akamai.com": "INACTIVE"
-        },
-        "1574463672": {
-            "acount.alley.ws": "INACTIVE",
-            "activate-sea.adobe.com": "INACTIVE",
-            "activate-sjc0.adobe.com": "INACTIVE",
-            "activation.adtrustmedia.com": "INACTIVE"
-        },
-        "1574463673": {
-            "active.macromedia.com": "INACTIVE",
-            "activeview.hitbox.com": "INACTIVE",
-            "ad01.mediacorpsingapore.com": "INACTIVE"
-        },
-        "1574463675": {
-            "ad1.pamedia.com.au": "INACTIVE",
-            "ad1.yourmedia.com": "INACTIVE"
-        },
-        "1574463676": {
-            "ad2.firehousezone.com": "INACTIVE"
-        },
-        "1574463677": {
-            "ad3.pamedia.com.au": "INACTIVE"
-        },
-        "1574463678": {
-            "ad.adtracking.me": "INACTIVE"
-        },
-        "1574464395": {
-            "ad.bodyclick.net": "INACTIVE",
-            "adclick.pruna.com": "INACTIVE"
-        },
         "1574470273": {
             "ad.gmo-media.jp": "INACTIVE",
             "ad.ilikeclick.com": "INACTIVE"
@@ -7646,6 +7537,55 @@
         },
         "1574529907": {
             "zhitomir-info.biz": "INACTIVE"
+        },
+        "1574636518": {
+            "006.free-adult-counters.x-xtra.com": "INACTIVE"
+        },
+        "1574636519": {
+            "1559.stats.misstrends.com": "INACTIVE",
+            "1734.stats.misstrends.com": "INACTIVE",
+            "1800.stats.misstrends.com": "INACTIVE"
+        },
+        "1574636520": {
+            "1867.stats.misstrends.com": "INACTIVE",
+            "1932.stats.misstrends.com": "INACTIVE"
+        },
+        "1574636521": {
+            "2278.stats.misstrends.com": "INACTIVE"
+        },
+        "1574636523": {
+            "4184.stats.misstrends.com": "INACTIVE"
+        },
+        "1574636524": {
+            "599.stats.misstrends.com": "INACTIVE",
+            "600xt.bbfr.net": "INACTIVE",
+            "602.stats.misstrends.com": "INACTIVE",
+            "604.stats.misstrends.com": "INACTIVE",
+            "606.stats.misstrends.com": "INACTIVE",
+            "654.stats.misstrends.com": "INACTIVE",
+            "663.stats.misstrends.com": "INACTIVE",
+            "671.stats.misstrends.com": "INACTIVE",
+            "680.stats.misstrends.com": "INACTIVE",
+            "699.stats.misstrends.com": "INACTIVE",
+            "726.stats.misstrends.com": "INACTIVE"
+        },
+        "1574636525": {
+            "750.stats.misstrends.com": "INACTIVE",
+            "803.stats.misstrends.com": "INACTIVE",
+            "815.stats.misstrends.com": "INACTIVE",
+            "873.stats.misstrends.com": "INACTIVE",
+            "879.stats.misstrends.com": "INACTIVE",
+            "926.stats.misstrends.com": "INACTIVE",
+            "986.stats.misstrends.com": "INACTIVE"
+        },
+        "1574636529": {
+            "active.macromedia.com": "INACTIVE"
+        },
+        "1574636531": {
+            "ad.adtracking.me": "INACTIVE"
+        },
+        "1574636532": {
+            "adclick.pruna.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
