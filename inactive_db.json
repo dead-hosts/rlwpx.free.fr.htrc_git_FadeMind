@@ -1,53 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1574474780": {
-            "collector.deepmetrix.com": "INACTIVE"
-        },
-        "1574474781": {
-            "columbia.com.102.112.2o7.net": "INACTIVE",
-            "comcast.net.102.112.2o7.net": "INACTIVE"
-        },
-        "1574474782": {
-            "commerce.cimedia.net": "INACTIVE",
-            "commerce.hitbox.com": "INACTIVE"
-        },
-        "1574474784": {
-            "concierge.com.102.112.2o7.net": "INACTIVE",
-            "concours.hit-parade.com": "INACTIVE",
-            "condenast.insight.omtrdc.net": "INACTIVE",
-            "condenastdfx.hitbox.com": "INACTIVE",
-            "content.ipro.com": "INACTIVE"
-        },
-        "1574474785": {
-            "contentsearch.ch.espotting.com": "INACTIVE",
-            "contentsearch.de.espotting.com": "INACTIVE",
-            "contentsearch.es.espotting.com": "INACTIVE",
-            "contentsearch.fr.espotting.com": "INACTIVE",
-            "contentsearch.it.espotting.com": "INACTIVE",
-            "contentsearch.no.espotting.com": "INACTIVE",
-            "contentsearch.se.espotting.com": "INACTIVE"
-        },
-        "1574474786": {
-            "convergysdfx.hitbox.com": "INACTIVE"
-        },
-        "1574474787": {
-            "cookiecentral.wmg.com": "INACTIVE"
-        },
-        "1574474788": {
-            "coolsalopes.hit.bg": "INACTIVE",
-            "core.bluefly.com": "INACTIVE"
-        },
-        "1574474789": {
-            "core-sw2.hitbox.com": "INACTIVE",
-            "corpamerica.com.102.112.2o7.net": "INACTIVE"
-        },
-        "1574474790": {
-            "count.1133.cc": "INACTIVE",
-            "count.ccidnet.com": "INACTIVE",
-            "count.ccstock.cn": "INACTIVE",
-            "count.channeladvisor.com": "INACTIVE",
-            "count100.51yes.com": "INACTIVE"
-        },
         "1574474791": {
             "count.dba.dk": "INACTIVE"
         },
@@ -7134,6 +7086,21 @@
         },
         "1574648195": {
             "cmedia.packfr.com": "INACTIVE"
+        },
+        "1574648919": {
+            "content.ipro.com": "INACTIVE",
+            "contentsearch.ch.espotting.com": "INACTIVE",
+            "contentsearch.de.espotting.com": "INACTIVE",
+            "contentsearch.es.espotting.com": "INACTIVE",
+            "contentsearch.fr.espotting.com": "INACTIVE"
+        },
+        "1574648920": {
+            "contentsearch.it.espotting.com": "INACTIVE",
+            "contentsearch.no.espotting.com": "INACTIVE",
+            "contentsearch.se.espotting.com": "INACTIVE"
+        },
+        "1574648922": {
+            "core.bluefly.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
