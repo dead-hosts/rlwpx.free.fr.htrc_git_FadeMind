@@ -1,127 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1574472536": {
-            "bestbuycs.hitbox.com": "INACTIVE",
-            "bestbuydl.hitbox.com": "INACTIVE",
-            "bestbuyfeed.hitbox.com": "INACTIVE",
-            "bestcpctraffic.com": "INACTIVE"
-        },
-        "1574473255": {
-            "beta-searchcenter.omniture.com": "INACTIVE",
-            "beta-sitecatalyst.omniture.com": "INACTIVE",
-            "beta.esomniture.com": "INACTIVE",
-            "beta.omniture.com": "INACTIVE",
-            "betapro.hitbox.com": "INACTIVE"
-        },
-        "1574473256": {
-            "beta.web-visor.com": "INACTIVE",
-            "betex01.247media.com": "INACTIVE"
-        },
-        "1574473257": {
-            "bianki.247media.com": "INACTIVE",
-            "bidbeta-ui.hitbox.com": "INACTIVE",
-            "bidbeta.hitbox.com": "INACTIVE"
-        },
-        "1574473258": {
-            "bid-demo2.hitbox.com": "INACTIVE",
-            "bid-demo3.hitbox.com": "INACTIVE",
-            "bid-demo4.hitbox.com": "INACTIVE",
-            "bidtxt.memedia.com": "INACTIVE",
-            "bidui02.hitbox.com": "INACTIVE"
-        },
-        "1574473259": {
-            "bigdawg.hitbox.com": "INACTIVE",
-            "bigip1-64.hitbox.com": "INACTIVE",
-            "bigip2-64.hitbox.com": "INACTIVE",
-            "biglots.com.102.112.2o7.net": "INACTIVE"
-        },
-        "1574473261": {
-            "bingledfx.hitbox.com": "INACTIVE"
-        },
-        "1574473265": {
-            "blondex.hit.bg": "INACTIVE"
-        },
-        "1574473267": {
-            "b.ns.marchex.com": "INACTIVE",
-            "b.ns.mximg.com": "INACTIVE",
-            "bmw-nafeed.hitbox.com": "INACTIVE"
-        },
-        "1574473268": {
-            "b.ns.trafficleader.com": "INACTIVE",
-            "bodhitree.us": "INACTIVE",
-            "bodybuilding.com.102.112.2o7.net": "INACTIVE"
-        },
-        "1574473269": {
-            "boh.com.102.112.2o7.net": "INACTIVE",
-            "bolinux3.hit.no": "INACTIVE"
-        },
-        "1574473270": {
-            "boobs.hit.bg": "INACTIVE"
-        },
-        "1574473271": {
-            "bose.ca.102.112.2o7.net": "INACTIVE",
-            "bose.co.jp.102.112.2o7.net": "INACTIVE"
-        },
-        "1574473272": {
-            "boydgaming.com.102.112.2o7.net": "INACTIVE"
-        },
-        "1574473273": {
-            "br.comclick.com": "INACTIVE"
-        },
-        "1574473274": {
-            "break.tags.crwdcntrl.net": "INACTIVE",
-            "bridge.ame.admarketplace.net": "INACTIVE",
-            "bridgesfeed2.hitbox.com": "INACTIVE"
-        },
-        "1574473275": {
-            "brigitte.hit.bg": "INACTIVE",
-            "brln-4d0c6a3b.pool.mediaways.net": "INACTIVE",
-            "broadcomdfx.hitbox.com": "INACTIVE"
-        },
-        "1574473276": {
-            "brunecul.hit.bg": "INACTIVE",
-            "brunephoto.hit.bg": "INACTIVE"
-        },
-        "1574473277": {
-            "b.salon.com": "INACTIVE",
-            "bskybdfx.hitbox.com": "INACTIVE",
-            "bttrack.9you.com": "INACTIVE"
-        },
-        "1574473278": {
-            "buenavistadfx.hitbox.com": "INACTIVE"
-        },
-        "1574473279": {
-            "buldog-stats.com": "INACTIVE"
-        },
-        "1574473280": {
-            "bulmirc.hit.bg": "INACTIVE",
-            "busca.aonde.com": "INACTIVE",
-            "business.sharedcount.com": "INACTIVE"
-        },
-        "1574473281": {
-            "butterfly-media.co.uk": "INACTIVE",
-            "button.twittercounter.com": "INACTIVE",
-            "buyandsmile.atomclick.co": "INACTIVE",
-            "buycostumes.com.102.112.2o7.net": "INACTIVE"
-        },
-        "1574473282": {
-            "buytelcofeed.hitbox.com": "INACTIVE"
-        },
-        "1574473283": {
-            "bvwr.hitbox.com": "INACTIVE"
-        },
-        "1574473284": {
-            "c2mtrack01.track.c2m00b.net": "INACTIVE"
-        },
-        "1574473285": {
-            "c4.myway.com": "INACTIVE"
-        },
-        "1574473286": {
-            "callback.microsite.marchex.com": "INACTIVE"
-        },
-        "1574473287": {
-            "campaign.clicksor.com": "INACTIVE"
-        },
         "1574473289": {
             "cardomain.tags.crwdcntrl.net": "INACTIVE",
             "carepages.com.102.112.2o7.net": "INACTIVE",
@@ -7359,6 +7237,33 @@
         },
         "1574645966": {
             "be.nedstat.net": "INACTIVE"
+        },
+        "1574646685": {
+            "bestcpctraffic.com": "INACTIVE"
+        },
+        "1574646689": {
+            "biglots.com.102.112.2o7.net": "INACTIVE"
+        },
+        "1574646694": {
+            "b.ns.trafficleader.com": "INACTIVE"
+        },
+        "1574646695": {
+            "bodhitree.us": "INACTIVE",
+            "bolinux3.hit.no": "INACTIVE"
+        },
+        "1574646700": {
+            "b.salon.com": "INACTIVE"
+        },
+        "1574646702": {
+            "buldog-stats.com": "INACTIVE"
+        },
+        "1574646703": {
+            "butterfly-media.co.uk": "INACTIVE",
+            "button.twittercounter.com": "INACTIVE",
+            "buyandsmile.atomclick.co": "INACTIVE"
+        },
+        "1574646707": {
+            "campaign.clicksor.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
