@@ -1,121 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1574471016": {
-            "affiliate.ckmtracker.com": "INACTIVE",
-            "affiliate.espotting.com": "INACTIVE"
-        },
-        "1574471017": {
-            "affiliate.mobi.espotting.com": "INACTIVE",
-            "affiliate.nl.espotting.com": "INACTIVE",
-            "affiliate.no.espotting.com": "INACTIVE",
-            "affiliate.rvptracker.com": "INACTIVE",
-            "affiliate.se.espotting.com": "INACTIVE"
-        },
-        "1574471018": {
-            "aftp.linksynergy.com": "INACTIVE"
-        },
-        "1574471019": {
-            "ag.tags.crwdcntrl.net": "INACTIVE"
-        },
-        "1574471020": {
-            "ahomedia.zxfactory.nl": "INACTIVE",
-            "ai.hitbox.com": "INACTIVE",
-            "aigdfx.hitbox.com": "INACTIVE"
-        },
-        "1574471021": {
-            "al01.casalemedia.com": "INACTIVE",
-            "alabamaadven670.hit.bg": "INACTIVE"
-        },
-        "1574471022": {
-            "albumnetflogao.com.sapo.pt": "INACTIVE"
-        },
-        "1574471023": {
-            "a.live-conversion.com": "INACTIVE"
-        },
-        "1574471024": {
-            "all.global-intermedia.com": "INACTIVE",
-            "allogay.host-php.org": "INACTIVE"
-        },
-        "1574471025": {
-            "alltour.global-intermedia.com": "INACTIVE"
-        },
-        "1574471026": {
-            "alogcorp.275mb.com": "INACTIVE"
-        },
-        "1574471028": {
-            "ambazonia.indymedia.org": "INACTIVE",
-            "americancoedfx.hitbox.com": "INACTIVE"
-        },
-        "1574471029": {
-            "ams.statistik.motorpresse.de": "INACTIVE"
-        },
-        "1574471031": {
-            "analytic.ads2buy.com": "INACTIVE",
-            "analytics.21cn.com": "INACTIVE"
-        },
-        "1574471032": {
-            "analytics.abacast.com": "INACTIVE",
-            "analytics.adpost.org": "INACTIVE"
-        },
-        "1574471746": {
-            "analytics.androidandme.com": "INACTIVE",
-            "analytics.arubamediamarketing.it": "INACTIVE",
-            "analytics.dev.popdust.com": "INACTIVE"
-        },
-        "1574471747": {
-            "analytics.dev.springboardvideo.com": "INACTIVE",
-            "analytics.hgcdn.net": "INACTIVE",
-            "analytics.mbusa.com": "INACTIVE",
-            "analytics.mindjolt.com": "INACTIVE",
-            "analytics.mobadme.jp": "INACTIVE"
-        },
-        "1574471748": {
-            "analytics.sanoma.fi": "INACTIVE",
-            "analytics.stg.springboardvideo.com": "INACTIVE"
-        },
-        "1574471749": {
-            "analytic.xingcloud.com": "INACTIVE",
-            "analytics.strangeloopnetworks.com": "INACTIVE",
-            "analytics.teespring.com": "INACTIVE"
-        },
-        "1574471750": {
-            "and.co.uk.102.122.2o7.net": "INACTIVE",
-            "andorra.indymedia.org": "INACTIVE",
-            "anepasrater.skynetblogs.be": "INACTIVE"
-        },
-        "1574471752": {
-            "anm.intelli-direct.com": "INACTIVE",
-            "anneklein.com.102.112.2o7.net": "INACTIVE",
-            "annuaire.indexweb.info": "INACTIVE"
-        },
-        "1574471753": {
-            "ans.hit.bg": "INACTIVE",
-            "antevenio.flux.ads-click.com": "INACTIVE"
-        },
-        "1574471757": {
-            "apachestat.cimedia.net": "INACTIVE",
-            "aparser1-nat.hitbox.com": "INACTIVE",
-            "aperture.displaymarketplace.com": "INACTIVE",
-            "apf.whoclick.cn": "INACTIVE"
-        },
-        "1574471758": {
-            "ap-nntpfeed.cimedia.net": "INACTIVE",
-            "api.appmedia.cn": "INACTIVE"
-        },
-        "1574471759": {
-            "app.cookieassistant.com": "INACTIVE",
-            "app.cupofmedia.com": "INACTIVE",
-            "app.desktop.ak-networks.com": "INACTIVE",
-            "app.memedia.com": "INACTIVE",
-            "appealcircuit.com": "INACTIVE",
-            "applewate79.hit.bg": "INACTIVE"
-        },
-        "1574471760": {
-            "apps.clickcash.com": "INACTIVE",
-            "aptimusdfx.hitbox.com": "INACTIVE",
-            "apx.internal-redirect.avazutracking.net": "INACTIVE",
-            "apxitektop.com": "INACTIVE"
-        },
         "1574471761": {
             "arizona.indymedia.org": "INACTIVE"
         },
@@ -7508,6 +7392,45 @@
         },
         "1574644512": {
             "affiliate.admtracker.com": "INACTIVE"
+        },
+        "1574645207": {
+            "affiliate.ckmtracker.com": "INACTIVE",
+            "affiliate.espotting.com": "INACTIVE",
+            "affiliate.mobi.espotting.com": "INACTIVE",
+            "affiliate.nl.espotting.com": "INACTIVE",
+            "affiliate.no.espotting.com": "INACTIVE",
+            "affiliate.rvptracker.com": "INACTIVE",
+            "affiliate.se.espotting.com": "INACTIVE"
+        },
+        "1574645211": {
+            "a.live-conversion.com": "INACTIVE"
+        },
+        "1574645212": {
+            "allogay.host-php.org": "INACTIVE"
+        },
+        "1574645213": {
+            "alogcorp.275mb.com": "INACTIVE"
+        },
+        "1574645217": {
+            "analytics.abacast.com": "INACTIVE",
+            "analytics.androidandme.com": "INACTIVE",
+            "analytics.dev.popdust.com": "INACTIVE",
+            "analytics.hgcdn.net": "INACTIVE"
+        },
+        "1574645219": {
+            "andorra.indymedia.org": "INACTIVE",
+            "anepasrater.skynetblogs.be": "INACTIVE"
+        },
+        "1574645220": {
+            "antevenio.flux.ads-click.com": "INACTIVE"
+        },
+        "1574645223": {
+            "aperture.displaymarketplace.com": "INACTIVE",
+            "app.desktop.ak-networks.com": "INACTIVE",
+            "appealcircuit.com": "INACTIVE"
+        },
+        "1574645224": {
+            "apxitektop.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
