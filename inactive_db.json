@@ -1,65 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1574474791": {
-            "count.dba.dk": "INACTIVE"
-        },
-        "1574475510": {
-            "counter2.hitbox.com": "INACTIVE"
-        },
-        "1574475512": {
-            "counter.alienpicks.com": "INACTIVE",
-            "counter.awempire.com": "INACTIVE",
-            "counter.blog.livedoor.com": "INACTIVE"
-        },
-        "1574475513": {
-            "counter-create-own.qarchive.org": "INACTIVE",
-            "counter.dreamhost.com": "INACTIVE",
-            "counter.execpc.com": "INACTIVE",
-            "counter.gemius.pl": "INACTIVE"
-        },
-        "1574475514": {
-            "counter.gouzai.cn": "INACTIVE",
-            "counter.hitbox.com": "INACTIVE",
-            "counter.holms.ru": "INACTIVE",
-            "counter.irr.ru": "INACTIVE"
-        },
-        "1574475515": {
-            "counter-new.hitbox.com": "INACTIVE",
-            "counter.opinion.com.ua": "INACTIVE"
-        },
-        "1574475516": {
-            "counter.qarchive.org": "INACTIVE",
-            "counter.russiansubmitter.com": "INACTIVE",
-            "counter.sina.com.cn": "INACTIVE"
-        },
-        "1574475517": {
-            "counter.softalizer.com": "INACTIVE",
-            "counter.terraempresas.com.br": "INACTIVE",
-            "counter.tianjimedia.com": "INACTIVE",
-            "counters.qarchive.org": "INACTIVE"
-        },
-        "1574475518": {
-            "counter.top.kg": "INACTIVE",
-            "counter.web-marketolog.ru": "INACTIVE"
-        },
-        "1574475519": {
-            "count.jdyou.com": "INACTIVE",
-            "count.kandian.com": "INACTIVE"
-        },
-        "1574475520": {
-            "count.nedug.ru": "INACTIVE",
-            "count.qiannao.com": "INACTIVE",
-            "count.rbc.ru": "INACTIVE"
-        },
-        "1574475521": {
-            "count.salttestsolution.com": "INACTIVE",
-            "count.timedg.com": "INACTIVE",
-            "countus.clickintext.net": "INACTIVE"
-        },
-        "1574475522": {
-            "coxairshow.cimedia.net": "INACTIVE",
-            "cp.ah-ha.com": "INACTIVE"
-        },
         "1574475524": {
             "crd.hitbox.com": "INACTIVE"
         },
@@ -7101,6 +7041,27 @@
         },
         "1574648922": {
             "core.bluefly.com": "INACTIVE"
+        },
+        "1574649649": {
+            "count.dba.dk": "INACTIVE"
+        },
+        "1574649652": {
+            "counter.blog.livedoor.com": "INACTIVE"
+        },
+        "1574649653": {
+            "counter.gemius.pl": "INACTIVE",
+            "counter.holms.ru": "INACTIVE"
+        },
+        "1574649654": {
+            "counter.russiansubmitter.com": "INACTIVE"
+        },
+        "1574649656": {
+            "count.jdyou.com": "INACTIVE"
+        },
+        "1574649657": {
+            "count.qiannao.com": "INACTIVE",
+            "count.rbc.ru": "INACTIVE",
+            "count.timedg.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
