@@ -13525,8 +13525,8 @@
         "state": "future"
     },
     "media970.com": {
-        "epoch": 1574553600.0,
-        "expiration_date": "24-nov-2019",
+        "epoch": 1606176000.0,
+        "expiration_date": "24-nov-2020",
         "state": "future"
     },
     "mediaadult.com": {
@@ -14077,7 +14077,7 @@
     "mediapool.com": {
         "epoch": 1574553600.0,
         "expiration_date": "24-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "mediaport.org": {
         "epoch": 1585440000.0,
