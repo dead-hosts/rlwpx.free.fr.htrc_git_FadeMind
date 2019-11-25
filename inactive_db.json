@@ -1,114 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1574474032": {
-            "click.buzzcity.com": "INACTIVE",
-            "click.cashengines.com": "INACTIVE"
-        },
-        "1574474033": {
-            "clickcash.webpower.com": "INACTIVE",
-            "clickcashmoney.biz": "INACTIVE"
-        },
-        "1574474034": {
-            "click.dictionary.com": "INACTIVE",
-            "click.dofantasy.com": "INACTIVE"
-        },
-        "1574474036": {
-            "clickforbbws.com": "INACTIVE"
-        },
-        "1574474039": {
-            "click.igg.com": "INACTIVE"
-        },
-        "1574474041": {
-            "click.lergao.com": "INACTIVE",
-            "click.livedoor.com": "INACTIVE",
-            "click.loudgames.com": "INACTIVE",
-            "clickme.es": "INACTIVE"
-        },
-        "1574474043": {
-            "clicknet.es": "INACTIVE"
-        },
-        "1574474044": {
-            "click.oxcash.com": "INACTIVE",
-            "click.payserve.com": "INACTIVE"
-        },
-        "1574474045": {
-            "click.raincollectionequipment.com": "INACTIVE",
-            "click.revsharecash.com": "INACTIVE",
-            "clicks2.oxcash.com": "INACTIVE"
-        },
-        "1574474046": {
-            "clicks.beap.ad.yieldmanager.net": "INACTIVE",
-            "clicks2.traffictrader.net": "INACTIVE",
-            "clicks3.traffictrader.net": "INACTIVE"
-        },
-        "1574474762": {
-            "clicks.beap.bc.yahoo.com": "INACTIVE",
-            "clicks.dealer.com": "INACTIVE",
-            "clicks.equantum.com": "INACTIVE",
-            "clicks.eutopia.traffictrader.net": "INACTIVE"
-        },
-        "1574474763": {
-            "click.sina.com.cn": "INACTIVE",
-            "clicks.igg.com": "INACTIVE",
-            "clicks.izea.com": "INACTIVE"
-        },
-        "1574474764": {
-            "clicks.natwest.com": "INACTIVE",
-            "clicks.oxcash.com": "INACTIVE",
-            "clicks.rbs.co.uk": "INACTIVE"
-        },
-        "1574474765": {
-            "clicks.traffictrader.net": "INACTIVE",
-            "clicks.unifiedpost.com": "INACTIVE"
-        },
-        "1574474766": {
-            "clicks.walla.co.il": "INACTIVE"
-        },
-        "1574474768": {
-            "click.trafikkfondet.no": "INACTIVE",
-            "click.uctrac.com": "INACTIVE",
-            "click.union.360buy.com": "INACTIVE",
-            "click.v1.de.euserv.gam.adaos-ads.net": "INACTIVE",
-            "clicktracks.barrystickets.com": "INACTIVE",
-            "clicktracksolutions.com": "INACTIVE"
-        },
-        "1574474769": {
-            "click.voc.com.cn": "INACTIVE",
-            "click.youreletters3.com": "INACTIVE"
-        },
-        "1574474770": {
-            "click.zipcodez.com": "INACTIVE"
-        },
-        "1574474771": {
-            "clientreport.random-logic.com": "INACTIVE",
-            "cliketclak.skynetblogs.be": "INACTIVE"
-        },
-        "1574474772": {
-            "clikmov.en.telepolis.com": "INACTIVE"
-        },
-        "1574474773": {
-            "clit16.st.fci.pgserv.flyingcroc.net": "INACTIVE"
-        },
-        "1574474774": {
-            "clit.sextracker.com": "INACTIVE"
-        },
-        "1574474775": {
-            "c.mdnhinc.com": "INACTIVE"
-        },
-        "1574474776": {
-            "cm.myway.com": "INACTIVE",
-            "cm.need2find.com": "INACTIVE",
-            "cmedia.packfr.com": "INACTIVE",
-            "cmstrendslog.timesnow.tv": "INACTIVE"
-        },
-        "1574474777": {
-            "cnct.tlvmedia.com": "INACTIVE"
-        },
-        "1574474778": {
-            "cnn.dyn.cnn.com": "INACTIVE",
-            "cnnmoney.tags.crwdcntrl.net": "INACTIVE",
-            "cns01-ext.hitbox.com": "INACTIVE"
-        },
         "1574474780": {
             "collector.deepmetrix.com": "INACTIVE"
         },
@@ -7199,6 +7090,50 @@
         },
         "1574647448": {
             "click1.mainadv.com": "INACTIVE"
+        },
+        "1574648175": {
+            "click.buzzcity.com": "INACTIVE",
+            "clickcashmoney.biz": "INACTIVE"
+        },
+        "1574648177": {
+            "click.dictionary.com": "INACTIVE"
+        },
+        "1574648178": {
+            "clickforbbws.com": "INACTIVE"
+        },
+        "1574648181": {
+            "click.igg.com": "INACTIVE"
+        },
+        "1574648182": {
+            "click.loudgames.com": "INACTIVE",
+            "clickme.es": "INACTIVE"
+        },
+        "1574648184": {
+            "click.oxcash.com": "INACTIVE",
+            "clicknet.es": "INACTIVE"
+        },
+        "1574648186": {
+            "clicks.babylon-x.com": "INACTIVE",
+            "clicks.beap.ad.yieldmanager.net": "INACTIVE",
+            "clicks.beap.bc.yahoo.com": "INACTIVE"
+        },
+        "1574648187": {
+            "clicks.igg.com": "INACTIVE"
+        },
+        "1574648188": {
+            "clicks.unifiedpost.com": "INACTIVE",
+            "clicks.walla.co.il": "INACTIVE"
+        },
+        "1574648190": {
+            "clicktracks.barrystickets.com": "INACTIVE",
+            "clicktracksolutions.com": "INACTIVE",
+            "clicktrackweb.offercheck.com": "INACTIVE"
+        },
+        "1574648192": {
+            "cliketclak.skynetblogs.be": "INACTIVE"
+        },
+        "1574648195": {
+            "cmedia.packfr.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
