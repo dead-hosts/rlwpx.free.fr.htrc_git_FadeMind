@@ -1,15 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1574679808": {
-            "zalogdamascus.ru": "INACTIVE"
-        },
-        "1574679809": {
-            "zdf.ivwbox.de": "INACTIVE",
-            "zeitonl.ivwbox.de": "INACTIVE"
-        },
-        "1574679810": {
-            "zhitomir-info.biz": "INACTIVE"
-        },
         "1574809372": {
             "006.free-adult-counters.x-xtra.com": "INACTIVE"
         },
@@ -2041,6 +2031,16 @@
         },
         "1574844976": {
             "yoursubdomain.bravelog.com": "INACTIVE"
+        },
+        "1574845390": {
+            "zalogdamascus.ru": "INACTIVE"
+        },
+        "1574845391": {
+            "zdf.ivwbox.de": "INACTIVE",
+            "zeitonl.ivwbox.de": "INACTIVE"
+        },
+        "1574845392": {
+            "zhitomir-info.biz": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
