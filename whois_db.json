@@ -18190,8 +18190,8 @@
         "state": "future"
     },
     "ratemygf.com": {
-        "epoch": 1574726400.0,
-        "expiration_date": "26-nov-2019",
+        "epoch": 1606348800.0,
+        "expiration_date": "26-nov-2020",
         "state": "future"
     },
     "ratemygirls.com": {
@@ -18417,7 +18417,7 @@
     "rateyourrack.com": {
         "epoch": 1574812800.0,
         "expiration_date": "27-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "rateyourrod.com": {
         "epoch": "1573171200",
