@@ -1,19 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1574814411": {
-            "admin.clicksor.com": "INACTIVE"
-        },
-        "1574814412": {
-            "adm.soft365.com": "INACTIVE",
-            "adobe-dns-2.adobe.com": "INACTIVE",
-            "adobe-dns-3.adobe.com": "INACTIVE"
-        },
-        "1574814413": {
-            "ads.adonion.com": "INACTIVE",
-            "ads.bnmedia.com": "INACTIVE",
-            "ads101.clicksor.com": "INACTIVE",
-            "ads103.clicksor.com": "INACTIVE"
-        },
         "1574815110": {
             "ads.clicksor.com": "INACTIVE",
             "ads.fidelity-media.com": "INACTIVE",
@@ -2064,6 +2050,21 @@
         "1574985791": {
             "ad.doubleclick.net.63869.9465.302br.net": "INACTIVE",
             "ad.doubleclick.net.63870.9465.302br.net": "INACTIVE"
+        },
+        "1574987950": {
+            "admin.clicksor.com": "INACTIVE",
+            "admin07.hitforums.com": "INACTIVE"
+        },
+        "1574987951": {
+            "adm.soft365.com": "INACTIVE",
+            "adobe-dns-2.adobe.com": "INACTIVE",
+            "adobe-dns-3.adobe.com": "INACTIVE"
+        },
+        "1574987952": {
+            "ads.adonion.com": "INACTIVE",
+            "ads.bnmedia.com": "INACTIVE",
+            "ads101.clicksor.com": "INACTIVE",
+            "ads103.clicksor.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
