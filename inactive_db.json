@@ -1,37 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1574820309": {
-            "en.compteur.fr": "INACTIVE"
-        },
-        "1574820310": {
-            "energyratedwindow.com": "INACTIVE",
-            "energyratedwindow.info": "INACTIVE"
-        },
-        "1574820313": {
-            "erohits.nl": "INACTIVE",
-            "erohits.us": "INACTIVE"
-        },
-        "1574820314": {
-            "es.espotting.com": "INACTIVE"
-        },
-        "1574820315": {
-            "es.nedstat.net": "INACTIVE",
-            "eshamx01.espotting.com": "INACTIVE",
-            "eslinux.espotting.com": "INACTIVE",
-            "eslonw02.espotting.com": "INACTIVE",
-            "eslonx02.espotting.com": "INACTIVE",
-            "esmtp.espotting.com": "INACTIVE"
-        },
-        "1574820316": {
-            "estrevx02.espotting.com": "INACTIVE",
-            "ethnicgirls.picturetrades.com": "INACTIVE"
-        },
-        "1574820318": {
-            "event.zroitracker.com": "INACTIVE"
-        },
-        "1574820327": {
-            "faz.ivwbox.de": "INACTIVE"
-        },
         "1574820328": {
             "feeds.weselltraffic.com": "INACTIVE"
         },
@@ -2065,6 +2033,44 @@
         },
         "1574992379": {
             "ehg-dreyfus.hitbox.com": "INACTIVE"
+        },
+        "1574993814": {
+            "en.compteur.fr": "INACTIVE"
+        },
+        "1574993815": {
+            "energyratedwindow.com": "INACTIVE",
+            "energyratedwindow.info": "INACTIVE"
+        },
+        "1574993817": {
+            "erohits.nl": "INACTIVE",
+            "erohits.us": "INACTIVE"
+        },
+        "1574993819": {
+            "es.espotting.com": "INACTIVE",
+            "eshamx01.espotting.com": "INACTIVE",
+            "eslinux.espotting.com": "INACTIVE",
+            "eslonw02.espotting.com": "INACTIVE",
+            "eslonx02.espotting.com": "INACTIVE"
+        },
+        "1574993820": {
+            "es.nedstat.net": "INACTIVE",
+            "esmtp.espotting.com": "INACTIVE",
+            "estrevx02.espotting.com": "INACTIVE"
+        },
+        "1574993821": {
+            "ethnicgirls.picturetrades.com": "INACTIVE"
+        },
+        "1574993823": {
+            "event.zroitracker.com": "INACTIVE"
+        },
+        "1574993828": {
+            "fadeddreams.hitforums.com": "INACTIVE"
+        },
+        "1574993829": {
+            "falco.hitforums.com": "INACTIVE"
+        },
+        "1574993832": {
+            "faz.ivwbox.de": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
