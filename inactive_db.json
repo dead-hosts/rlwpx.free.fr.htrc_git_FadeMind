@@ -1,51 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1574982214": {
-            "006.free-adult-counters.x-xtra.com": "INACTIVE"
-        },
-        "1574982215": {
-            "1559.stats.misstrends.com": "INACTIVE",
-            "1734.stats.misstrends.com": "INACTIVE",
-            "1800.stats.misstrends.com": "INACTIVE",
-            "1867.stats.misstrends.com": "INACTIVE",
-            "1932.stats.misstrends.com": "INACTIVE"
-        },
-        "1574982216": {
-            "2278.stats.misstrends.com": "INACTIVE"
-        },
-        "1574982218": {
-            "4184.stats.misstrends.com": "INACTIVE",
-            "599.stats.misstrends.com": "INACTIVE",
-            "600xt.bbfr.net": "INACTIVE",
-            "602.stats.misstrends.com": "INACTIVE",
-            "604.stats.misstrends.com": "INACTIVE",
-            "606.stats.misstrends.com": "INACTIVE",
-            "654.stats.misstrends.com": "INACTIVE",
-            "663.stats.misstrends.com": "INACTIVE",
-            "671.stats.misstrends.com": "INACTIVE",
-            "680.stats.misstrends.com": "INACTIVE",
-            "699.stats.misstrends.com": "INACTIVE"
-        },
-        "1574982219": {
-            "726.stats.misstrends.com": "INACTIVE",
-            "750.stats.misstrends.com": "INACTIVE",
-            "803.stats.misstrends.com": "INACTIVE",
-            "815.stats.misstrends.com": "INACTIVE",
-            "873.stats.misstrends.com": "INACTIVE",
-            "879.stats.misstrends.com": "INACTIVE",
-            "926.stats.misstrends.com": "INACTIVE",
-            "986.stats.misstrends.com": "INACTIVE"
-        },
-        "1574982222": {
-            "active.macromedia.com": "INACTIVE"
-        },
-        "1574982223": {
-            "ad.adtracking.me": "INACTIVE",
-            "ad1.emediate.dk": "INACTIVE"
-        },
-        "1574982224": {
-            "adclick.pruna.com": "INACTIVE"
-        },
         "1574982930": {
             "ad.doubleclick.net.23294.9075.302br.net": "INACTIVE",
             "ad.doubleclick.net.23298.9075.302br.net": "INACTIVE"
@@ -2064,6 +2018,46 @@
         "1575020339": {
             "zeitonl.ivwbox.de": "INACTIVE",
             "zhitomir-info.biz": "INACTIVE"
+        },
+        "1575115487": {
+            "006.free-adult-counters.x-xtra.com": "INACTIVE",
+            "1559.stats.misstrends.com": "INACTIVE",
+            "1734.stats.misstrends.com": "INACTIVE",
+            "1800.stats.misstrends.com": "INACTIVE",
+            "1867.stats.misstrends.com": "INACTIVE",
+            "1932.stats.misstrends.com": "INACTIVE",
+            "2278.stats.misstrends.com": "INACTIVE",
+            "4184.stats.misstrends.com": "INACTIVE",
+            "599.stats.misstrends.com": "INACTIVE",
+            "600xt.bbfr.net": "INACTIVE",
+            "602.stats.misstrends.com": "INACTIVE",
+            "604.stats.misstrends.com": "INACTIVE",
+            "606.stats.misstrends.com": "INACTIVE",
+            "654.stats.misstrends.com": "INACTIVE",
+            "663.stats.misstrends.com": "INACTIVE",
+            "671.stats.misstrends.com": "INACTIVE",
+            "680.stats.misstrends.com": "INACTIVE",
+            "699.stats.misstrends.com": "INACTIVE",
+            "726.stats.misstrends.com": "INACTIVE",
+            "750.stats.misstrends.com": "INACTIVE",
+            "803.stats.misstrends.com": "INACTIVE",
+            "815.stats.misstrends.com": "INACTIVE",
+            "873.stats.misstrends.com": "INACTIVE",
+            "879.stats.misstrends.com": "INACTIVE",
+            "926.stats.misstrends.com": "INACTIVE",
+            "986.stats.misstrends.com": "INACTIVE",
+            "active.macromedia.com": "INACTIVE"
+        },
+        "1575115488": {
+            "ad.adtracking.me": "INACTIVE",
+            "ad1.emediate.dk": "INACTIVE"
+        },
+        "1575115489": {
+            "adclick.pruna.com": "INACTIVE"
+        },
+        "1575115491": {
+            "ad.doubleclick.net.17447.9053.302br.net": "INACTIVE",
+            "ad.doubleclick.net.17448.9053.302br.net": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
