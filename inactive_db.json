@@ -1,26 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1574990918": {
-            "count.jdyou.com": "INACTIVE",
-            "count.qiannao.com": "INACTIVE",
-            "count.rbc.ru": "INACTIVE",
-            "count.timedg.com": "INACTIVE"
-        },
-        "1574990921": {
-            "creative.clicksor.com": "INACTIVE"
-        },
-        "1574990922": {
-            "csc.beap.bc.yahoo.com": "INACTIVE"
-        },
-        "1574991632": {
-            "daserste.ivwbox.de": "INACTIVE",
-            "data.ritzcarlton.com": "INACTIVE",
-            "datalookup.sitestat.com": "INACTIVE"
-        },
-        "1574991633": {
-            "db01.test.millennialmedia.com": "INACTIVE",
-            "db2.collective-media.net": "INACTIVE"
-        },
         "1574991634": {
             "dd1.insightexpress.com": "INACTIVE",
             "dd2.insightexpress.com": "INACTIVE",
@@ -1743,46 +1722,6 @@
             "zeitonl.ivwbox.de": "INACTIVE",
             "zhitomir-info.biz": "INACTIVE"
         },
-        "1575115487": {
-            "006.free-adult-counters.x-xtra.com": "INACTIVE",
-            "1559.stats.misstrends.com": "INACTIVE",
-            "1734.stats.misstrends.com": "INACTIVE",
-            "1800.stats.misstrends.com": "INACTIVE",
-            "1867.stats.misstrends.com": "INACTIVE",
-            "1932.stats.misstrends.com": "INACTIVE",
-            "2278.stats.misstrends.com": "INACTIVE",
-            "4184.stats.misstrends.com": "INACTIVE",
-            "599.stats.misstrends.com": "INACTIVE",
-            "600xt.bbfr.net": "INACTIVE",
-            "602.stats.misstrends.com": "INACTIVE",
-            "604.stats.misstrends.com": "INACTIVE",
-            "606.stats.misstrends.com": "INACTIVE",
-            "654.stats.misstrends.com": "INACTIVE",
-            "663.stats.misstrends.com": "INACTIVE",
-            "671.stats.misstrends.com": "INACTIVE",
-            "680.stats.misstrends.com": "INACTIVE",
-            "699.stats.misstrends.com": "INACTIVE",
-            "726.stats.misstrends.com": "INACTIVE",
-            "750.stats.misstrends.com": "INACTIVE",
-            "803.stats.misstrends.com": "INACTIVE",
-            "815.stats.misstrends.com": "INACTIVE",
-            "873.stats.misstrends.com": "INACTIVE",
-            "879.stats.misstrends.com": "INACTIVE",
-            "926.stats.misstrends.com": "INACTIVE",
-            "986.stats.misstrends.com": "INACTIVE",
-            "active.macromedia.com": "INACTIVE"
-        },
-        "1575115488": {
-            "ad.adtracking.me": "INACTIVE",
-            "ad1.emediate.dk": "INACTIVE"
-        },
-        "1575115489": {
-            "adclick.pruna.com": "INACTIVE"
-        },
-        "1575115491": {
-            "ad.doubleclick.net.17447.9053.302br.net": "INACTIVE",
-            "ad.doubleclick.net.17448.9053.302br.net": "INACTIVE"
-        },
         "1575122938": {
             "ad.doubleclick.net.36917.9252.302br.net": "INACTIVE"
         },
@@ -2117,6 +2056,37 @@
         },
         "1575201262": {
             "counter.russiansubmitter.com": "INACTIVE"
+        },
+        "1575203137": {
+            "006.free-adult-counters.x-xtra.com": "INACTIVE",
+            "600xt.bbfr.net": "INACTIVE"
+        },
+        "1575203138": {
+            "active.macromedia.com": "INACTIVE",
+            "ad.adtracking.me": "INACTIVE",
+            "ad1.emediate.dk": "INACTIVE",
+            "adclick.pruna.com": "INACTIVE",
+            "count.jdyou.com": "INACTIVE"
+        },
+        "1575203139": {
+            "count.qiannao.com": "INACTIVE",
+            "count.rbc.ru": "INACTIVE",
+            "count.timedg.com": "INACTIVE"
+        },
+        "1575203142": {
+            "creative.clicksor.com": "INACTIVE"
+        },
+        "1575203143": {
+            "csc.beap.bc.yahoo.com": "INACTIVE"
+        },
+        "1575203147": {
+            "daserste.ivwbox.de": "INACTIVE"
+        },
+        "1575203148": {
+            "data.ritzcarlton.com": "INACTIVE",
+            "datalookup.sitestat.com": "INACTIVE",
+            "db01.test.millennialmedia.com": "INACTIVE",
+            "db2.collective-media.net": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
