@@ -1,19 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1574997478": {
-            "media.acces-charme.com": "INACTIVE",
-            "media.adlegend.com": "INACTIVE"
-        },
-        "1574997479": {
-            "mediaboxen.no": "INACTIVE"
-        },
-        "1574997485": {
-            "media.hw.adxpansion.com": "INACTIVE",
-            "media.intelia.it": "INACTIVE"
-        },
-        "1574997486": {
-            "media.likes.com": "INACTIVE"
-        },
         "1574997487": {
             "media.maturegratuit.net": "INACTIVE",
             "media.millennialmedia.com": "INACTIVE"
@@ -1343,22 +1329,6 @@
             "zeitonl.ivwbox.de": "INACTIVE",
             "zhitomir-info.biz": "INACTIVE"
         },
-        "1575146087": {
-            "adm.soft365.com": "INACTIVE",
-            "admin.clicksor.com": "INACTIVE",
-            "admin07.hitforums.com": "INACTIVE",
-            "adobe-dns-2.adobe.com": "INACTIVE",
-            "adobe-dns-3.adobe.com": "INACTIVE"
-        },
-        "1575146088": {
-            "ads101.clicksor.com": "INACTIVE",
-            "ads103.clicksor.com": "INACTIVE"
-        },
-        "1575146089": {
-            "ads.adonion.com": "INACTIVE",
-            "ads.bnmedia.com": "INACTIVE",
-            "ads.clicksor.com": "INACTIVE"
-        },
         "1575148255": {
             "ads.fidelity-media.com": "INACTIVE",
             "ads.fora.tv": "INACTIVE",
@@ -2072,6 +2042,35 @@
         },
         "1575232737": {
             "media200.110mb.com": "INACTIVE"
+        },
+        "1575233659": {
+            "admin07.hitforums.com": "INACTIVE"
+        },
+        "1575233660": {
+            "adm.soft365.com": "INACTIVE",
+            "admin.clicksor.com": "INACTIVE",
+            "adobe-dns-2.adobe.com": "INACTIVE",
+            "adobe-dns-3.adobe.com": "INACTIVE",
+            "ads.adonion.com": "INACTIVE",
+            "ads.bnmedia.com": "INACTIVE",
+            "ads.clicksor.com": "INACTIVE",
+            "ads101.clicksor.com": "INACTIVE",
+            "ads103.clicksor.com": "INACTIVE",
+            "media.acces-charme.com": "INACTIVE",
+            "media.adlegend.com": "INACTIVE"
+        },
+        "1575233661": {
+            "mediaboxen.no": "INACTIVE"
+        },
+        "1575233667": {
+            "media.hw.adxpansion.com": "INACTIVE"
+        },
+        "1575233668": {
+            "media.intelia.it": "INACTIVE"
+        },
+        "1575233669": {
+            "media.likes.com": "INACTIVE",
+            "mediamatika.wu.cz": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
