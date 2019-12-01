@@ -1,23 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1575002296": {
-            "remediation.co": "INACTIVE"
-        },
-        "1575002297": {
-            "reporting.espotting.com": "INACTIVE"
-        },
-        "1575002298": {
-            "revmedia.ru": "INACTIVE"
-        },
-        "1575002301": {
-            "rise-media.ru": "INACTIVE"
-        },
-        "1575002304": {
-            "rtl.ivwbox.de": "INACTIVE"
-        },
-        "1575002305": {
-            "rub.to": "INACTIVE"
-        },
         "1575002308": {
             "sameralrais.hostaty.com": "INACTIVE"
         },
@@ -2047,6 +2029,22 @@
         },
         "1575241867": {
             "recherche.yagoort.org": "INACTIVE"
+        },
+        "1575242571": {
+            "remediation.co": "INACTIVE",
+            "reporting.espotting.com": "INACTIVE"
+        },
+        "1575242572": {
+            "revmedia.ru": "INACTIVE"
+        },
+        "1575242575": {
+            "rise-media.ru": "INACTIVE"
+        },
+        "1575242578": {
+            "rtl.ivwbox.de": "INACTIVE"
+        },
+        "1575242579": {
+            "rub.to": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
