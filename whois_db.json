@@ -12302,7 +12302,7 @@
     "laextradeocotlan.com.mx": {
         "epoch": 1575158400.0,
         "expiration_date": "01-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "lamedia.ru": {
         "epoch": 1594512000.0,
@@ -12415,8 +12415,8 @@
         "state": "future"
     },
     "leadsandtraffic.com": {
-        "epoch": 1575158400.0,
-        "expiration_date": "01-dec-2019",
+        "epoch": 1581984000.0,
+        "expiration_date": "18-feb-2020",
         "state": "future"
     },
     "leadtrackgo.com": {

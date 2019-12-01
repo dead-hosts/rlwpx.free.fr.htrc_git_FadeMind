@@ -1,26 +1,6 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1574996028": {
-            "jsandboxer.cjt1.net": "INACTIVE"
-        },
-        "1574996029": {
-            "jumcna.cjt1.net": "INACTIVE",
-            "jwebbsense.cjt1.net": "INACTIVE"
-        },
-        "1574996030": {
-            "katalogest.info": "INACTIVE"
-        },
-        "1574996031": {
-            "kelkoo.espotting.com": "INACTIVE"
-        },
-        "1574996742": {
-            "lbimedia.net": "INACTIVE"
-        },
-        "1574996743": {
-            "leck.servecounterstrike.com": "INACTIVE"
-        },
         "1574996745": {
-            "levtr.110mb.com": "INACTIVE",
             "lhcb-release-area.web.cern.ch": "INACTIVE"
         },
         "1574996747": {
@@ -2075,6 +2055,28 @@
         },
         "1575229377": {
             "jpirate.cjt1.net": "INACTIVE"
+        },
+        "1575230580": {
+            "jsandboxer.cjt1.net": "INACTIVE"
+        },
+        "1575230581": {
+            "jumcna.cjt1.net": "INACTIVE",
+            "jwebbsense.cjt1.net": "INACTIVE"
+        },
+        "1575230582": {
+            "katalogest.info": "INACTIVE"
+        },
+        "1575230583": {
+            "kelkoo.espotting.com": "INACTIVE"
+        },
+        "1575230590": {
+            "lbimedia.net": "INACTIVE"
+        },
+        "1575230591": {
+            "leck.servecounterstrike.com": "INACTIVE"
+        },
+        "1575230592": {
+            "levtr.110mb.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
