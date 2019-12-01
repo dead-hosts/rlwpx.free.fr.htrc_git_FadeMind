@@ -1,28 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1574996757": {
-            "logo.real.com": "INACTIVE",
-            "logp9.xiti.com": "INACTIVE",
-            "logs1285.xiti.com": "INACTIVE",
-            "logs1400.xiti.com": "INACTIVE"
-        },
-        "1574996758": {
-            "logs1403.xiti.com": "INACTIVE",
-            "logs1404.xiti.com": "INACTIVE"
-        },
-        "1574996759": {
-            "logv15.xiti.com": "INACTIVE"
-        },
-        "1574997464": {
-            "logvtest.xiti.com": "INACTIVE",
-            "logw349.ati-host.net": "INACTIVE"
-        },
-        "1574997466": {
-            "lproot.soft365.com": "INACTIVE"
-        },
-        "1574997467": {
-            "lycos.espotting.com": "INACTIVE"
-        },
         "1574997469": {
             "mailing.xiti.com": "INACTIVE"
         },
@@ -2074,6 +2051,27 @@
             "logc57.xiti.com": "INACTIVE",
             "logc7.xiti.com": "INACTIVE",
             "logfotos.110mb.com": "INACTIVE"
+        },
+        "1575232016": {
+            "logo.real.com": "INACTIVE",
+            "logp9.xiti.com": "INACTIVE",
+            "logs1285.xiti.com": "INACTIVE",
+            "logs1400.xiti.com": "INACTIVE",
+            "logs1403.xiti.com": "INACTIVE"
+        },
+        "1575232017": {
+            "logs1404.xiti.com": "INACTIVE"
+        },
+        "1575232018": {
+            "logv15.xiti.com": "INACTIVE",
+            "logvtest.xiti.com": "INACTIVE",
+            "logw349.ati-host.net": "INACTIVE"
+        },
+        "1575232021": {
+            "lproot.soft365.com": "INACTIVE"
+        },
+        "1575232022": {
+            "lycos.espotting.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
