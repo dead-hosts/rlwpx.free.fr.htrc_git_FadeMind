@@ -4932,7 +4932,7 @@
     "clickitmail.com": {
         "epoch": 1575158400.0,
         "expiration_date": "01-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "clickitycash.com": {
         "epoch": 1602460800.0,
@@ -5257,7 +5257,7 @@
     "clickssite.com": {
         "epoch": 1575158400.0,
         "expiration_date": "01-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "clickstream.co.za": {
         "epoch": 1598140800.0,
