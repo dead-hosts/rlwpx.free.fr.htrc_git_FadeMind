@@ -1,34 +1,6 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1575015795": {
-            "www.mediadots.com": "INACTIVE"
-        },
-        "1575015796": {
-            "www.mediahighway.net": "INACTIVE",
-            "www.mediahostforph.com": "INACTIVE"
-        },
-        "1575015797": {
-            "www.mediaparad.ru": "INACTIVE",
-            "www.mediaplazza.net": "INACTIVE"
-        },
-        "1575015798": {
-            "www.mediaproductionsnigeria.net": "INACTIVE",
-            "www.mediasmegaportal.com": "INACTIVE"
-        },
-        "1575015799": {
-            "www.mediavibor.ru": "INACTIVE"
-        },
-        "1575015800": {
-            "www.methodevegas.com": "INACTIVE",
-            "www.midkotatraffic.net": "INACTIVE",
-            "www.misstrends.com": "INACTIVE"
-        },
-        "1575015801": {
-            "www.mlclick.com": "INACTIVE",
-            "www.mobi.espotting.com": "INACTIVE"
-        },
         "1575015802": {
-            "www.movehits.at": "INACTIVE",
             "www.mrank.tk": "INACTIVE",
             "www.multi-click-est.com": "INACTIVE"
         },
@@ -2058,6 +2030,36 @@
         },
         "1575267811": {
             "www.mediacap.net": "INACTIVE"
+        },
+        "1575268516": {
+            "www.mediadots.com": "INACTIVE",
+            "www.mediafirefile.com": "INACTIVE"
+        },
+        "1575268517": {
+            "www.mediahighway.net": "INACTIVE",
+            "www.mediahostforph.com": "INACTIVE"
+        },
+        "1575268518": {
+            "www.mediaparad.ru": "INACTIVE",
+            "www.mediaplazza.net": "INACTIVE",
+            "www.mediaproductionsnigeria.net": "INACTIVE",
+            "www.mediasmegaportal.com": "INACTIVE"
+        },
+        "1575268519": {
+            "www.mediavibor.ru": "INACTIVE"
+        },
+        "1575268520": {
+            "www.methodevegas.com": "INACTIVE"
+        },
+        "1575268521": {
+            "www.midkotatraffic.net": "INACTIVE",
+            "www.mlclick.com": "INACTIVE"
+        },
+        "1575268522": {
+            "www.mobi.espotting.com": "INACTIVE"
+        },
+        "1575268523": {
+            "www.movehits.at": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
