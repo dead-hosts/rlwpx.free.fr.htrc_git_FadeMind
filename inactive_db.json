@@ -1,21 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1575018299": {
-            "www.stats.fr": "INACTIVE",
-            "www.stats.misstrends.com": "INACTIVE",
-            "www.statsforyoursite.com": "INACTIVE"
-        },
-        "1575018300": {
-            "www.superstatistic.it": "INACTIVE"
-        },
-        "1575018301": {
-            "www.tadine.ca": "INACTIVE"
-        },
-        "1575018302": {
-            "www.teenhits.com": "INACTIVE",
-            "www.thebestsolver.com": "INACTIVE",
-            "www.thebighits.com": "INACTIVE"
-        },
         "1575019014": {
             "www.trackhost.com": "INACTIVE",
             "www.trackingpurposes.com": "INACTIVE"
@@ -2059,6 +2043,23 @@
         },
         "1575271450": {
             "www.statistiq.com": "INACTIVE"
+        },
+        "1575272162": {
+            "www.stats.fr": "INACTIVE",
+            "www.statsforyoursite.com": "INACTIVE"
+        },
+        "1575272163": {
+            "www.superstatistic.it": "INACTIVE"
+        },
+        "1575272164": {
+            "www.tadine.ca": "INACTIVE"
+        },
+        "1575272165": {
+            "www.teenhits.com": "INACTIVE"
+        },
+        "1575272166": {
+            "www.thebestsolver.com": "INACTIVE",
+            "www.thebighits.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
