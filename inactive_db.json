@@ -1,24 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1575013389": {
-            "www.erohits.nl": "INACTIVE",
-            "www.escorcher.com": "INACTIVE"
-        },
-        "1575013391": {
-            "www.everycounter.com": "INACTIVE",
-            "www.exit-traffic.info": "INACTIVE",
-            "www.ez4u.net": "INACTIVE",
-            "www.ezinetracking.com": "INACTIVE"
-        },
-        "1575013392": {
-            "www.ez-tracks.com": "INACTIVE",
-            "www.fastclick.ir": "INACTIVE"
-        },
-        "1575013393": {
-            "www.filesland.com": "INACTIVE",
-            "www.findwhat.com": "INACTIVE",
-            "www.fineclicks.com": "INACTIVE"
-        },
         "1575013395": {
             "www.free-adult-counters.x-xtra.com": "INACTIVE",
             "www.free-adult-traffic.com": "INACTIVE",
@@ -2049,6 +2030,27 @@
         "1575264242": {
             "www.engage-media.de": "INACTIVE",
             "www.englishhits.com": "INACTIVE"
+        },
+        "1575264957": {
+            "www.erohits.nl": "INACTIVE"
+        },
+        "1575264958": {
+            "www.escorcher.com": "INACTIVE"
+        },
+        "1575264959": {
+            "www.everycounter.com": "INACTIVE",
+            "www.exit-traffic.info": "INACTIVE"
+        },
+        "1575264960": {
+            "www.ez4u.net": "INACTIVE",
+            "www.ezinetracking.com": "INACTIVE"
+        },
+        "1575264961": {
+            "www.filesland.com": "INACTIVE",
+            "www.findwhat.com": "INACTIVE"
+        },
+        "1575264962": {
+            "www.fineclicks.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
