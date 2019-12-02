@@ -1,24 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1575012215": {
-            "www.diytrade.com": "INACTIVE"
-        },
-        "1575012216": {
-            "www.download-best-softwares.com": "INACTIVE"
-        },
-        "1575012217": {
-            "www.ebannertraffic.com": "INACTIVE"
-        },
-        "1575012218": {
-            "www.e-counters.com": "INACTIVE"
-        },
-        "1575013387": {
-            "www.elliscountyfriendship.org": "INACTIVE"
-        },
-        "1575013388": {
-            "www.engage-media.de": "INACTIVE",
-            "www.englishhits.com": "INACTIVE"
-        },
         "1575013389": {
             "www.erohits.nl": "INACTIVE",
             "www.escorcher.com": "INACTIVE"
@@ -2051,6 +2032,23 @@
         "1575263530": {
             "www.crocencounters.org": "INACTIVE",
             "www.ctnewmedia.com": "INACTIVE"
+        },
+        "1575264238": {
+            "www.diytrade.com": "INACTIVE"
+        },
+        "1575264239": {
+            "www.download-best-softwares.com": "INACTIVE"
+        },
+        "1575264240": {
+            "www.e-counters.com": "INACTIVE",
+            "www.ebannertraffic.com": "INACTIVE"
+        },
+        "1575264241": {
+            "www.elliscountyfriendship.org": "INACTIVE"
+        },
+        "1575264242": {
+            "www.engage-media.de": "INACTIVE",
+            "www.englishhits.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
