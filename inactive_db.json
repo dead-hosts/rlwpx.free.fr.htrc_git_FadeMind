@@ -1,29 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1575201257": {
-            "core.bluefly.com": "INACTIVE"
-        },
-        "1575201258": {
-            "count.dba.dk": "INACTIVE"
-        },
-        "1575201260": {
-            "counter.blog.livedoor.com": "INACTIVE",
-            "counter.gemius.pl": "INACTIVE"
-        },
-        "1575201261": {
-            "counter.holms.ru": "INACTIVE"
-        },
-        "1575201262": {
-            "counter.russiansubmitter.com": "INACTIVE"
-        },
-        "1575203138": {
-            "count.jdyou.com": "INACTIVE"
-        },
-        "1575203139": {
-            "count.qiannao.com": "INACTIVE",
-            "count.rbc.ru": "INACTIVE",
-            "count.timedg.com": "INACTIVE"
-        },
         "1575203142": {
             "creative.clicksor.com": "INACTIVE"
         },
@@ -2042,6 +2018,29 @@
             "contentsearch.it.espotting.com": "INACTIVE",
             "contentsearch.no.espotting.com": "INACTIVE",
             "contentsearch.se.espotting.com": "INACTIVE"
+        },
+        "1575387889": {
+            "core.bluefly.com": "INACTIVE"
+        },
+        "1575387890": {
+            "count.dba.dk": "INACTIVE"
+        },
+        "1575387892": {
+            "counter.blog.livedoor.com": "INACTIVE",
+            "counter.gemius.pl": "INACTIVE",
+            "counter.holms.ru": "INACTIVE"
+        },
+        "1575387893": {
+            "counter.russiansubmitter.com": "INACTIVE"
+        },
+        "1575387894": {
+            "count.jdyou.com": "INACTIVE",
+            "counter.wbtiger.mmska.ru": "INACTIVE"
+        },
+        "1575387895": {
+            "count.qiannao.com": "INACTIVE",
+            "count.rbc.ru": "INACTIVE",
+            "count.timedg.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
