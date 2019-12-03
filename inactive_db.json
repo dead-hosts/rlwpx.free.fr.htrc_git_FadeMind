@@ -1,8 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1575189172": {
-            "antevenio.flux.ads-click.com": "INACTIVE"
-        },
         "1575189174": {
             "aperture.displaymarketplace.com": "INACTIVE",
             "app.desktop.ak-networks.com": "INACTIVE"
@@ -797,16 +794,6 @@
         },
         "1575236527": {
             "no.espotting.com": "INACTIVE"
-        },
-        "1575237786": {
-            "a.live-conversion.com": "INACTIVE",
-            "allogay.host-php.org": "INACTIVE",
-            "alogcorp.275mb.com": "INACTIVE",
-            "analytics.androidandme.com": "INACTIVE",
-            "analytics.dev.popdust.com": "INACTIVE",
-            "analytics.hgcdn.net": "INACTIVE",
-            "andorra.indymedia.org": "INACTIVE",
-            "anepasrater.skynetblogs.be": "INACTIVE"
         },
         "1575237787": {
             "nudegalleries.picturetrades.com": "INACTIVE"
@@ -2038,6 +2025,29 @@
             "affiliate.no.espotting.com": "INACTIVE",
             "affiliate.rvptracker.com": "INACTIVE",
             "affiliate.se.espotting.com": "INACTIVE"
+        },
+        "1575382642": {
+            "a.live-conversion.com": "INACTIVE"
+        },
+        "1575382643": {
+            "allogay.host-php.org": "INACTIVE"
+        },
+        "1575382644": {
+            "alogcorp.275mb.com": "INACTIVE"
+        },
+        "1575382647": {
+            "analytics.androidandme.com": "INACTIVE"
+        },
+        "1575382648": {
+            "analytics.dev.popdust.com": "INACTIVE",
+            "analytics.hgcdn.net": "INACTIVE"
+        },
+        "1575382649": {
+            "andorra.indymedia.org": "INACTIVE",
+            "anepasrater.skynetblogs.be": "INACTIVE"
+        },
+        "1575382650": {
+            "antevenio.flux.ads-click.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
