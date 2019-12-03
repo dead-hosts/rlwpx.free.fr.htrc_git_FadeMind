@@ -1,29 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1575230590": {
-            "lbimedia.net": "INACTIVE"
-        },
-        "1575230591": {
-            "leck.servecounterstrike.com": "INACTIVE"
-        },
-        "1575230592": {
-            "levtr.110mb.com": "INACTIVE"
-        },
-        "1575231307": {
-            "lhcb-release-area.web.cern.ch": "INACTIVE"
-        },
-        "1575231309": {
-            "link.ranking.gs": "INACTIVE"
-        },
-        "1575231311": {
-            "lists.pmbservices.fr": "INACTIVE"
-        },
-        "1575231312": {
-            "livesupport.clicksor.com": "INACTIVE"
-        },
-        "1575231313": {
-            "llbean.102.112.2o7.net": "INACTIVE"
-        },
         "1575231314": {
             "log1nfb.5gbfree.com": "INACTIVE",
             "log77-5-88-164-151-96.fbx.proxad.net": "INACTIVE",
@@ -2034,6 +2010,25 @@
         },
         "1575407248": {
             "kelkoo.espotting.com": "INACTIVE"
+        },
+        "1575407965": {
+            "lbimedia.net": "INACTIVE"
+        },
+        "1575407966": {
+            "leck.servecounterstrike.com": "INACTIVE"
+        },
+        "1575407968": {
+            "levtr.110mb.com": "INACTIVE",
+            "lhcb-release-area.web.cern.ch": "INACTIVE"
+        },
+        "1575407972": {
+            "lists.pmbservices.fr": "INACTIVE"
+        },
+        "1575407973": {
+            "livesupport.clicksor.com": "INACTIVE"
+        },
+        "1575407974": {
+            "llbean.102.112.2o7.net": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
