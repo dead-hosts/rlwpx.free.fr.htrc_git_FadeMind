@@ -1,101 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1575235091": {
-            "metrics.pcmag.com": "INACTIVE"
-        },
-        "1575235092": {
-            "metrics.recroom.com": "INACTIVE",
-            "metrics.retail.fidelity.com": "INACTIVE"
-        },
-        "1575235096": {
-            "mi-agg03.prod.millennialmedia.com": "INACTIVE",
-            "mi-api01.prod.millennialmedia.com": "INACTIVE",
-            "mi-api02.prod.millennialmedia.com": "INACTIVE",
-            "mi-beta01.prod.millennialmedia.com": "INACTIVE"
-        },
-        "1575235097": {
-            "mi-dw01.prod.millennialmedia.com": "INACTIVE",
-            "mi-dw02.prod.millennialmedia.com": "INACTIVE",
-            "mi-dw03.prod.millennialmedia.com": "INACTIVE",
-            "mi-infra05.prod.millennialmedia.com": "INACTIVE",
-            "mi-infra06.prod.millennialmedia.com": "INACTIVE"
-        },
-        "1575235098": {
-            "mi-memstore05.prod.millennialmedia.com": "INACTIVE",
-            "mi-memstore06.prod.millennialmedia.com": "INACTIVE",
-            "mi-memstore07.prod.millennialmedia.com": "INACTIVE",
-            "mi-memstore08.prod.millennialmedia.com": "INACTIVE"
-        },
-        "1575235099": {
-            "mi-qa01.prod.millennialmedia.com": "INACTIVE",
-            "mi-qa02.prod.millennialmedia.com": "INACTIVE",
-            "mi-rsc01.prod.millennialmedia.com": "INACTIVE",
-            "mi-rsc02.prod.millennialmedia.com": "INACTIVE",
-            "mi-solutions01.prod.millennialmedia.com": "INACTIVE",
-            "mi-solutions02.prod.millennialmedia.com": "INACTIVE",
-            "mi-web00.prod.millennialmedia.com": "INACTIVE",
-            "mi-web02.prod.millennialmedia.com": "INACTIVE",
-            "mittlog.net": "INACTIVE"
-        },
-        "1575235100": {
-            "mi-web01.prod.millennialmedia.com": "INACTIVE",
-            "mi-web03.prod.millennialmedia.com": "INACTIVE",
-            "mi-web04.prod.millennialmedia.com": "INACTIVE",
-            "mi-web07.prod.millennialmedia.com": "INACTIVE",
-            "mi-web08.prod.millennialmedia.com": "INACTIVE",
-            "mi-web09.prod.millennialmedia.com": "INACTIVE",
-            "mi-web10.prod.millennialmedia.com": "INACTIVE",
-            "mi-web11.prod.millennialmedia.com": "INACTIVE",
-            "mi-web12.prod.millennialmedia.com": "INACTIVE",
-            "mi-web13.prod.millennialmedia.com": "INACTIVE",
-            "mi-web14.prod.millennialmedia.com": "INACTIVE",
-            "mi-web15.prod.millennialmedia.com": "INACTIVE",
-            "mi-web16.prod.millennialmedia.com": "INACTIVE",
-            "mi-web17.prod.millennialmedia.com": "INACTIVE",
-            "mi-web18.prod.millennialmedia.com": "INACTIVE",
-            "mi-web19.prod.millennialmedia.com": "INACTIVE",
-            "mi-web20.prod.millennialmedia.com": "INACTIVE",
-            "mi-web21.prod.millennialmedia.com": "INACTIVE",
-            "mi-web22.prod.millennialmedia.com": "INACTIVE",
-            "mi-web23.prod.millennialmedia.com": "INACTIVE",
-            "mi-web24.prod.millennialmedia.com": "INACTIVE",
-            "mi-web25.prod.millennialmedia.com": "INACTIVE",
-            "mi-web26.prod.millennialmedia.com": "INACTIVE",
-            "mi-web27.prod.millennialmedia.com": "INACTIVE",
-            "mi-web28.prod.millennialmedia.com": "INACTIVE",
-            "mi-web29.prod.millennialmedia.com": "INACTIVE",
-            "mi-web30.prod.millennialmedia.com": "INACTIVE",
-            "mi-web31.prod.millennialmedia.com": "INACTIVE",
-            "mi-web32.prod.millennialmedia.com": "INACTIVE",
-            "mi-web33.prod.millennialmedia.com": "INACTIVE"
-        },
-        "1575235101": {
-            "mi-web34.prod.millennialmedia.com": "INACTIVE",
-            "mi-web35.prod.millennialmedia.com": "INACTIVE",
-            "mi-web36.prod.millennialmedia.com": "INACTIVE",
-            "mi-web37.prod.millennialmedia.com": "INACTIVE",
-            "mi-web38.prod.millennialmedia.com": "INACTIVE",
-            "mi-web39.prod.millennialmedia.com": "INACTIVE",
-            "mi-web40.prod.millennialmedia.com": "INACTIVE",
-            "mi-web41.prod.millennialmedia.com": "INACTIVE",
-            "mi-web42.prod.millennialmedia.com": "INACTIVE",
-            "mi-web43.prod.millennialmedia.com": "INACTIVE"
-        },
-        "1575235102": {
-            "mm-gui01.prod.millennialmedia.com": "INACTIVE",
-            "mm-gui02.prod.millennialmedia.com": "INACTIVE"
-        },
-        "1575235103": {
-            "mm-ws01.prod.millennialmedia.com": "INACTIVE",
-            "mm-ws02.prod.millennialmedia.com": "INACTIVE"
-        },
-        "1575235104": {
-            "mobi.dev.espotting.com": "INACTIVE",
-            "mobi.espotting.com": "INACTIVE"
-        },
-        "1575235105": {
-            "mold.remediation.co": "INACTIVE"
-        },
         "1575235795": {
             "morgpost.ivwbox.de": "INACTIVE"
         },
@@ -2031,6 +1935,100 @@
         },
         "1575410856": {
             "metrics.dentonrc.com": "INACTIVE"
+        },
+        "1575411565": {
+            "metrics.pcmag.com": "INACTIVE",
+            "metrics.recroom.com": "INACTIVE",
+            "metrics.retail.fidelity.com": "INACTIVE"
+        },
+        "1575411569": {
+            "mi-agg03.prod.millennialmedia.com": "INACTIVE",
+            "mi-api01.prod.millennialmedia.com": "INACTIVE",
+            "mi-api02.prod.millennialmedia.com": "INACTIVE",
+            "mi-beta01.prod.millennialmedia.com": "INACTIVE"
+        },
+        "1575411570": {
+            "mi-dw01.prod.millennialmedia.com": "INACTIVE",
+            "mi-dw02.prod.millennialmedia.com": "INACTIVE",
+            "mi-dw03.prod.millennialmedia.com": "INACTIVE"
+        },
+        "1575411571": {
+            "mi-infra05.prod.millennialmedia.com": "INACTIVE",
+            "mi-infra06.prod.millennialmedia.com": "INACTIVE",
+            "mi-memstore05.prod.millennialmedia.com": "INACTIVE",
+            "mi-memstore06.prod.millennialmedia.com": "INACTIVE",
+            "mi-memstore07.prod.millennialmedia.com": "INACTIVE",
+            "mi-memstore08.prod.millennialmedia.com": "INACTIVE"
+        },
+        "1575411572": {
+            "mi-qa01.prod.millennialmedia.com": "INACTIVE",
+            "mi-qa02.prod.millennialmedia.com": "INACTIVE",
+            "mi-rsc01.prod.millennialmedia.com": "INACTIVE",
+            "mi-rsc02.prod.millennialmedia.com": "INACTIVE",
+            "mi-solutions01.prod.millennialmedia.com": "INACTIVE",
+            "mi-solutions02.prod.millennialmedia.com": "INACTIVE"
+        },
+        "1575411573": {
+            "mi-web00.prod.millennialmedia.com": "INACTIVE",
+            "mi-web01.prod.millennialmedia.com": "INACTIVE",
+            "mi-web02.prod.millennialmedia.com": "INACTIVE",
+            "mi-web03.prod.millennialmedia.com": "INACTIVE",
+            "mi-web04.prod.millennialmedia.com": "INACTIVE",
+            "mi-web07.prod.millennialmedia.com": "INACTIVE",
+            "mi-web08.prod.millennialmedia.com": "INACTIVE",
+            "mi-web09.prod.millennialmedia.com": "INACTIVE",
+            "mi-web10.prod.millennialmedia.com": "INACTIVE",
+            "mi-web11.prod.millennialmedia.com": "INACTIVE",
+            "mi-web12.prod.millennialmedia.com": "INACTIVE",
+            "mi-web13.prod.millennialmedia.com": "INACTIVE",
+            "mi-web14.prod.millennialmedia.com": "INACTIVE",
+            "mi-web15.prod.millennialmedia.com": "INACTIVE",
+            "mi-web16.prod.millennialmedia.com": "INACTIVE",
+            "mi-web17.prod.millennialmedia.com": "INACTIVE",
+            "mi-web18.prod.millennialmedia.com": "INACTIVE",
+            "mi-web19.prod.millennialmedia.com": "INACTIVE",
+            "mi-web20.prod.millennialmedia.com": "INACTIVE",
+            "mi-web21.prod.millennialmedia.com": "INACTIVE",
+            "mi-web22.prod.millennialmedia.com": "INACTIVE",
+            "mi-web23.prod.millennialmedia.com": "INACTIVE",
+            "mi-web24.prod.millennialmedia.com": "INACTIVE",
+            "mi-web25.prod.millennialmedia.com": "INACTIVE",
+            "mi-web26.prod.millennialmedia.com": "INACTIVE",
+            "mi-web27.prod.millennialmedia.com": "INACTIVE",
+            "mi-web28.prod.millennialmedia.com": "INACTIVE",
+            "mittlog.net": "INACTIVE"
+        },
+        "1575411574": {
+            "mi-web29.prod.millennialmedia.com": "INACTIVE",
+            "mi-web30.prod.millennialmedia.com": "INACTIVE",
+            "mi-web31.prod.millennialmedia.com": "INACTIVE",
+            "mi-web32.prod.millennialmedia.com": "INACTIVE",
+            "mi-web33.prod.millennialmedia.com": "INACTIVE",
+            "mi-web34.prod.millennialmedia.com": "INACTIVE",
+            "mi-web35.prod.millennialmedia.com": "INACTIVE",
+            "mi-web36.prod.millennialmedia.com": "INACTIVE",
+            "mi-web37.prod.millennialmedia.com": "INACTIVE",
+            "mi-web38.prod.millennialmedia.com": "INACTIVE",
+            "mi-web39.prod.millennialmedia.com": "INACTIVE",
+            "mi-web40.prod.millennialmedia.com": "INACTIVE",
+            "mi-web41.prod.millennialmedia.com": "INACTIVE",
+            "mi-web42.prod.millennialmedia.com": "INACTIVE",
+            "mi-web43.prod.millennialmedia.com": "INACTIVE"
+        },
+        "1575411575": {
+            "mm-gui01.prod.millennialmedia.com": "INACTIVE",
+            "mm-gui02.prod.millennialmedia.com": "INACTIVE"
+        },
+        "1575411576": {
+            "mm-ws01.prod.millennialmedia.com": "INACTIVE",
+            "mm-ws02.prod.millennialmedia.com": "INACTIVE"
+        },
+        "1575411577": {
+            "mobi.dev.espotting.com": "INACTIVE",
+            "mobi.espotting.com": "INACTIVE"
+        },
+        "1575411578": {
+            "mold.remediation.co": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
