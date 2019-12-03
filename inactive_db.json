@@ -1,28 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1575203142": {
-            "creative.clicksor.com": "INACTIVE"
-        },
-        "1575203143": {
-            "csc.beap.bc.yahoo.com": "INACTIVE"
-        },
-        "1575203147": {
-            "daserste.ivwbox.de": "INACTIVE"
-        },
-        "1575203148": {
-            "data.ritzcarlton.com": "INACTIVE",
-            "datalookup.sitestat.com": "INACTIVE",
-            "db01.test.millennialmedia.com": "INACTIVE",
-            "db2.collective-media.net": "INACTIVE"
-        },
-        "1575204548": {
-            "dd1.insightexpress.com": "INACTIVE",
-            "dd2.insightexpress.com": "INACTIVE"
-        },
-        "1575204549": {
-            "de.couponhit.com": "INACTIVE",
-            "de.espotting.com": "INACTIVE"
-        },
         "1575204550": {
             "de.nedstat.net": "INACTIVE"
         },
@@ -2041,6 +2018,29 @@
             "count.qiannao.com": "INACTIVE",
             "count.rbc.ru": "INACTIVE",
             "count.timedg.com": "INACTIVE"
+        },
+        "1575388722": {
+            "creative.clicksor.com": "INACTIVE"
+        },
+        "1575388723": {
+            "csc.beap.bc.yahoo.com": "INACTIVE"
+        },
+        "1575388727": {
+            "daserste.ivwbox.de": "INACTIVE",
+            "data.ritzcarlton.com": "INACTIVE",
+            "datalookup.sitestat.com": "INACTIVE"
+        },
+        "1575388728": {
+            "db01.test.millennialmedia.com": "INACTIVE",
+            "db2.collective-media.net": "INACTIVE"
+        },
+        "1575388729": {
+            "dd1.insightexpress.com": "INACTIVE",
+            "dd2.insightexpress.com": "INACTIVE"
+        },
+        "1575388730": {
+            "de.couponhit.com": "INACTIVE",
+            "de.espotting.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
