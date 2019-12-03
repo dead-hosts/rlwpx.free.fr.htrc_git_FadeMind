@@ -1,18 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1575206008": {
-            "doubclick.com": "INACTIVE"
-        },
-        "1575206010": {
-            "download.fairdialer.de": "INACTIVE",
-            "downloads.mediaplayer4free.com": "INACTIVE"
-        },
-        "1575206012": {
-            "dtrack.secdls.com": "INACTIVE"
-        },
-        "1575206013": {
-            "dynamix.trafficrevmaster.com": "INACTIVE"
-        },
         "1575207421": {
             "ed-media.ru": "INACTIVE"
         },
@@ -2041,6 +2028,20 @@
         },
         "1575389429": {
             "dogpile.espotting.com": "INACTIVE"
+        },
+        "1575390125": {
+            "doubclick.com": "INACTIVE"
+        },
+        "1575390127": {
+            "download.fairdialer.de": "INACTIVE",
+            "download.zhongsou.com": "INACTIVE",
+            "downloads.mediaplayer4free.com": "INACTIVE"
+        },
+        "1575390129": {
+            "dtrack.secdls.com": "INACTIVE"
+        },
+        "1575390130": {
+            "dynamix.trafficrevmaster.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
