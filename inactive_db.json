@@ -1,17 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1575248215": {
-            "suptullog.com": "INACTIVE"
-        },
-        "1575248217": {
-            "swexy-track.com": "INACTIVE"
-        },
-        "1575248218": {
-            "swr.ivwbox.de": "INACTIVE"
-        },
-        "1575248937": {
-            "telemedia.m77s.cn": "INACTIVE"
-        },
         "1575248938": {
             "test.espotting.com": "INACTIVE",
             "test.reporting.espotting.com": "INACTIVE",
@@ -2036,6 +2024,18 @@
         },
         "1575422923": {
             "supanet.espotting.com": "INACTIVE"
+        },
+        "1575423622": {
+            "suptullog.com": "INACTIVE"
+        },
+        "1575423624": {
+            "swexy-track.com": "INACTIVE"
+        },
+        "1575423625": {
+            "swr.ivwbox.de": "INACTIVE"
+        },
+        "1575423632": {
+            "telemedia.m77s.cn": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
