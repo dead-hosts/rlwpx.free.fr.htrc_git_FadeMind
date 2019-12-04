@@ -22420,9 +22420,9 @@
         "state": "future"
     },
     "topmed.tv": {
-        "epoch": 1575244800.0,
-        "expiration_date": "02-dec-2019",
-        "state": "past"
+        "epoch": 1606867200.0,
+        "expiration_date": "02-dec-2020",
+        "state": "future"
     },
     "topmediasoft.com": {
         "epoch": 1595116800.0,
@@ -22432,7 +22432,7 @@
     "topmedicineshop.com": {
         "epoch": 1575417600.0,
         "expiration_date": "04-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "topmods.net": {
         "epoch": 1613088000.0,
