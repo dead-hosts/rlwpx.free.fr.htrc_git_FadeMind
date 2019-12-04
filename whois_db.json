@@ -18460,8 +18460,8 @@
         "state": "future"
     },
     "readclick.com": {
-        "epoch": 1575244800.0,
-        "expiration_date": "02-dec-2019",
+        "epoch": 1578787200.0,
+        "expiration_date": "12-jan-2020",
         "state": "future"
     },
     "realcastmedia.com": {
@@ -18792,7 +18792,7 @@
     "ripublicmedia.org": {
         "epoch": 1575331200.0,
         "expiration_date": "03-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "rise-media.ru": {
         "epoch": "1561939200",
