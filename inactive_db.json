@@ -1,29 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1575388723": {
-            "csc.beap.bc.yahoo.com": "INACTIVE"
-        },
-        "1575388727": {
-            "daserste.ivwbox.de": "INACTIVE",
-            "data.ritzcarlton.com": "INACTIVE",
-            "datalookup.sitestat.com": "INACTIVE"
-        },
-        "1575388728": {
-            "db01.test.millennialmedia.com": "INACTIVE",
-            "db2.collective-media.net": "INACTIVE"
-        },
-        "1575388729": {
-            "dd1.insightexpress.com": "INACTIVE",
-            "dd2.insightexpress.com": "INACTIVE"
-        },
-        "1575388730": {
-            "de.couponhit.com": "INACTIVE",
-            "de.espotting.com": "INACTIVE"
-        },
-        "1575389422": {
-            "de.nedstat.net": "INACTIVE",
-            "de.sitestat.nedstat.net": "INACTIVE"
-        },
         "1575389423": {
             "dev.media.adxpansion.com": "INACTIVE",
             "dev.millennialmedia.com": "INACTIVE"
@@ -2004,6 +1980,32 @@
         },
         "1575482816": {
             "creative.clicksor.com": "INACTIVE"
+        },
+        "1575485045": {
+            "csc.beap.bc.yahoo.com": "INACTIVE"
+        },
+        "1575485050": {
+            "daserste.ivwbox.de": "INACTIVE",
+            "data.ritzcarlton.com": "INACTIVE",
+            "datalookup.sitestat.com": "INACTIVE"
+        },
+        "1575485051": {
+            "db01.test.millennialmedia.com": "INACTIVE",
+            "db2.collective-media.net": "INACTIVE"
+        },
+        "1575485052": {
+            "dd1.insightexpress.com": "INACTIVE",
+            "dd2.insightexpress.com": "INACTIVE",
+            "de.couponhit.com": "INACTIVE"
+        },
+        "1575485053": {
+            "de.espotting.com": "INACTIVE"
+        },
+        "1575485054": {
+            "de.nedstat.net": "INACTIVE"
+        },
+        "1575485055": {
+            "de.sitestat.nedstat.net": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
