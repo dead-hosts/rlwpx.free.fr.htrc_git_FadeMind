@@ -1,19 +1,6 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1575270676": {
-            "www.redhothits.com": "INACTIVE",
-            "www.redsheriff.com.au": "INACTIVE",
-            "www.reflectionsmediaonline.com": "INACTIVE"
-        },
-        "1575270678": {
-            "www.scanspyware.net": "INACTIVE",
-            "www.search.clicksor.com": "INACTIVE"
-        },
-        "1575270679": {
-            "www.search-itnow.com": "INACTIVE"
-        },
         "1575271445": {
-            "www.shadowtraders.com": "INACTIVE",
             "www.sharelog.tk": "INACTIVE",
             "www.shorlakmedia.com": "INACTIVE"
         },
@@ -2012,6 +1999,21 @@
             "www.ratespywareremovers.com": "INACTIVE",
             "www.rateyourrod.com": "INACTIVE",
             "www.realtracker.com": "INACTIVE"
+        },
+        "1575442652": {
+            "www.redhothits.com": "INACTIVE",
+            "www.redsheriff.com.au": "INACTIVE",
+            "www.reflectionsmediaonline.com": "INACTIVE"
+        },
+        "1575442654": {
+            "www.scanspyware.net": "INACTIVE"
+        },
+        "1575442655": {
+            "www.search-itnow.com": "INACTIVE",
+            "www.search.clicksor.com": "INACTIVE"
+        },
+        "1575442659": {
+            "www.shadowtraders.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
