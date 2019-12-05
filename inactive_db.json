@@ -1,21 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1575417917": {
-            "remediation.co": "INACTIVE",
-            "reporting.espotting.com": "INACTIVE"
-        },
-        "1575417918": {
-            "revmedia.ru": "INACTIVE"
-        },
-        "1575417920": {
-            "rise-media.ru": "INACTIVE"
-        },
-        "1575418635": {
-            "rtl.ivwbox.de": "INACTIVE"
-        },
-        "1575418636": {
-            "rub.to": "INACTIVE"
-        },
         "1575418639": {
             "salestrackersnyc.com": "INACTIVE"
         },
@@ -2003,6 +1987,22 @@
         },
         "1575523569": {
             "recherche.yagoort.org": "INACTIVE"
+        },
+        "1575524933": {
+            "remediation.co": "INACTIVE",
+            "reporting.espotting.com": "INACTIVE"
+        },
+        "1575524935": {
+            "revmedia.ru": "INACTIVE"
+        },
+        "1575524937": {
+            "rise-media.ru": "INACTIVE"
+        },
+        "1575524941": {
+            "rtl.ivwbox.de": "INACTIVE"
+        },
+        "1575524942": {
+            "rub.to": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
