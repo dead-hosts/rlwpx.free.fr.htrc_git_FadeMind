@@ -1,24 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1575407248": {
-            "kelkoo.espotting.com": "INACTIVE"
-        },
-        "1575407965": {
-            "lbimedia.net": "INACTIVE"
-        },
-        "1575407966": {
-            "leck.servecounterstrike.com": "INACTIVE"
-        },
-        "1575407968": {
-            "levtr.110mb.com": "INACTIVE",
-            "lhcb-release-area.web.cern.ch": "INACTIVE"
-        },
-        "1575407972": {
-            "lists.pmbservices.fr": "INACTIVE"
-        },
-        "1575407973": {
-            "livesupport.clicksor.com": "INACTIVE"
-        },
         "1575407974": {
             "llbean.102.112.2o7.net": "INACTIVE"
         },
@@ -2003,6 +1984,27 @@
         },
         "1575511128": {
             "katalogest.info": "INACTIVE"
+        },
+        "1575511871": {
+            "kelkoo.espotting.com": "INACTIVE"
+        },
+        "1575511878": {
+            "lbimedia.net": "INACTIVE"
+        },
+        "1575511879": {
+            "leck.servecounterstrike.com": "INACTIVE"
+        },
+        "1575511880": {
+            "levtr.110mb.com": "INACTIVE"
+        },
+        "1575511881": {
+            "lhcb-release-area.web.cern.ch": "INACTIVE"
+        },
+        "1575511884": {
+            "lists.pmbservices.fr": "INACTIVE"
+        },
+        "1575511886": {
+            "livesupport.clicksor.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
