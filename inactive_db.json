@@ -1,24 +1,6 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1575434069": {
-            "www.brokertraffic.com": "INACTIVE",
-            "www.butterfly-media.co.uk": "INACTIVE"
-        },
-        "1575434070": {
-            "www.buttnakedmedia.com": "INACTIVE",
-            "www.campaign.clicksor.com": "INACTIVE"
-        },
-        "1575434072": {
-            "www.cbclicks.com": "INACTIVE"
-        },
-        "1575434766": {
-            "www.centerall.com": "INACTIVE"
-        },
-        "1575434767": {
-            "www.cheque-crise.com": "INACTIVE"
-        },
         "1575434768": {
-            "www.click2go.org": "INACTIVE",
             "www.click4feet.com": "INACTIVE",
             "www.click4legs.com": "INACTIVE"
         },
@@ -2013,6 +1995,26 @@
         },
         "1575561140": {
             "www.books-media-edu-rewardempire.com": "INACTIVE"
+        },
+        "1575563456": {
+            "www.brokertraffic.com": "INACTIVE"
+        },
+        "1575563457": {
+            "www.butterfly-media.co.uk": "INACTIVE",
+            "www.buttnakedmedia.com": "INACTIVE"
+        },
+        "1575563458": {
+            "www.campaign.clicksor.com": "INACTIVE"
+        },
+        "1575563459": {
+            "www.cbclicks.com": "INACTIVE"
+        },
+        "1575563460": {
+            "www.centerall.com": "INACTIVE",
+            "www.cheque-crise.com": "INACTIVE"
+        },
+        "1575563462": {
+            "www.click2go.org": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
