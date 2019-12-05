@@ -1,21 +1,6 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1575405112": {
-            "hit.leboncoin.fr": "INACTIVE",
-            "hitlisten.yaboo.dk": "INACTIVE"
-        },
-        "1575405114": {
-            "hitomiya.jp": "INACTIVE"
-        },
-        "1575405816": {
-            "hittinitraw.blogspot.com": "INACTIVE",
-            "hitwastedgarden.com": "INACTIVE"
-        },
-        "1575405817": {
-            "hitx.waudit.cz": "INACTIVE"
-        },
         "1575405824": {
-            "ie.espotting.com": "INACTIVE",
             "igroupmedia.com": "INACTIVE"
         },
         "1575405825": {
@@ -2001,6 +1986,23 @@
         },
         "1575508778": {
             "hitchcock.of.com": "INACTIVE"
+        },
+        "1575509470": {
+            "hit.leboncoin.fr": "INACTIVE",
+            "hitlisten.yaboo.dk": "INACTIVE"
+        },
+        "1575509472": {
+            "hitomiya.jp": "INACTIVE"
+        },
+        "1575509475": {
+            "hittinitraw.blogspot.com": "INACTIVE"
+        },
+        "1575509476": {
+            "hitwastedgarden.com": "INACTIVE",
+            "hitx.waudit.cz": "INACTIVE"
+        },
+        "1575509483": {
+            "ie.espotting.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
