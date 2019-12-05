@@ -1,11 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1575431920": {
-            "weekend-feerique.com": "INACTIVE"
-        },
-        "1575431928": {
-            "workingexamples.espotting.com": "INACTIVE"
-        },
         "1575432622": {
             "www10.paypopup.com": "INACTIVE",
             "www10.yesadvertising.com": "INACTIVE"
@@ -2008,6 +2002,12 @@
         },
         "1575549263": {
             "web-track.be": "INACTIVE"
+        },
+        "1575552446": {
+            "weekend-feerique.com": "INACTIVE"
+        },
+        "1575552454": {
+            "workingexamples.espotting.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
