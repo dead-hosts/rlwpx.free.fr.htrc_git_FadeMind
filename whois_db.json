@@ -16712,7 +16712,7 @@
     "pilltrade.com": {
         "epoch": 1575417600.0,
         "expiration_date": "04-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "pimptraffic.com": {
         "epoch": 1577491200.0,
@@ -16865,8 +16865,8 @@
         "state": "future"
     },
     "polygonsmedia.com": {
-        "epoch": 1575504000.0,
-        "expiration_date": "05-dec-2019",
+        "epoch": 1638662400.0,
+        "expiration_date": "05-dec-2021",
         "state": "future"
     },
     "poorvanchalbiharkelog.com": {
@@ -17075,8 +17075,8 @@
         "state": "future"
     },
     "powwowmediapartners.net": {
-        "epoch": 1575417600.0,
-        "expiration_date": "04-dec-2019",
+        "epoch": 1638576000.0,
+        "expiration_date": "04-dec-2021",
         "state": "future"
     },
     "ppcbidtracker.com": {
