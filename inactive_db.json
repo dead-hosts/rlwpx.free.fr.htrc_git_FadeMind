@@ -1,26 +1,6 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1575439773": {
-            "www.markosweb.com": "INACTIVE"
-        },
-        "1575439774": {
-            "www.mci12.clicksor.com": "INACTIVE",
-            "www.mediacap.net": "INACTIVE"
-        },
-        "1575439775": {
-            "www.mediadots.com": "INACTIVE"
-        },
-        "1575439776": {
-            "www.mediahighway.net": "INACTIVE",
-            "www.mediahostforph.com": "INACTIVE"
-        },
-        "1575439777": {
-            "www.mediaparad.ru": "INACTIVE",
-            "www.mediaplazza.net": "INACTIVE",
-            "www.mediaproductionsnigeria.net": "INACTIVE"
-        },
         "1575439778": {
-            "www.mediasmegaportal.com": "INACTIVE",
             "www.mediavibor.ru": "INACTIVE"
         },
         "1575440484": {
@@ -2012,6 +1992,24 @@
         },
         "1575578490": {
             "www.lusciousmedia.com": "INACTIVE"
+        },
+        "1575580571": {
+            "www.markosweb.com": "INACTIVE",
+            "www.mci12.clicksor.com": "INACTIVE"
+        },
+        "1575580572": {
+            "www.mediacap.net": "INACTIVE"
+        },
+        "1575580573": {
+            "www.mediadots.com": "INACTIVE",
+            "www.mediahighway.net": "INACTIVE",
+            "www.mediahostforph.com": "INACTIVE"
+        },
+        "1575580575": {
+            "www.mediaparad.ru": "INACTIVE",
+            "www.mediaplazza.net": "INACTIVE",
+            "www.mediaproductionsnigeria.net": "INACTIVE",
+            "www.mediasmegaportal.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
