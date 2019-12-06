@@ -1,29 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1575471172": {
-            "ads.clicksor.com": "INACTIVE"
-        },
-        "1575471173": {
-            "ads.fidelity-media.com": "INACTIVE",
-            "ads.fora.tv": "INACTIVE",
-            "ads.mixtraffic.com": "INACTIVE",
-            "adserver.flossiemediagroup.com": "INACTIVE"
-        },
-        "1575471174": {
-            "ads.seattletimes.com": "INACTIVE",
-            "ads.stephensmedia.com": "INACTIVE",
-            "ads.truthmedia.com": "INACTIVE"
-        },
-        "1575471175": {
-            "ads.webmedia.co.il": "INACTIVE"
-        },
-        "1575471176": {
-            "adult.koimedia.com": "INACTIVE",
-            "adultclicks.us": "INACTIVE"
-        },
-        "1575471178": {
-            "advert.mediaswiss.rs": "INACTIVE"
-        },
         "1575472343": {
             "affiliate.admtracker.com": "INACTIVE",
             "affiliate.espotting.com": "INACTIVE",
@@ -2007,6 +1983,29 @@
             "ads.bnmedia.com": "INACTIVE",
             "ads101.clicksor.com": "INACTIVE",
             "ads103.clicksor.com": "INACTIVE"
+        },
+        "1575658486": {
+            "ads.clicksor.com": "INACTIVE",
+            "ads.clicmanager.fr": "INACTIVE",
+            "ads.fidelity-media.com": "INACTIVE",
+            "ads.fora.tv": "INACTIVE",
+            "adserver.flossiemediagroup.com": "INACTIVE"
+        },
+        "1575658487": {
+            "ads.mixtraffic.com": "INACTIVE",
+            "ads.seattletimes.com": "INACTIVE"
+        },
+        "1575658488": {
+            "ads.stephensmedia.com": "INACTIVE",
+            "ads.truthmedia.com": "INACTIVE",
+            "ads.webmedia.co.il": "INACTIVE"
+        },
+        "1575658489": {
+            "adult.koimedia.com": "INACTIVE",
+            "adultclicks.us": "INACTIVE"
+        },
+        "1575658492": {
+            "advert.mediaswiss.rs": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
