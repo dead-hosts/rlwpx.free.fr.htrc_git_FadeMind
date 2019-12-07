@@ -1,22 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1575479831": {
-            "clicks.unifiedpost.com": "INACTIVE"
-        },
-        "1575479832": {
-            "clicks.walla.co.il": "INACTIVE"
-        },
-        "1575479833": {
-            "clicktracks.barrystickets.com": "INACTIVE",
-            "clicktracksolutions.com": "INACTIVE",
-            "clicktrackweb.offercheck.com": "INACTIVE"
-        },
-        "1575481276": {
-            "cliketclak.skynetblogs.be": "INACTIVE"
-        },
-        "1575481278": {
-            "cmedia.packfr.com": "INACTIVE"
-        },
         "1575481282": {
             "content.ipro.com": "INACTIVE",
             "contentsearch.ch.espotting.com": "INACTIVE",
@@ -2032,6 +2015,23 @@
             "clicks.beap.ad.yieldmanager.net": "INACTIVE",
             "clicks.beap.bc.yahoo.com": "INACTIVE",
             "clicks.igg.com": "INACTIVE"
+        },
+        "1575706122": {
+            "clicks.unifiedpost.com": "INACTIVE",
+            "clicks.walla.co.il": "INACTIVE"
+        },
+        "1575706123": {
+            "clicktracks.barrystickets.com": "INACTIVE",
+            "clicktracksolutions.com": "INACTIVE"
+        },
+        "1575706124": {
+            "clicktrackweb.offercheck.com": "INACTIVE"
+        },
+        "1575706126": {
+            "cliketclak.skynetblogs.be": "INACTIVE"
+        },
+        "1575706128": {
+            "cmedia.packfr.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
