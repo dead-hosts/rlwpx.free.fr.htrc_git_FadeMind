@@ -1664,21 +1664,6 @@
             "zeitonl.ivwbox.de": "INACTIVE",
             "zhitomir-info.biz": "INACTIVE"
         },
-        "1575655803": {
-            "admin07.hitforums.com": "INACTIVE"
-        },
-        "1575655804": {
-            "adm.soft365.com": "INACTIVE",
-            "admin.clicksor.com": "INACTIVE",
-            "adobe-dns-2.adobe.com": "INACTIVE",
-            "adobe-dns-3.adobe.com": "INACTIVE"
-        },
-        "1575655805": {
-            "ads.adonion.com": "INACTIVE",
-            "ads.bnmedia.com": "INACTIVE",
-            "ads101.clicksor.com": "INACTIVE",
-            "ads103.clicksor.com": "INACTIVE"
-        },
         "1575658486": {
             "ads.clicksor.com": "INACTIVE",
             "ads.clicmanager.fr": "INACTIVE",
@@ -2024,6 +2009,17 @@
             "ad.adtracking.me": "INACTIVE",
             "ad1.emediate.dk": "INACTIVE",
             "adclick.pruna.com": "INACTIVE"
+        },
+        "1575744452": {
+            "adm.soft365.com": "INACTIVE",
+            "admin.clicksor.com": "INACTIVE",
+            "admin07.hitforums.com": "INACTIVE",
+            "adobe-dns-2.adobe.com": "INACTIVE",
+            "adobe-dns-3.adobe.com": "INACTIVE",
+            "ads.adonion.com": "INACTIVE",
+            "ads.bnmedia.com": "INACTIVE",
+            "ads101.clicksor.com": "INACTIVE",
+            "ads103.clicksor.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
