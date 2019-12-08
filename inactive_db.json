@@ -1,43 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1575511884": {
-            "lists.pmbservices.fr": "INACTIVE"
-        },
-        "1575511886": {
-            "livesupport.clicksor.com": "INACTIVE"
-        },
-        "1575512729": {
-            "llbean.102.112.2o7.net": "INACTIVE"
-        },
-        "1575512730": {
-            "log1nfb.5gbfree.com": "INACTIVE",
-            "log77-5-88-164-151-96.fbx.proxad.net": "INACTIVE",
-            "log77-7-88-185-146-240.fbx.proxad.net": "INACTIVE",
-            "log8.110mb.com": "INACTIVE"
-        },
-        "1575512731": {
-            "logc10.xiti.com": "INACTIVE",
-            "logc111.xiti.com": "INACTIVE",
-            "logc138.xiti.com": "INACTIVE"
-        },
-        "1575512732": {
-            "logc148.xiti.com": "INACTIVE",
-            "logc15.xiti.com": "INACTIVE",
-            "logc16.xiti.com": "INACTIVE",
-            "logc175.xiti.com": "INACTIVE",
-            "logc188.xiti.com": "INACTIVE",
-            "logc19.xiti.com": "INACTIVE",
-            "logc210.xiti.com": "INACTIVE",
-            "logc218.xiti.com": "INACTIVE",
-            "logc239.xiti.com": "INACTIVE"
-        },
-        "1575512733": {
-            "logc278.xiti.com": "INACTIVE",
-            "logc285.xiti.com": "INACTIVE",
-            "logc57.xiti.com": "INACTIVE",
-            "logc7.xiti.com": "INACTIVE",
-            "logfotos.110mb.com": "INACTIVE"
-        },
         "1575512735": {
             "logo.real.com": "INACTIVE",
             "logp9.xiti.com": "INACTIVE"
@@ -1963,6 +1925,44 @@
         "1575770551": {
             "levtr.110mb.com": "INACTIVE",
             "lhcb-release-area.web.cern.ch": "INACTIVE"
+        },
+        "1575773022": {
+            "lists.pmbservices.fr": "INACTIVE"
+        },
+        "1575773024": {
+            "livesupport.clicksor.com": "INACTIVE",
+            "llbean.102.112.2o7.net": "INACTIVE"
+        },
+        "1575773025": {
+            "log1nfb.5gbfree.com": "INACTIVE",
+            "log77-5-88-164-151-96.fbx.proxad.net": "INACTIVE",
+            "log77-7-88-185-146-240.fbx.proxad.net": "INACTIVE",
+            "log8.110mb.com": "INACTIVE"
+        },
+        "1575773026": {
+            "logc10.xiti.com": "INACTIVE",
+            "logc111.xiti.com": "INACTIVE"
+        },
+        "1575773027": {
+            "logc138.xiti.com": "INACTIVE",
+            "logc148.xiti.com": "INACTIVE",
+            "logc15.xiti.com": "INACTIVE",
+            "logc16.xiti.com": "INACTIVE",
+            "logc175.xiti.com": "INACTIVE",
+            "logc188.xiti.com": "INACTIVE",
+            "logc19.xiti.com": "INACTIVE",
+            "logc210.xiti.com": "INACTIVE",
+            "logc218.xiti.com": "INACTIVE"
+        },
+        "1575773028": {
+            "logc239.xiti.com": "INACTIVE",
+            "logc278.xiti.com": "INACTIVE",
+            "logc285.xiti.com": "INACTIVE",
+            "logc57.xiti.com": "INACTIVE",
+            "logc7.xiti.com": "INACTIVE"
+        },
+        "1575773029": {
+            "logfotos.110mb.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
