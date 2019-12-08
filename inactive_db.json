@@ -1,11 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1575549255": {
-            "wap.espotting.com": "INACTIVE"
-        },
-        "1575549256": {
-            "wa.snsbank.nl": "INACTIVE"
-        },
         "1575549257": {
             "wdc.collective-media.net": "INACTIVE"
         },
@@ -1951,6 +1945,12 @@
         },
         "1575822547": {
             "vs.forbes.com": "INACTIVE"
+        },
+        "1575823929": {
+            "wap.espotting.com": "INACTIVE"
+        },
+        "1575823931": {
+            "wa.snsbank.nl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
