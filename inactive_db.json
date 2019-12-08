@@ -1,29 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1575578485": {
-            "www.key-logger.us": "INACTIVE",
-            "www.key-logging-software.org": "INACTIVE"
-        },
-        "1575578486": {
-            "www.kompass-intl.com": "INACTIVE",
-            "www.lamedia.ru": "INACTIVE"
-        },
-        "1575578487": {
-            "www.lamediazione.it": "INACTIVE",
-            "www.lbimedia.net": "INACTIVE",
-            "www.leopardsearch.com": "INACTIVE"
-        },
-        "1575578488": {
-            "www.links4trade.com": "INACTIVE",
-            "www.livexxxrated.com": "INACTIVE"
-        },
-        "1575578489": {
-            "www.logequip.com": "INACTIVE",
-            "www.logsex.nl": "INACTIVE"
-        },
-        "1575578490": {
-            "www.lusciousmedia.com": "INACTIVE"
-        },
         "1575580571": {
             "www.markosweb.com": "INACTIVE",
             "www.mci12.clicksor.com": "INACTIVE"
@@ -1943,6 +1919,30 @@
         },
         "1575838366": {
             "www.ivctricounty.org": "INACTIVE"
+        },
+        "1575839222": {
+            "www.key-logger.us": "INACTIVE",
+            "www.key-logging-software.org": "INACTIVE"
+        },
+        "1575839223": {
+            "www.kompass-intl.com": "INACTIVE",
+            "www.lamedia.ru": "INACTIVE",
+            "www.lamediazione.it": "INACTIVE",
+            "www.lbimedia.net": "INACTIVE"
+        },
+        "1575839224": {
+            "www.leopardsearch.com": "INACTIVE"
+        },
+        "1575839225": {
+            "www.links4trade.com": "INACTIVE",
+            "www.livexxxrated.com": "INACTIVE",
+            "www.logequip.com": "INACTIVE"
+        },
+        "1575839226": {
+            "www.logsex.nl": "INACTIVE"
+        },
+        "1575839227": {
+            "www.lusciousmedia.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
