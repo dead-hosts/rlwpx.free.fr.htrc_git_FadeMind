@@ -1,24 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1575534781": {
-            "top.c-stat.eu": "INACTIVE",
-            "topclicks.at": "INACTIVE"
-        },
-        "1575534782": {
-            "topfree.biz": "INACTIVE"
-        },
-        "1575534784": {
-            "toppoker.biz": "INACTIVE"
-        },
-        "1575534787": {
-            "topvideolist.com": "INACTIVE"
-        },
-        "1575534788": {
-            "tostadomedia.com": "INACTIVE"
-        },
-        "1575534789": {
-            "tpi.espotting.com": "INACTIVE"
-        },
         "1575534791": {
             "track.actiplay-network.com": "INACTIVE"
         },
@@ -1955,6 +1936,23 @@
             "teva.com.102.112.2o7.net": "INACTIVE",
             "tgpman.picturetrades.com": "INACTIVE",
             "tgptrades.com": "INACTIVE"
+        },
+        "1575812157": {
+            "top.c-stat.eu": "INACTIVE",
+            "topclicks.at": "INACTIVE",
+            "topfree.biz": "INACTIVE"
+        },
+        "1575812160": {
+            "toppoker.biz": "INACTIVE"
+        },
+        "1575812162": {
+            "topvideolist.com": "INACTIVE"
+        },
+        "1575812163": {
+            "tostadomedia.com": "INACTIVE"
+        },
+        "1575812164": {
+            "tpi.espotting.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
