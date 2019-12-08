@@ -1,16 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1575567896": {
-            "www.crazedhits.com": "INACTIVE",
-            "www.crocencounters.org": "INACTIVE",
-            "www.ctnewmedia.com": "INACTIVE"
-        },
-        "1575567899": {
-            "www.diytrade.com": "INACTIVE"
-        },
-        "1575567900": {
-            "www.download-best-softwares.com": "INACTIVE"
-        },
         "1575569834": {
             "www.ebannertraffic.com": "INACTIVE"
         },
@@ -1941,6 +1930,19 @@
         },
         "1575833267": {
             "www.countermoney.ru": "INACTIVE"
+        },
+        "1575834551": {
+            "www.crazedhits.com": "INACTIVE"
+        },
+        "1575834552": {
+            "www.crocencounters.org": "INACTIVE",
+            "www.ctnewmedia.com": "INACTIVE"
+        },
+        "1575834555": {
+            "www.diytrade.com": "INACTIVE"
+        },
+        "1575834556": {
+            "www.download-best-softwares.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
