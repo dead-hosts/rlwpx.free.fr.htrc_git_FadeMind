@@ -1,16 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1575590152": {
-            "www.shadowtraders.com": "INACTIVE"
-        },
-        "1575590153": {
-            "www.shorlakmedia.com": "INACTIVE"
-        },
-        "1575590154": {
-            "www.sitestat.net": "INACTIVE",
-            "www.sitewebstats.com": "INACTIVE",
-            "www.slap-up-media.net": "INACTIVE"
-        },
         "1575590155": {
             "www.softonic-analytics.net": "INACTIVE",
             "www.software-comparisons.com": "INACTIVE"
@@ -1954,6 +1943,17 @@
         "1575842776": {
             "www.search-itnow.com": "INACTIVE",
             "www.search.clicksor.com": "INACTIVE"
+        },
+        "1575843626": {
+            "www.shadowtraders.com": "INACTIVE",
+            "www.shorlakmedia.com": "INACTIVE"
+        },
+        "1575843627": {
+            "www.sitestat.net": "INACTIVE"
+        },
+        "1575843628": {
+            "www.sitewebstats.com": "INACTIVE",
+            "www.slap-up-media.net": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
