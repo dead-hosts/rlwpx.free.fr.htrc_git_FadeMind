@@ -1,28 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1575706123": {
-            "clicktracks.barrystickets.com": "INACTIVE",
-            "clicktracksolutions.com": "INACTIVE"
-        },
-        "1575706124": {
-            "clicktrackweb.offercheck.com": "INACTIVE"
-        },
-        "1575706126": {
-            "cliketclak.skynetblogs.be": "INACTIVE"
-        },
-        "1575706128": {
-            "cmedia.packfr.com": "INACTIVE"
-        },
-        "1575707565": {
-            "content.ipro.com": "INACTIVE",
-            "contentsearch.ch.espotting.com": "INACTIVE",
-            "contentsearch.de.espotting.com": "INACTIVE",
-            "contentsearch.es.espotting.com": "INACTIVE",
-            "contentsearch.fr.espotting.com": "INACTIVE",
-            "contentsearch.it.espotting.com": "INACTIVE",
-            "contentsearch.no.espotting.com": "INACTIVE",
-            "contentsearch.se.espotting.com": "INACTIVE"
-        },
         "1575707567": {
             "core.bluefly.com": "INACTIVE"
         },
@@ -2035,6 +2012,28 @@
         },
         "1576004249": {
             "clicks.walla.co.il": "INACTIVE"
+        },
+        "1576006003": {
+            "clicktracks.barrystickets.com": "INACTIVE",
+            "clicktracksolutions.com": "INACTIVE",
+            "clicktrackweb.offercheck.com": "INACTIVE"
+        },
+        "1576006005": {
+            "cliketclak.skynetblogs.be": "INACTIVE"
+        },
+        "1576006007": {
+            "cmedia.packfr.com": "INACTIVE",
+            "cmoads.concordmonitor.com": "INACTIVE"
+        },
+        "1576006012": {
+            "content.ipro.com": "INACTIVE",
+            "contentsearch.ch.espotting.com": "INACTIVE",
+            "contentsearch.de.espotting.com": "INACTIVE",
+            "contentsearch.es.espotting.com": "INACTIVE",
+            "contentsearch.fr.espotting.com": "INACTIVE",
+            "contentsearch.it.espotting.com": "INACTIVE",
+            "contentsearch.no.espotting.com": "INACTIVE",
+            "contentsearch.se.espotting.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
