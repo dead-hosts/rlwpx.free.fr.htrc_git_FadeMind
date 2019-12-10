@@ -1,29 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1575710276": {
-            "de.nedstat.net": "INACTIVE"
-        },
-        "1575710277": {
-            "de.sitestat.nedstat.net": "INACTIVE",
-            "dev.media.adxpansion.com": "INACTIVE",
-            "dev.millennialmedia.com": "INACTIVE"
-        },
-        "1575710278": {
-            "dialers.netcollex.net": "INACTIVE"
-        },
-        "1575710279": {
-            "digitalalemedia.com": "INACTIVE"
-        },
-        "1575710281": {
-            "dk.espotting.com": "INACTIVE",
-            "dl.elex.soft365.com": "INACTIVE"
-        },
-        "1575711266": {
-            "dmeserv.newsinc.com": "INACTIVE"
-        },
-        "1575711267": {
-            "dogpile.espotting.com": "INACTIVE"
-        },
         "1575711268": {
             "doubclick.com": "INACTIVE"
         },
@@ -2034,6 +2010,32 @@
         "1576009083": {
             "de.couponhit.com": "INACTIVE",
             "de.espotting.com": "INACTIVE"
+        },
+        "1576010590": {
+            "de.nedstat.net": "INACTIVE"
+        },
+        "1576010591": {
+            "de.sitestat.nedstat.net": "INACTIVE"
+        },
+        "1576010592": {
+            "dev.media.adxpansion.com": "INACTIVE",
+            "dev.millennialmedia.com": "INACTIVE"
+        },
+        "1576010593": {
+            "dialers.netcollex.net": "INACTIVE"
+        },
+        "1576010594": {
+            "digitalalemedia.com": "INACTIVE"
+        },
+        "1576010596": {
+            "dk.espotting.com": "INACTIVE"
+        },
+        "1576010597": {
+            "dl.elex.soft365.com": "INACTIVE",
+            "dmeserv.newsinc.com": "INACTIVE"
+        },
+        "1576010598": {
+            "dogpile.espotting.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
