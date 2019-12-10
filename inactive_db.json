@@ -198,11 +198,6 @@
         "1575712141": {
             "ed-media.ru": "INACTIVE"
         },
-        "1575721907": {
-            "ad.adtracking.me": "INACTIVE",
-            "ad1.emediate.dk": "INACTIVE",
-            "adclick.pruna.com": "INACTIVE"
-        },
         "1575744452": {
             "adm.soft365.com": "INACTIVE",
             "admin.clicksor.com": "INACTIVE",
@@ -1970,6 +1965,13 @@
         },
         "1575973502": {
             "active.macromedia.com": "INACTIVE"
+        },
+        "1575976685": {
+            "ad1.emediate.dk": "INACTIVE"
+        },
+        "1575976686": {
+            "ad.adtracking.me": "INACTIVE",
+            "adclick.pruna.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
