@@ -186,29 +186,8 @@
         "1575712141": {
             "ed-media.ru": "INACTIVE"
         },
-        "1575746096": {
-            "ads.clicmanager.fr": "INACTIVE",
-            "ads.fidelity-media.com": "INACTIVE",
-            "ads.fora.tv": "INACTIVE",
-            "ads.mixtraffic.com": "INACTIVE",
-            "ads.seattletimes.com": "INACTIVE",
-            "ads.stephensmedia.com": "INACTIVE",
-            "ads.truthmedia.com": "INACTIVE",
-            "ads.webmedia.co.il": "INACTIVE",
-            "adserver.flossiemediagroup.com": "INACTIVE",
-            "adult.koimedia.com": "INACTIVE",
-            "adultclicks.us": "INACTIVE",
-            "advert.mediaswiss.rs": "INACTIVE"
-        },
         "1575747984": {
             "a.live-conversion.com": "INACTIVE",
-            "affiliate.admtracker.com": "INACTIVE",
-            "affiliate.espotting.com": "INACTIVE",
-            "affiliate.mobi.espotting.com": "INACTIVE",
-            "affiliate.nl.espotting.com": "INACTIVE",
-            "affiliate.no.espotting.com": "INACTIVE",
-            "affiliate.rvptracker.com": "INACTIVE",
-            "affiliate.se.espotting.com": "INACTIVE",
             "allogay.host-php.org": "INACTIVE",
             "alogcorp.275mb.com": "INACTIVE",
             "analytics.androidandme.com": "INACTIVE",
@@ -1969,6 +1948,42 @@
         },
         "1575992902": {
             "ads.clicksor.com": "INACTIVE"
+        },
+        "1575994314": {
+            "ads.clicmanager.fr": "INACTIVE",
+            "ads.fidelity-media.com": "INACTIVE",
+            "ads.fora.tv": "INACTIVE",
+            "adserver.flossiemediagroup.com": "INACTIVE"
+        },
+        "1575994315": {
+            "ads.mixtraffic.com": "INACTIVE"
+        },
+        "1575994316": {
+            "ads.seattletimes.com": "INACTIVE",
+            "ads.stephensmedia.com": "INACTIVE",
+            "ads.truthmedia.com": "INACTIVE"
+        },
+        "1575994317": {
+            "ads.webmedia.co.il": "INACTIVE"
+        },
+        "1575994318": {
+            "adult.koimedia.com": "INACTIVE",
+            "adultclicks.us": "INACTIVE"
+        },
+        "1575994321": {
+            "adv.protraffic.com": "INACTIVE",
+            "advert.mediaswiss.rs": "INACTIVE"
+        },
+        "1575994322": {
+            "affiliate.admtracker.com": "INACTIVE"
+        },
+        "1575994323": {
+            "affiliate.espotting.com": "INACTIVE",
+            "affiliate.mobi.espotting.com": "INACTIVE",
+            "affiliate.nl.espotting.com": "INACTIVE",
+            "affiliate.no.espotting.com": "INACTIVE",
+            "affiliate.rvptracker.com": "INACTIVE",
+            "affiliate.se.espotting.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
