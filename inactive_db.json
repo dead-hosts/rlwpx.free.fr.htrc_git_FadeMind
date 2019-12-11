@@ -1,15 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1575822544": {
-            "vistatitka.blogspot.com": "INACTIVE",
-            "vitals.bandolino.com": "INACTIVE"
-        },
-        "1575822545": {
-            "vizisense.komli.net": "INACTIVE",
-            "vlcmedia.gblogee.com": "INACTIVE",
-            "vlcmedia.packfr.com": "INACTIVE",
-            "vlogic.ak-networks.com": "INACTIVE"
-        },
         "1575822547": {
             "vs.forbes.com": "INACTIVE"
         },
@@ -2058,6 +2048,18 @@
         },
         "1576070175": {
             "venus.goclick.com": "INACTIVE"
+        },
+        "1576071619": {
+            "vistatitka.blogspot.com": "INACTIVE"
+        },
+        "1576071620": {
+            "vitals.bandolino.com": "INACTIVE",
+            "vizisense.komli.net": "INACTIVE",
+            "vlcmedia.gblogee.com": "INACTIVE",
+            "vlcmedia.packfr.com": "INACTIVE"
+        },
+        "1576071621": {
+            "vlogic.ak-networks.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
