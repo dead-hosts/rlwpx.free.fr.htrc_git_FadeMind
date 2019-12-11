@@ -1,28 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1575821159": {
-            "ua.cnt.gemius.pl": "INACTIVE"
-        },
-        "1575821160": {
-            "uggaustralia.com.102.112.2o7.net": "INACTIVE",
-            "ugrank.urll.net": "INACTIVE",
-            "uk.nedstat.net": "INACTIVE"
-        },
-        "1575821162": {
-            "up.soft365.com": "INACTIVE",
-            "updatedll.mediathree.net": "INACTIVE"
-        },
-        "1575821163": {
-            "usa.nedstat.com": "INACTIVE",
-            "usa.nedstat.net": "INACTIVE"
-        },
-        "1575821164": {
-            "us.myflavia.com.102.112.2o7.net": "INACTIVE",
-            "us.yesup.com": "INACTIVE"
-        },
-        "1575822538": {
-            "venus.goclick.com": "INACTIVE"
-        },
         "1575822544": {
             "vistatitka.blogspot.com": "INACTIVE",
             "vitals.bandolino.com": "INACTIVE"
@@ -2056,6 +2033,31 @@
         },
         "1576065769": {
             "trywith.us": "INACTIVE"
+        },
+        "1576070165": {
+            "ua.cnt.gemius.pl": "INACTIVE"
+        },
+        "1576070166": {
+            "uggaustralia.com.102.112.2o7.net": "INACTIVE",
+            "ugrank.urll.net": "INACTIVE",
+            "uk.nedstat.net": "INACTIVE"
+        },
+        "1576070168": {
+            "up.soft365.com": "INACTIVE",
+            "updatedll.mediathree.net": "INACTIVE"
+        },
+        "1576070169": {
+            "usa.nedstat.com": "INACTIVE",
+            "usa.nedstat.net": "INACTIVE"
+        },
+        "1576070170": {
+            "us.myflavia.com.102.112.2o7.net": "INACTIVE"
+        },
+        "1576070171": {
+            "us.yesup.com": "INACTIVE"
+        },
+        "1576070175": {
+            "venus.goclick.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
