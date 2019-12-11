@@ -1,29 +1,7 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1575843626": {
-            "www.shadowtraders.com": "INACTIVE",
-            "www.shorlakmedia.com": "INACTIVE"
-        },
-        "1575843627": {
-            "www.sitestat.net": "INACTIVE"
-        },
-        "1575843628": {
-            "www.sitewebstats.com": "INACTIVE",
-            "www.slap-up-media.net": "INACTIVE"
-        },
-        "1575844336": {
-            "www.softonic-analytics.net": "INACTIVE",
-            "www.software-comparisons.com": "INACTIVE"
-        },
-        "1575844338": {
-            "www.starclicks.com": "INACTIVE"
-        },
-        "1575844339": {
-            "www.statistiq.com": "INACTIVE"
-        },
         "1575844340": {
-            "www.stats.fr": "INACTIVE",
-            "www.statsforyoursite.com": "INACTIVE"
+            "www.stats.fr": "INACTIVE"
         },
         "1575844342": {
             "www.superstatistic.it": "INACTIVE",
@@ -2065,6 +2043,26 @@
         },
         "1576095370": {
             "www.sexhit.ru": "INACTIVE"
+        },
+        "1576096128": {
+            "www.shadowtraders.com": "INACTIVE",
+            "www.shorlakmedia.com": "INACTIVE"
+        },
+        "1576096129": {
+            "www.sitestat.net": "INACTIVE",
+            "www.sitewebstats.com": "INACTIVE",
+            "www.slap-up-media.net": "INACTIVE"
+        },
+        "1576096130": {
+            "www.softonic-analytics.net": "INACTIVE",
+            "www.software-comparisons.com": "INACTIVE"
+        },
+        "1576096132": {
+            "www.starclicks.com": "INACTIVE"
+        },
+        "1576096133": {
+            "www.statistiq.com": "INACTIVE",
+            "www.statsforyoursite.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
