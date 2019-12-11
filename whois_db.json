@@ -13290,14 +13290,14 @@
         "state": "future"
     },
     "maxiti.com": {
-        "epoch": 1576022400.0,
-        "expiration_date": "11-dec-2019",
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
         "state": "future"
     },
     "maxiti.net": {
         "epoch": 1576022400.0,
         "expiration_date": "11-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "maxrate.com": {
         "epoch": 1589328000.0,
