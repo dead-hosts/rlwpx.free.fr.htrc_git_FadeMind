@@ -1,17 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1575794516": {
-            "rateyourrod.com": "INACTIVE"
-        },
-        "1575794518": {
-            "recherche.yagoort.org": "INACTIVE"
-        },
-        "1575794520": {
-            "remediation.co": "INACTIVE"
-        },
-        "1575796013": {
-            "reporting.espotting.com": "INACTIVE"
-        },
         "1575796015": {
             "revmedia.ru": "INACTIVE"
         },
@@ -2060,6 +2048,16 @@
         },
         "1576050816": {
             "ranksonic.org": "INACTIVE"
+        },
+        "1576051527": {
+            "rateyourrod.com": "INACTIVE"
+        },
+        "1576051529": {
+            "recherche.yagoort.org": "INACTIVE"
+        },
+        "1576051533": {
+            "remediation.co": "INACTIVE",
+            "reporting.espotting.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
