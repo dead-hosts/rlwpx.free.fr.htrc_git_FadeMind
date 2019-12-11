@@ -1,22 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1575845036": {
-            "www.traffic-network.net": "INACTIVE",
-            "www.trafficmp.com": "INACTIVE",
-            "www.trafficneeds.com": "INACTIVE",
-            "www.trafficrank.com": "INACTIVE",
-            "www.trafficseeker.com": "INACTIVE",
-            "www.trafficsekar.com": "INACTIVE"
-        },
-        "1575845037": {
-            "www.traffictrade.net": "INACTIVE",
-            "www.trafficyards.com": "INACTIVE"
-        },
-        "1575845751": {
-            "www.ultradialer.com": "INACTIVE",
-            "www.usa-trade.net": "INACTIVE",
-            "www.userscounter.com": "INACTIVE"
-        },
         "1575845753": {
             "www.virtual-countries.com": "INACTIVE"
         },
@@ -2063,6 +2046,24 @@
         },
         "1576097001": {
             "www.tradelogger.net": "INACTIVE"
+        },
+        "1576097929": {
+            "www.traffic-network.net": "INACTIVE",
+            "www.trafficmp.com": "INACTIVE"
+        },
+        "1576097930": {
+            "www.trafficrank.com": "INACTIVE",
+            "www.trafficseeker.com": "INACTIVE",
+            "www.trafficsekar.com": "INACTIVE",
+            "www.trafficsupport.com": "INACTIVE",
+            "www.traffictrade.net": "INACTIVE",
+            "www.trafficyards.com": "INACTIVE"
+        },
+        "1576097932": {
+            "www.usa-trade.net": "INACTIVE"
+        },
+        "1576097933": {
+            "www.userscounter.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
