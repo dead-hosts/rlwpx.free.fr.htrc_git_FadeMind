@@ -455,8 +455,8 @@
         "state": "future"
     },
     "a4dtracker.com": {
-        "epoch": 1576022400.0,
-        "expiration_date": "11-dec-2019",
+        "epoch": 1582243200.0,
+        "expiration_date": "21-feb-2020",
         "state": "future"
     },
     "aaronkratenart.com": {
@@ -477,7 +477,7 @@
     "aautrack.com": {
         "epoch": 1576108800.0,
         "expiration_date": "12-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "ableclick.com": {
         "epoch": 1585008000.0,
