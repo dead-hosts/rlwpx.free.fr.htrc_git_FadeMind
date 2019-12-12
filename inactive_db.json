@@ -1,27 +1,6 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1575992900": {
-            "ads101.clicksor.com": "INACTIVE"
-        },
-        "1575992901": {
-            "ads.adonion.com": "INACTIVE",
-            "ads.bnmedia.com": "INACTIVE",
-            "ads103.clicksor.com": "INACTIVE"
-        },
-        "1575992902": {
-            "ads.clicksor.com": "INACTIVE"
-        },
-        "1575994314": {
-            "ads.clicmanager.fr": "INACTIVE",
-            "ads.fidelity-media.com": "INACTIVE",
-            "ads.fora.tv": "INACTIVE",
-            "adserver.flossiemediagroup.com": "INACTIVE"
-        },
-        "1575994315": {
-            "ads.mixtraffic.com": "INACTIVE"
-        },
         "1575994316": {
-            "ads.seattletimes.com": "INACTIVE",
             "ads.stephensmedia.com": "INACTIVE",
             "ads.truthmedia.com": "INACTIVE"
         },
@@ -2062,6 +2041,25 @@
         "1576174412": {
             "adobe-dns-2.adobe.com": "INACTIVE",
             "adobe-dns-3.adobe.com": "INACTIVE"
+        },
+        "1576176694": {
+            "ads101.clicksor.com": "INACTIVE",
+            "ads103.clicksor.com": "INACTIVE"
+        },
+        "1576176695": {
+            "ads.adonion.com": "INACTIVE",
+            "ads.bnmedia.com": "INACTIVE",
+            "ads.clicksor.com": "INACTIVE",
+            "ads.clicmanager.fr": "INACTIVE"
+        },
+        "1576176696": {
+            "ads.fidelity-media.com": "INACTIVE",
+            "ads.fora.tv": "INACTIVE",
+            "adserver.flossiemediagroup.com": "INACTIVE"
+        },
+        "1576176697": {
+            "ads.mixtraffic.com": "INACTIVE",
+            "ads.seattletimes.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
