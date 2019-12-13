@@ -8717,7 +8717,7 @@
     "free-hit.com": {
         "epoch": 1576108800.0,
         "expiration_date": "12-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "free-shit-sites.com": {
         "epoch": 1591833600.0,
@@ -8935,9 +8935,9 @@
         "state": "future"
     },
     "freexratedmovies.com": {
-        "epoch": 1575936000.0,
-        "expiration_date": "10-dec-2019",
-        "state": "past"
+        "epoch": 1607558400.0,
+        "expiration_date": "10-dec-2020",
+        "state": "future"
     },
     "freexratedporn.com": {
         "epoch": 1601942400.0,
