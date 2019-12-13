@@ -1,11 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1576011922": {
-            "dtrack.secdls.com": "INACTIVE"
-        },
-        "1576011923": {
-            "dynamix.trafficrevmaster.com": "INACTIVE"
-        },
         "1576013034": {
             "ed-media.ru": "INACTIVE"
         },
@@ -2059,6 +2053,12 @@
             "download.fairdialer.de": "INACTIVE",
             "download.zhongsou.com": "INACTIVE",
             "downloads.mediaplayer4free.com": "INACTIVE"
+        },
+        "1576201377": {
+            "dtrack.secdls.com": "INACTIVE"
+        },
+        "1576201378": {
+            "dynamix.trafficrevmaster.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
