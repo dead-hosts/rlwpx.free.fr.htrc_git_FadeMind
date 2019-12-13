@@ -10710,8 +10710,8 @@
         "state": "future"
     },
     "hitsite.org": {
-        "epoch": 1576195200.0,
-        "expiration_date": "13-dec-2019",
+        "epoch": 1583712000.0,
+        "expiration_date": "09-mar-2020",
         "state": "future"
     },
     "hitslap.com": {
@@ -10912,7 +10912,7 @@
     "homemediakit.com": {
         "epoch": 1576195200.0,
         "expiration_date": "13-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "homeoftraffic.com": {
         "epoch": 1595721600.0,
