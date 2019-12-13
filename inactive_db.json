@@ -1,25 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1576044361": {
-            "mclient.ivwbox.de": "INACTIVE"
-        },
-        "1576044363": {
-            "media200.110mb.com": "INACTIVE"
-        },
-        "1576044364": {
-            "media.acces-charme.com": "INACTIVE",
-            "media.adlegend.com": "INACTIVE"
-        },
-        "1576044366": {
-            "mediaboxen.no": "INACTIVE"
-        },
-        "1576045075": {
-            "media.hw.adxpansion.com": "INACTIVE",
-            "media.intelia.it": "INACTIVE"
-        },
-        "1576045076": {
-            "media.likes.com": "INACTIVE"
-        },
         "1576045077": {
             "media.maturegratuit.net": "INACTIVE",
             "media.millennialmedia.com": "INACTIVE",
@@ -2070,6 +2050,26 @@
         },
         "1576231553": {
             "mci12.clicksor.com": "INACTIVE"
+        },
+        "1576232609": {
+            "mclient.ivwbox.de": "INACTIVE"
+        },
+        "1576232611": {
+            "media200.110mb.com": "INACTIVE"
+        },
+        "1576232613": {
+            "media.acces-charme.com": "INACTIVE",
+            "media.adlegend.com": "INACTIVE"
+        },
+        "1576232614": {
+            "mediaboxen.no": "INACTIVE"
+        },
+        "1576232620": {
+            "media.hw.adxpansion.com": "INACTIVE",
+            "media.intelia.it": "INACTIVE"
+        },
+        "1576232621": {
+            "media.likes.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
