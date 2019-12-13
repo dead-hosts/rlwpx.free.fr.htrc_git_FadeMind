@@ -1,31 +1,6 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1576041667": {
-            "lbimedia.net": "INACTIVE"
-        },
-        "1576041668": {
-            "leck.servecounterstrike.com": "INACTIVE"
-        },
-        "1576041669": {
-            "levtr.110mb.com": "INACTIVE"
-        },
-        "1576041670": {
-            "lhcb-release-area.web.cern.ch": "INACTIVE"
-        },
-        "1576041673": {
-            "lists.pmbservices.fr": "INACTIVE"
-        },
-        "1576042647": {
-            "livesupport.clicksor.com": "INACTIVE"
-        },
-        "1576042648": {
-            "llbean.102.112.2o7.net": "INACTIVE",
-            "log1nfb.5gbfree.com": "INACTIVE"
-        },
         "1576042649": {
-            "log77-5-88-164-151-96.fbx.proxad.net": "INACTIVE",
-            "log77-7-88-185-146-240.fbx.proxad.net": "INACTIVE",
-            "log8.110mb.com": "INACTIVE",
             "logc10.xiti.com": "INACTIVE",
             "logc111.xiti.com": "INACTIVE",
             "logc138.xiti.com": "INACTIVE"
@@ -2062,6 +2037,33 @@
         },
         "1576228718": {
             "kelkoo.espotting.com": "INACTIVE"
+        },
+        "1576229753": {
+            "lbimedia.net": "INACTIVE"
+        },
+        "1576229754": {
+            "leck.servecounterstrike.com": "INACTIVE"
+        },
+        "1576229755": {
+            "levtr.110mb.com": "INACTIVE"
+        },
+        "1576229756": {
+            "lhcb-release-area.web.cern.ch": "INACTIVE"
+        },
+        "1576229760": {
+            "lists.pmbservices.fr": "INACTIVE"
+        },
+        "1576229761": {
+            "livesupport.clicksor.com": "INACTIVE"
+        },
+        "1576229762": {
+            "llbean.102.112.2o7.net": "INACTIVE"
+        },
+        "1576229763": {
+            "log1nfb.5gbfree.com": "INACTIVE",
+            "log77-5-88-164-151-96.fbx.proxad.net": "INACTIVE",
+            "log77-7-88-185-146-240.fbx.proxad.net": "INACTIVE",
+            "log8.110mb.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
