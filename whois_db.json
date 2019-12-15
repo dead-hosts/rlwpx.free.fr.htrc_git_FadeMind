@@ -24780,9 +24780,9 @@
         "state": "future"
     },
     "velmedia.net": {
-        "epoch": 1576022400.0,
-        "expiration_date": "11-dec-2019",
-        "state": "past"
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
+        "state": "future"
     },
     "velocitytrack.com": {
         "epoch": 1581292800.0,
@@ -24905,7 +24905,7 @@
         "state": "future"
     },
     "vipmedia.us": {
-        "epoch": "1584316800",
+        "epoch": 1584316800.0,
         "expiration_date": "16-mar-2020",
         "state": "future"
     },
