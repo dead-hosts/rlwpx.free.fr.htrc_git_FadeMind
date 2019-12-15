@@ -23145,7 +23145,7 @@
         "state": "future"
     },
     "tradeext.us": {
-        "epoch": "1607299200",
+        "epoch": 1607299200.0,
         "expiration_date": "07-dec-2020",
         "state": "future"
     },
@@ -23155,7 +23155,7 @@
         "state": "future"
     },
     "tradeextension.us": {
-        "epoch": "1607299200",
+        "epoch": 1607299200.0,
         "expiration_date": "07-dec-2020",
         "state": "future"
     },
