@@ -2547,7 +2547,7 @@
     "bcmediagroup.com": {
         "epoch": 1576454400.0,
         "expiration_date": "16-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "bde3d.com": {
         "epoch": 1607644800.0,
@@ -2985,8 +2985,8 @@
         "state": "future"
     },
     "blogtraffic.com": {
-        "epoch": 1576368000.0,
-        "expiration_date": "15-dec-2019",
+        "epoch": 1607990400.0,
+        "expiration_date": "15-dec-2020",
         "state": "future"
     },
     "blogtrafic.com": {
@@ -3290,8 +3290,8 @@
         "state": "future"
     },
     "brazilian-shitters.com": {
-        "epoch": 1576195200.0,
-        "expiration_date": "13-dec-2019",
+        "epoch": 1583107200.0,
+        "expiration_date": "02-mar-2020",
         "state": "future"
     },
     "breakawaytrack.net": {
