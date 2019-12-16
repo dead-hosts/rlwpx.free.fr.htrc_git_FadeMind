@@ -1,17 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1576147119": {
-            "006.free-adult-counters.x-xtra.com": "INACTIVE"
-        },
-        "1576147123": {
-            "600xt.bbfr.net": "INACTIVE"
-        },
-        "1576147125": {
-            "a.bizarremag.com": "INACTIVE"
-        },
-        "1576151605": {
-            "active.macromedia.com": "INACTIVE"
-        },
         "1576151606": {
             "ad.adtracking.me": "INACTIVE",
             "ad1.emediate.dk": "INACTIVE"
@@ -2086,6 +2074,18 @@
         },
         "1576391441": {
             "zhitomir-info.biz": "INACTIVE"
+        },
+        "1576492734": {
+            "006.free-adult-counters.x-xtra.com": "INACTIVE"
+        },
+        "1576492738": {
+            "600xt.bbfr.net": "INACTIVE"
+        },
+        "1576492740": {
+            "a.bizarremag.com": "INACTIVE"
+        },
+        "1576492742": {
+            "active.macromedia.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
