@@ -1,8 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1576203277": {
-            "ed-media.ru": "INACTIVE"
-        },
         "1576221608": {
             "en.compteur.fr": "INACTIVE",
             "energyratedwindow.com": "INACTIVE"
@@ -2077,6 +2074,9 @@
         },
         "1576518790": {
             "dynamix.trafficrevmaster.com": "INACTIVE"
+        },
+        "1576519822": {
+            "ed-media.ru": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
