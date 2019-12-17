@@ -1,48 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1576384343": {
-            "www.mediadots.com": "INACTIVE"
-        },
-        "1576384344": {
-            "www.mediahighway.net": "INACTIVE",
-            "www.mediahostforph.com": "INACTIVE"
-        },
-        "1576384345": {
-            "www.mediaparad.ru": "INACTIVE"
-        },
-        "1576384346": {
-            "www.mediaplazza.net": "INACTIVE",
-            "www.mediaproductionsnigeria.net": "INACTIVE",
-            "www.mediasmegaportal.com": "INACTIVE"
-        },
-        "1576384347": {
-            "www.mediavibor.ru": "INACTIVE"
-        },
-        "1576384348": {
-            "www.methodevegas.com": "INACTIVE",
-            "www.midkotatraffic.net": "INACTIVE"
-        },
-        "1576384349": {
-            "www.mixtraffic.com": "INACTIVE",
-            "www.mlclick.com": "INACTIVE",
-            "www.mobi.espotting.com": "INACTIVE"
-        },
-        "1576384351": {
-            "www.movehits.at": "INACTIVE",
-            "www.mrank.tk": "INACTIVE"
-        },
-        "1576385085": {
-            "www.multi-click-est.com": "INACTIVE"
-        },
-        "1576385087": {
-            "www.navigateur-internet.info": "INACTIVE",
-            "www.nedstat.net": "INACTIVE",
-            "www.nethitz.tk": "INACTIVE"
-        },
-        "1576385088": {
-            "www.neutronstats.com": "INACTIVE",
-            "www.newsitehits.com": "INACTIVE"
-        },
         "1576385091": {
             "www.ohshitmovies.com": "INACTIVE",
             "www.onlineauctiontrader.com": "INACTIVE",
@@ -2070,6 +2027,41 @@
         },
         "1576616699": {
             "www.mci12.clicksor.com": "INACTIVE"
+        },
+        "1576617413": {
+            "www.mediadots.com": "INACTIVE",
+            "www.mediahighway.net": "INACTIVE",
+            "www.mediahostforph.com": "INACTIVE"
+        },
+        "1576617414": {
+            "www.mediaparad.ru": "INACTIVE",
+            "www.mediaplazza.net": "INACTIVE",
+            "www.mediaproductionsnigeria.net": "INACTIVE"
+        },
+        "1576617415": {
+            "www.mediasmegaportal.com": "INACTIVE",
+            "www.mediavibor.ru": "INACTIVE"
+        },
+        "1576617416": {
+            "www.methodevegas.com": "INACTIVE",
+            "www.midkotatraffic.net": "INACTIVE"
+        },
+        "1576617417": {
+            "www.mixtraffic.com": "INACTIVE",
+            "www.mlclick.com": "INACTIVE",
+            "www.mobi.espotting.com": "INACTIVE"
+        },
+        "1576617418": {
+            "www.movehits.at": "INACTIVE",
+            "www.multi-click-est.com": "INACTIVE"
+        },
+        "1576617419": {
+            "www.navigateur-internet.info": "INACTIVE",
+            "www.nedstat.net": "INACTIVE"
+        },
+        "1576617420": {
+            "www.neutronstats.com": "INACTIVE",
+            "www.newsitehits.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
