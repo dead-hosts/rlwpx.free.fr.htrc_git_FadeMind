@@ -1,26 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1576235754": {
-            "mrclicktracker.com": "INACTIVE"
-        },
-        "1576235755": {
-            "m.sharpmobilemarketing.onlinetrafficresults.com": "INACTIVE"
-        },
-        "1576235756": {
-            "m.standardinteractive.com": "INACTIVE"
-        },
-        "1576235759": {
-            "mycounter.tinycounter.com": "INACTIVE"
-        },
-        "1576235761": {
-            "my-pagerank.de": "INACTIVE"
-        },
-        "1576235764": {
-            "navitastrade.com": "INACTIVE"
-        },
-        "1576235765": {
-            "neocounter.net": "INACTIVE"
-        },
         "1576236667": {
             "netzeitu.ivwbox.de": "INACTIVE"
         },
@@ -2074,6 +2053,25 @@
             "movies.erotracks.com": "INACTIVE",
             "mozillafireox.servecounterstrike.com": "INACTIVE",
             "mp-gap05.prod.millennialmedia.com": "INACTIVE"
+        },
+        "1576564901": {
+            "m.sharpmobilemarketing.onlinetrafficresults.com": "INACTIVE",
+            "mrclicktracker.com": "INACTIVE"
+        },
+        "1576564903": {
+            "m.standardinteractive.com": "INACTIVE"
+        },
+        "1576564905": {
+            "mycounter.tinycounter.com": "INACTIVE"
+        },
+        "1576564907": {
+            "my-pagerank.de": "INACTIVE"
+        },
+        "1576564910": {
+            "navitastrade.com": "INACTIVE"
+        },
+        "1576564911": {
+            "neocounter.net": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
