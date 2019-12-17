@@ -1,16 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1576373692": {
-            "usa.nedstat.com": "INACTIVE",
-            "usa.nedstat.net": "INACTIVE"
-        },
-        "1576373693": {
-            "us.myflavia.com.102.112.2o7.net": "INACTIVE",
-            "us.yesup.com": "INACTIVE"
-        },
-        "1576373697": {
-            "venus.goclick.com": "INACTIVE"
-        },
         "1576373702": {
             "vistatitka.blogspot.com": "INACTIVE"
         },
@@ -2080,6 +2069,19 @@
         },
         "1576598530": {
             "up.soft365.com": "INACTIVE"
+        },
+        "1576599809": {
+            "usa.nedstat.com": "INACTIVE",
+            "usa.nedstat.net": "INACTIVE"
+        },
+        "1576599810": {
+            "us.myflavia.com.102.112.2o7.net": "INACTIVE"
+        },
+        "1576599811": {
+            "us.yesup.com": "INACTIVE"
+        },
+        "1576599815": {
+            "venus.goclick.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
