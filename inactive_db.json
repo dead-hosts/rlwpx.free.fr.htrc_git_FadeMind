@@ -1,30 +1,6 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1576382921": {
-            "www.ie.espotting.com": "INACTIVE"
-        },
-        "1576382922": {
-            "www.imedia-enterprises.com": "INACTIVE",
-            "www.industryclick.com": "INACTIVE"
-        },
-        "1576382923": {
-            "www.ipcounter.de": "INACTIVE",
-            "www.ipstat.com": "INACTIVE"
-        },
-        "1576382924": {
-            "www.ivctricounty.org": "INACTIVE"
-        },
-        "1576382925": {
-            "www.key-logger.us": "INACTIVE",
-            "www.key-logging-software.org": "INACTIVE"
-        },
-        "1576383617": {
-            "www.kompass-intl.com": "INACTIVE"
-        },
         "1576383618": {
-            "www.lamedia.ru": "INACTIVE",
-            "www.lamediazione.it": "INACTIVE",
-            "www.lbimedia.net": "INACTIVE",
             "www.leopardsearch.com": "INACTIVE"
         },
         "1576383619": {
@@ -2072,6 +2048,28 @@
         },
         "1576615114": {
             "www.hyperfbtraffic.com": "INACTIVE"
+        },
+        "1576615980": {
+            "www.ie.espotting.com": "INACTIVE",
+            "www.image.click2net.nl": "INACTIVE",
+            "www.imedia-enterprises.com": "INACTIVE",
+            "www.industryclick.com": "INACTIVE"
+        },
+        "1576615981": {
+            "www.ipcounter.de": "INACTIVE",
+            "www.ipstat.com": "INACTIVE"
+        },
+        "1576615983": {
+            "www.key-logger.us": "INACTIVE",
+            "www.key-logging-software.org": "INACTIVE"
+        },
+        "1576615984": {
+            "www.kompass-intl.com": "INACTIVE",
+            "www.lamedia.ru": "INACTIVE",
+            "www.lamediazione.it": "INACTIVE"
+        },
+        "1576615985": {
+            "www.lbimedia.net": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
