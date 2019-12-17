@@ -1,15 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1576242830": {
-            "remediation.co": "INACTIVE",
-            "reporting.espotting.com": "INACTIVE"
-        },
-        "1576242832": {
-            "revmedia.ru": "INACTIVE"
-        },
-        "1576242834": {
-            "rise-media.ru": "INACTIVE"
-        },
         "1576243771": {
             "rtl.ivwbox.de": "INACTIVE",
             "rub.to": "INACTIVE"
@@ -2072,6 +2062,19 @@
         },
         "1576573546": {
             "recherche.yagoort.org": "INACTIVE"
+        },
+        "1576575040": {
+            "redirect.click2net.nl": "INACTIVE"
+        },
+        "1576575042": {
+            "remediation.co": "INACTIVE",
+            "reporting.espotting.com": "INACTIVE"
+        },
+        "1576575044": {
+            "revmedia.ru": "INACTIVE"
+        },
+        "1576575046": {
+            "rise-media.ru": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
