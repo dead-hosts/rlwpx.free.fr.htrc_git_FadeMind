@@ -11855,8 +11855,8 @@
         "state": "future"
     },
     "ivtrack.net": {
-        "epoch": 1576627200.0,
-        "expiration_date": "18-dec-2019",
+        "epoch": 1734480000.0,
+        "expiration_date": "18-dec-2024",
         "state": "future"
     },
     "ivyalumnimedia.com": {
@@ -11927,7 +11927,7 @@
     "jdrmedia.com": {
         "epoch": 1576627200.0,
         "expiration_date": "18-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "jeboost.com": {
         "epoch": 1589500800.0,
