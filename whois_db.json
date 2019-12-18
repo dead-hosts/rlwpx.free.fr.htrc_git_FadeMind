@@ -1257,7 +1257,7 @@
     "afterhoursmedia.com": {
         "epoch": 1576627200.0,
         "expiration_date": "18-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "afxmedia.com": {
         "epoch": 1591401600.0,
@@ -1510,8 +1510,8 @@
         "state": "future"
     },
     "allworldtrade.com": {
-        "epoch": 1576540800.0,
-        "expiration_date": "17-dec-2019",
+        "epoch": 1583539200.0,
+        "expiration_date": "07-mar-2020",
         "state": "future"
     },
     "almond-media.ru": {
