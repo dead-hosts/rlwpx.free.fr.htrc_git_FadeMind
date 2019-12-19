@@ -1,21 +1,6 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1576586084": {
-            "stat.dk3.com": "INACTIVE"
-        },
-        "1576586085": {
-            "stat.infoclear.sco.kr": "INACTIVE"
-        },
-        "1576588202": {
-            "stats.ars4real.com": "INACTIVE"
-        },
-        "1576588204": {
-            "stats.directnic.com": "INACTIVE",
-            "stats.dnparking.com": "INACTIVE"
-        },
         "1576588205": {
-            "stats.hellforge.gameriot.com": "INACTIVE",
-            "stats.host1free.com": "INACTIVE",
             "stats.inist.fr": "INACTIVE"
         },
         "1576588206": {
@@ -2051,6 +2036,23 @@
         },
         "1576731671": {
             "stat.17k.com": "INACTIVE"
+        },
+        "1576732353": {
+            "stat.dk3.com": "INACTIVE"
+        },
+        "1576732354": {
+            "stat.infoclear.sco.kr": "INACTIVE"
+        },
+        "1576732357": {
+            "stats.ars4real.com": "INACTIVE"
+        },
+        "1576732358": {
+            "stats.directnic.com": "INACTIVE",
+            "stats.dnparking.com": "INACTIVE"
+        },
+        "1576732359": {
+            "stats.hellforge.gameriot.com": "INACTIVE",
+            "stats.host1free.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
