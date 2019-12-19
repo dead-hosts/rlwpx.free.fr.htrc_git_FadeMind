@@ -13087,7 +13087,7 @@
     "magicranktracker.com": {
         "epoch": 1576627200.0,
         "expiration_date": "18-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "magnetisemedia.com": {
         "epoch": 1603843200.0,
@@ -13180,9 +13180,9 @@
         "state": "future"
     },
     "marsdigitalmedia.com": {
-        "epoch": 1576540800.0,
-        "expiration_date": "17-dec-2019",
-        "state": "past"
+        "epoch": 1608163200.0,
+        "expiration_date": "17-dec-2020",
+        "state": "future"
     },
     "marstraders.com": {
         "epoch": 1614211200.0,
