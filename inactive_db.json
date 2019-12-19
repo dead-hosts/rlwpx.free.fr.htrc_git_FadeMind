@@ -1,14 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1576596297": {
-            "traffichouse.biz": "INACTIVE"
-        },
-        "1576596304": {
-            "trafficyards.com": "INACTIVE"
-        },
-        "1576596305": {
-            "traficgay.ilux.org": "INACTIVE"
-        },
         "1576598527": {
             "ua.cnt.gemius.pl": "INACTIVE",
             "uggaustralia.com.102.112.2o7.net": "INACTIVE",
@@ -2050,6 +2041,15 @@
         },
         "1576735876": {
             "trade.porndirt.com": "INACTIVE"
+        },
+        "1576736572": {
+            "traffichouse.biz": "INACTIVE"
+        },
+        "1576736578": {
+            "trafficyards.com": "INACTIVE"
+        },
+        "1576736579": {
+            "traficgay.ilux.org": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
