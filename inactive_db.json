@@ -1,29 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1576678103": {
-            "admin.clicksor.com": "INACTIVE",
-            "admin07.hitforums.com": "INACTIVE"
-        },
-        "1576679284": {
-            "adm.soft365.com": "INACTIVE"
-        },
-        "1576679285": {
-            "adobe-dns-2.adobe.com": "INACTIVE",
-            "adobe-dns-3.adobe.com": "INACTIVE",
-            "ads101.clicksor.com": "INACTIVE",
-            "ads103.clicksor.com": "INACTIVE"
-        },
-        "1576679286": {
-            "ads.adonion.com": "INACTIVE",
-            "ads.bnmedia.com": "INACTIVE"
-        },
-        "1576679287": {
-            "ads.clicksor.com": "INACTIVE",
-            "ads.clicmanager.fr": "INACTIVE",
-            "ads.fidelity-media.com": "INACTIVE",
-            "ads.fora.tv": "INACTIVE",
-            "adserver.flossiemediagroup.com": "INACTIVE"
-        },
         "1576679288": {
             "ads.mixtraffic.com": "INACTIVE"
         },
@@ -2055,6 +2031,28 @@
         },
         "1576846805": {
             "ad-emea.doubleclick.net.58236.9307.302br.net": "INACTIVE"
+        },
+        "1576847500": {
+            "admin.clicksor.com": "INACTIVE",
+            "admin07.hitforums.com": "INACTIVE"
+        },
+        "1576847501": {
+            "adm.soft365.com": "INACTIVE",
+            "adobe-dns-2.adobe.com": "INACTIVE",
+            "adobe-dns-3.adobe.com": "INACTIVE",
+            "ads101.clicksor.com": "INACTIVE",
+            "ads103.clicksor.com": "INACTIVE"
+        },
+        "1576847502": {
+            "ads.adonion.com": "INACTIVE",
+            "ads.bnmedia.com": "INACTIVE",
+            "ads.clicksor.com": "INACTIVE",
+            "ads.clicmanager.fr": "INACTIVE",
+            "adserver.flossiemediagroup.com": "INACTIVE"
+        },
+        "1576847503": {
+            "ads.fidelity-media.com": "INACTIVE",
+            "ads.fora.tv": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
