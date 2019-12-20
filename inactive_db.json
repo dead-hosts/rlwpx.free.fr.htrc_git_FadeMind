@@ -1,19 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1576716607": {
-            "ma.servecounterstrike.com": "INACTIVE"
-        },
-        "1576716610": {
-            "mci12.clicksor.com": "INACTIVE",
-            "mclient.ivwbox.de": "INACTIVE"
-        },
-        "1576717507": {
-            "media.acces-charme.com": "INACTIVE",
-            "media.adlegend.com": "INACTIVE"
-        },
-        "1576717509": {
-            "mediaboxen.no": "INACTIVE"
-        },
         "1576717513": {
             "media.hw.adxpansion.com": "INACTIVE",
             "media.intelia.it": "INACTIVE"
@@ -2055,6 +2041,20 @@
         "1576873500": {
             "main.clicksor.com": "INACTIVE",
             "mamainbed.com": "INACTIVE"
+        },
+        "1576874193": {
+            "ma.servecounterstrike.com": "INACTIVE"
+        },
+        "1576874196": {
+            "mci12.clicksor.com": "INACTIVE",
+            "mclient.ivwbox.de": "INACTIVE"
+        },
+        "1576874198": {
+            "media.acces-charme.com": "INACTIVE",
+            "media.adlegend.com": "INACTIVE"
+        },
+        "1576874200": {
+            "mediaboxen.no": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
