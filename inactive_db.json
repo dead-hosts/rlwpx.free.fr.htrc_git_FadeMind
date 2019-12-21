@@ -1,16 +1,7 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1576737980": {
-            "ua.cnt.gemius.pl": "INACTIVE"
-        },
-        "1576737981": {
-            "uggaustralia.com.102.112.2o7.net": "INACTIVE",
-            "ugrank.urll.net": "INACTIVE",
-            "uk.nedstat.net": "INACTIVE"
-        },
         "1576737983": {
-            "up.soft365.com": "INACTIVE",
-            "updatedll.mediathree.net": "INACTIVE"
+            "up.soft365.com": "INACTIVE"
         },
         "1576737984": {
             "usa.nedstat.com": "INACTIVE",
@@ -2039,6 +2030,17 @@
         "1576902147": {
             "trafficyards.com": "INACTIVE",
             "traficgay.ilux.org": "INACTIVE"
+        },
+        "1576904209": {
+            "ua.cnt.gemius.pl": "INACTIVE",
+            "uggaustralia.com.102.112.2o7.net": "INACTIVE",
+            "ugrank.urll.net": "INACTIVE"
+        },
+        "1576904210": {
+            "uk.nedstat.net": "INACTIVE"
+        },
+        "1576904211": {
+            "updatedll.mediathree.net": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
