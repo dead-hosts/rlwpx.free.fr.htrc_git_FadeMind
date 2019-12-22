@@ -1,15 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1576836876": {
-            "active.macromedia.com": "INACTIVE"
-        },
-        "1576840844": {
-            "ad1.emediate.dk": "INACTIVE"
-        },
-        "1576840845": {
-            "ad.adtracking.me": "INACTIVE",
-            "adclick.pruna.com": "INACTIVE"
-        },
         "1576842401": {
             "ad.doubleclick.net.40166.9308.302br.net": "INACTIVE",
             "ad.doubleclick.net.40167.9308.302br.net": "INACTIVE"
@@ -2029,6 +2019,14 @@
         },
         "1577056727": {
             "a.bizarremag.com": "INACTIVE"
+        },
+        "1577057529": {
+            "active.macromedia.com": "INACTIVE",
+            "ad1.emediate.dk": "INACTIVE"
+        },
+        "1577057530": {
+            "ad.adtracking.me": "INACTIVE",
+            "adclick.pruna.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
