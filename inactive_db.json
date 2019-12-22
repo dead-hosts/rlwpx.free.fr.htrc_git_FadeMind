@@ -1,14 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1576836870": {
-            "006.free-adult-counters.x-xtra.com": "INACTIVE"
-        },
-        "1576836873": {
-            "600xt.bbfr.net": "INACTIVE"
-        },
-        "1576836874": {
-            "a.bizarremag.com": "INACTIVE"
-        },
         "1576836876": {
             "active.macromedia.com": "INACTIVE"
         },
@@ -2029,6 +2020,15 @@
             "zdf.ivwbox.de": "INACTIVE",
             "zeitonl.ivwbox.de": "INACTIVE",
             "zhitomir-info.biz": "INACTIVE"
+        },
+        "1577056722": {
+            "006.free-adult-counters.x-xtra.com": "INACTIVE"
+        },
+        "1577056725": {
+            "600xt.bbfr.net": "INACTIVE"
+        },
+        "1577056727": {
+            "a.bizarremag.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
