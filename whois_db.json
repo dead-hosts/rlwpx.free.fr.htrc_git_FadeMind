@@ -9062,7 +9062,7 @@
     "funnyrank.com": {
         "epoch": 1577059200.0,
         "expiration_date": "23-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "funnyreign.com": {
         "epoch": 1601424000.0,
@@ -9125,8 +9125,8 @@
         "state": "future"
     },
     "galeontrade.ru": {
-        "epoch": 1577059200.0,
-        "expiration_date": "23-dec-2019",
+        "epoch": 1608681600.0,
+        "expiration_date": "23-dec-2020",
         "state": "future"
     },
     "galleries100.com": {
@@ -9510,8 +9510,8 @@
         "state": "future"
     },
     "globaladultmedia.com": {
-        "epoch": 1576886400.0,
-        "expiration_date": "21-dec-2019",
+        "epoch": 1608508800.0,
+        "expiration_date": "21-dec-2020",
         "state": "future"
     },
     "globalismedia.com": {
