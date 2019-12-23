@@ -1,29 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1576867786": {
-            "faz.ivwbox.de": "INACTIVE"
-        },
-        "1576867787": {
-            "feeds.weselltraffic.com": "INACTIVE"
-        },
-        "1576867788": {
-            "finatime.ivwbox.de": "INACTIVE"
-        },
-        "1576867789": {
-            "fix-media-player.com": "INACTIVE"
-        },
-        "1576868478": {
-            "formlog.net": "INACTIVE"
-        },
-        "1576868479": {
-            "forum.slothtrader.com": "INACTIVE",
-            "foundeffect.webtrackingservices.com": "INACTIVE"
-        },
-        "1576868480": {
-            "fr.couponhit.com": "INACTIVE",
-            "francemail.espotting.com": "INACTIVE",
-            "freecast.ivwbox.de": "INACTIVE"
-        },
         "1576868483": {
             "fr.espotting.com": "INACTIVE"
         },
@@ -2069,6 +2045,30 @@
         },
         "1577138162": {
             "falco.hitforums.com": "INACTIVE"
+        },
+        "1577139064": {
+            "faz.ivwbox.de": "INACTIVE"
+        },
+        "1577139065": {
+            "feeds.weselltraffic.com": "INACTIVE"
+        },
+        "1577139066": {
+            "finatime.ivwbox.de": "INACTIVE"
+        },
+        "1577139067": {
+            "fix-media-player.com": "INACTIVE"
+        },
+        "1577139070": {
+            "formlog.net": "INACTIVE"
+        },
+        "1577139071": {
+            "forum.slothtrader.com": "INACTIVE",
+            "foundeffect.webtrackingservices.com": "INACTIVE"
+        },
+        "1577139072": {
+            "fr.couponhit.com": "INACTIVE",
+            "francemail.espotting.com": "INACTIVE",
+            "freecast.ivwbox.de": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
