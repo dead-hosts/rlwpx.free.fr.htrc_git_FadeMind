@@ -1,26 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1576916680": {
-            "www.scanspyware.net": "INACTIVE",
-            "www.search-itnow.com": "INACTIVE",
-            "www.search.clicksor.com": "INACTIVE"
-        },
-        "1576916683": {
-            "www.shadowtraders.com": "INACTIVE",
-            "www.sharelog.tk": "INACTIVE",
-            "www.shorlakmedia.com": "INACTIVE"
-        },
-        "1576916684": {
-            "www.sitestat.net": "INACTIVE",
-            "www.sitewebstats.com": "INACTIVE"
-        },
-        "1576917369": {
-            "www.slap-up-media.net": "INACTIVE"
-        },
-        "1576917370": {
-            "www.softonic-analytics.net": "INACTIVE",
-            "www.software-comparisons.com": "INACTIVE"
-        },
         "1576917371": {
             "www.starclicks.com": "INACTIVE"
         },
@@ -2020,6 +1999,28 @@
             "www.redsheriff.com.au": "INACTIVE",
             "www.reflectionsmediaonline.com": "INACTIVE",
             "www.rennais.com": "INACTIVE"
+        },
+        "1577182516": {
+            "www.scanspyware.net": "INACTIVE",
+            "www.search.clicksor.com": "INACTIVE"
+        },
+        "1577182517": {
+            "www.search-itnow.com": "INACTIVE"
+        },
+        "1577182519": {
+            "www.shadowtraders.com": "INACTIVE"
+        },
+        "1577182520": {
+            "www.shorlakmedia.com": "INACTIVE"
+        },
+        "1577182521": {
+            "www.sitestat.net": "INACTIVE",
+            "www.sitewebstats.com": "INACTIVE",
+            "www.slap-up-media.net": "INACTIVE"
+        },
+        "1577182522": {
+            "www.softonic-analytics.net": "INACTIVE",
+            "www.software-comparisons.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
