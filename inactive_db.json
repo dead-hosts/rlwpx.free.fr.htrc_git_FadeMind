@@ -1,12 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1576902141": {
-            "traffichouse.biz": "INACTIVE"
-        },
-        "1576902147": {
-            "trafficyards.com": "INACTIVE",
-            "traficgay.ilux.org": "INACTIVE"
-        },
         "1576904209": {
             "ua.cnt.gemius.pl": "INACTIVE",
             "uggaustralia.com.102.112.2o7.net": "INACTIVE",
@@ -2023,6 +2016,13 @@
         },
         "1577167401": {
             "traffic.erotik-portal.com": "INACTIVE"
+        },
+        "1577168091": {
+            "traffichouse.biz": "INACTIVE"
+        },
+        "1577168097": {
+            "trafficyards.com": "INACTIVE",
+            "traficgay.ilux.org": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
