@@ -1,28 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1576897896": {
-            "supanet.espotting.com": "INACTIVE"
-        },
-        "1576897897": {
-            "suptullog.com": "INACTIVE"
-        },
-        "1576897899": {
-            "swexy-track.com": "INACTIVE",
-            "swr.ivwbox.de": "INACTIVE"
-        },
-        "1576898979": {
-            "telemedia.m77s.cn": "INACTIVE"
-        },
-        "1576898980": {
-            "test.espotting.com": "INACTIVE",
-            "test.reporting.espotting.com": "INACTIVE",
-            "test.yesadvertising.com": "INACTIVE",
-            "teva.com.102.112.2o7.net": "INACTIVE"
-        },
-        "1576898981": {
-            "tgpman.picturetrades.com": "INACTIVE",
-            "tgptrades.com": "INACTIVE"
-        },
         "1576898987": {
             "ti.click2net.nl": "INACTIVE"
         },
@@ -2020,6 +1997,29 @@
         "1577164020": {
             "sub.smartw.co.kr": "INACTIVE",
             "sueddeut.ivwbox.de": "INACTIVE"
+        },
+        "1577164933": {
+            "supanet.espotting.com": "INACTIVE"
+        },
+        "1577164935": {
+            "suptullog.com": "INACTIVE"
+        },
+        "1577164936": {
+            "swexy-track.com": "INACTIVE"
+        },
+        "1577164937": {
+            "swr.ivwbox.de": "INACTIVE"
+        },
+        "1577164943": {
+            "telemedia.m77s.cn": "INACTIVE"
+        },
+        "1577164944": {
+            "test.espotting.com": "INACTIVE",
+            "test.reporting.espotting.com": "INACTIVE",
+            "test.yesadvertising.com": "INACTIVE",
+            "teva.com.102.112.2o7.net": "INACTIVE",
+            "tgpman.picturetrades.com": "INACTIVE",
+            "tgptrades.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
