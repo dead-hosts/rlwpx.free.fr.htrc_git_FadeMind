@@ -1,43 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1576874888": {
-            "media.hw.adxpansion.com": "INACTIVE",
-            "media.intelia.it": "INACTIVE"
-        },
-        "1576874889": {
-            "media.likes.com": "INACTIVE",
-            "media.maturegratuit.net": "INACTIVE"
-        },
-        "1576874890": {
-            "media.millennialmedia.com": "INACTIVE",
-            "mediamoov.sponsorboost.com": "INACTIVE"
-        },
-        "1576874891": {
-            "mediaparad.ru": "INACTIVE"
-        },
-        "1576874892": {
-            "mediaplayercom.com": "INACTIVE",
-            "mediaplazza.net": "INACTIVE"
-        },
-        "1576874893": {
-            "media.rasazrak.info": "INACTIVE"
-        },
-        "1576874894": {
-            "media.sentabi.com": "INACTIVE",
-            "medias.europacash.com": "INACTIVE",
-            "medias.maxidivx.com": "INACTIVE",
-            "mediaspub.lequipe.fr": "INACTIVE"
-        },
-        "1576874895": {
-            "mediatex.in": "INACTIVE",
-            "mediationcommunautaire.skynetblogs.be": "INACTIVE"
-        },
-        "1576874899": {
-            "metric.marketwire.com": "INACTIVE"
-        },
-        "1576874900": {
-            "metrics.dentonrc.com": "INACTIVE"
-        },
         "1576875587": {
             "metrics.pcmag.com": "INACTIVE"
         },
@@ -1301,9 +1263,6 @@
             "zeitonl.ivwbox.de": "INACTIVE",
             "zhitomir-info.biz": "INACTIVE"
         },
-        "1577062732": {
-            "ad.doubleclick.net.73591.9619.302br.net": "INACTIVE"
-        },
         "1577064121": {
             "admin.clicksor.com": "INACTIVE",
             "admin07.hitforums.com": "INACTIVE"
@@ -2041,6 +2000,46 @@
         },
         "1577148717": {
             "mediaboxen.no": "INACTIVE"
+        },
+        "1577150049": {
+            "media.hw.adxpansion.com": "INACTIVE",
+            "media.intelia.it": "INACTIVE"
+        },
+        "1577150050": {
+            "media.likes.com": "INACTIVE"
+        },
+        "1577150051": {
+            "media.maturegratuit.net": "INACTIVE",
+            "media.millennialmedia.com": "INACTIVE",
+            "mediamoov.sponsorboost.com": "INACTIVE"
+        },
+        "1577150052": {
+            "mediaparad.ru": "INACTIVE"
+        },
+        "1577150053": {
+            "mediaplayercom.com": "INACTIVE",
+            "mediaplazza.net": "INACTIVE"
+        },
+        "1577150054": {
+            "media.rasazrak.info": "INACTIVE"
+        },
+        "1577150055": {
+            "media.sentabi.com": "INACTIVE",
+            "medias.europacash.com": "INACTIVE",
+            "medias.maxidivx.com": "INACTIVE"
+        },
+        "1577150056": {
+            "mediaspub.lequipe.fr": "INACTIVE",
+            "mediatex.in": "INACTIVE"
+        },
+        "1577150057": {
+            "mediationcommunautaire.skynetblogs.be": "INACTIVE"
+        },
+        "1577150060": {
+            "metric.marketwire.com": "INACTIVE"
+        },
+        "1577150061": {
+            "metrics.dentonrc.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
