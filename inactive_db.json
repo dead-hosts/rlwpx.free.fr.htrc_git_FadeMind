@@ -708,11 +708,6 @@
             "metrics.dentonrc.com": "INACTIVE"
         },
         "1577151172": {
-            "adm.soft365.com": "INACTIVE",
-            "admin.clicksor.com": "INACTIVE",
-            "admin07.hitforums.com": "INACTIVE",
-            "adobe-dns-2.adobe.com": "INACTIVE",
-            "adobe-dns-3.adobe.com": "INACTIVE",
             "ads.adonion.com": "INACTIVE",
             "ads.bnmedia.com": "INACTIVE",
             "ads101.clicksor.com": "INACTIVE",
@@ -1989,6 +1984,15 @@
         },
         "1577272477": {
             "adclick.pruna.com": "INACTIVE"
+        },
+        "1577281231": {
+            "admin.clicksor.com": "INACTIVE",
+            "admin07.hitforums.com": "INACTIVE"
+        },
+        "1577281232": {
+            "adm.soft365.com": "INACTIVE",
+            "adobe-dns-2.adobe.com": "INACTIVE",
+            "adobe-dns-3.adobe.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
