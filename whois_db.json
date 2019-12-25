@@ -3677,7 +3677,7 @@
     "canadianbankrates.com": {
         "epoch": 1577232000.0,
         "expiration_date": "25-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "candidclicks.com": {
         "epoch": 1580256000.0,
@@ -4320,9 +4320,9 @@
         "state": "future"
     },
     "click2paid.com": {
-        "epoch": 1577059200.0,
-        "expiration_date": "23-dec-2019",
-        "state": "past"
+        "epoch": 1608681600.0,
+        "expiration_date": "23-dec-2020",
+        "state": "future"
     },
     "click2site.co": {
         "epoch": 1600387200.0,
