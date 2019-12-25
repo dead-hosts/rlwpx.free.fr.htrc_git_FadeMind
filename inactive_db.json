@@ -1,23 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1577110616": {
-            "ads.clicksor.com": "INACTIVE",
-            "ads.clicmanager.fr": "INACTIVE",
-            "adserver.flossiemediagroup.com": "INACTIVE"
-        },
-        "1577111545": {
-            "ads.fidelity-media.com": "INACTIVE",
-            "ads.fora.tv": "INACTIVE"
-        },
-        "1577111546": {
-            "ads.mixtraffic.com": "INACTIVE",
-            "ads.seattletimes.com": "INACTIVE",
-            "ads.stephensmedia.com": "INACTIVE"
-        },
-        "1577111547": {
-            "ads.truthmedia.com": "INACTIVE",
-            "ads.webmedia.co.il": "INACTIVE"
-        },
         "1577111548": {
             "adult.koimedia.com": "INACTIVE",
             "adultclicks.us": "INACTIVE"
@@ -708,10 +690,6 @@
             "metrics.dentonrc.com": "INACTIVE"
         },
         "1577151172": {
-            "ads.adonion.com": "INACTIVE",
-            "ads.bnmedia.com": "INACTIVE",
-            "ads101.clicksor.com": "INACTIVE",
-            "ads103.clicksor.com": "INACTIVE",
             "metrics.pcmag.com": "INACTIVE",
             "metrics.recroom.com": "INACTIVE",
             "metrics.retail.fidelity.com": "INACTIVE"
@@ -1993,6 +1971,28 @@
             "adm.soft365.com": "INACTIVE",
             "adobe-dns-2.adobe.com": "INACTIVE",
             "adobe-dns-3.adobe.com": "INACTIVE"
+        },
+        "1577282626": {
+            "ads.adonion.com": "INACTIVE",
+            "ads.bnmedia.com": "INACTIVE",
+            "ads101.clicksor.com": "INACTIVE",
+            "ads103.clicksor.com": "INACTIVE"
+        },
+        "1577282627": {
+            "ads.clicksor.com": "INACTIVE",
+            "ads.clicmanager.fr": "INACTIVE",
+            "ads.fidelity-media.com": "INACTIVE",
+            "ads.fora.tv": "INACTIVE",
+            "adserver.flossiemediagroup.com": "INACTIVE"
+        },
+        "1577282628": {
+            "ads.mixtraffic.com": "INACTIVE",
+            "ads.seattletimes.com": "INACTIVE",
+            "ads.stephensmedia.com": "INACTIVE"
+        },
+        "1577282629": {
+            "ads.truthmedia.com": "INACTIVE",
+            "ads.webmedia.co.il": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
