@@ -1,24 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1577183214": {
-            "www.statsforyoursite.com": "INACTIVE"
-        },
-        "1577183216": {
-            "www.superstatistic.it": "INACTIVE",
-            "www.tadine.ca": "INACTIVE"
-        },
-        "1577183217": {
-            "www.teenhits.com": "INACTIVE",
-            "www.thebestsolver.com": "INACTIVE",
-            "www.thebighits.com": "INACTIVE"
-        },
-        "1577184014": {
-            "www.trackhost.com": "INACTIVE"
-        },
-        "1577184015": {
-            "www.trackingpurposes.com": "INACTIVE",
-            "www.tracksy.com": "INACTIVE"
-        },
         "1577184018": {
             "www.traffic-network.net": "INACTIVE",
             "www.trafficmp.com": "INACTIVE",
@@ -2008,6 +1989,24 @@
         },
         "1577350137": {
             "www.statistiq.com": "INACTIVE"
+        },
+        "1577350847": {
+            "www.statsforyoursite.com": "INACTIVE"
+        },
+        "1577350849": {
+            "www.superstatistic.it": "INACTIVE",
+            "www.tadine.ca": "INACTIVE"
+        },
+        "1577350850": {
+            "www.teenhits.com": "INACTIVE",
+            "www.thebighits.com": "INACTIVE"
+        },
+        "1577350853": {
+            "www.trackhost.com": "INACTIVE",
+            "www.trackingpurposes.com": "INACTIVE"
+        },
+        "1577350854": {
+            "www.tracksy.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
