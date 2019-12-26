@@ -23250,8 +23250,8 @@
         "state": "future"
     },
     "tradepixel.com": {
-        "epoch": 1577318400.0,
-        "expiration_date": "26-dec-2019",
+        "epoch": 1584316800.0,
+        "expiration_date": "16-mar-2020",
         "state": "future"
     },
     "tradeport.org": {
@@ -23282,7 +23282,7 @@
     "traderbusiness.com": {
         "epoch": 1577232000.0,
         "expiration_date": "25-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "tradercommodity.com": {
         "epoch": 1596499200.0,
@@ -24182,7 +24182,7 @@
     "trafficz.net": {
         "epoch": 1577318400.0,
         "expiration_date": "26-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "trafficzap.com": {
         "epoch": 1593302400.0,
