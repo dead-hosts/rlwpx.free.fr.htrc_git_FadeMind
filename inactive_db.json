@@ -1,46 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1577317269": {
-            "logc10.xiti.com": "INACTIVE",
-            "logc111.xiti.com": "INACTIVE",
-            "logc138.xiti.com": "INACTIVE",
-            "logc148.xiti.com": "INACTIVE",
-            "logc15.xiti.com": "INACTIVE",
-            "logc16.xiti.com": "INACTIVE",
-            "logc175.xiti.com": "INACTIVE",
-            "logc188.xiti.com": "INACTIVE",
-            "logc19.xiti.com": "INACTIVE",
-            "logc210.xiti.com": "INACTIVE"
-        },
-        "1577317270": {
-            "logc218.xiti.com": "INACTIVE",
-            "logc239.xiti.com": "INACTIVE",
-            "logc278.xiti.com": "INACTIVE",
-            "logc285.xiti.com": "INACTIVE",
-            "logc57.xiti.com": "INACTIVE",
-            "logc7.xiti.com": "INACTIVE"
-        },
-        "1577317272": {
-            "logo.real.com": "INACTIVE",
-            "logp9.xiti.com": "INACTIVE",
-            "logs1285.xiti.com": "INACTIVE",
-            "logs1400.xiti.com": "INACTIVE",
-            "logs1403.xiti.com": "INACTIVE",
-            "logs1404.xiti.com": "INACTIVE"
-        },
-        "1577317273": {
-            "logv15.xiti.com": "INACTIVE",
-            "logvtest.xiti.com": "INACTIVE"
-        },
-        "1577317274": {
-            "logw349.ati-host.net": "INACTIVE"
-        },
-        "1577317275": {
-            "lproot.soft365.com": "INACTIVE"
-        },
-        "1577317276": {
-            "lycos.espotting.com": "INACTIVE"
-        },
         "1577318466": {
             "mailing.xiti.com": "INACTIVE"
         },
@@ -1774,6 +1733,37 @@
             "log1nfb.5gbfree.com": "INACTIVE",
             "log77-5-88-164-151-96.fbx.proxad.net": "INACTIVE",
             "log77-7-88-185-146-240.fbx.proxad.net": "INACTIVE"
+        },
+        "1577404293": {
+            "logc10.xiti.com": "INACTIVE",
+            "logc111.xiti.com": "INACTIVE",
+            "logc138.xiti.com": "INACTIVE",
+            "logc148.xiti.com": "INACTIVE",
+            "logc15.xiti.com": "INACTIVE",
+            "logc16.xiti.com": "INACTIVE",
+            "logc175.xiti.com": "INACTIVE",
+            "logc188.xiti.com": "INACTIVE",
+            "logc19.xiti.com": "INACTIVE",
+            "logc210.xiti.com": "INACTIVE",
+            "logc218.xiti.com": "INACTIVE",
+            "logc239.xiti.com": "INACTIVE",
+            "logc278.xiti.com": "INACTIVE",
+            "logc285.xiti.com": "INACTIVE",
+            "logc57.xiti.com": "INACTIVE",
+            "logc7.xiti.com": "INACTIVE",
+            "logo.real.com": "INACTIVE",
+            "logp9.xiti.com": "INACTIVE",
+            "logs1285.xiti.com": "INACTIVE",
+            "logs1400.xiti.com": "INACTIVE",
+            "logs1403.xiti.com": "INACTIVE",
+            "logs1404.xiti.com": "INACTIVE",
+            "logv15.xiti.com": "INACTIVE",
+            "logvtest.xiti.com": "INACTIVE",
+            "logw349.ati-host.net": "INACTIVE",
+            "lproot.soft365.com": "INACTIVE"
+        },
+        "1577404294": {
+            "lycos.espotting.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
