@@ -1,28 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1577147845": {
-            "mailing.xiti.com": "INACTIVE"
-        },
-        "1577147846": {
-            "main.clicksor.com": "INACTIVE"
-        },
-        "1577148709": {
-            "mamainbed.com": "INACTIVE"
-        },
-        "1577148711": {
-            "ma.servecounterstrike.com": "INACTIVE"
-        },
-        "1577148713": {
-            "mci12.clicksor.com": "INACTIVE",
-            "mclient.ivwbox.de": "INACTIVE"
-        },
-        "1577148716": {
-            "media.acces-charme.com": "INACTIVE",
-            "media.adlegend.com": "INACTIVE"
-        },
-        "1577148717": {
-            "mediaboxen.no": "INACTIVE"
-        },
         "1577150049": {
             "media.hw.adxpansion.com": "INACTIVE",
             "media.intelia.it": "INACTIVE"
@@ -1997,6 +1974,27 @@
         },
         "1577317276": {
             "lycos.espotting.com": "INACTIVE"
+        },
+        "1577318466": {
+            "mailing.xiti.com": "INACTIVE"
+        },
+        "1577318467": {
+            "main.clicksor.com": "INACTIVE",
+            "mamainbed.com": "INACTIVE"
+        },
+        "1577318468": {
+            "ma.servecounterstrike.com": "INACTIVE"
+        },
+        "1577318471": {
+            "mci12.clicksor.com": "INACTIVE",
+            "mclient.ivwbox.de": "INACTIVE"
+        },
+        "1577318473": {
+            "media.acces-charme.com": "INACTIVE",
+            "media.adlegend.com": "INACTIVE"
+        },
+        "1577318474": {
+            "mediaboxen.no": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
