@@ -1,24 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1577321660": {
-            "mycounter.tinycounter.com": "INACTIVE"
-        },
-        "1577321661": {
-            "my-pagerank.de": "INACTIVE"
-        },
-        "1577321665": {
-            "navitastrade.com": "INACTIVE"
-        },
-        "1577321666": {
-            "neocounter.net": "INACTIVE"
-        },
-        "1577321668": {
-            "netzeitu.ivwbox.de": "INACTIVE",
-            "newmail.espotting.com": "INACTIVE"
-        },
-        "1577321669": {
-            "newsclic.ivwbox.de": "INACTIVE"
-        },
         "1577322716": {
             "no.espotting.com": "INACTIVE"
         },
@@ -1715,6 +1696,23 @@
         },
         "1577407786": {
             "www.coolcounters.com": "INACTIVE"
+        },
+        "1577409180": {
+            "my-pagerank.de": "INACTIVE",
+            "mycounter.tinycounter.com": "INACTIVE"
+        },
+        "1577409181": {
+            "navitastrade.com": "INACTIVE",
+            "neocounter.net": "INACTIVE",
+            "netzeitu.ivwbox.de": "INACTIVE",
+            "newmail.espotting.com": "INACTIVE",
+            "newsclic.ivwbox.de": "INACTIVE"
+        },
+        "1577409183": {
+            "www.freestats.tk": "INACTIVE"
+        },
+        "1577409190": {
+            "www.hitbooster.tk": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
