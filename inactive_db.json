@@ -1,34 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1577326765": {
-            "rakursmedia.ru": "INACTIVE"
-        },
-        "1577326767": {
-            "ranking-id.de": "INACTIVE",
-            "ranking.21cn.com": "INACTIVE",
-            "ranking2.sitecatcher.net": "INACTIVE"
-        },
-        "1577326768": {
-            "ranksonic.org": "INACTIVE"
-        },
-        "1577326770": {
-            "ratecollegegirlz.com": "INACTIVE"
-        },
-        "1577326776": {
-            "rateyourrod.com": "INACTIVE"
-        },
-        "1577326778": {
-            "recherche.yagoort.org": "INACTIVE"
-        },
-        "1577326779": {
-            "redirect.click2net.nl": "INACTIVE"
-        },
-        "1577326780": {
-            "remediation.co": "INACTIVE"
-        },
-        "1577326781": {
-            "reporting.espotting.com": "INACTIVE"
-        },
         "1577327660": {
             "revmedia.ru": "INACTIVE"
         },
@@ -1676,6 +1647,19 @@
         },
         "1577413369": {
             "www.trafficjam.nl": "INACTIVE"
+        },
+        "1577414061": {
+            "rakursmedia.ru": "INACTIVE",
+            "ranking-id.de": "INACTIVE",
+            "ranking.21cn.com": "INACTIVE",
+            "ranking2.sitecatcher.net": "INACTIVE",
+            "ranksonic.org": "INACTIVE",
+            "ratecollegegirlz.com": "INACTIVE",
+            "rateyourrod.com": "INACTIVE",
+            "recherche.yagoort.org": "INACTIVE",
+            "redirect.click2net.nl": "INACTIVE",
+            "remediation.co": "INACTIVE",
+            "reporting.espotting.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
