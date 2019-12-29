@@ -844,33 +844,12 @@
         "1577365668": {
             "app.memedia.com": "INACTIVE"
         },
-        "1577370297": {
-            "a.live-conversion.com": "INACTIVE",
-            "adv.protraffic.com": "INACTIVE",
-            "advert.mediaswiss.rs": "INACTIVE",
-            "affiliate.admtracker.com": "INACTIVE",
-            "affiliate.espotting.com": "INACTIVE",
-            "affiliate.mobi.espotting.com": "INACTIVE",
-            "affiliate.nl.espotting.com": "INACTIVE",
-            "affiliate.no.espotting.com": "INACTIVE",
-            "affiliate.rvptracker.com": "INACTIVE",
-            "affiliate.se.espotting.com": "INACTIVE",
-            "allogay.host-php.org": "INACTIVE",
-            "alogcorp.275mb.com": "INACTIVE",
-            "analytics.androidandme.com": "INACTIVE",
-            "analytics.dev.popdust.com": "INACTIVE",
-            "analytics.fusepowered.com": "INACTIVE",
-            "analytics.hgcdn.net": "INACTIVE",
-            "analytics.revee.com": "INACTIVE"
-        },
         "1577371002": {
             "download.zhongsou.com": "INACTIVE"
         },
         "1577372394": {
             "a.pokerplayermagazine.co.uk": "INACTIVE",
             "a.simyo.de": "INACTIVE",
-            "andorra.indymedia.org": "INACTIVE",
-            "anepasrater.skynetblogs.be": "INACTIVE",
             "antevenio.flux.ads-click.com": "INACTIVE",
             "aperture.displaymarketplace.com": "INACTIVE",
             "app.desktop.ak-networks.com": "INACTIVE",
@@ -1673,6 +1652,38 @@
         "1577582277": {
             "adult.koimedia.com": "INACTIVE",
             "adultclicks.us": "INACTIVE"
+        },
+        "1577582964": {
+            "adv.protraffic.com": "INACTIVE",
+            "advert.mediaswiss.rs": "INACTIVE",
+            "affiliate.admtracker.com": "INACTIVE"
+        },
+        "1577582965": {
+            "affiliate.espotting.com": "INACTIVE",
+            "affiliate.mobi.espotting.com": "INACTIVE",
+            "affiliate.nl.espotting.com": "INACTIVE",
+            "affiliate.no.espotting.com": "INACTIVE",
+            "affiliate.rvptracker.com": "INACTIVE",
+            "affiliate.se.espotting.com": "INACTIVE"
+        },
+        "1577582968": {
+            "a.live-conversion.com": "INACTIVE",
+            "allogay.host-php.org": "INACTIVE"
+        },
+        "1577582969": {
+            "alogcorp.275mb.com": "INACTIVE"
+        },
+        "1577582972": {
+            "analytics.abacast.com": "INACTIVE",
+            "analytics.androidandme.com": "INACTIVE",
+            "analytics.dev.popdust.com": "INACTIVE",
+            "analytics.fusepowered.com": "INACTIVE",
+            "analytics.hgcdn.net": "INACTIVE"
+        },
+        "1577582973": {
+            "analytics.revee.com": "INACTIVE",
+            "andorra.indymedia.org": "INACTIVE",
+            "anepasrater.skynetblogs.be": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
