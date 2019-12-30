@@ -1,24 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1577601033": {
-            "event.zroitracker.com": "INACTIVE"
-        },
-        "1577601038": {
-            "fadeddreams.hitforums.com": "INACTIVE",
-            "falco.hitforums.com": "INACTIVE"
-        },
-        "1577601731": {
-            "faz.ivwbox.de": "INACTIVE"
-        },
-        "1577601732": {
-            "feeds.weselltraffic.com": "INACTIVE"
-        },
-        "1577601733": {
-            "finatime.ivwbox.de": "INACTIVE"
-        },
-        "1577601734": {
-            "fix-media-player.com": "INACTIVE"
-        },
         "1577601738": {
             "formlog.net": "INACTIVE",
             "forum.slothtrader.com": "INACTIVE"
@@ -2050,6 +2031,25 @@
         },
         "1577730660": {
             "etrade.daegu.go.kr": "INACTIVE"
+        },
+        "1577731354": {
+            "event.zroitracker.com": "INACTIVE"
+        },
+        "1577731359": {
+            "fadeddreams.hitforums.com": "INACTIVE",
+            "falco.hitforums.com": "INACTIVE"
+        },
+        "1577731362": {
+            "faz.ivwbox.de": "INACTIVE"
+        },
+        "1577731363": {
+            "feeds.weselltraffic.com": "INACTIVE"
+        },
+        "1577731364": {
+            "finatime.ivwbox.de": "INACTIVE"
+        },
+        "1577731365": {
+            "fix-media-player.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
