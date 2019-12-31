@@ -1,26 +1,6 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1577637750": {
-            "www.starclicks.com": "INACTIVE"
-        },
-        "1577637751": {
-            "www.statistiq.com": "INACTIVE",
-            "www.statsforyoursite.com": "INACTIVE"
-        },
-        "1577637752": {
-            "www.superstatistic.it": "INACTIVE"
-        },
-        "1577637753": {
-            "www.tadine.ca": "INACTIVE"
-        },
-        "1577638444": {
-            "www.teenhits.com": "INACTIVE"
-        },
-        "1577638445": {
-            "www.thebighits.com": "INACTIVE"
-        },
         "1577638447": {
-            "www.trackhost.com": "INACTIVE",
             "www.trackingpurposes.com": "INACTIVE"
         },
         "1577638448": {
@@ -2058,6 +2038,25 @@
         "1577762234": {
             "www.softonic-analytics.net": "INACTIVE",
             "www.software-comparisons.com": "INACTIVE"
+        },
+        "1577762928": {
+            "www.starclicks.com": "INACTIVE"
+        },
+        "1577762929": {
+            "www.statistiq.com": "INACTIVE",
+            "www.stats-reports.com": "INACTIVE",
+            "www.statsforyoursite.com": "INACTIVE"
+        },
+        "1577762931": {
+            "www.superstatistic.it": "INACTIVE",
+            "www.tadine.ca": "INACTIVE"
+        },
+        "1577762932": {
+            "www.teenhits.com": "INACTIVE",
+            "www.thebighits.com": "INACTIVE"
+        },
+        "1577762935": {
+            "www.trackhost.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
