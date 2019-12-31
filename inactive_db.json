@@ -1,23 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1577628268": {
-            "webmedia.co.il": "INACTIVE"
-        },
-        "1577628270": {
-            "web.softonic-analytics.net": "INACTIVE",
-            "webstat.dreamhosters.com": "INACTIVE"
-        },
-        "1577628271": {
-            "web-track.be": "INACTIVE",
-            "webstats.com.br": "INACTIVE",
-            "webstats.perfectworld.com": "INACTIVE"
-        },
-        "1577628273": {
-            "weekend-feerique.com": "INACTIVE"
-        },
-        "1577628972": {
-            "workingexamples.espotting.com": "INACTIVE"
-        },
         "1577628976": {
             "www.123-traffic.net": "INACTIVE",
             "www10.paypopup.com": "INACTIVE",
@@ -2058,6 +2040,24 @@
         },
         "1577753154": {
             "web01.test.millennialmedia.com": "INACTIVE"
+        },
+        "1577753841": {
+            "webmedia.co.il": "INACTIVE"
+        },
+        "1577753843": {
+            "web.softonic-analytics.net": "INACTIVE",
+            "webstat.dreamhosters.com": "INACTIVE"
+        },
+        "1577753844": {
+            "web-track.be": "INACTIVE",
+            "webstats.com.br": "INACTIVE",
+            "webstats.perfectworld.com": "INACTIVE"
+        },
+        "1577753846": {
+            "weekend-feerique.com": "INACTIVE"
+        },
+        "1577753852": {
+            "workingexamples.espotting.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
