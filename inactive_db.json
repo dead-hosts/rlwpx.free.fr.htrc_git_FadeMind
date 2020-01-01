@@ -1,12 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1577702285": {
-            "ad.adtracking.me": "INACTIVE",
-            "ad1.emediate.dk": "INACTIVE"
-        },
-        "1577702286": {
-            "adclick.pruna.com": "INACTIVE"
-        },
         "1577703188": {
             "ad.doubleclick.net.30850.9240.302br.net": "INACTIVE"
         },
@@ -2056,6 +2049,13 @@
         },
         "1577920964": {
             "active.macromedia.com": "INACTIVE"
+        },
+        "1577921648": {
+            "ad.adtracking.me": "INACTIVE",
+            "ad1.emediate.dk": "INACTIVE"
+        },
+        "1577921649": {
+            "adclick.pruna.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
