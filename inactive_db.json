@@ -1,29 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1577716503": {
-            "content.ipro.com": "INACTIVE",
-            "contentsearch.ch.espotting.com": "INACTIVE",
-            "contentsearch.de.espotting.com": "INACTIVE",
-            "contentsearch.es.espotting.com": "INACTIVE",
-            "contentsearch.fr.espotting.com": "INACTIVE",
-            "contentsearch.it.espotting.com": "INACTIVE",
-            "contentsearch.no.espotting.com": "INACTIVE",
-            "contentsearch.se.espotting.com": "INACTIVE"
-        },
-        "1577716505": {
-            "core.bluefly.com": "INACTIVE"
-        },
-        "1577716506": {
-            "count.dba.dk": "INACTIVE"
-        },
-        "1577716508": {
-            "counter.blog.livedoor.com": "INACTIVE",
-            "counter.gemius.pl": "INACTIVE",
-            "counter.holms.ru": "INACTIVE"
-        },
-        "1577717285": {
-            "counter.russiansubmitter.com": "INACTIVE"
-        },
         "1577717286": {
             "count.jdyou.com": "INACTIVE",
             "count.qiannao.com": "INACTIVE",
@@ -2048,6 +2024,33 @@
         },
         "1577932149": {
             "cocomedia.ca": "INACTIVE"
+        },
+        "1577932836": {
+            "content.ipro.com": "INACTIVE",
+            "contentsearch.ch.espotting.com": "INACTIVE",
+            "contentsearch.de.espotting.com": "INACTIVE",
+            "contentsearch.es.espotting.com": "INACTIVE",
+            "contentsearch.fr.espotting.com": "INACTIVE",
+            "contentsearch.it.espotting.com": "INACTIVE",
+            "contentsearch.no.espotting.com": "INACTIVE",
+            "contentsearch.se.espotting.com": "INACTIVE"
+        },
+        "1577932838": {
+            "core.bluefly.com": "INACTIVE"
+        },
+        "1577932839": {
+            "count.dba.dk": "INACTIVE"
+        },
+        "1577932841": {
+            "counter.blog.livedoor.com": "INACTIVE",
+            "counter.gemius.pl": "INACTIVE",
+            "counter.holms.ru": "INACTIVE"
+        },
+        "1577932842": {
+            "counter.russiansubmitter.com": "INACTIVE"
+        },
+        "1577932843": {
+            "counter.workpc.com.tw": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
