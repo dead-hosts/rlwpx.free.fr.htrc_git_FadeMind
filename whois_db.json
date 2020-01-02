@@ -8975,8 +8975,8 @@
         "state": "future"
     },
     "fuckingfunnyshit.com": {
-        "epoch": 1577750400.0,
-        "expiration_date": "31-dec-2019",
+        "epoch": 1609372800.0,
+        "expiration_date": "31-dec-2020",
         "state": "future"
     },
     "fuckingshit.com": {
@@ -9527,7 +9527,7 @@
     "globaltrafficservice.com": {
         "epoch": 1577836800.0,
         "expiration_date": "01-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "glogspot.com": {
         "epoch": "1548633600",
