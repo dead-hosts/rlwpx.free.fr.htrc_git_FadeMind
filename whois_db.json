@@ -13517,7 +13517,7 @@
     "media4me.com": {
         "epoch": 1577923200.0,
         "expiration_date": "02-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "media4sale.com": {
         "epoch": 1592697600.0,
@@ -13965,8 +13965,8 @@
         "state": "future"
     },
     "mediamultiples.com": {
-        "epoch": 1577836800.0,
-        "expiration_date": "01-jan-2020",
+        "epoch": 1640995200.0,
+        "expiration_date": "01-jan-2022",
         "state": "future"
     },
     "mediamuseum.com": {
