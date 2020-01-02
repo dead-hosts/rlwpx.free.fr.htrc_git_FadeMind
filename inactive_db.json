@@ -1,26 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1577736295": {
-            "logv15.xiti.com": "INACTIVE",
-            "logvtest.xiti.com": "INACTIVE",
-            "logw349.ati-host.net": "INACTIVE"
-        },
-        "1577736297": {
-            "lproot.soft365.com": "INACTIVE"
-        },
-        "1577736298": {
-            "lycos.espotting.com": "INACTIVE"
-        },
-        "1577736985": {
-            "mailing.xiti.com": "INACTIVE"
-        },
-        "1577736986": {
-            "main.clicksor.com": "INACTIVE",
-            "mamainbed.com": "INACTIVE"
-        },
-        "1577736987": {
-            "ma.servecounterstrike.com": "INACTIVE"
-        },
         "1577736990": {
             "mci12.clicksor.com": "INACTIVE",
             "mclient.ivwbox.de": "INACTIVE"
@@ -2049,6 +2028,29 @@
             "logs1400.xiti.com": "INACTIVE",
             "logs1403.xiti.com": "INACTIVE",
             "logs1404.xiti.com": "INACTIVE"
+        },
+        "1577951076": {
+            "logv15.xiti.com": "INACTIVE"
+        },
+        "1577951077": {
+            "logvtest.xiti.com": "INACTIVE",
+            "logw349.ati-host.net": "INACTIVE"
+        },
+        "1577951078": {
+            "lproot.soft365.com": "INACTIVE"
+        },
+        "1577951079": {
+            "lycos.espotting.com": "INACTIVE"
+        },
+        "1577951081": {
+            "mailing.xiti.com": "INACTIVE",
+            "main.clicksor.com": "INACTIVE"
+        },
+        "1577951082": {
+            "mamainbed.com": "INACTIVE"
+        },
+        "1577951083": {
+            "ma.servecounterstrike.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
