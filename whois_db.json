@@ -17200,9 +17200,9 @@
         "state": "future"
     },
     "presstracking.biz": {
-        "epoch": 1571011200.0,
-        "expiration_date": "14-oct-2019",
-        "state": "past"
+        "epoch": 1609372800.0,
+        "expiration_date": "31-dec-2020",
+        "state": "future"
     },
     "prestmedia.com": {
         "epoch": 1584144000.0,
@@ -17242,7 +17242,7 @@
     "priorityclick.com": {
         "epoch": 1577923200.0,
         "expiration_date": "02-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "priserunner.net": {
         "epoch": 1585699200.0,
