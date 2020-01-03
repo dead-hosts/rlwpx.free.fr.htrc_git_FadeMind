@@ -14675,8 +14675,8 @@
         "state": "future"
     },
     "mon-internet.com": {
-        "epoch": 1578009600.0,
-        "expiration_date": "03-jan-2020",
+        "epoch": 1609632000.0,
+        "expiration_date": "03-jan-2021",
         "state": "future"
     },
     "moneyclicks.com": {
@@ -14920,9 +14920,9 @@
         "state": "future"
     },
     "muenkermedia.com": {
-        "epoch": 1577836800.0,
-        "expiration_date": "01-jan-2020",
-        "state": "past"
+        "epoch": 1609459200.0,
+        "expiration_date": "01-jan-2021",
+        "state": "future"
     },
     "multicounter.com": {
         "epoch": 1587859200.0,
