@@ -1,17 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1577934940": {
-            "dtrack.secdls.com": "INACTIVE"
-        },
-        "1577934941": {
-            "dynamix.trafficrevmaster.com": "INACTIVE"
-        },
-        "1577934944": {
-            "econoclicks.com": "INACTIVE"
-        },
-        "1577934945": {
-            "ed-media.ru": "INACTIVE"
-        },
         "1577945421": {
             "en.compteur.fr": "INACTIVE",
             "energyratedwindow.com": "INACTIVE",
@@ -2057,6 +2045,18 @@
         "1578062637": {
             "download.zhongsou.com": "INACTIVE",
             "downloads.mediaplayer4free.com": "INACTIVE"
+        },
+        "1578063326": {
+            "dtrack.secdls.com": "INACTIVE"
+        },
+        "1578063327": {
+            "dynamix.trafficrevmaster.com": "INACTIVE"
+        },
+        "1578063330": {
+            "econoclicks.com": "INACTIVE"
+        },
+        "1578063331": {
+            "ed-media.ru": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
