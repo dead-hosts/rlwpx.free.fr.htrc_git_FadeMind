@@ -1,15 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1577920964": {
-            "active.macromedia.com": "INACTIVE"
-        },
-        "1577921648": {
-            "ad.adtracking.me": "INACTIVE",
-            "ad1.emediate.dk": "INACTIVE"
-        },
-        "1577921649": {
-            "adclick.pruna.com": "INACTIVE"
-        },
         "1577922344": {
             "ad.doubleclick.net.19424.9118.302br.net": "INACTIVE"
         },
@@ -2042,6 +2032,21 @@
             "a.collective-media.net.43506.9299.302br.net": "INACTIVE",
             "a.collective-media.net.43507.9299.302br.net": "INACTIVE",
             "a.collective-media.net.76230.9289.302br.net": "INACTIVE"
+        },
+        "1578047995": {
+            "active.macromedia.com": "INACTIVE",
+            "ad1.emediate.dk": "INACTIVE"
+        },
+        "1578047996": {
+            "ad.adtracking.me": "INACTIVE",
+            "adclick.pruna.com": "INACTIVE"
+        },
+        "1578047997": {
+            "ad.doubleclick.net.14078.9059.302br.net": "INACTIVE"
+        },
+        "1578047998": {
+            "ad.doubleclick.net.17430.9087.302br.net": "INACTIVE",
+            "ad.doubleclick.net.17432.9034.302br.net": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
