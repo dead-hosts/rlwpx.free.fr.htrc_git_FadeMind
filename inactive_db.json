@@ -1,61 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1577951784": {
-            "mediaplayercom.com": "INACTIVE",
-            "mediaplazza.net": "INACTIVE"
-        },
-        "1577952470": {
-            "media.rasazrak.info": "INACTIVE"
-        },
-        "1577952471": {
-            "media.sentabi.com": "INACTIVE",
-            "medias.europacash.com": "INACTIVE"
-        },
-        "1577952472": {
-            "medias.maxidivx.com": "INACTIVE",
-            "mediasmegaportal.com": "INACTIVE",
-            "mediaspub.lequipe.fr": "INACTIVE"
-        },
-        "1577952473": {
-            "mediatex.in": "INACTIVE",
-            "mediationcommunautaire.skynetblogs.be": "INACTIVE"
-        },
-        "1577952476": {
-            "metric.marketwire.com": "INACTIVE"
-        },
-        "1577952477": {
-            "metrics.dentonrc.com": "INACTIVE"
-        },
-        "1577952478": {
-            "metrics.ioffer.com": "INACTIVE"
-        },
-        "1577952479": {
-            "metrics.pcmag.com": "INACTIVE",
-            "metrics.recroom.com": "INACTIVE",
-            "metrics.retail.fidelity.com": "INACTIVE"
-        },
-        "1577952482": {
-            "mgwsav.112.2o7.net": "INACTIVE",
-            "mi-agg03.prod.millennialmedia.com": "INACTIVE",
-            "mi-api01.prod.millennialmedia.com": "INACTIVE",
-            "mi-api02.prod.millennialmedia.com": "INACTIVE",
-            "mi-beta01.prod.millennialmedia.com": "INACTIVE"
-        },
-        "1577952483": {
-            "mi-dw01.prod.millennialmedia.com": "INACTIVE",
-            "mi-dw02.prod.millennialmedia.com": "INACTIVE",
-            "mi-dw03.prod.millennialmedia.com": "INACTIVE",
-            "mi-infra05.prod.millennialmedia.com": "INACTIVE",
-            "mi-infra06.prod.millennialmedia.com": "INACTIVE"
-        },
-        "1577952484": {
-            "mi-memstore05.prod.millennialmedia.com": "INACTIVE",
-            "mi-memstore06.prod.millennialmedia.com": "INACTIVE",
-            "mi-memstore07.prod.millennialmedia.com": "INACTIVE",
-            "mi-memstore08.prod.millennialmedia.com": "INACTIVE",
-            "mi-qa01.prod.millennialmedia.com": "INACTIVE",
-            "mi-qa02.prod.millennialmedia.com": "INACTIVE"
-        },
         "1577952485": {
             "mi-rsc01.prod.millennialmedia.com": "INACTIVE",
             "mi-rsc02.prod.millennialmedia.com": "INACTIVE",
@@ -2069,6 +2013,61 @@
         },
         "1578080153": {
             "mediaparad.ru": "INACTIVE"
+        },
+        "1578080838": {
+            "mediaplayercom.com": "INACTIVE",
+            "mediaplazza.net": "INACTIVE"
+        },
+        "1578080839": {
+            "media.rasazrak.info": "INACTIVE"
+        },
+        "1578080840": {
+            "media.sentabi.com": "INACTIVE",
+            "medias.europacash.com": "INACTIVE"
+        },
+        "1578080841": {
+            "medias.maxidivx.com": "INACTIVE",
+            "mediasmegaportal.com": "INACTIVE",
+            "mediaspub.lequipe.fr": "INACTIVE"
+        },
+        "1578080842": {
+            "mediatex.in": "INACTIVE",
+            "mediationcommunautaire.skynetblogs.be": "INACTIVE"
+        },
+        "1578080845": {
+            "metric.marketwire.com": "INACTIVE"
+        },
+        "1578080846": {
+            "metrics.dentonrc.com": "INACTIVE"
+        },
+        "1578080847": {
+            "metrics.ioffer.com": "INACTIVE"
+        },
+        "1578080848": {
+            "metrics.pcmag.com": "INACTIVE",
+            "metrics.recroom.com": "INACTIVE",
+            "metrics.retail.fidelity.com": "INACTIVE"
+        },
+        "1578080851": {
+            "mi-agg03.prod.millennialmedia.com": "INACTIVE",
+            "mi-api01.prod.millennialmedia.com": "INACTIVE",
+            "mi-api02.prod.millennialmedia.com": "INACTIVE",
+            "mi-beta01.prod.millennialmedia.com": "INACTIVE"
+        },
+        "1578080852": {
+            "mi-dw01.prod.millennialmedia.com": "INACTIVE",
+            "mi-dw02.prod.millennialmedia.com": "INACTIVE",
+            "mi-dw03.prod.millennialmedia.com": "INACTIVE",
+            "mi-infra05.prod.millennialmedia.com": "INACTIVE",
+            "mi-infra06.prod.millennialmedia.com": "INACTIVE"
+        },
+        "1578080853": {
+            "mi-memstore05.prod.millennialmedia.com": "INACTIVE",
+            "mi-memstore06.prod.millennialmedia.com": "INACTIVE",
+            "mi-memstore07.prod.millennialmedia.com": "INACTIVE",
+            "mi-memstore08.prod.millennialmedia.com": "INACTIVE",
+            "mi-qa01.prod.millennialmedia.com": "INACTIVE",
+            "mi-qa02.prod.millennialmedia.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
