@@ -23715,8 +23715,8 @@
         "state": "future"
     },
     "trafficexchanging.com": {
-        "epoch": 1578009600.0,
-        "expiration_date": "03-jan-2020",
+        "epoch": 1609632000.0,
+        "expiration_date": "03-jan-2021",
         "state": "future"
     },
     "trafficexplorer.com": {
@@ -24357,7 +24357,7 @@
     "tsprotraffic.com": {
         "epoch": 1578009600.0,
         "expiration_date": "03-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "tulsamediagroup.com": {
         "epoch": 1591574400.0,
