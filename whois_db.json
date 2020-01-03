@@ -3412,7 +3412,7 @@
     "btracker.com": {
         "epoch": 1578009600.0,
         "expiration_date": "03-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "btstatic.com": {
         "epoch": 1589068800.0,
@@ -3420,9 +3420,9 @@
         "state": "future"
     },
     "bttrack.com": {
-        "epoch": 1577836800.0,
-        "expiration_date": "01-jan-2020",
-        "state": "past"
+        "epoch": 1609459200.0,
+        "expiration_date": "01-jan-2021",
+        "state": "future"
     },
     "buckscountychurch.org": {
         "epoch": 1609286400.0,
@@ -3817,7 +3817,7 @@
     "casinocounty.com": {
         "epoch": 1578009600.0,
         "expiration_date": "03-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "casinopays.com": {
         "epoch": 1592006400.0,
@@ -3932,7 +3932,7 @@
     "centrader.net": {
         "epoch": 1578009600.0,
         "expiration_date": "03-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "centrport.com": {
         "epoch": 1589414400.0,
