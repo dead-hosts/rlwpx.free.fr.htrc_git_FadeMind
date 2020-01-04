@@ -1,21 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1578079441": {
-            "logv15.xiti.com": "INACTIVE"
-        },
-        "1578079442": {
-            "logvtest.xiti.com": "INACTIVE",
-            "logw349.ati-host.net": "INACTIVE"
-        },
-        "1578079444": {
-            "lproot.soft365.com": "INACTIVE"
-        },
-        "1578079445": {
-            "lycos.espotting.com": "INACTIVE"
-        },
-        "1578079446": {
-            "mailing.xiti.com": "INACTIVE"
-        },
         "1578080141": {
             "mci12.clicksor.com": "INACTIVE",
             "mclient.ivwbox.de": "INACTIVE"
@@ -29,23 +13,6 @@
         },
         "1578080147": {
             "media.exchange.bg": "INACTIVE"
-        },
-        "1578080149": {
-            "media.hw.adxpansion.com": "INACTIVE",
-            "media.intelia.it": "INACTIVE"
-        },
-        "1578080150": {
-            "media.likes.com": "INACTIVE"
-        },
-        "1578080151": {
-            "media.maturegratuit.net": "INACTIVE",
-            "media.millennialmedia.com": "INACTIVE"
-        },
-        "1578080152": {
-            "mediamoov.sponsorboost.com": "INACTIVE"
-        },
-        "1578080153": {
-            "mediaparad.ru": "INACTIVE"
         },
         "1578080838": {
             "mediaplayercom.com": "INACTIVE",
@@ -1938,6 +1905,29 @@
         },
         "1578166320": {
             "ma.servecounterstrike.com": "INACTIVE"
+        },
+        "1578167017": {
+            "logv15.xiti.com": "INACTIVE",
+            "logvtest.xiti.com": "INACTIVE",
+            "logw349.ati-host.net": "INACTIVE",
+            "lproot.soft365.com": "INACTIVE",
+            "lycos.espotting.com": "INACTIVE",
+            "mailing.xiti.com": "INACTIVE"
+        },
+        "1578167020": {
+            "media.hw.adxpansion.com": "INACTIVE",
+            "media.intelia.it": "INACTIVE"
+        },
+        "1578167021": {
+            "media.likes.com": "INACTIVE"
+        },
+        "1578167022": {
+            "media.maturegratuit.net": "INACTIVE",
+            "media.millennialmedia.com": "INACTIVE",
+            "mediamoov.sponsorboost.com": "INACTIVE"
+        },
+        "1578167023": {
+            "mediaparad.ru": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
