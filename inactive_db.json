@@ -1,19 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1577978407": {
-            "wap.espotting.com": "INACTIVE"
-        },
-        "1577978408": {
-            "wa.snsbank.nl": "INACTIVE"
-        },
-        "1577978409": {
-            "wbtrack.ipredictus.com": "INACTIVE",
-            "wdc.collective-media.net": "INACTIVE",
-            "wdc.mediation.nexage.com": "INACTIVE"
-        },
-        "1577978410": {
-            "web01.test.millennialmedia.com": "INACTIVE"
-        },
         "1577978412": {
             "webmedia.co.il": "INACTIVE"
         },
@@ -2064,6 +2050,20 @@
         },
         "1578096809": {
             "vs.forbes.com": "INACTIVE"
+        },
+        "1578097500": {
+            "wap.espotting.com": "INACTIVE"
+        },
+        "1578097501": {
+            "wa.snsbank.nl": "INACTIVE"
+        },
+        "1578097502": {
+            "wbtrack.ipredictus.com": "INACTIVE",
+            "wdc.collective-media.net": "INACTIVE",
+            "wdc.mediation.nexage.com": "INACTIVE"
+        },
+        "1578097503": {
+            "web01.test.millennialmedia.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
