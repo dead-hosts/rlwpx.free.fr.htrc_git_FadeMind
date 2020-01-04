@@ -1,15 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1578084463": {
-            "piksmedia.com": "INACTIVE"
-        },
-        "1578084464": {
-            "pistolmedia2.amsnl.webair.com": "INACTIVE"
-        },
-        "1578084466": {
-            "pointofsalelogger.biz": "INACTIVE",
-            "pokpok.meerhits.nl": "INACTIVE"
-        },
         "1578085173": {
             "program.mediaclick.kr": "INACTIVE"
         },
@@ -27,17 +17,6 @@
             "quickbooksbookkeepingorangecounty.info": "INACTIVE",
             "quickbooksbookkeepingorangecounty.us": "INACTIVE",
             "quickstatistic.com": "INACTIVE"
-        },
-        "1578085181": {
-            "rakursmedia.ru": "INACTIVE"
-        },
-        "1578085182": {
-            "ranking-id.de": "INACTIVE",
-            "ranking.21cn.com": "INACTIVE",
-            "ranking2.sitecatcher.net": "INACTIVE"
-        },
-        "1578085184": {
-            "ranksonic.org": "INACTIVE"
         },
         "1578085891": {
             "ratecollegegirlz.com": "INACTIVE"
@@ -1860,6 +1839,23 @@
         "1578171235": {
             "prod.millennialmedia.com": "INACTIVE",
             "productionsupport.espotting.com": "INACTIVE"
+        },
+        "1578171930": {
+            "piksmedia.com": "INACTIVE",
+            "pistolmedia2.amsnl.webair.com": "INACTIVE",
+            "pointofsalelogger.biz": "INACTIVE",
+            "pokpok.meerhits.nl": "INACTIVE"
+        },
+        "1578171933": {
+            "rakursmedia.ru": "INACTIVE"
+        },
+        "1578171935": {
+            "ranking-id.de": "INACTIVE",
+            "ranking.21cn.com": "INACTIVE",
+            "ranking2.sitecatcher.net": "INACTIVE"
+        },
+        "1578171936": {
+            "ranksonic.org": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
