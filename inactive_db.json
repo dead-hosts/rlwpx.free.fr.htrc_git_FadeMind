@@ -1,44 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1578093404": {
-            "tracker.loadingfast.com": "INACTIVE",
-            "tracker.mobile.biz.daum.net": "INACTIVE",
-            "tracker.seoboost.net": "INACTIVE",
-            "tracker.twenga.nl": "INACTIVE",
-            "tracker.u-link.me": "INACTIVE",
-            "tracker.vinsight.de": "INACTIVE"
-        },
-        "1578093405": {
-            "track.hardcoretoons.com": "INACTIVE",
-            "tracking01a.clickrover.com": "INACTIVE"
-        },
-        "1578093406": {
-            "tracking.absolstats.com": "INACTIVE",
-            "tracking.adserving.im": "INACTIVE"
-        },
-        "1578093407": {
-            "trackingdev.nixxie.com": "INACTIVE"
-        },
-        "1578093408": {
-            "tracking.magnify.net": "INACTIVE",
-            "tracking.optimatic.com": "INACTIVE",
-            "trackingpurposes.com": "INACTIVE"
-        },
-        "1578093410": {
-            "track.justhookup.com": "INACTIVE",
-            "track.lativio.com": "INACTIVE",
-            "track.msadcenter.dxr.com": "INACTIVE",
-            "track.msadcenter.kpuo.com": "INACTIVE",
-            "track.msadcenter.lrgo.com": "INACTIVE"
-        },
-        "1578093411": {
-            "track.playmoviesx.com": "INACTIVE",
-            "trackmyfamily.com": "INACTIVE"
-        },
-        "1578093412": {
-            "track.probolan50.it": "INACTIVE",
-            "track.radins.com": "INACTIVE"
-        },
         "1578094516": {
             "track.videochicks.com": "INACTIVE"
         },
@@ -1756,6 +1717,33 @@
         },
         "1578179641": {
             "twincities.indymedia.org": "INACTIVE"
+        },
+        "1578180333": {
+            "tracker.loadingfast.com": "INACTIVE"
+        },
+        "1578180334": {
+            "track.hardcoretoons.com": "INACTIVE",
+            "track.justhookup.com": "INACTIVE",
+            "track.lativio.com": "INACTIVE",
+            "track.msadcenter.dxr.com": "INACTIVE",
+            "track.msadcenter.kpuo.com": "INACTIVE",
+            "track.msadcenter.lrgo.com": "INACTIVE",
+            "track.playmoviesx.com": "INACTIVE",
+            "track.probolan50.it": "INACTIVE",
+            "track.radins.com": "INACTIVE",
+            "tracker.mobile.biz.daum.net": "INACTIVE",
+            "tracker.seoboost.net": "INACTIVE",
+            "tracker.twenga.nl": "INACTIVE",
+            "tracker.u-link.me": "INACTIVE",
+            "tracker.vinsight.de": "INACTIVE",
+            "tracking.absolstats.com": "INACTIVE",
+            "tracking.adserving.im": "INACTIVE",
+            "tracking.magnify.net": "INACTIVE",
+            "tracking.optimatic.com": "INACTIVE",
+            "tracking01a.clickrover.com": "INACTIVE",
+            "trackingdev.nixxie.com": "INACTIVE",
+            "trackingpurposes.com": "INACTIVE",
+            "trackmyfamily.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
