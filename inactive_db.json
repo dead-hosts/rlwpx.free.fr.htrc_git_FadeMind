@@ -1,35 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1578092484": {
-            "top.c-stat.eu": "INACTIVE",
-            "topclicks.at": "INACTIVE"
-        },
-        "1578092485": {
-            "topfree.biz": "INACTIVE"
-        },
-        "1578092487": {
-            "toppoker.biz": "INACTIVE"
-        },
-        "1578092489": {
-            "topvideolist.com": "INACTIVE"
-        },
-        "1578092490": {
-            "tostadomedia.com": "INACTIVE"
-        },
-        "1578092491": {
-            "tpi.espotting.com": "INACTIVE"
-        },
-        "1578092492": {
-            "track.actiplay-network.com": "INACTIVE"
-        },
-        "1578092493": {
-            "track.businesstrenders.com": "INACTIVE",
-            "track.cafemomstatic.com": "INACTIVE"
-        },
-        "1578092494": {
-            "track.clicksor.com": "INACTIVE",
-            "track.divx.com": "INACTIVE"
-        },
         "1578093404": {
             "tracker.loadingfast.com": "INACTIVE",
             "tracker.mobile.biz.daum.net": "INACTIVE",
@@ -1769,6 +1739,23 @@
         },
         "1578178943": {
             "tradeservise.com": "INACTIVE"
+        },
+        "1578179640": {
+            "top.c-stat.eu": "INACTIVE",
+            "topclicks.at": "INACTIVE",
+            "topfree.biz": "INACTIVE",
+            "toppoker.biz": "INACTIVE",
+            "topvideolist.com": "INACTIVE",
+            "tostadomedia.com": "INACTIVE",
+            "tpi.espotting.com": "INACTIVE",
+            "track.actiplay-network.com": "INACTIVE",
+            "track.businesstrenders.com": "INACTIVE",
+            "track.cafemomstatic.com": "INACTIVE",
+            "track.clicksor.com": "INACTIVE",
+            "track.divx.com": "INACTIVE"
+        },
+        "1578179641": {
+            "twincities.indymedia.org": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
