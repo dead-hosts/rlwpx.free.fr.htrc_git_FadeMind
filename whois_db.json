@@ -10482,7 +10482,7 @@
     "hitlogger.com": {
         "epoch": 1578096000.0,
         "expiration_date": "04-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "hitlounge.com": {
         "epoch": 1603756800.0,
@@ -10540,9 +10540,9 @@
         "state": "future"
     },
     "hitoduma-lg.com": {
-        "epoch": 1578009600.0,
-        "expiration_date": "03-jan-2020",
-        "state": "past"
+        "epoch": 1609632000.0,
+        "expiration_date": "03-jan-2021",
+        "state": "future"
     },
     "hitodumalove.biz": {
         "epoch": 1608854400.0,
@@ -10852,7 +10852,7 @@
     "hitwatchers.com": {
         "epoch": 1578096000.0,
         "expiration_date": "04-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "hitweb.org": {
         "epoch": 1595376000.0,
