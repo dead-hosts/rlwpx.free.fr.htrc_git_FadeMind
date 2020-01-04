@@ -1,34 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1578062629": {
-            "de.sitestat.nedstat.net": "INACTIVE",
-            "dev.media.adxpansion.com": "INACTIVE",
-            "dev.millennialmedia.com": "INACTIVE"
-        },
-        "1578062630": {
-            "dialers.netcollex.net": "INACTIVE"
-        },
-        "1578062631": {
-            "digitalalemedia.com": "INACTIVE"
-        },
-        "1578062633": {
-            "dk.espotting.com": "INACTIVE",
-            "dl.elex.soft365.com": "INACTIVE",
-            "dmeserv.newsinc.com": "INACTIVE"
-        },
-        "1578062634": {
-            "dogpile.espotting.com": "INACTIVE"
-        },
-        "1578062635": {
-            "doubclick.com": "INACTIVE"
-        },
-        "1578062636": {
-            "download.fairdialer.de": "INACTIVE"
-        },
-        "1578062637": {
-            "download.zhongsou.com": "INACTIVE",
-            "downloads.mediaplayer4free.com": "INACTIVE"
-        },
         "1578063326": {
             "dtrack.secdls.com": "INACTIVE"
         },
@@ -2010,6 +1981,28 @@
         "1578148963": {
             "de.nedstat.net": "INACTIVE",
             "demo.psoft.net": "INACTIVE"
+        },
+        "1578149652": {
+            "de.sitestat.nedstat.net": "INACTIVE",
+            "dev.media.adxpansion.com": "INACTIVE",
+            "dev.millennialmedia.com": "INACTIVE",
+            "dialers.netcollex.net": "INACTIVE",
+            "digitalalemedia.com": "INACTIVE"
+        },
+        "1578149653": {
+            "dk.espotting.com": "INACTIVE",
+            "dl.elex.soft365.com": "INACTIVE",
+            "dmeserv.newsinc.com": "INACTIVE"
+        },
+        "1578149654": {
+            "dogpile.espotting.com": "INACTIVE"
+        },
+        "1578149655": {
+            "doubclick.com": "INACTIVE"
+        },
+        "1578149656": {
+            "download.fairdialer.de": "INACTIVE",
+            "downloads.mediaplayer4free.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
