@@ -21555,8 +21555,8 @@
         "state": "future"
     },
     "swishmedia.ca": {
-        "epoch": 1578096000.0,
-        "expiration_date": "04-jan-2020",
+        "epoch": 1609718400.0,
+        "expiration_date": "04-jan-2021",
         "state": "future"
     },
     "swordfishdc.com": {
@@ -21772,7 +21772,7 @@
     "teknonmedia.com": {
         "epoch": 1578096000.0,
         "expiration_date": "04-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "teletrade-dj.ro": {
         "epoch": 1845936000.0,

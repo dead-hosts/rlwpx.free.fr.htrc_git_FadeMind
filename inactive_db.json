@@ -1,29 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1578089420": {
-            "stat.infoclear.sco.kr": "INACTIVE"
-        },
-        "1578089422": {
-            "stats.ars4real.com": "INACTIVE"
-        },
-        "1578089423": {
-            "stats.directnic.com": "INACTIVE"
-        },
-        "1578089424": {
-            "stats.dnparking.com": "INACTIVE",
-            "stats.hellforge.gameriot.com": "INACTIVE"
-        },
-        "1578089425": {
-            "stats.host1free.com": "INACTIVE",
-            "stats.inist.fr": "INACTIVE",
-            "stats.macmillanusa.com": "INACTIVE",
-            "stats.magnify.net": "INACTIVE",
-            "stats.men.style.com": "INACTIVE"
-        },
-        "1578089426": {
-            "stats.mortgageintelligence.ca": "INACTIVE",
-            "stats.mvilivestats.com": "INACTIVE"
-        },
         "1578090363": {
             "stats.sharenet.co.za": "INACTIVE",
             "stats.style.com": "INACTIVE"
@@ -1796,6 +1772,20 @@
             "srvjs.media.net": "INACTIVE",
             "standard.kratedemo.com": "INACTIVE",
             "stat.17k.com": "INACTIVE"
+        },
+        "1578176833": {
+            "stat.infoclear.sco.kr": "INACTIVE",
+            "stats.ars4real.com": "INACTIVE",
+            "stats.directnic.com": "INACTIVE",
+            "stats.dnparking.com": "INACTIVE",
+            "stats.hellforge.gameriot.com": "INACTIVE",
+            "stats.host1free.com": "INACTIVE",
+            "stats.inist.fr": "INACTIVE",
+            "stats.macmillanusa.com": "INACTIVE",
+            "stats.magnify.net": "INACTIVE",
+            "stats.men.style.com": "INACTIVE",
+            "stats.mortgageintelligence.ca": "INACTIVE",
+            "stats.mvilivestats.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
