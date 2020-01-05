@@ -1,31 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1578104497": {
-            "www.logequip.com": "INACTIVE",
-            "www.logsex.nl": "INACTIVE"
-        },
-        "1578104498": {
-            "www.lusciousmedia.com": "INACTIVE",
-            "www.markosweb.com": "INACTIVE"
-        },
-        "1578104499": {
-            "www.mci12.clicksor.com": "INACTIVE"
-        },
-        "1578104500": {
-            "www.mediadots.com": "INACTIVE"
-        },
-        "1578104501": {
-            "www.mediahighway.net": "INACTIVE"
-        },
-        "1578104502": {
-            "www.mediaparad.ru": "INACTIVE",
-            "www.mediaplazza.net": "INACTIVE",
-            "www.mediaproductionsnigeria.net": "INACTIVE",
-            "www.mediasmegaportal.com": "INACTIVE"
-        },
-        "1578104503": {
-            "www.mediavibor.ru": "INACTIVE"
-        },
         "1578105193": {
             "www.methodevegas.com": "INACTIVE",
             "www.midkotatraffic.net": "INACTIVE"
@@ -1621,6 +1595,22 @@
             "www.leopardsearch.com": "INACTIVE",
             "www.links4trade.com": "INACTIVE",
             "www.livexxxrated.com": "INACTIVE"
+        },
+        "1578191371": {
+            "www.logequip.com": "INACTIVE",
+            "www.logsex.nl": "INACTIVE",
+            "www.lusciousmedia.com": "INACTIVE",
+            "www.markosweb.com": "INACTIVE",
+            "www.mci12.clicksor.com": "INACTIVE",
+            "www.mediadots.com": "INACTIVE",
+            "www.mediahighway.net": "INACTIVE",
+            "www.mediaparad.ru": "INACTIVE",
+            "www.mediaplazza.net": "INACTIVE",
+            "www.mediaproductionsnigeria.net": "INACTIVE",
+            "www.mediasmegaportal.com": "INACTIVE"
+        },
+        "1578191372": {
+            "www.mediavibor.ru": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
