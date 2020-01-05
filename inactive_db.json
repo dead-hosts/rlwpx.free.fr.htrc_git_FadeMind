@@ -1,43 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1578096102": {
-            "ua.cnt.gemius.pl": "INACTIVE"
-        },
-        "1578096103": {
-            "uggaustralia.com.102.112.2o7.net": "INACTIVE",
-            "ugrank.urll.net": "INACTIVE",
-            "uk.nedstat.net": "INACTIVE"
-        },
-        "1578096105": {
-            "updatedll.mediathree.net": "INACTIVE"
-        },
-        "1578096106": {
-            "up.soft365.com": "INACTIVE",
-            "usa.nedstat.com": "INACTIVE",
-            "usa.nedstat.net": "INACTIVE"
-        },
-        "1578096107": {
-            "us.myflavia.com.102.112.2o7.net": "INACTIVE",
-            "us.yesup.com": "INACTIVE"
-        },
-        "1578096800": {
-            "venus.goclick.com": "INACTIVE"
-        },
-        "1578096805": {
-            "vistatitka.blogspot.com": "INACTIVE"
-        },
-        "1578096806": {
-            "vitals.bandolino.com": "INACTIVE",
-            "vizisense.komli.net": "INACTIVE",
-            "vlcmedia.gblogee.com": "INACTIVE",
-            "vlcmedia.packfr.com": "INACTIVE"
-        },
-        "1578096807": {
-            "vlogic.ak-networks.com": "INACTIVE"
-        },
-        "1578096809": {
-            "vs.forbes.com": "INACTIVE"
-        },
         "1578097500": {
             "wap.espotting.com": "INACTIVE"
         },
@@ -1738,6 +1700,26 @@
             "traffic-network.net": "INACTIVE",
             "trafficyards.com": "INACTIVE",
             "traficgay.ilux.org": "INACTIVE"
+        },
+        "1578183722": {
+            "ua.cnt.gemius.pl": "INACTIVE",
+            "uggaustralia.com.102.112.2o7.net": "INACTIVE",
+            "ugrank.urll.net": "INACTIVE",
+            "uk.nedstat.net": "INACTIVE",
+            "up.soft365.com": "INACTIVE",
+            "updatedll.mediathree.net": "INACTIVE",
+            "us.myflavia.com.102.112.2o7.net": "INACTIVE",
+            "us.yesup.com": "INACTIVE",
+            "usa.nedstat.com": "INACTIVE",
+            "usa.nedstat.net": "INACTIVE",
+            "venus.goclick.com": "INACTIVE",
+            "vistatitka.blogspot.com": "INACTIVE",
+            "vitals.bandolino.com": "INACTIVE",
+            "vizisense.komli.net": "INACTIVE",
+            "vlcmedia.gblogee.com": "INACTIVE",
+            "vlcmedia.packfr.com": "INACTIVE",
+            "vlogic.ak-networks.com": "INACTIVE",
+            "vs.forbes.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
