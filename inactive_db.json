@@ -1,33 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1578106589": {
-            "www.redsheriff.com.au": "INACTIVE",
-            "www.reflectionsmediaonline.com": "INACTIVE"
-        },
-        "1578106590": {
-            "www.rennais.com": "INACTIVE"
-        },
-        "1578106591": {
-            "www.scanspyware.net": "INACTIVE"
-        },
-        "1578106592": {
-            "www.search-itnow.com": "INACTIVE",
-            "www.search.clicksor.com": "INACTIVE"
-        },
-        "1578106595": {
-            "www.shadowtraders.com": "INACTIVE",
-            "www.sharelog.tk": "INACTIVE",
-            "www.shorlakmedia.com": "INACTIVE"
-        },
-        "1578106596": {
-            "www.sitestat.net": "INACTIVE",
-            "www.sitewebstats.com": "INACTIVE",
-            "www.slap-up-media.net": "INACTIVE"
-        },
-        "1578106597": {
-            "www.softonic-analytics.net": "INACTIVE",
-            "www.software-comparisons.com": "INACTIVE"
-        },
         "1578107286": {
             "www.starclicks.com": "INACTIVE"
         },
@@ -1590,6 +1562,22 @@
         },
         "1578192769": {
             "www.userscounter.com": "INACTIVE"
+        },
+        "1578193460": {
+            "www.redsheriff.com.au": "INACTIVE",
+            "www.reflectionsmediaonline.com": "INACTIVE",
+            "www.rennais.com": "INACTIVE",
+            "www.scanspyware.net": "INACTIVE",
+            "www.search-itnow.com": "INACTIVE",
+            "www.search.clicksor.com": "INACTIVE",
+            "www.shadowtraders.com": "INACTIVE",
+            "www.sharelog.tk": "INACTIVE",
+            "www.shorlakmedia.com": "INACTIVE",
+            "www.sitestat.net": "INACTIVE",
+            "www.sitewebstats.com": "INACTIVE",
+            "www.slap-up-media.net": "INACTIVE",
+            "www.softonic-analytics.net": "INACTIVE",
+            "www.software-comparisons.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
