@@ -3700,8 +3700,8 @@
         "state": "future"
     },
     "carbocounter.com": {
-        "epoch": 1578355200.0,
-        "expiration_date": "07-jan-2020",
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
         "state": "future"
     },
     "cardtopia.com": {
@@ -3957,7 +3957,7 @@
     "cetrk.com": {
         "epoch": 1578441600.0,
         "expiration_date": "08-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "cgispy.com": {
         "epoch": 1584057600.0,
@@ -4015,8 +4015,8 @@
         "state": "future"
     },
     "chicken-shit.com": {
-        "epoch": 1578441600.0,
-        "expiration_date": "08-jan-2020",
+        "epoch": 1585440000.0,
+        "expiration_date": "29-mar-2020",
         "state": "future"
     },
     "chickenshit.net": {

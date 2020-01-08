@@ -1,29 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1578325877": {
-            "campaign.clicksor.com": "INACTIVE"
-        },
-        "1578327202": {
-            "cdn.millennialmedia.com": "INACTIVE",
-            "cdn.yieldmedia.net": "INACTIVE"
-        },
-        "1578327203": {
-            "central.paypopup.com": "INACTIVE",
-            "central2.paypopup.com": "INACTIVE",
-            "cg-global.maxymiser.com": "INACTIVE"
-        },
-        "1578327204": {
-            "ch.espotting.com": "INACTIVE"
-        },
-        "1578327205": {
-            "chip.ivwbox.de": "INACTIVE",
-            "chrishitz.ch": "INACTIVE",
-            "cialisghitu.eev.pl": "INACTIVE",
-            "ciao.es.espotting.com": "INACTIVE",
-            "ciao.espotting.com": "INACTIVE",
-            "ciao.it.espotting.com": "INACTIVE",
-            "ciao.ivwbox.de": "INACTIVE"
-        },
         "1578327208": {
             "click1.mainadv.com": "INACTIVE",
             "click2go.org": "INACTIVE",
@@ -2076,6 +2052,32 @@
         },
         "1578500856": {
             "byvihohity.freewaywebhost.com": "INACTIVE"
+        },
+        "1578501784": {
+            "campaign.clicksor.com": "INACTIVE"
+        },
+        "1578501789": {
+            "cdn.millennialmedia.com": "INACTIVE",
+            "cdn.yieldmedia.net": "INACTIVE"
+        },
+        "1578501790": {
+            "central.paypopup.com": "INACTIVE",
+            "central2.paypopup.com": "INACTIVE",
+            "cg-global.maxymiser.com": "INACTIVE"
+        },
+        "1578501791": {
+            "ch.espotting.com": "INACTIVE"
+        },
+        "1578501792": {
+            "chip.ivwbox.de": "INACTIVE",
+            "chrishitz.ch": "INACTIVE"
+        },
+        "1578501793": {
+            "cialisghitu.eev.pl": "INACTIVE",
+            "ciao.es.espotting.com": "INACTIVE",
+            "ciao.espotting.com": "INACTIVE",
+            "ciao.it.espotting.com": "INACTIVE",
+            "ciao.ivwbox.de": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
