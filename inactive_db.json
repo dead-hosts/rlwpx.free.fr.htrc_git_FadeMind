@@ -1,9 +1,6 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
         "1578320212": {
-            "adm.soft365.com": "INACTIVE",
-            "admin.clicksor.com": "INACTIVE",
-            "admin07.hitforums.com": "INACTIVE",
             "adnet.mediawhiz.com": "INACTIVE",
             "adobe-dns-2.adobe.com": "INACTIVE",
             "adobe-dns-3.adobe.com": "INACTIVE"
@@ -2064,6 +2061,14 @@
         "1578485914": {
             "ad.doubleclick.net.29843.9240.302br.net": "INACTIVE",
             "ad.doubleclick.net.31348.9240.302br.net": "INACTIVE"
+        },
+        "1578493610": {
+            "ad-emea.doubleclick.net.69691.9578.302br.net": "INACTIVE"
+        },
+        "1578493615": {
+            "adm.soft365.com": "INACTIVE",
+            "admin.clicksor.com": "INACTIVE",
+            "admin07.hitforums.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
