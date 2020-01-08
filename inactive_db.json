@@ -1,43 +1,7 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1578321488": {
-            "ads.seattletimes.com": "INACTIVE",
-            "ads.stephensmedia.com": "INACTIVE"
-        },
-        "1578321489": {
-            "ads.truthmedia.com": "INACTIVE",
-            "ads.webmedia.co.il": "INACTIVE"
-        },
-        "1578321490": {
-            "adult.koimedia.com": "INACTIVE",
-            "adultclicks.us": "INACTIVE"
-        },
-        "1578322716": {
-            "adv.protraffic.com": "INACTIVE",
-            "advert.mediaswiss.rs": "INACTIVE"
-        },
-        "1578322717": {
-            "affiliate.admtracker.com": "INACTIVE",
-            "affiliate.espotting.com": "INACTIVE",
-            "affiliate.gwmtracker.com": "INACTIVE",
-            "affiliate.mobi.espotting.com": "INACTIVE",
-            "affiliate.nl.espotting.com": "INACTIVE",
-            "affiliate.no.espotting.com": "INACTIVE",
-            "affiliate.rvptracker.com": "INACTIVE",
-            "affiliate.se.espotting.com": "INACTIVE"
-        },
-        "1578322720": {
-            "a.live-conversion.com": "INACTIVE"
-        },
-        "1578322721": {
-            "allogay.host-php.org": "INACTIVE"
-        },
-        "1578322722": {
-            "alogcorp.275mb.com": "INACTIVE"
-        },
         "1578322725": {
             "analytics-google.info": "INACTIVE",
-            "analytics.abacast.com": "INACTIVE",
             "analytics.androidandme.com": "INACTIVE",
             "analytics.fusepowered.com": "INACTIVE",
             "analytics.hgcdn.net": "INACTIVE"
@@ -2069,6 +2033,45 @@
         },
         "1578494975": {
             "ads.mixtraffic.com": "INACTIVE"
+        },
+        "1578496107": {
+            "ads.seattletimes.com": "INACTIVE",
+            "ads.stephensmedia.com": "INACTIVE",
+            "ads.truthmedia.com": "INACTIVE",
+            "ads.webmedia.co.il": "INACTIVE"
+        },
+        "1578496108": {
+            "adultclicks.us": "INACTIVE"
+        },
+        "1578496109": {
+            "adult.koimedia.com": "INACTIVE"
+        },
+        "1578496111": {
+            "adv.protraffic.com": "INACTIVE",
+            "advert.mediaswiss.rs": "INACTIVE"
+        },
+        "1578496112": {
+            "affiliate.admtracker.com": "INACTIVE",
+            "affiliate.espotting.com": "INACTIVE",
+            "affiliate.mobi.espotting.com": "INACTIVE"
+        },
+        "1578496113": {
+            "affiliate.nl.espotting.com": "INACTIVE",
+            "affiliate.no.espotting.com": "INACTIVE",
+            "affiliate.rvptracker.com": "INACTIVE",
+            "affiliate.se.espotting.com": "INACTIVE"
+        },
+        "1578496115": {
+            "a.live-conversion.com": "INACTIVE"
+        },
+        "1578496116": {
+            "allogay.host-php.org": "INACTIVE"
+        },
+        "1578496117": {
+            "alogcorp.275mb.com": "INACTIVE"
+        },
+        "1578496120": {
+            "analytics.abacast.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
