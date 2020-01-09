@@ -1,33 +1,6 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1578379622": {
-            "www.suscotrk.com": "INACTIVE",
-            "www.tadine.ca": "INACTIVE"
-        },
-        "1578379623": {
-            "www.teenhits.com": "INACTIVE",
-            "www.thebighits.com": "INACTIVE"
-        },
-        "1578379625": {
-            "www.toolbarcounter.com": "INACTIVE"
-        },
-        "1578379626": {
-            "www.trackhost.com": "INACTIVE",
-            "www.trackingpurposes.com": "INACTIVE"
-        },
-        "1578379627": {
-            "www.tracksy.com": "INACTIVE"
-        },
-        "1578380317": {
-            "www.traffic-network.net": "INACTIVE",
-            "www.trafficmp.com": "INACTIVE",
-            "www.trafficrank.com": "INACTIVE",
-            "www.trafficseeker.com": "INACTIVE",
-            "www.trafficsekar.com": "INACTIVE"
-        },
         "1578380318": {
-            "www.trafficsupport.com": "INACTIVE",
-            "www.traffictrade.net": "INACTIVE",
             "www.trafficyards.com": "INACTIVE"
         },
         "1578380320": {
@@ -2077,6 +2050,35 @@
         },
         "1578552347": {
             "www.superstatistic.it": "INACTIVE"
+        },
+        "1578553036": {
+            "www.suscotrk.com": "INACTIVE"
+        },
+        "1578553037": {
+            "www.tadine.ca": "INACTIVE",
+            "www.teenhits.com": "INACTIVE"
+        },
+        "1578553038": {
+            "www.thebighits.com": "INACTIVE"
+        },
+        "1578553040": {
+            "www.toolbarcounter.com": "INACTIVE"
+        },
+        "1578553041": {
+            "www.trackhost.com": "INACTIVE",
+            "www.trackingpurposes.com": "INACTIVE",
+            "www.tracksy.com": "INACTIVE"
+        },
+        "1578553044": {
+            "www.traffic-network.net": "INACTIVE",
+            "www.trafficmp.com": "INACTIVE",
+            "www.trafficrank.com": "INACTIVE",
+            "www.trafficseeker.com": "INACTIVE",
+            "www.trafficsekar.com": "INACTIVE",
+            "www.trafficsupport.com": "INACTIVE"
+        },
+        "1578553045": {
+            "www.traffictrade.net": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
