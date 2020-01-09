@@ -23527,7 +23527,7 @@
     "traffic-xxx.com": {
         "epoch": 1578528000.0,
         "expiration_date": "09-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "traffic-zoom.com": {
         "epoch": 1600732800.0,
