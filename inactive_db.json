@@ -1,24 +1,6 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1578360019": {
-            "redirect.click2net.nl": "INACTIVE"
-        },
-        "1578360021": {
-            "remediation.co": "INACTIVE",
-            "reporting.espotting.com": "INACTIVE"
-        },
-        "1578360710": {
-            "revmedia.ru": "INACTIVE"
-        },
-        "1578360712": {
-            "rise-media.ru": "INACTIVE"
-        },
-        "1578360715": {
-            "rtl.ivwbox.de": "INACTIVE",
-            "rub.to": "INACTIVE"
-        },
         "1578360718": {
-            "salestrackersnyc.com": "INACTIVE",
             "sameralrais.hostaty.com": "INACTIVE"
         },
         "1578360722": {
@@ -2069,6 +2051,28 @@
         },
         "1578532720": {
             "recherche.yagoort.org": "INACTIVE"
+        },
+        "1578533425": {
+            "redirect.click2net.nl": "INACTIVE"
+        },
+        "1578533426": {
+            "remediation.co": "INACTIVE"
+        },
+        "1578533427": {
+            "reporting.espotting.com": "INACTIVE"
+        },
+        "1578533428": {
+            "revmedia.ru": "INACTIVE"
+        },
+        "1578533430": {
+            "rise-media.ru": "INACTIVE"
+        },
+        "1578533433": {
+            "rtl.ivwbox.de": "INACTIVE",
+            "rub.to": "INACTIVE"
+        },
+        "1578533436": {
+            "salestrackersnyc.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
