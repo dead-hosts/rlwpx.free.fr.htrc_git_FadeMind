@@ -1,35 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1578364909": {
-            "teva.com.102.112.2o7.net": "INACTIVE"
-        },
-        "1578364910": {
-            "tgpman.picturetrades.com": "INACTIVE",
-            "tgptrades.com": "INACTIVE"
-        },
-        "1578364916": {
-            "ti.click2net.nl": "INACTIVE"
-        },
-        "1578365611": {
-            "top.c-stat.eu": "INACTIVE",
-            "topclicks.at": "INACTIVE"
-        },
-        "1578365612": {
-            "topfree.biz": "INACTIVE"
-        },
-        "1578365614": {
-            "toppoker.biz": "INACTIVE"
-        },
-        "1578365616": {
-            "topvideolist.com": "INACTIVE",
-            "tostadomedia.com": "INACTIVE"
-        },
-        "1578365617": {
-            "tpi.espotting.com": "INACTIVE"
-        },
-        "1578365619": {
-            "track.actiplay-network.com": "INACTIVE"
-        },
         "1578365620": {
             "track.businesstrenders.com": "INACTIVE",
             "track.cafemomstatic.com": "INACTIVE",
@@ -2075,6 +2045,36 @@
             "test.espotting.com": "INACTIVE",
             "test.reporting.espotting.com": "INACTIVE",
             "test.yesadvertising.com": "INACTIVE"
+        },
+        "1578538328": {
+            "teva.com.102.112.2o7.net": "INACTIVE"
+        },
+        "1578538329": {
+            "tgpman.picturetrades.com": "INACTIVE",
+            "tgptrades.com": "INACTIVE"
+        },
+        "1578538335": {
+            "ti.click2net.nl": "INACTIVE"
+        },
+        "1578538339": {
+            "top.c-stat.eu": "INACTIVE",
+            "topclicks.at": "INACTIVE",
+            "topfree.biz": "INACTIVE"
+        },
+        "1578538341": {
+            "toppoker.biz": "INACTIVE"
+        },
+        "1578538343": {
+            "topvideolist.com": "INACTIVE"
+        },
+        "1578538344": {
+            "tostadomedia.com": "INACTIVE"
+        },
+        "1578538345": {
+            "tpi.espotting.com": "INACTIVE"
+        },
+        "1578538346": {
+            "track.actiplay-network.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
