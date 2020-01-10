@@ -1,41 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1578494974": {
-            "ads.clicmanager.fr": "INACTIVE",
-            "ads.fidelity-media.com": "INACTIVE",
-            "ads.fora.tv": "INACTIVE",
-            "adserver.flossiemediagroup.com": "INACTIVE"
-        },
-        "1578494975": {
-            "ads.mixtraffic.com": "INACTIVE"
-        },
-        "1578496107": {
-            "ads.seattletimes.com": "INACTIVE",
-            "ads.stephensmedia.com": "INACTIVE",
-            "ads.truthmedia.com": "INACTIVE",
-            "ads.webmedia.co.il": "INACTIVE"
-        },
-        "1578496108": {
-            "adultclicks.us": "INACTIVE"
-        },
-        "1578496109": {
-            "adult.koimedia.com": "INACTIVE"
-        },
-        "1578496111": {
-            "adv.protraffic.com": "INACTIVE",
-            "advert.mediaswiss.rs": "INACTIVE"
-        },
-        "1578496112": {
-            "affiliate.admtracker.com": "INACTIVE",
-            "affiliate.espotting.com": "INACTIVE",
-            "affiliate.mobi.espotting.com": "INACTIVE"
-        },
-        "1578496113": {
-            "affiliate.nl.espotting.com": "INACTIVE",
-            "affiliate.no.espotting.com": "INACTIVE",
-            "affiliate.rvptracker.com": "INACTIVE",
-            "affiliate.se.espotting.com": "INACTIVE"
-        },
         "1578496115": {
             "a.live-conversion.com": "INACTIVE"
         },
@@ -2079,6 +2043,33 @@
         "1578664134": {
             "ads.bnmedia.com": "INACTIVE",
             "ads.clicksor.com": "INACTIVE"
+        },
+        "1578665063": {
+            "ads.clicmanager.fr": "INACTIVE",
+            "ads.fidelity-media.com": "INACTIVE",
+            "ads.fora.tv": "INACTIVE",
+            "adserver.flossiemediagroup.com": "INACTIVE"
+        },
+        "1578665064": {
+            "ads.mixtraffic.com": "INACTIVE",
+            "ads.seattletimes.com": "INACTIVE"
+        },
+        "1578665065": {
+            "ads.stephensmedia.com": "INACTIVE",
+            "ads.truthmedia.com": "INACTIVE",
+            "ads.webmedia.co.il": "INACTIVE"
+        },
+        "1578665066": {
+            "adult.koimedia.com": "INACTIVE",
+            "adultclicks.us": "INACTIVE"
+        },
+        "1578665069": {
+            "adv.protraffic.com": "INACTIVE",
+            "advert.mediaswiss.rs": "INACTIVE"
+        },
+        "1578665070": {
+            "affiliate.admtracker.com": "INACTIVE",
+            "affiliate.rvptracker.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
