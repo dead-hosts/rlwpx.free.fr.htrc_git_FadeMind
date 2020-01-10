@@ -1,34 +1,6 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1578496115": {
-            "a.live-conversion.com": "INACTIVE"
-        },
-        "1578496116": {
-            "allogay.host-php.org": "INACTIVE"
-        },
-        "1578496117": {
-            "alogcorp.275mb.com": "INACTIVE"
-        },
-        "1578496120": {
-            "analytics.abacast.com": "INACTIVE"
-        },
-        "1578497514": {
-            "analytics-google.info": "INACTIVE",
-            "analytics.androidandme.com": "INACTIVE",
-            "analytics.fusepowered.com": "INACTIVE",
-            "analytics.hgcdn.net": "INACTIVE",
-            "analytics.revee.com": "INACTIVE"
-        },
-        "1578497515": {
-            "andorra.indymedia.org": "INACTIVE",
-            "anepasrater.skynetblogs.be": "INACTIVE"
-        },
-        "1578497516": {
-            "antevenio.flux.ads-click.com": "INACTIVE"
-        },
         "1578497518": {
-            "a.pokerplayermagazine.co.uk": "INACTIVE",
-            "aperture.displaymarketplace.com": "INACTIVE",
             "app.desktop.ak-networks.com": "INACTIVE"
         },
         "1578497519": {
@@ -2070,6 +2042,33 @@
         "1578665070": {
             "affiliate.admtracker.com": "INACTIVE",
             "affiliate.rvptracker.com": "INACTIVE"
+        },
+        "1578666156": {
+            "a.live-conversion.com": "INACTIVE"
+        },
+        "1578666157": {
+            "allogay.host-php.org": "INACTIVE"
+        },
+        "1578666158": {
+            "alogcorp.275mb.com": "INACTIVE"
+        },
+        "1578666161": {
+            "analytics-google.info": "INACTIVE",
+            "analytics.androidandme.com": "INACTIVE",
+            "analytics.fusepowered.com": "INACTIVE",
+            "analytics.hgcdn.net": "INACTIVE",
+            "analytics.revee.com": "INACTIVE"
+        },
+        "1578666162": {
+            "andorra.indymedia.org": "INACTIVE",
+            "anepasrater.skynetblogs.be": "INACTIVE"
+        },
+        "1578666163": {
+            "antevenio.flux.ads-click.com": "INACTIVE"
+        },
+        "1578666165": {
+            "a.pokerplayermagazine.co.uk": "INACTIVE",
+            "aperture.displaymarketplace.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
