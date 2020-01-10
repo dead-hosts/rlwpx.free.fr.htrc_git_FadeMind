@@ -18445,8 +18445,8 @@
         "state": "future"
     },
     "rdmedia.com": {
-        "epoch": 1578614400.0,
-        "expiration_date": "10-jan-2020",
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
         "state": "future"
     },
     "rdndiffusion.com": {
@@ -18522,7 +18522,7 @@
     "rebel-media.com": {
         "epoch": 1578614400.0,
         "expiration_date": "10-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "rebrandsoftware.com": {
         "epoch": 1581984000.0,
