@@ -2470,8 +2470,8 @@
         "state": "future"
     },
     "barrated.com": {
-        "epoch": 1578528000.0,
-        "expiration_date": "09-jan-2020",
+        "epoch": 1610150400.0,
+        "expiration_date": "09-jan-2021",
         "state": "future"
     },
     "barrowcountyweather.com": {
@@ -2852,7 +2852,7 @@
     "billiondollarmedia.com": {
         "epoch": 1578614400.0,
         "expiration_date": "10-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "billshit.com": {
         "epoch": 1601337600.0,
