@@ -1,12 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1578555043": {
-            "zdf.ivwbox.de": "INACTIVE",
-            "zeitonl.ivwbox.de": "INACTIVE"
-        },
-        "1578555044": {
-            "zhitomir-info.biz": "INACTIVE"
-        },
         "1578652273": {
             "006.free-adult-counters.x-xtra.com": "INACTIVE"
         },
@@ -1977,6 +1970,13 @@
         },
         "1578719841": {
             "zalogdamascus.ru": "INACTIVE"
+        },
+        "1578720178": {
+            "zdf.ivwbox.de": "INACTIVE",
+            "zeitonl.ivwbox.de": "INACTIVE"
+        },
+        "1578720179": {
+            "zhitomir-info.biz": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
