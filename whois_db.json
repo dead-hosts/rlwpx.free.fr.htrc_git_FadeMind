@@ -23342,7 +23342,7 @@
     "tradesgear.com": {
         "epoch": 1578700800.0,
         "expiration_date": "11-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "tradeshowdisplaysystem.com": {
         "epoch": 1606348800.0,
@@ -23525,9 +23525,9 @@
         "state": "future"
     },
     "traffic-xxx.com": {
-        "epoch": 1578528000.0,
-        "expiration_date": "09-jan-2020",
-        "state": "past"
+        "epoch": 1610150400.0,
+        "expiration_date": "09-jan-2021",
+        "state": "future"
     },
     "traffic-zoom.com": {
         "epoch": 1600732800.0,
@@ -23595,8 +23595,8 @@
         "state": "future"
     },
     "trafficbeamer.com": {
-        "epoch": 1578614400.0,
-        "expiration_date": "10-jan-2020",
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
         "state": "future"
     },
     "trafficbee.com": {
