@@ -25552,7 +25552,7 @@
     "webtrekk.net": {
         "epoch": 1578614400.0,
         "expiration_date": "10-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "webtrendslive.com": {
         "epoch": 1599609600.0,
@@ -25945,8 +25945,8 @@
         "state": "future"
     },
     "wurldmedia.com": {
-        "epoch": 1578614400.0,
-        "expiration_date": "10-jan-2020",
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
         "state": "future"
     },
     "wyomingpublicmedia.org": {
