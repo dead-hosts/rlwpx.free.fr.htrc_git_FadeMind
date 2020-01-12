@@ -1,17 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1578703500": {
-            "telemedia.m77s.cn": "INACTIVE"
-        },
-        "1578703502": {
-            "test.yesadvertising.com": "INACTIVE",
-            "teva.com.102.112.2o7.net": "INACTIVE",
-            "tgpman.picturetrades.com": "INACTIVE",
-            "tgptrades.com": "INACTIVE"
-        },
-        "1578703508": {
-            "ti.click2net.nl": "INACTIVE"
-        },
         "1578704204": {
             "top.c-stat.eu": "INACTIVE",
             "topclicks.at": "INACTIVE"
@@ -1963,6 +1951,18 @@
         },
         "1578805766": {
             "swr.ivwbox.de": "INACTIVE"
+        },
+        "1578806594": {
+            "telemedia.m77s.cn": "INACTIVE"
+        },
+        "1578806595": {
+            "test.yesadvertising.com": "INACTIVE",
+            "teva.com.102.112.2o7.net": "INACTIVE",
+            "tgpman.picturetrades.com": "INACTIVE",
+            "tgptrades.com": "INACTIVE"
+        },
+        "1578806601": {
+            "ti.click2net.nl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
