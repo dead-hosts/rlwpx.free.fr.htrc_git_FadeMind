@@ -15972,7 +15972,7 @@
     "oneclicktube.com": {
         "epoch": 1578700800.0,
         "expiration_date": "11-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "oneclickvicky.com": {
         "epoch": 1600560000.0,
@@ -16135,9 +16135,9 @@
         "state": "future"
     },
     "opportunity-tracking.com": {
-        "epoch": 1578614400.0,
-        "expiration_date": "10-jan-2020",
-        "state": "past"
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
+        "state": "future"
     },
     "opt-media.com": {
         "epoch": 1585094400.0,
