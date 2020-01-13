@@ -1,57 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1578792550": {
-            "lhcb-release-area.web.cern.ch": "INACTIVE"
-        },
-        "1578792553": {
-            "lists.pmbservices.fr": "INACTIVE"
-        },
-        "1578792554": {
-            "livesupport.clicksor.com": "INACTIVE"
-        },
-        "1578793253": {
-            "llbean.102.112.2o7.net": "INACTIVE"
-        },
-        "1578793254": {
-            "log1nfb.5gbfree.com": "INACTIVE",
-            "log77-5-88-164-151-96.fbx.proxad.net": "INACTIVE",
-            "log77-7-88-185-146-240.fbx.proxad.net": "INACTIVE"
-        },
-        "1578793255": {
-            "logc10.xiti.com": "INACTIVE",
-            "logc111.xiti.com": "INACTIVE",
-            "logc138.xiti.com": "INACTIVE",
-            "logc148.xiti.com": "INACTIVE",
-            "logc15.xiti.com": "INACTIVE",
-            "logc16.xiti.com": "INACTIVE",
-            "logc175.xiti.com": "INACTIVE",
-            "logc188.xiti.com": "INACTIVE",
-            "logc19.xiti.com": "INACTIVE"
-        },
-        "1578793256": {
-            "logc210.xiti.com": "INACTIVE",
-            "logc218.xiti.com": "INACTIVE",
-            "logc239.xiti.com": "INACTIVE",
-            "logc278.xiti.com": "INACTIVE",
-            "logc285.xiti.com": "INACTIVE",
-            "logc57.xiti.com": "INACTIVE",
-            "logc7.xiti.com": "INACTIVE"
-        },
-        "1578793258": {
-            "logo.real.com": "INACTIVE",
-            "logp9.xiti.com": "INACTIVE",
-            "logs1285.xiti.com": "INACTIVE",
-            "logs1400.xiti.com": "INACTIVE",
-            "logs1403.xiti.com": "INACTIVE",
-            "logs1404.xiti.com": "INACTIVE"
-        },
-        "1578793259": {
-            "logv15.xiti.com": "INACTIVE"
-        },
-        "1578793260": {
-            "logvtest.xiti.com": "INACTIVE",
-            "logw349.ati-host.net": "INACTIVE"
-        },
         "1578793262": {
             "lproot.soft365.com": "INACTIVE"
         },
@@ -1963,6 +1911,56 @@
         },
         "1578955852": {
             "lesbianvlogdirectory.net": "INACTIVE"
+        },
+        "1578956537": {
+            "lhcb-release-area.web.cern.ch": "INACTIVE"
+        },
+        "1578956540": {
+            "lists.pmbservices.fr": "INACTIVE"
+        },
+        "1578956541": {
+            "livesupport.clicksor.com": "INACTIVE"
+        },
+        "1578956542": {
+            "llbean.102.112.2o7.net": "INACTIVE"
+        },
+        "1578956543": {
+            "log1nfb.5gbfree.com": "INACTIVE",
+            "log77-5-88-164-151-96.fbx.proxad.net": "INACTIVE",
+            "log77-7-88-185-146-240.fbx.proxad.net": "INACTIVE"
+        },
+        "1578956544": {
+            "logc10.xiti.com": "INACTIVE",
+            "logc111.xiti.com": "INACTIVE",
+            "logc138.xiti.com": "INACTIVE",
+            "logc148.xiti.com": "INACTIVE",
+            "logc15.xiti.com": "INACTIVE",
+            "logc16.xiti.com": "INACTIVE",
+            "logc175.xiti.com": "INACTIVE",
+            "logc188.xiti.com": "INACTIVE",
+            "logc19.xiti.com": "INACTIVE",
+            "logc210.xiti.com": "INACTIVE",
+            "logc218.xiti.com": "INACTIVE",
+            "logc239.xiti.com": "INACTIVE"
+        },
+        "1578956545": {
+            "logc278.xiti.com": "INACTIVE",
+            "logc285.xiti.com": "INACTIVE",
+            "logc57.xiti.com": "INACTIVE",
+            "logc7.xiti.com": "INACTIVE"
+        },
+        "1578956547": {
+            "logo.real.com": "INACTIVE",
+            "logp9.xiti.com": "INACTIVE",
+            "logs1285.xiti.com": "INACTIVE",
+            "logs1400.xiti.com": "INACTIVE",
+            "logs1403.xiti.com": "INACTIVE",
+            "logs1404.xiti.com": "INACTIVE"
+        },
+        "1578956548": {
+            "logv15.xiti.com": "INACTIVE",
+            "logvtest.xiti.com": "INACTIVE",
+            "logw349.ati-host.net": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
