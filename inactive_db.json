@@ -1,32 +1,6 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1578755867": {
-            "a.live-conversion.com": "INACTIVE"
-        },
-        "1578755868": {
-            "allogay.host-php.org": "INACTIVE"
-        },
-        "1578757364": {
-            "alogcorp.275mb.com": "INACTIVE"
-        },
-        "1578757367": {
-            "analytics-google.info": "INACTIVE",
-            "analytics.androidandme.com": "INACTIVE",
-            "analytics.fusepowered.com": "INACTIVE",
-            "analytics.hgcdn.net": "INACTIVE",
-            "analytics.revee.com": "INACTIVE"
-        },
-        "1578757368": {
-            "andorra.indymedia.org": "INACTIVE",
-            "anepasrater.skynetblogs.be": "INACTIVE"
-        },
-        "1578757369": {
-            "antevenio.flux.ads-click.com": "INACTIVE"
-        },
         "1578757371": {
-            "a.pokerplayermagazine.co.uk": "INACTIVE",
-            "aperture.displaymarketplace.com": "INACTIVE",
-            "app.desktop.ak-networks.com": "INACTIVE",
             "apxitektop.com": "INACTIVE"
         },
         "1578757373": {
@@ -1961,6 +1935,33 @@
         "1578927008": {
             "affiliate.admtracker.com": "INACTIVE",
             "affiliate.rvptracker.com": "INACTIVE"
+        },
+        "1578927886": {
+            "a.live-conversion.com": "INACTIVE"
+        },
+        "1578927887": {
+            "allogay.host-php.org": "INACTIVE",
+            "alogcorp.275mb.com": "INACTIVE"
+        },
+        "1578927890": {
+            "analytics.androidandme.com": "INACTIVE"
+        },
+        "1578927891": {
+            "analytics-google.info": "INACTIVE",
+            "analytics.fusepowered.com": "INACTIVE",
+            "analytics.hgcdn.net": "INACTIVE",
+            "analytics.revee.com": "INACTIVE"
+        },
+        "1578927892": {
+            "andorra.indymedia.org": "INACTIVE",
+            "anepasrater.skynetblogs.be": "INACTIVE"
+        },
+        "1578927893": {
+            "antevenio.flux.ads-click.com": "INACTIVE"
+        },
+        "1578927895": {
+            "aperture.displaymarketplace.com": "INACTIVE",
+            "app.desktop.ak-networks.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
