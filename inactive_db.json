@@ -1,27 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1578755858": {
-            "ads.mixtraffic.com": "INACTIVE",
-            "ads.nwsource.com": "INACTIVE",
-            "ads.seattletimes.com": "INACTIVE"
-        },
-        "1578755859": {
-            "ads.stephensmedia.com": "INACTIVE",
-            "ads.truthmedia.com": "INACTIVE",
-            "ads.webmedia.co.il": "INACTIVE"
-        },
-        "1578755860": {
-            "adult.koimedia.com": "INACTIVE",
-            "adultclicks.us": "INACTIVE"
-        },
-        "1578755863": {
-            "adv.protraffic.com": "INACTIVE",
-            "advert.mediaswiss.rs": "INACTIVE"
-        },
-        "1578755864": {
-            "affiliate.admtracker.com": "INACTIVE",
-            "affiliate.rvptracker.com": "INACTIVE"
-        },
         "1578755867": {
             "a.live-conversion.com": "INACTIVE"
         },
@@ -1961,6 +1939,28 @@
         "1578925777": {
             "ads.fidelity-media.com": "INACTIVE",
             "ads.fora.tv": "INACTIVE"
+        },
+        "1578927002": {
+            "ads.mixtraffic.com": "INACTIVE",
+            "ads.nwsource.com": "INACTIVE"
+        },
+        "1578927003": {
+            "ads.seattletimes.com": "INACTIVE",
+            "ads.stephensmedia.com": "INACTIVE",
+            "ads.truthmedia.com": "INACTIVE",
+            "ads.webmedia.co.il": "INACTIVE"
+        },
+        "1578927004": {
+            "adult.koimedia.com": "INACTIVE",
+            "adultclicks.us": "INACTIVE"
+        },
+        "1578927007": {
+            "adv.protraffic.com": "INACTIVE",
+            "advert.mediaswiss.rs": "INACTIVE"
+        },
+        "1578927008": {
+            "affiliate.admtracker.com": "INACTIVE",
+            "affiliate.rvptracker.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
