@@ -1,22 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1578793262": {
-            "lproot.soft365.com": "INACTIVE"
-        },
-        "1578793946": {
-            "mailing.xiti.com": "INACTIVE"
-        },
-        "1578793947": {
-            "main.clicksor.com": "INACTIVE",
-            "mamainbed.com": "INACTIVE"
-        },
-        "1578793949": {
-            "ma.servecounterstrike.com": "INACTIVE"
-        },
-        "1578793951": {
-            "mci12.clicksor.com": "INACTIVE",
-            "mclient.ivwbox.de": "INACTIVE"
-        },
         "1578793953": {
             "media.acces-charme.com": "INACTIVE"
         },
@@ -1961,6 +1944,23 @@
             "logv15.xiti.com": "INACTIVE",
             "logvtest.xiti.com": "INACTIVE",
             "logw349.ati-host.net": "INACTIVE"
+        },
+        "1578957244": {
+            "lproot.soft365.com": "INACTIVE"
+        },
+        "1578957246": {
+            "mailing.xiti.com": "INACTIVE"
+        },
+        "1578957247": {
+            "main.clicksor.com": "INACTIVE",
+            "mamainbed.com": "INACTIVE"
+        },
+        "1578957249": {
+            "ma.servecounterstrike.com": "INACTIVE"
+        },
+        "1578957251": {
+            "mci12.clicksor.com": "INACTIVE",
+            "mclient.ivwbox.de": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
