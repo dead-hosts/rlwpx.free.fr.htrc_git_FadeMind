@@ -1,25 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1578810602": {
-            "ua.cnt.gemius.pl": "INACTIVE",
-            "uggaustralia.com.102.112.2o7.net": "INACTIVE",
-            "ugrank.urll.net": "INACTIVE"
-        },
-        "1578810603": {
-            "uk.nedstat.net": "INACTIVE"
-        },
-        "1578810604": {
-            "updatedll.mediathree.net": "INACTIVE"
-        },
-        "1578810605": {
-            "up.soft365.com": "INACTIVE",
-            "usa.nedstat.com": "INACTIVE",
-            "usa.nedstat.net": "INACTIVE"
-        },
-        "1578810606": {
-            "us.myflavia.com.102.112.2o7.net": "INACTIVE",
-            "us.yesup.com": "INACTIVE"
-        },
         "1578811297": {
             "venus.goclick.com": "INACTIVE"
         },
@@ -1950,6 +1930,26 @@
         "1579030519": {
             "trafficyards.com": "INACTIVE",
             "traficgay.ilux.org": "INACTIVE"
+        },
+        "1579033041": {
+            "ua.cnt.gemius.pl": "INACTIVE"
+        },
+        "1579033042": {
+            "uggaustralia.com.102.112.2o7.net": "INACTIVE",
+            "ugrank.urll.net": "INACTIVE",
+            "uk.nedstat.net": "INACTIVE"
+        },
+        "1579033044": {
+            "up.soft365.com": "INACTIVE",
+            "updatedll.mediathree.net": "INACTIVE"
+        },
+        "1579033045": {
+            "usa.nedstat.com": "INACTIVE",
+            "usa.nedstat.net": "INACTIVE"
+        },
+        "1579033046": {
+            "us.myflavia.com.102.112.2o7.net": "INACTIVE",
+            "us.yesup.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
