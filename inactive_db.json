@@ -1,30 +1,6 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1578956545": {
-            "logc57.xiti.com": "INACTIVE",
-            "logc7.xiti.com": "INACTIVE"
-        },
-        "1578956547": {
-            "logo.real.com": "INACTIVE",
-            "logp9.xiti.com": "INACTIVE",
-            "logs1285.xiti.com": "INACTIVE",
-            "logs1400.xiti.com": "INACTIVE",
-            "logs1403.xiti.com": "INACTIVE",
-            "logs1404.xiti.com": "INACTIVE"
-        },
-        "1578956548": {
-            "logv15.xiti.com": "INACTIVE",
-            "logvtest.xiti.com": "INACTIVE",
-            "logw349.ati-host.net": "INACTIVE"
-        },
-        "1578957244": {
-            "lproot.soft365.com": "INACTIVE"
-        },
-        "1578957246": {
-            "mailing.xiti.com": "INACTIVE"
-        },
         "1578957247": {
-            "main.clicksor.com": "INACTIVE",
             "mamainbed.com": "INACTIVE"
         },
         "1578957249": {
@@ -1944,6 +1920,34 @@
             "logc239.xiti.com": "INACTIVE",
             "logc278.xiti.com": "INACTIVE",
             "logc285.xiti.com": "INACTIVE"
+        },
+        "1579124167": {
+            "logc57.xiti.com": "INACTIVE",
+            "logc7.xiti.com": "INACTIVE"
+        },
+        "1579124169": {
+            "logo.real.com": "INACTIVE",
+            "logp9.xiti.com": "INACTIVE",
+            "logs1285.xiti.com": "INACTIVE",
+            "logs1400.xiti.com": "INACTIVE",
+            "logs1403.xiti.com": "INACTIVE",
+            "logs1404.xiti.com": "INACTIVE"
+        },
+        "1579124170": {
+            "logv15.xiti.com": "INACTIVE"
+        },
+        "1579124171": {
+            "logvtest.xiti.com": "INACTIVE",
+            "logw349.ati-host.net": "INACTIVE"
+        },
+        "1579124173": {
+            "lproot.soft365.com": "INACTIVE"
+        },
+        "1579124175": {
+            "mailing.xiti.com": "INACTIVE"
+        },
+        "1579124176": {
+            "main.clicksor.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
