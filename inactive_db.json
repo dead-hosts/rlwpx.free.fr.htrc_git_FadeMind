@@ -1,24 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1578933962": {
-            "cmedia.packfr.com": "INACTIVE"
-        },
-        "1578933964": {
-            "cocomedia.ca": "INACTIVE"
-        },
-        "1578935091": {
-            "content.ipro.com": "INACTIVE"
-        },
-        "1578935093": {
-            "core.bluefly.com": "INACTIVE"
-        },
-        "1578935094": {
-            "count.dba.dk": "INACTIVE"
-        },
-        "1578935096": {
-            "counter.blog.livedoor.com": "INACTIVE",
-            "counter.gemius.pl": "INACTIVE"
-        },
         "1578935097": {
             "counter.holms.ru": "INACTIVE",
             "counter.russiansubmitter.com": "INACTIVE"
@@ -1945,6 +1926,25 @@
         },
         "1579104090": {
             "cliketclak.skynetblogs.be": "INACTIVE"
+        },
+        "1579105059": {
+            "cmedia.packfr.com": "INACTIVE"
+        },
+        "1579105060": {
+            "cocomedia.ca": "INACTIVE"
+        },
+        "1579105062": {
+            "content.ipro.com": "INACTIVE"
+        },
+        "1579105064": {
+            "core.bluefly.com": "INACTIVE"
+        },
+        "1579105065": {
+            "count.dba.dk": "INACTIVE"
+        },
+        "1579105067": {
+            "counter.blog.livedoor.com": "INACTIVE",
+            "counter.gemius.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
