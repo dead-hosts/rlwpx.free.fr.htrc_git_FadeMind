@@ -1,28 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1579035042": {
-            "wa.snsbank.nl": "INACTIVE"
-        },
-        "1579035043": {
-            "wbtrack.ipredictus.com": "INACTIVE",
-            "wdc.collective-media.net": "INACTIVE",
-            "wdc.mediation.nexage.com": "INACTIVE"
-        },
-        "1579035044": {
-            "web01.test.millennialmedia.com": "INACTIVE"
-        },
-        "1579036196": {
-            "webmedia.co.il": "INACTIVE"
-        },
-        "1579036198": {
-            "web.softonic-analytics.net": "INACTIVE",
-            "webstat.dreamhosters.com": "INACTIVE"
-        },
-        "1579036199": {
-            "web-track.be": "INACTIVE",
-            "webstats.com.br": "INACTIVE",
-            "webstats.perfectworld.com": "INACTIVE"
-        },
         "1579036201": {
             "weekend-feerique.com": "INACTIVE"
         },
@@ -1967,6 +1944,27 @@
         },
         "1579140391": {
             "vs.forbes.com": "INACTIVE"
+        },
+        "1579141088": {
+            "wa.snsbank.nl": "INACTIVE"
+        },
+        "1579141089": {
+            "wbtrack.ipredictus.com": "INACTIVE",
+            "wdc.collective-media.net": "INACTIVE",
+            "wdc.mediation.nexage.com": "INACTIVE",
+            "web01.test.millennialmedia.com": "INACTIVE"
+        },
+        "1579141091": {
+            "webmedia.co.il": "INACTIVE"
+        },
+        "1579141093": {
+            "web.softonic-analytics.net": "INACTIVE",
+            "webstat.dreamhosters.com": "INACTIVE"
+        },
+        "1579141094": {
+            "web-track.be": "INACTIVE",
+            "webstats.com.br": "INACTIVE",
+            "webstats.perfectworld.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
