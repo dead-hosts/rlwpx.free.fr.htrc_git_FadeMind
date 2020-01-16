@@ -1,35 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1579025726": {
-            "track.actiplay-network.com": "INACTIVE"
-        },
-        "1579027340": {
-            "track.businesstrenders.com": "INACTIVE",
-            "track.cafemomstatic.com": "INACTIVE",
-            "track.clicksor.com": "INACTIVE",
-            "track.divx.com": "INACTIVE"
-        },
-        "1579027342": {
-            "tracker.loadingfast.com": "INACTIVE",
-            "tracker.mobile.biz.daum.net": "INACTIVE",
-            "tracker.seoboost.net": "INACTIVE",
-            "tracker.twenga.nl": "INACTIVE",
-            "tracker.u-link.me": "INACTIVE",
-            "tracker.vinsight.de": "INACTIVE"
-        },
-        "1579027343": {
-            "track.hardcoretoons.com": "INACTIVE",
-            "tracking01a.clickrover.com": "INACTIVE"
-        },
-        "1579027344": {
-            "tracking.absolstats.com": "INACTIVE",
-            "tracking.adserving.im": "INACTIVE",
-            "trackingdev.nixxie.com": "INACTIVE"
-        },
-        "1579027345": {
-            "tracking.fathomseo.com": "INACTIVE",
-            "tracking.magnify.net": "INACTIVE"
-        },
         "1579027346": {
             "tracking.optimatic.com": "INACTIVE",
             "trackingpurposes.com": "INACTIVE"
@@ -1957,6 +1927,40 @@
         },
         "1579136164": {
             "tostadomedia.com": "INACTIVE"
+        },
+        "1579136853": {
+            "track.actiplay-network.com": "INACTIVE"
+        },
+        "1579136854": {
+            "track.businesstrenders.com": "INACTIVE"
+        },
+        "1579136855": {
+            "track.cafemomstatic.com": "INACTIVE",
+            "track.clicksor.com": "INACTIVE",
+            "track.divx.com": "INACTIVE"
+        },
+        "1579136856": {
+            "tracker.loadingfast.com": "INACTIVE",
+            "tracker.mobile.biz.daum.net": "INACTIVE"
+        },
+        "1579136857": {
+            "tracker.seoboost.net": "INACTIVE",
+            "tracker.twenga.nl": "INACTIVE",
+            "tracker.u-link.me": "INACTIVE",
+            "tracker.vinsight.de": "INACTIVE"
+        },
+        "1579136858": {
+            "track.hardcoretoons.com": "INACTIVE",
+            "tracking01a.clickrover.com": "INACTIVE"
+        },
+        "1579136859": {
+            "tracking.absolstats.com": "INACTIVE",
+            "tracking.adserving.im": "INACTIVE",
+            "trackingdev.nixxie.com": "INACTIVE"
+        },
+        "1579136860": {
+            "tracking.fathomseo.com": "INACTIVE",
+            "tracking.magnify.net": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
