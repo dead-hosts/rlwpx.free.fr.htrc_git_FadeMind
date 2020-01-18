@@ -15825,8 +15825,8 @@
         "state": "future"
     },
     "omniture.ru": {
-        "epoch": 1579219200.0,
-        "expiration_date": "17-jan-2020",
+        "epoch": 1610841600.0,
+        "expiration_date": "17-jan-2021",
         "state": "future"
     },
     "omsmedia.com": {
@@ -16297,7 +16297,7 @@
     "oxcounter.com": {
         "epoch": 1579305600.0,
         "expiration_date": "18-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "oxistat.com": {
         "epoch": 1622419200.0,
@@ -16330,8 +16330,8 @@
         "state": "future"
     },
     "paganmediabytes.com": {
-        "epoch": 1579305600.0,
-        "expiration_date": "18-jan-2020",
+        "epoch": 1610928000.0,
+        "expiration_date": "18-jan-2021",
         "state": "future"
     },
     "page-rank.net": {
