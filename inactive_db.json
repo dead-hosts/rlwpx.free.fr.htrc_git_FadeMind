@@ -119,28 +119,7 @@
         "1579072200": {
             "zhitomir-info.biz": "INACTIVE"
         },
-        "1579097090": {
-            "adm.soft365.com": "INACTIVE",
-            "admin.clicksor.com": "INACTIVE",
-            "admin07.hitforums.com": "INACTIVE",
-            "adnet.mediawhiz.com": "INACTIVE",
-            "adobe-dns-2.adobe.com": "INACTIVE",
-            "adobe-dns-3.adobe.com": "INACTIVE"
-        },
-        "1579097091": {
-            "ads.adonion.com": "INACTIVE",
-            "ads101.clicksor.com": "INACTIVE",
-            "ads103.clicksor.com": "INACTIVE"
-        },
-        "1579098103": {
-            "ads.bnmedia.com": "INACTIVE",
-            "ads.clicksor.com": "INACTIVE",
-            "ads.clicmanager.fr": "INACTIVE",
-            "adserver.flossiemediagroup.com": "INACTIVE"
-        },
         "1579098104": {
-            "ads.fidelity-media.com": "INACTIVE",
-            "ads.fora.tv": "INACTIVE",
             "ads.mixtraffic.com": "INACTIVE",
             "ads.nwsource.com": "INACTIVE"
         },
@@ -1969,6 +1948,27 @@
         },
         "1579321721": {
             "ad.doubleclick.net.70296.9589.302br.net": "INACTIVE"
+        },
+        "1579326467": {
+            "adm.soft365.com": "INACTIVE",
+            "admin.clicksor.com": "INACTIVE",
+            "admin07.hitforums.com": "INACTIVE"
+        },
+        "1579326468": {
+            "adnet.mediawhiz.com": "INACTIVE",
+            "adobe-dns-2.adobe.com": "INACTIVE",
+            "adobe-dns-3.adobe.com": "INACTIVE",
+            "ads.adonion.com": "INACTIVE",
+            "ads101.clicksor.com": "INACTIVE",
+            "ads103.clicksor.com": "INACTIVE"
+        },
+        "1579326469": {
+            "ads.bnmedia.com": "INACTIVE",
+            "ads.clicksor.com": "INACTIVE",
+            "ads.clicmanager.fr": "INACTIVE",
+            "ads.fidelity-media.com": "INACTIVE",
+            "ads.fora.tv": "INACTIVE",
+            "adserver.flossiemediagroup.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
