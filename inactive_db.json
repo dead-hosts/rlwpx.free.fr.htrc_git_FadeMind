@@ -1,14 +1,6 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1579066942": {
-            "www.trackhost.com": "INACTIVE",
-            "www.trackingpurposes.com": "INACTIVE",
-            "www.tracksy.com": "INACTIVE"
-        },
         "1579066945": {
-            "www.traffic-network.net": "INACTIVE",
-            "www.trafficmp.com": "INACTIVE",
-            "www.trafficrank.com": "INACTIVE",
             "www.trafficseeker.com": "INACTIVE",
             "www.trafficsekar.com": "INACTIVE",
             "www.trafficsupport.com": "INACTIVE"
@@ -118,21 +110,6 @@
         },
         "1579072200": {
             "zhitomir-info.biz": "INACTIVE"
-        },
-        "1579150874": {
-            "www.stfmonitor.com": "INACTIVE"
-        },
-        "1579151567": {
-            "www.traffichome.com": "INACTIVE",
-            "www.traffichome.de": "INACTIVE"
-        },
-        "1579152261": {
-            "www.superstatistic.it": "INACTIVE",
-            "www.suscotrk.com": "INACTIVE",
-            "www.tadine.ca": "INACTIVE",
-            "www.teenhits.com": "INACTIVE",
-            "www.thebighits.com": "INACTIVE",
-            "www.toolbarcounter.com": "INACTIVE"
         },
         "1579152963": {
             "xrank.de": "INACTIVE"
@@ -1986,6 +1963,30 @@
         "1579385469": {
             "www.stats-reports.com": "INACTIVE",
             "www.statsforyoursite.com": "INACTIVE"
+        },
+        "1579389408": {
+            "www.superstatistic.it": "INACTIVE",
+            "www.suscotrk.com": "INACTIVE"
+        },
+        "1579389409": {
+            "www.tadine.ca": "INACTIVE",
+            "www.teenhits.com": "INACTIVE"
+        },
+        "1579389410": {
+            "www.thebighits.com": "INACTIVE"
+        },
+        "1579389412": {
+            "www.toolbarcounter.com": "INACTIVE"
+        },
+        "1579389413": {
+            "www.trackhost.com": "INACTIVE",
+            "www.trackingpurposes.com": "INACTIVE",
+            "www.tracksy.com": "INACTIVE"
+        },
+        "1579389416": {
+            "www.traffic-network.net": "INACTIVE",
+            "www.trafficmp.com": "INACTIVE",
+            "www.trafficrank.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
