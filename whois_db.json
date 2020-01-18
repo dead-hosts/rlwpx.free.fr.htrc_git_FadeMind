@@ -5337,7 +5337,7 @@
     "clickthroughtraffic.com": {
         "epoch": 1579305600.0,
         "expiration_date": "18-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "clickthruhost.com": {
         "epoch": 1718668800.0,
@@ -5355,8 +5355,8 @@
         "state": "future"
     },
     "clickthrutraffic.com": {
-        "epoch": 1579305600.0,
-        "expiration_date": "18-jan-2020",
+        "epoch": 1610928000.0,
+        "expiration_date": "18-jan-2021",
         "state": "future"
     },
     "clickthumbs.com": {
@@ -5620,8 +5620,8 @@
         "state": "future"
     },
     "cnstats.com": {
-        "epoch": 1579219200.0,
-        "expiration_date": "17-jan-2020",
+        "epoch": 1610841600.0,
+        "expiration_date": "17-jan-2021",
         "state": "future"
     },
     "cnstats.ru": {
