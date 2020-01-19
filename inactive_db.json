@@ -1,17 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1579362163": {
-            "netzeitu.ivwbox.de": "INACTIVE"
-        },
-        "1579362164": {
-            "newsclic.ivwbox.de": "INACTIVE"
-        },
-        "1579362859": {
-            "nudegalleries.picturetrades.com": "INACTIVE"
-        },
-        "1579362860": {
-            "nymag.com.102.112.2o7.net": "INACTIVE"
-        },
         "1579362861": {
             "oak1dpu101.insight.omniture.com": "INACTIVE",
             "oak1dpu102.insight.omniture.com": "INACTIVE",
@@ -2010,6 +1998,18 @@
         },
         "1579476676": {
             "navitastrade.com": "INACTIVE"
+        },
+        "1579477363": {
+            "netzeitu.ivwbox.de": "INACTIVE"
+        },
+        "1579477364": {
+            "newsclic.ivwbox.de": "INACTIVE"
+        },
+        "1579477371": {
+            "nudegalleries.picturetrades.com": "INACTIVE"
+        },
+        "1579477372": {
+            "nymag.com.102.112.2o7.net": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
