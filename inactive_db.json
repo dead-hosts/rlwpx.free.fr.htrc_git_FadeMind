@@ -1,31 +1,6 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1579328036": {
-            "ads.webmedia.co.il": "INACTIVE",
-            "adt.com.102.112.2o7.net": "INACTIVE"
-        },
-        "1579328037": {
-            "adult.koimedia.com": "INACTIVE",
-            "adultclicks.us": "INACTIVE"
-        },
-        "1579328040": {
-            "adv.protraffic.com": "INACTIVE",
-            "advert.mediaswiss.rs": "INACTIVE"
-        },
-        "1579328041": {
-            "affiliate.admtracker.com": "INACTIVE",
-            "affiliate.rvptracker.com": "INACTIVE"
-        },
-        "1579328044": {
-            "a.live-conversion.com": "INACTIVE",
-            "allencountyfair.info": "INACTIVE"
-        },
-        "1579328045": {
-            "allogay.host-php.org": "INACTIVE",
-            "alogcorp.275mb.com": "INACTIVE"
-        },
         "1579329495": {
-            "analytics.abacast.com": "INACTIVE",
             "analytics.androidandme.com": "INACTIVE"
         },
         "1579329496": {
@@ -1994,6 +1969,39 @@
             "ads.seattletimes.com": "INACTIVE",
             "ads.stephensmedia.com": "INACTIVE",
             "ads.truthmedia.com": "INACTIVE"
+        },
+        "1579444877": {
+            "ads.webmedia.co.il": "INACTIVE"
+        },
+        "1579444878": {
+            "adt.com.102.112.2o7.net": "INACTIVE",
+            "adultclicks.us": "INACTIVE"
+        },
+        "1579444879": {
+            "adult.koimedia.com": "INACTIVE"
+        },
+        "1579444881": {
+            "adv.protraffic.com": "INACTIVE",
+            "advert.mediaswiss.rs": "INACTIVE"
+        },
+        "1579444882": {
+            "affiliate.admtracker.com": "INACTIVE"
+        },
+        "1579444883": {
+            "affiliate.rvptracker.com": "INACTIVE"
+        },
+        "1579444885": {
+            "a.live-conversion.com": "INACTIVE"
+        },
+        "1579444886": {
+            "allencountyfair.info": "INACTIVE",
+            "allogay.host-php.org": "INACTIVE"
+        },
+        "1579444887": {
+            "alogcorp.275mb.com": "INACTIVE"
+        },
+        "1579444890": {
+            "analytics.abacast.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
