@@ -1,24 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1579340199": {
-            "dialers.netcollex.net": "INACTIVE",
-            "digitalalemedia.com": "INACTIVE"
-        },
-        "1579340202": {
-            "dl.elex.soft365.com": "INACTIVE",
-            "dmeserv.newsinc.com": "INACTIVE",
-            "dns2.salesandtraffic.com": "INACTIVE"
-        },
-        "1579340204": {
-            "doubclick.com": "INACTIVE"
-        },
-        "1579340205": {
-            "download.fairdialer.de": "INACTIVE",
-            "downloads.mediaplayer4free.com": "INACTIVE"
-        },
-        "1579341003": {
-            "dtrack.secdls.com": "INACTIVE"
-        },
         "1579341004": {
             "dynamix.trafficrevmaster.com": "INACTIVE"
         },
@@ -2005,6 +1986,28 @@
             "de.sitestat.nedstat.net": "INACTIVE",
             "dev.media.adxpansion.com": "INACTIVE",
             "dev.millennialmedia.com": "INACTIVE"
+        },
+        "1579455721": {
+            "dialers.netcollex.net": "INACTIVE",
+            "digitalalemedia.com": "INACTIVE"
+        },
+        "1579455723": {
+            "dl.elex.soft365.com": "INACTIVE"
+        },
+        "1579455724": {
+            "dmeserv.newsinc.com": "INACTIVE",
+            "dns2.salesandtraffic.com": "INACTIVE"
+        },
+        "1579455726": {
+            "doubclick.com": "INACTIVE"
+        },
+        "1579455727": {
+            "download.fairdialer.de": "INACTIVE",
+            "download.zhongsou.com": "INACTIVE",
+            "downloads.mediaplayer4free.com": "INACTIVE"
+        },
+        "1579455729": {
+            "dtrack.secdls.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
