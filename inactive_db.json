@@ -1,23 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
-        "1579376306": {
-            "web01.test.millennialmedia.com": "INACTIVE"
-        },
-        "1579376308": {
-            "webmedia.co.il": "INACTIVE"
-        },
-        "1579376310": {
-            "web.softonic-analytics.net": "INACTIVE",
-            "webstat.dreamhosters.com": "INACTIVE",
-            "webstats.com.br": "INACTIVE",
-            "webstats.perfectworld.com": "INACTIVE"
-        },
-        "1579376311": {
-            "web-track.be": "INACTIVE"
-        },
-        "1579376999": {
-            "weekend-feerique.com": "INACTIVE"
-        },
         "1579377006": {
             "worldtradenet.w2c.ru": "INACTIVE"
         },
@@ -2004,6 +1986,24 @@
             "wbtrack.ipredictus.com": "INACTIVE",
             "wdc.collective-media.net": "INACTIVE",
             "wdc.mediation.nexage.com": "INACTIVE"
+        },
+        "1579491392": {
+            "web01.test.millennialmedia.com": "INACTIVE"
+        },
+        "1579491394": {
+            "webmedia.co.il": "INACTIVE"
+        },
+        "1579491396": {
+            "web.softonic-analytics.net": "INACTIVE",
+            "webstat.dreamhosters.com": "INACTIVE",
+            "webstats.com.br": "INACTIVE",
+            "webstats.perfectworld.com": "INACTIVE"
+        },
+        "1579491397": {
+            "web-track.be": "INACTIVE"
+        },
+        "1579491398": {
+            "weekend-feerique.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
