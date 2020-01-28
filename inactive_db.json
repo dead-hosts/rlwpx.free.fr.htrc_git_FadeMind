@@ -1972,10 +1972,6 @@
         "1579548224": {
             "ed-media.ru": "INACTIVE"
         },
-        "1580151610": {
-            "ad.adtracking.me": "INACTIVE",
-            "adclick.pruna.com": "INACTIVE"
-        },
         "1580168248": {
             "ad.doubleclick.net.14120.9059.302br.net": "INACTIVE",
             "ad.doubleclick.net.14121.9059.302br.net": "INACTIVE"
@@ -2046,6 +2042,22 @@
             "ad.doubleclick.net.15921.9075.302br.net": "INACTIVE",
             "ad.doubleclick.net.15933.9075.302br.net": "INACTIVE",
             "ad.doubleclick.net.17415.9086.302br.net": "INACTIVE"
+        },
+        "1580240128": {
+            "acookie.taobao.com": "INACTIVE",
+            "acount.alley.ws": "INACTIVE"
+        },
+        "1580240130": {
+            "ad.adtracking.me": "INACTIVE",
+            "adclick.pruna.com": "INACTIVE"
+        },
+        "1580240131": {
+            "ad.doubleclick.net.13730.9055.302br.net": "INACTIVE",
+            "ad.doubleclick.net.13742.9055.302br.net": "INACTIVE",
+            "ad.doubleclick.net.16023.9088.302br.net": "INACTIVE",
+            "ad.doubleclick.net.16025.9088.302br.net": "INACTIVE",
+            "ad.doubleclick.net.1750.9017.302br.net": "INACTIVE",
+            "ad.doubleclick.net.17507.9105.302br.net": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
