@@ -1993,15 +1993,6 @@
             "ad.doubleclick.net.1750.9017.302br.net": "INACTIVE",
             "ad.doubleclick.net.17507.9105.302br.net": "INACTIVE"
         },
-        "1580270051": {
-            "a.collective-media.net.42445.9289.302br.net": "INACTIVE",
-            "a.collective-media.net.42447.9289.302br.net": "INACTIVE",
-            "a.collective-media.net.43513.9299.302br.net": "INACTIVE",
-            "a.collective-media.net.43514.9299.302br.net": "INACTIVE"
-        },
-        "1580270052": {
-            "ad22.paycount.com": "INACTIVE"
-        },
         "1580273973": {
             "a.collective-media.net.43520.9299.302br.net": "INACTIVE",
             "a.collective-media.net.43521.9299.302br.net": "INACTIVE"
@@ -2049,6 +2040,11 @@
         "1580345789": {
             "ad.doubleclick.net.14124.9059.302br.net": "INACTIVE",
             "adclickint.go2cloud.org": "INACTIVE"
+        },
+        "1580357195": {
+            "ad.doubleclick.net.12726.9046.302br.net": "INACTIVE",
+            "ad.doubleclick.net.12728.9046.302br.net": "INACTIVE",
+            "ad.doubleclick.net.12731.9046.302br.net": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
