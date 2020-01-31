@@ -1987,9 +1987,6 @@
             "ad.doubleclick.net.1750.9017.302br.net": "INACTIVE",
             "ad.doubleclick.net.17507.9105.302br.net": "INACTIVE"
         },
-        "1580415769": {
-            "adclick.pruna.com": "INACTIVE"
-        },
         "1580427792": {
             "ad29.paycount.com": "INACTIVE"
         },
@@ -2068,6 +2065,9 @@
             "ad1.emediate.dk": "INACTIVE",
             "ad1.emediate.se": "INACTIVE",
             "ad2.emediate.se": "INACTIVE"
+        },
+        "1580508577": {
+            "adclick.pruna.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
