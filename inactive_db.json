@@ -1987,15 +1987,6 @@
             "ad.doubleclick.net.1750.9017.302br.net": "INACTIVE",
             "ad.doubleclick.net.17507.9105.302br.net": "INACTIVE"
         },
-        "1580447020": {
-            "a.collective-media.net.43521.9299.302br.net": "INACTIVE",
-            "a.collective-media.net.43523.9299.302br.net": "INACTIVE",
-            "a.collective-media.net.43525.9299.302br.net": "INACTIVE",
-            "a.collective-media.net.43527.9299.302br.net": "INACTIVE"
-        },
-        "1580447022": {
-            "adclick.mint.se": "INACTIVE"
-        },
         "1580450548": {
             "a.collective-media.net.42440.9289.302br.net": "INACTIVE",
             "acookie.alibaba.com": "INACTIVE"
@@ -2067,6 +2058,9 @@
         },
         "1580524510": {
             "adclick.pk": "INACTIVE"
+        },
+        "1580536261": {
+            "a.collective-media.net.43505.9299.302br.net": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
