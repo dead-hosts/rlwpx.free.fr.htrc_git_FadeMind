@@ -1987,9 +1987,6 @@
             "ad.doubleclick.net.1750.9017.302br.net": "INACTIVE",
             "ad.doubleclick.net.17507.9105.302br.net": "INACTIVE"
         },
-        "1580739725": {
-            "action.logger.baofeng.com": "INACTIVE"
-        },
         "1580763704": {
             "2u.media-toolbar.com": "INACTIVE",
             "3213community.media-toolbar.com": "INACTIVE"
@@ -2045,6 +2042,12 @@
         "1580812011": {
             "ad.bodyclick.net": "INACTIVE",
             "adbrite.122.2o7.net": "INACTIVE"
+        },
+        "1580828636": {
+            "a3.suntimes.com": "INACTIVE"
+        },
+        "1580828638": {
+            "action.logger.baofeng.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
