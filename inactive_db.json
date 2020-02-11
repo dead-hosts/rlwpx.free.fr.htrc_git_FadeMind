@@ -1983,23 +1983,6 @@
             "ad.doubleclick.net.1750.9017.302br.net": "INACTIVE",
             "ad.doubleclick.net.17507.9105.302br.net": "INACTIVE"
         },
-        "1581301865": {
-            "600xt.bbfr.net": "INACTIVE"
-        },
-        "1581301866": {
-            "a.advanstar.com": "INACTIVE"
-        },
-        "1581301867": {
-            "a.bizarremag.com": "INACTIVE"
-        },
-        "1581301868": {
-            "active.macromedia.com": "INACTIVE"
-        },
-        "1581301869": {
-            "ad1.emediate.dk": "INACTIVE",
-            "ad1.emediate.se": "INACTIVE",
-            "ad2.emediate.se": "INACTIVE"
-        },
         "1581309653": {
             "a.collective-media.net.43490.9299.302br.net": "INACTIVE"
         },
@@ -2036,6 +2019,19 @@
         },
         "1581343929": {
             "action.logger.baofeng.com": "INACTIVE"
+        },
+        "1581391747": {
+            "600xt.bbfr.net": "INACTIVE"
+        },
+        "1581391748": {
+            "a.advanstar.com": "INACTIVE",
+            "a.bizarremag.com": "INACTIVE"
+        },
+        "1581391750": {
+            "active.macromedia.com": "INACTIVE",
+            "ad1.emediate.dk": "INACTIVE",
+            "ad1.emediate.se": "INACTIVE",
+            "ad2.emediate.se": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
