@@ -1983,12 +1983,6 @@
             "ad.doubleclick.net.1750.9017.302br.net": "INACTIVE",
             "ad.doubleclick.net.17507.9105.302br.net": "INACTIVE"
         },
-        "1581598183": {
-            "ad.accelerator-media.com": "INACTIVE"
-        },
-        "1581598184": {
-            "adclick.pruna.com": "INACTIVE"
-        },
         "1581649306": {
             "a.collective-media.net.49507.9362.302br.net": "INACTIVE"
         },
@@ -2028,6 +2022,9 @@
         },
         "1581675961": {
             "a.collective-media.net.47547.9289.302br.net": "INACTIVE"
+        },
+        "1581688343": {
+            "adclick.pruna.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
