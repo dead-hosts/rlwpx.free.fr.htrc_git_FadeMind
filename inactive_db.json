@@ -1983,9 +1983,6 @@
             "ad.doubleclick.net.1750.9017.302br.net": "INACTIVE",
             "ad.doubleclick.net.17507.9105.302br.net": "INACTIVE"
         },
-        "1581739283": {
-            "a.collective-media.net.47548.9289.302br.net": "INACTIVE"
-        },
         "1581739285": {
             "ad.doubleclick.net.12746.9047.302br.net": "INACTIVE",
             "ad.doubleclick.net.12749.9047.302br.net": "INACTIVE"
@@ -2045,6 +2042,18 @@
             "ad1.yourmedia.com": "INACTIVE",
             "ad200.paycount.com": "INACTIVE",
             "adbg.hit.gemius.pl": "INACTIVE"
+        },
+        "1581828511": {
+            "a.ads2.msn.com": "INACTIVE",
+            "a.amd.com": "INACTIVE"
+        },
+        "1581828513": {
+            "a.collective-media.net.43513.9299.302br.net": "INACTIVE",
+            "a.collective-media.net.43514.9299.302br.net": "INACTIVE"
+        },
+        "1581828514": {
+            "ad217.paycount.com": "INACTIVE",
+            "ad218.paycount.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
