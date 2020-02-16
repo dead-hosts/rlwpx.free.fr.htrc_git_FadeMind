@@ -1983,21 +1983,6 @@
             "ad.doubleclick.net.1750.9017.302br.net": "INACTIVE",
             "ad.doubleclick.net.17507.9105.302br.net": "INACTIVE"
         },
-        "1581746983": {
-            "600xt.bbfr.net": "INACTIVE"
-        },
-        "1581746984": {
-            "a.advanstar.com": "INACTIVE",
-            "a.bizarremag.com": "INACTIVE"
-        },
-        "1581746986": {
-            "active.macromedia.com": "INACTIVE",
-            "ad1.emediate.dk": "INACTIVE",
-            "ad1.emediate.se": "INACTIVE"
-        },
-        "1581746987": {
-            "ad2.emediate.se": "INACTIVE"
-        },
         "1581758307": {
             "ad.adtracking.me": "INACTIVE"
         },
@@ -2044,6 +2029,23 @@
         "1581828514": {
             "ad217.paycount.com": "INACTIVE",
             "ad218.paycount.com": "INACTIVE"
+        },
+        "1581836376": {
+            "600xt.bbfr.net": "INACTIVE"
+        },
+        "1581836377": {
+            "a.advanstar.com": "INACTIVE"
+        },
+        "1581836378": {
+            "a.bizarremag.com": "INACTIVE"
+        },
+        "1581836379": {
+            "active.macromedia.com": "INACTIVE"
+        },
+        "1581836380": {
+            "ad1.emediate.dk": "INACTIVE",
+            "ad1.emediate.se": "INACTIVE",
+            "ad2.emediate.se": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
