@@ -1983,9 +1983,6 @@
             "ad.doubleclick.net.1750.9017.302br.net": "INACTIVE",
             "ad.doubleclick.net.17507.9105.302br.net": "INACTIVE"
         },
-        "1581871017": {
-            "adclick.pruna.com": "INACTIVE"
-        },
         "1581875053": {
             "abscbn.spinbox.net": "INACTIVE"
         },
@@ -2038,6 +2035,9 @@
         },
         "1581940917": {
             "4click.biz": "INACTIVE"
+        },
+        "1581960615": {
+            "adclick.pruna.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
