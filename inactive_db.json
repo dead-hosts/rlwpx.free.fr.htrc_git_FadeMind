@@ -1983,26 +1983,6 @@
             "ad.doubleclick.net.1750.9017.302br.net": "INACTIVE",
             "ad.doubleclick.net.17507.9105.302br.net": "INACTIVE"
         },
-        "1581925400": {
-            "600xt.bbfr.net": "INACTIVE"
-        },
-        "1581925401": {
-            "a.advanstar.com": "INACTIVE",
-            "a.bizarremag.com": "INACTIVE"
-        },
-        "1581925402": {
-            "a.collective-media.net.43520.9299.302br.net": "INACTIVE",
-            "a.collective-media.net.43521.9299.302br.net": "INACTIVE",
-            "active.macromedia.com": "INACTIVE"
-        },
-        "1581925403": {
-            "ad1.emediate.dk": "INACTIVE",
-            "ad1.emediate.se": "INACTIVE",
-            "ad2.emediate.se": "INACTIVE"
-        },
-        "1581925404": {
-            "ad.amtk-media.com.37881.9302.302br.net": "INACTIVE"
-        },
         "1581933170": {
             "a.collective-media.net.47548.9289.302br.net": "INACTIVE"
         },
@@ -2050,6 +2030,25 @@
         "1582004588": {
             "a.collective-media.net.49487.9362.302br.net": "INACTIVE",
             "a.collective-media.net.49489.9362.302br.net": "INACTIVE"
+        },
+        "1582012294": {
+            "600xt.bbfr.net": "INACTIVE"
+        },
+        "1582012295": {
+            "a.advanstar.com": "INACTIVE",
+            "a.bizarremag.com": "INACTIVE"
+        },
+        "1582012297": {
+            "a.collective-media.net.49493.9362.302br.net": "INACTIVE",
+            "active.macromedia.com": "INACTIVE",
+            "ad1.emediate.dk": "INACTIVE",
+            "ad1.emediate.se": "INACTIVE"
+        },
+        "1582012298": {
+            "ad2.emediate.se": "INACTIVE"
+        },
+        "1582012299": {
+            "adc.media-rep.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
