@@ -1986,10 +1986,6 @@
         "1582274620": {
             "ad.doubleclick.net.15969.9075.302br.net": "INACTIVE"
         },
-        "1582612461": {
-            "a.collective-media.net.49481.9362.302br.net": "INACTIVE",
-            "a.collective-media.net.49485.9362.302br.net": "INACTIVE"
-        },
         "1582632100": {
             "ad1.emediate.dk": "INACTIVE",
             "ad1.emediate.se": "INACTIVE",
@@ -2032,6 +2028,14 @@
         },
         "1582686562": {
             "adclick.nl": "INACTIVE"
+        },
+        "1582699381": {
+            "abhitest.2cnt.net": "INACTIVE",
+            "abscbn.spinbox.net": "INACTIVE"
+        },
+        "1582699382": {
+            "a.collective-media.net.49474.9362.302br.net": "INACTIVE",
+            "a.collective-media.net.49475.9362.302br.net": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
