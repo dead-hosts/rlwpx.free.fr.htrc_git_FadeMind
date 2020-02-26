@@ -1983,11 +1983,6 @@
             "ad.doubleclick.net.1750.9017.302br.net": "INACTIVE",
             "ad.doubleclick.net.17507.9105.302br.net": "INACTIVE"
         },
-        "1582632100": {
-            "ad1.emediate.dk": "INACTIVE",
-            "ad1.emediate.se": "INACTIVE",
-            "ad2.emediate.se": "INACTIVE"
-        },
         "1582635763": {
             "600xt.bbfr.net": "INACTIVE"
         },
@@ -2047,6 +2042,11 @@
         },
         "1582717156": {
             "ad.doubleclick.net.12728.9046.302br.net": "INACTIVE"
+        },
+        "1582719673": {
+            "ad1.emediate.dk": "INACTIVE",
+            "ad1.emediate.se": "INACTIVE",
+            "ad2.emediate.se": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
