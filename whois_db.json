@@ -422,7 +422,7 @@
     "99traffic.com": {
         "epoch": 1582761600.0,
         "expiration_date": "27-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "a-counter.com.ua": {
         "epoch": 1588377600.0,
