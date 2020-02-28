@@ -1983,11 +1983,6 @@
             "ad.doubleclick.net.1750.9017.302br.net": "INACTIVE",
             "ad.doubleclick.net.17507.9105.302br.net": "INACTIVE"
         },
-        "1582806672": {
-            "ad1.emediate.dk": "INACTIVE",
-            "ad1.emediate.se": "INACTIVE",
-            "ad2.emediate.se": "INACTIVE"
-        },
         "1582813691": {
             "600xt.bbfr.net": "INACTIVE"
         },
@@ -2029,6 +2024,10 @@
         "1582866647": {
             "a.consumerreports.org": "INACTIVE",
             "acookie.alibaba.com": "INACTIVE"
+        },
+        "1582893842": {
+            "ad1.emediate.se": "INACTIVE",
+            "ad2.emediate.se": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
