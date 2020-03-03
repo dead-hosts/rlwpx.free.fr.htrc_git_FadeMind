@@ -127,7 +127,7 @@
     "1clickpips.com": {
         "epoch": 1583193600.0,
         "expiration_date": "03-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "1clickprizes.com": {
         "epoch": 1604275200.0,
@@ -187,7 +187,7 @@
     "2001positions.com": {
         "epoch": 1583193600.0,
         "expiration_date": "03-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "246media.com": {
         "epoch": 1604102400.0,
