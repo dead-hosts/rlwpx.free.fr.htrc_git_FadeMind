@@ -1983,9 +1983,6 @@
             "ad.doubleclick.net.1750.9017.302br.net": "INACTIVE",
             "ad.doubleclick.net.17507.9105.302br.net": "INACTIVE"
         },
-        "1583353777": {
-            "ad.adtracking.me": "INACTIVE"
-        },
         "1583362446": {
             "006.free-adult-counters.x-xtra.com": "INACTIVE"
         },
@@ -2009,6 +2006,9 @@
             "active.macromedia.com": "INACTIVE",
             "ad1.emediate.se": "INACTIVE",
             "ad2.emediate.se": "INACTIVE"
+        },
+        "1583441790": {
+            "ad.adtracking.me": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
