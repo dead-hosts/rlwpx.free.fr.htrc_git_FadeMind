@@ -162,7 +162,7 @@
     "1loup.net": {
         "epoch": 1583452800.0,
         "expiration_date": "06-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "1stwarning.com": {
         "epoch": 1590278400.0,
@@ -645,8 +645,8 @@
         "state": "future"
     },
     "adamscountycourt.com": {
-        "epoch": 1583452800.0,
-        "expiration_date": "06-mar-2020",
+        "epoch": 1614988800.0,
+        "expiration_date": "06-mar-2021",
         "state": "future"
     },
     "adbest.com": {
