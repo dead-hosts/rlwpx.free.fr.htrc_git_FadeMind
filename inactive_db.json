@@ -1983,17 +1983,6 @@
             "ad.doubleclick.net.1750.9017.302br.net": "INACTIVE",
             "ad.doubleclick.net.17507.9105.302br.net": "INACTIVE"
         },
-        "1584288697": {
-            "action.logger.baofeng.com": "INACTIVE",
-            "active.macromedia.com": "INACTIVE",
-            "ad1.emediate.se": "INACTIVE",
-            "ad2.emediate.se": "INACTIVE"
-        },
-        "1584288698": {
-            "ad.adtracking.me": "INACTIVE",
-            "ad.best-rank.com": "INACTIVE",
-            "adclick.pruna.com": "INACTIVE"
-        },
         "1584321003": {
             "a.advanstar.com": "INACTIVE"
         },
@@ -2008,6 +1997,19 @@
         },
         "1584332775": {
             "4click.biz": "INACTIVE"
+        },
+        "1584376467": {
+            "action.logger.baofeng.com": "INACTIVE"
+        },
+        "1584376468": {
+            "active.macromedia.com": "INACTIVE",
+            "ad1.emediate.se": "INACTIVE",
+            "ad2.emediate.se": "INACTIVE"
+        },
+        "1584376469": {
+            "ad.adtracking.me": "INACTIVE",
+            "ad.best-rank.com": "INACTIVE",
+            "adclick.pruna.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
