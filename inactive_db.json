@@ -1983,12 +1983,6 @@
             "ad.doubleclick.net.1750.9017.302br.net": "INACTIVE",
             "ad.doubleclick.net.17507.9105.302br.net": "INACTIVE"
         },
-        "1584321003": {
-            "a.advanstar.com": "INACTIVE"
-        },
-        "1584321004": {
-            "a.bizarremag.com": "INACTIVE"
-        },
         "1584324642": {
             "600xt.bbfr.net": "INACTIVE"
         },
@@ -2016,6 +2010,13 @@
         },
         "1584404852": {
             "123counter.superstats.com": "INACTIVE"
+        },
+        "1584408990": {
+            "123counter.mycomputer.com": "INACTIVE"
+        },
+        "1584408994": {
+            "a.advanstar.com": "INACTIVE",
+            "a.bizarremag.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
