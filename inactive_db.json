@@ -1983,9 +1983,6 @@
             "ad.doubleclick.net.1750.9017.302br.net": "INACTIVE",
             "ad.doubleclick.net.17507.9105.302br.net": "INACTIVE"
         },
-        "1585001852": {
-            "active.macromedia.com": "INACTIVE"
-        },
         "1585030167": {
             "a.advanstar.com": "INACTIVE",
             "a.bizarremag.com": "INACTIVE"
@@ -2005,6 +2002,12 @@
         },
         "1585085562": {
             "adclick.pruna.com": "INACTIVE"
+        },
+        "1585088889": {
+            "abscbn.spinbox.net": "INACTIVE"
+        },
+        "1585088890": {
+            "active.macromedia.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
