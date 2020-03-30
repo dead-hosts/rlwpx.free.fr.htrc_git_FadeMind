@@ -1983,16 +1983,6 @@
             "ad.doubleclick.net.1750.9017.302br.net": "INACTIVE",
             "ad.doubleclick.net.17507.9105.302br.net": "INACTIVE"
         },
-        "1585440509": {
-            "active.macromedia.com": "INACTIVE",
-            "ad1.emediate.se": "INACTIVE",
-            "ad2.emediate.se": "INACTIVE"
-        },
-        "1585440510": {
-            "ad.adtracking.me": "INACTIVE",
-            "ad.best-rank.com": "INACTIVE",
-            "adclick.pruna.com": "INACTIVE"
-        },
         "1585463488": {
             "4traffic.it": "INACTIVE"
         },
@@ -2009,6 +1999,16 @@
         "1585511465": {
             "4click.biz": "INACTIVE",
             "600xt.bbfr.net": "INACTIVE"
+        },
+        "1585528008": {
+            "active.macromedia.com": "INACTIVE",
+            "ad1.emediate.se": "INACTIVE",
+            "ad2.emediate.se": "INACTIVE"
+        },
+        "1585528009": {
+            "ad.adtracking.me": "INACTIVE",
+            "ad.best-rank.com": "INACTIVE",
+            "adclick.pruna.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
