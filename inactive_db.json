@@ -1983,13 +1983,6 @@
             "ad.doubleclick.net.1750.9017.302br.net": "INACTIVE",
             "ad.doubleclick.net.17507.9105.302br.net": "INACTIVE"
         },
-        "1585614680": {
-            "active.macromedia.com": "INACTIVE",
-            "ad1.emediate.se": "INACTIVE"
-        },
-        "1585614681": {
-            "ad2.emediate.se": "INACTIVE"
-        },
         "1585631003": {
             "17541.c.clickpayz.com": "INACTIVE"
         },
@@ -2014,6 +2007,11 @@
             "ad.adtracking.me": "INACTIVE",
             "ad.best-rank.com": "INACTIVE",
             "adclick.pruna.com": "INACTIVE"
+        },
+        "1585705205": {
+            "active.macromedia.com": "INACTIVE",
+            "ad1.emediate.se": "INACTIVE",
+            "ad2.emediate.se": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
