@@ -1983,10 +1983,6 @@
             "ad.doubleclick.net.1750.9017.302br.net": "INACTIVE",
             "ad.doubleclick.net.17507.9105.302br.net": "INACTIVE"
         },
-        "1585735044": {
-            "a.advanstar.com": "INACTIVE",
-            "a.bizarremag.com": "INACTIVE"
-        },
         "1585779666": {
             "006.free-adult-counters.x-xtra.com": "INACTIVE"
         },
@@ -2005,6 +2001,10 @@
         "1585795285": {
             "ad1.emediate.se": "INACTIVE",
             "ad2.emediate.se": "INACTIVE"
+        },
+        "1585825239": {
+            "a.advanstar.com": "INACTIVE",
+            "a.bizarremag.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
