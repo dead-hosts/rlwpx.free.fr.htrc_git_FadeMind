@@ -1983,9 +1983,6 @@
             "ad.doubleclick.net.1750.9017.302br.net": "INACTIVE",
             "ad.doubleclick.net.17507.9105.302br.net": "INACTIVE"
         },
-        "1586830904": {
-            "adclick.pruna.com": "INACTIVE"
-        },
         "1586857421": {
             "action.logger.baofeng.com": "INACTIVE"
         },
@@ -2010,6 +2007,9 @@
         },
         "1586921017": {
             "ad.adtracking.me": "INACTIVE"
+        },
+        "1586925422": {
+            "adclick.pruna.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
