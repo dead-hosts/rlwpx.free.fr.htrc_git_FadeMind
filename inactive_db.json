@@ -1983,9 +1983,6 @@
             "ad.doubleclick.net.1750.9017.302br.net": "INACTIVE",
             "ad.doubleclick.net.17507.9105.302br.net": "INACTIVE"
         },
-        "1586857421": {
-            "action.logger.baofeng.com": "INACTIVE"
-        },
         "1586880818": {
             "a3.suntimes.com": "INACTIVE"
         },
@@ -2013,6 +2010,9 @@
         },
         "1586943083": {
             "4traffic.it": "INACTIVE"
+        },
+        "1586947518": {
+            "action.logger.baofeng.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
