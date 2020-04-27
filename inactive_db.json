@@ -14,6 +14,13 @@
             "last_retested_at_iso": "2020-04-26T22:43:36.034860",
             "status": "INACTIVE"
         },
+        "4traffic.it": {
+            "included_at_epoch": 1587972972.180063,
+            "included_at_iso": "2020-04-27T07:36:12.180063",
+            "last_retested_at_epoch": 1587972972.180063,
+            "last_retested_at_iso": "2020-04-27T07:36:12.180063",
+            "status": "INACTIVE"
+        },
         "600xt.bbfr.net": {
             "included_at_epoch": 1587190107.0,
             "included_at_iso": "2020-04-18T06:08:27",
