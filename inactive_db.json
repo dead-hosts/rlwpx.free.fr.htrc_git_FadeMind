@@ -84,13 +84,6 @@
             "last_retested_at_iso": "2020-04-27T23:32:19.366950",
             "status": "INACTIVE"
         },
-        "adclick.nl": {
-            "included_at_epoch": 1588005754.359763,
-            "included_at_iso": "2020-04-27T16:42:34.359763",
-            "last_retested_at_epoch": 1588005754.359763,
-            "last_retested_at_iso": "2020-04-27T16:42:34.359763",
-            "status": "INACTIVE"
-        },
         "adclick.pruna.com": {
             "included_at_epoch": 1587136485.0,
             "included_at_iso": "2020-04-17T15:14:45",
