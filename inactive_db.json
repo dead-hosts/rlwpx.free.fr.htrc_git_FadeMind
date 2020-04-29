@@ -17,8 +17,8 @@
         "4traffic.it": {
             "included_at_epoch": 1587972972.180063,
             "included_at_iso": "2020-04-27T07:36:12.180063",
-            "last_retested_at_epoch": 1588062557.064736,
-            "last_retested_at_iso": "2020-04-28T08:29:17.064736",
+            "last_retested_at_epoch": 1588149444.178134,
+            "last_retested_at_iso": "2020-04-29T08:37:24.178134",
             "status": "INACTIVE"
         },
         "600xt.bbfr.net": {
@@ -82,6 +82,13 @@
             "included_at_iso": "2020-04-18T06:08:30",
             "last_retested_at_epoch": 1588118227.190621,
             "last_retested_at_iso": "2020-04-28T23:57:07.190621",
+            "status": "INACTIVE"
+        },
+        "adclick.nl": {
+            "included_at_epoch": 1588149448.154052,
+            "included_at_iso": "2020-04-29T08:37:28.154052",
+            "last_retested_at_epoch": 1588149448.154052,
+            "last_retested_at_iso": "2020-04-29T08:37:28.154052",
             "status": "INACTIVE"
         },
         "adclick.pruna.com": {
