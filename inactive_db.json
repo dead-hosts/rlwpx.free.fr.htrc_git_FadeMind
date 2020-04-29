@@ -49,6 +49,13 @@
             "last_retested_at_iso": "2020-04-28T23:57:05.301262",
             "status": "INACTIVE"
         },
+        "action.logger.baofeng.com": {
+            "included_at_epoch": 1588126008.66581,
+            "included_at_iso": "2020-04-29T02:06:48.665810",
+            "last_retested_at_epoch": 1588126008.66581,
+            "last_retested_at_iso": "2020-04-29T02:06:48.665810",
+            "status": "INACTIVE"
+        },
         "active.macromedia.com": {
             "included_at_epoch": 1587190109.0,
             "included_at_iso": "2020-04-18T06:08:29",
