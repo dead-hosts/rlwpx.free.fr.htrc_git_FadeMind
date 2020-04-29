@@ -1,15 +1,11 @@
-addons:
-    apt:
-        packages:
-        - dos2unix
+dist: bionic
 env:
     global:
     -   secure: vYfMXMAymeashiqBwcb3HpcIdvOAIiXaQ3Oz55sYvUJszPpUEC6kFJUPECL85h5XO2ouu2S8Zqz2Hs2KBk+aWYtxm7X9nPTxy0jp0aWt8+Fob2nVKn7Atjosohw1DjvDv9zmGiHolxiOTjBBDc09cqcINsIBvUAJ9OYhQEU6+G+jQ+CM0PpWx/rRfe/OK5LZXUAO2U5gdn8znt5HHSPOjFlPPlaVNkN34dDmcwpSjBA45BezrLaxvSguMG0ST7PS8X/yJj9zjNhsc4Dhh1qrUSpYwFQ7es03K1UGY9atqMoKS0bPlearTb8R3L176GRIS3p+meVqizqebTbD1MSNvMUNejySIPeqewcNAZOLm/rkCO0T+DW5UuQS2IgiI9rzHOHHAHTOMXxx+I+Mt816PGsoywtx+LVd34Xjg4HXXvqiz4uQt3eB5RGO+yBtJ+na+FASucwe9XaApRNWAlLLhIh608o9598dJydc0S7GrgzPMIjNfTU7dQH4SBUaxPaZ5o5prThrhwLwABk+DONbxNyzg2e6x2SRR1qs15QgN3lNfKs+CbMq/jq8PAGXTStpDwpmAxLWZFYJuobzoyw+IL0XONFOZ3b1WKwaslL7sQEnrBwOoIiuxkOc8xKqNC6pC231RbQWB1AvvuRETrfXHENQxwzh430q5Hb8SZtEyos=
-    -   GIT_NAME: Travis CI
-    -   GIT_EMAIL: dead-hosts@funilrys.com
+    -   GIT_NAME: Dead-Hosts
+    -   GIT_EMAIL: dead-hosts@outlook.com
     -   GIT_BRANCH: master
-    matrix:
-    - PYTHON_VERSION="3.7.3"
+    -   PYTHON_VERSION: 3.7.5
 install:
 - export PATH="${HOME}/miniconda/bin:${PATH}"
 - wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh -O miniconda.sh
@@ -18,16 +14,16 @@ install:
 - conda config --set always_yes yes --set changeps1 no
 - conda update -q conda
 - conda create -q -n launcher-environment python="${PYTHON_VERSION}"
-- source activate launcher-environment
+- conda activate launcher-environment
 - python -VV
 - pip --version
-- pip install dead-hosts-launcher
+- pip install --upgrade dead-hosts-launcher
 - rm miniconda.sh
 language: generic
 notifications:
     email:
         on_failure: always
-        on_success: never
+        on_success: change
         recipients:
         - dead-hosts@outlook.com
 os:
