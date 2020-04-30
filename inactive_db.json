@@ -56,13 +56,6 @@
             "last_retested_at_iso": "2020-04-30T12:50:25.468059",
             "status": "INACTIVE"
         },
-        "abscbn.spinbox.net": {
-            "included_at_epoch": 1588179527.532469,
-            "included_at_iso": "2020-04-29T16:58:47.532469",
-            "last_retested_at_epoch": 1588179527.532469,
-            "last_retested_at_iso": "2020-04-29T16:58:47.532469",
-            "status": "INACTIVE"
-        },
         "action.logger.baofeng.com": {
             "included_at_epoch": 1588251025.478497,
             "included_at_iso": "2020-04-30T12:50:25.478497",
