@@ -28,6 +28,13 @@
             "last_retested_at_iso": "2020-04-30T11:43:31.166413",
             "status": "INACTIVE"
         },
+        "60secondstory.contagiousmedia.org": {
+            "included_at_epoch": 1588251023.048858,
+            "included_at_iso": "2020-04-30T12:50:23.048858",
+            "last_retested_at_epoch": 1588251023.048858,
+            "last_retested_at_iso": "2020-04-30T12:50:23.048858",
+            "status": "INACTIVE"
+        },
         "a.advanstar.com": {
             "included_at_epoch": 1587190108.0,
             "included_at_iso": "2020-04-18T06:08:28",
@@ -42,11 +49,25 @@
             "last_retested_at_iso": "2020-04-30T11:43:32.368388",
             "status": "INACTIVE"
         },
+        "a.csmonitor.com": {
+            "included_at_epoch": 1588251025.468059,
+            "included_at_iso": "2020-04-30T12:50:25.468059",
+            "last_retested_at_epoch": 1588251025.468059,
+            "last_retested_at_iso": "2020-04-30T12:50:25.468059",
+            "status": "INACTIVE"
+        },
         "abscbn.spinbox.net": {
             "included_at_epoch": 1588179527.532469,
             "included_at_iso": "2020-04-29T16:58:47.532469",
             "last_retested_at_epoch": 1588179527.532469,
             "last_retested_at_iso": "2020-04-29T16:58:47.532469",
+            "status": "INACTIVE"
+        },
+        "action.logger.baofeng.com": {
+            "included_at_epoch": 1588251025.478497,
+            "included_at_iso": "2020-04-30T12:50:25.478497",
+            "last_retested_at_epoch": 1588251025.478497,
+            "last_retested_at_iso": "2020-04-30T12:50:25.478497",
             "status": "INACTIVE"
         },
         "active.macromedia.com": {
@@ -75,6 +96,13 @@
             "included_at_iso": "2020-04-18T06:08:30",
             "last_retested_at_epoch": 1588247014.230094,
             "last_retested_at_iso": "2020-04-30T11:43:34.230094",
+            "status": "INACTIVE"
+        },
+        "adclick.nl": {
+            "included_at_epoch": 1588251026.780018,
+            "included_at_iso": "2020-04-30T12:50:26.780018",
+            "last_retested_at_epoch": 1588251026.780018,
+            "last_retested_at_iso": "2020-04-30T12:50:26.780018",
             "status": "INACTIVE"
         },
         "adclick.pruna.com": {
