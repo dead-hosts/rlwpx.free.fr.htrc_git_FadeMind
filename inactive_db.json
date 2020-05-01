@@ -63,6 +63,13 @@
             "last_retested_at_iso": "2020-04-30T12:50:25.478497",
             "status": "INACTIVE"
         },
+        "activation.adtrustmedia.com": {
+            "included_at_epoch": 1588299933.010079,
+            "included_at_iso": "2020-05-01T02:25:33.010079",
+            "last_retested_at_epoch": 1588299933.010079,
+            "last_retested_at_iso": "2020-05-01T02:25:33.010079",
+            "status": "INACTIVE"
+        },
         "active.macromedia.com": {
             "included_at_epoch": 1587190109.0,
             "included_at_iso": "2020-04-18T06:08:29",
