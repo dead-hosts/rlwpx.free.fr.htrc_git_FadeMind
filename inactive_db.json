@@ -28,13 +28,6 @@
             "last_retested_at_iso": "2020-05-01T12:04:42.404102",
             "status": "INACTIVE"
         },
-        "60secondstory.contagiousmedia.org": {
-            "included_at_epoch": 1588251023.048858,
-            "included_at_iso": "2020-04-30T12:50:23.048858",
-            "last_retested_at_epoch": 1588251023.048858,
-            "last_retested_at_iso": "2020-04-30T12:50:23.048858",
-            "status": "INACTIVE"
-        },
         "a.advanstar.com": {
             "included_at_epoch": 1587190108.0,
             "included_at_iso": "2020-04-18T06:08:28",
@@ -49,18 +42,11 @@
             "last_retested_at_iso": "2020-05-01T12:04:43.587320",
             "status": "INACTIVE"
         },
-        "a.csmonitor.com": {
-            "included_at_epoch": 1588251025.468059,
-            "included_at_iso": "2020-04-30T12:50:25.468059",
-            "last_retested_at_epoch": 1588251025.468059,
-            "last_retested_at_iso": "2020-04-30T12:50:25.468059",
-            "status": "INACTIVE"
-        },
         "action.logger.baofeng.com": {
             "included_at_epoch": 1588251025.478497,
             "included_at_iso": "2020-04-30T12:50:25.478497",
-            "last_retested_at_epoch": 1588251025.478497,
-            "last_retested_at_iso": "2020-04-30T12:50:25.478497",
+            "last_retested_at_epoch": 1588338598.470278,
+            "last_retested_at_iso": "2020-05-01T13:09:58.470278",
             "status": "INACTIVE"
         },
         "activation.adtrustmedia.com": {
@@ -96,13 +82,6 @@
             "included_at_iso": "2020-04-18T06:08:30",
             "last_retested_at_epoch": 1588334685.565536,
             "last_retested_at_iso": "2020-05-01T12:04:45.565536",
-            "status": "INACTIVE"
-        },
-        "adclick.nl": {
-            "included_at_epoch": 1588251026.780018,
-            "included_at_iso": "2020-04-30T12:50:26.780018",
-            "last_retested_at_epoch": 1588251026.780018,
-            "last_retested_at_iso": "2020-04-30T12:50:26.780018",
             "status": "INACTIVE"
         },
         "adclick.pruna.com": {
