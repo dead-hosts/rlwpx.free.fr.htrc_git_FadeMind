@@ -1749,6 +1749,41 @@
             "last_retested_at_epoch": 1588371337.695861,
             "last_retested_at_iso": "2020-05-01T22:15:37.695861",
             "status": "INACTIVE"
+        },
+        "dynamix.trafficrevmaster.com": {
+            "included_at_epoch": 1588373897.199484,
+            "included_at_iso": "2020-05-01T22:58:17.199484",
+            "last_retested_at_epoch": 1588373897.199484,
+            "last_retested_at_iso": "2020-05-01T22:58:17.199484",
+            "status": "INACTIVE"
+        },
+        "e2.emediate.se": {
+            "included_at_epoch": 1588373898.080171,
+            "included_at_iso": "2020-05-01T22:58:18.080171",
+            "last_retested_at_epoch": 1588373898.080171,
+            "last_retested_at_iso": "2020-05-01T22:58:18.080171",
+            "status": "INACTIVE"
+        },
+        "eas3.emediate.se": {
+            "included_at_epoch": 1588373898.308623,
+            "included_at_iso": "2020-05-01T22:58:18.308623",
+            "last_retested_at_epoch": 1588373898.308623,
+            "last_retested_at_iso": "2020-05-01T22:58:18.308623",
+            "status": "INACTIVE"
+        },
+        "econoclicks.com": {
+            "included_at_epoch": 1588373900.283912,
+            "included_at_iso": "2020-05-01T22:58:20.283912",
+            "last_retested_at_epoch": 1588373900.283912,
+            "last_retested_at_iso": "2020-05-01T22:58:20.283912",
+            "status": "INACTIVE"
+        },
+        "ed-media.ru": {
+            "included_at_epoch": 1588373900.748445,
+            "included_at_iso": "2020-05-01T22:58:20.748445",
+            "last_retested_at_epoch": 1588373900.748445,
+            "last_retested_at_iso": "2020-05-01T22:58:20.748445",
+            "status": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
