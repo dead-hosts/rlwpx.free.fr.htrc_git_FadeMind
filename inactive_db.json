@@ -1784,6 +1784,90 @@
             "last_retested_at_epoch": 1588373900.748445,
             "last_retested_at_iso": "2020-05-01T22:58:20.748445",
             "status": "INACTIVE"
+        },
+        "en.compteur.fr": {
+            "included_at_epoch": 1588386144.149302,
+            "included_at_iso": "2020-05-02T02:22:24.149302",
+            "last_retested_at_epoch": 1588386144.149302,
+            "last_retested_at_iso": "2020-05-02T02:22:24.149302",
+            "status": "INACTIVE"
+        },
+        "en.scientificcommons.org": {
+            "included_at_epoch": 1588386145.022463,
+            "included_at_iso": "2020-05-02T02:22:25.022463",
+            "last_retested_at_epoch": 1588386145.022463,
+            "last_retested_at_iso": "2020-05-02T02:22:25.022463",
+            "status": "INACTIVE"
+        },
+        "en.statscounter.info": {
+            "included_at_epoch": 1588386145.047425,
+            "included_at_iso": "2020-05-02T02:22:25.047425",
+            "last_retested_at_epoch": 1588386145.047425,
+            "last_retested_at_iso": "2020-05-02T02:22:25.047425",
+            "status": "INACTIVE"
+        },
+        "energyratedwindow.com": {
+            "included_at_epoch": 1588386144.488979,
+            "included_at_iso": "2020-05-02T02:22:24.488979",
+            "last_retested_at_epoch": 1588386144.488979,
+            "last_retested_at_iso": "2020-05-02T02:22:24.488979",
+            "status": "INACTIVE"
+        },
+        "energyratedwindow.info": {
+            "included_at_epoch": 1588386144.463921,
+            "included_at_iso": "2020-05-02T02:22:24.463921",
+            "last_retested_at_epoch": 1588386144.463921,
+            "last_retested_at_iso": "2020-05-02T02:22:24.463921",
+            "status": "INACTIVE"
+        },
+        "englishhits.com": {
+            "included_at_epoch": 1588386144.69298,
+            "included_at_iso": "2020-05-02T02:22:24.692980",
+            "last_retested_at_epoch": 1588386144.69298,
+            "last_retested_at_iso": "2020-05-02T02:22:24.692980",
+            "status": "INACTIVE"
+        },
+        "erohits.nl": {
+            "included_at_epoch": 1588386146.495571,
+            "included_at_iso": "2020-05-02T02:22:26.495571",
+            "last_retested_at_epoch": 1588386146.495571,
+            "last_retested_at_iso": "2020-05-02T02:22:26.495571",
+            "status": "INACTIVE"
+        },
+        "erohits.us": {
+            "included_at_epoch": 1588386146.521474,
+            "included_at_iso": "2020-05-02T02:22:26.521474",
+            "last_retested_at_epoch": 1588386146.521474,
+            "last_retested_at_iso": "2020-05-02T02:22:26.521474",
+            "status": "INACTIVE"
+        },
+        "erotik-ranking.biz": {
+            "included_at_epoch": 1588386147.164015,
+            "included_at_iso": "2020-05-02T02:22:27.164015",
+            "last_retested_at_epoch": 1588386147.164015,
+            "last_retested_at_iso": "2020-05-02T02:22:27.164015",
+            "status": "INACTIVE"
+        },
+        "erotik.rated100.com": {
+            "included_at_epoch": 1588386147.218466,
+            "included_at_iso": "2020-05-02T02:22:27.218466",
+            "last_retested_at_epoch": 1588386147.218466,
+            "last_retested_at_iso": "2020-05-02T02:22:27.218466",
+            "status": "INACTIVE"
+        },
+        "errorcode.logger.baofeng.com": {
+            "included_at_epoch": 1588386147.52834,
+            "included_at_iso": "2020-05-02T02:22:27.528340",
+            "last_retested_at_epoch": 1588386147.52834,
+            "last_retested_at_iso": "2020-05-02T02:22:27.528340",
+            "status": "INACTIVE"
+        },
+        "es.espotting.com": {
+            "included_at_epoch": 1588386147.883474,
+            "included_at_iso": "2020-05-02T02:22:27.883474",
+            "last_retested_at_epoch": 1588386147.883474,
+            "last_retested_at_iso": "2020-05-02T02:22:27.883474",
+            "status": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/rlwpx.free.fr.htrc.list": {
