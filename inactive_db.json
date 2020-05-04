@@ -1757,6 +1757,13 @@
             "last_retested_at_iso": "2020-05-04T03:54:35.513291",
             "status": "INACTIVE"
         },
+        "ehg-micron.hitbox.com": {
+            "included_at_epoch": 1588569319.434076,
+            "included_at_iso": "2020-05-04T05:15:19.434076",
+            "last_retested_at_epoch": 1588569319.434076,
+            "last_retested_at_iso": "2020-05-04T05:15:19.434076",
+            "status": "INACTIVE"
+        },
         "en.compteur.fr": {
             "included_at_epoch": 1588386144.149302,
             "included_at_iso": "2020-05-02T02:22:24.149302",
