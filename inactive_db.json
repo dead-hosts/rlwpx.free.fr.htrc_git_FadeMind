@@ -9940,53 +9940,60 @@
             "last_retested_at_iso": "2020-05-04T14:04:48.284902",
             "status": "INACTIVE"
         },
+        "ylclick.logger.baofeng.com": {
+            "included_at_epoch": 1588601482.748558,
+            "included_at_iso": "2020-05-04T14:11:22.748558",
+            "last_retested_at_epoch": 1588601482.748558,
+            "last_retested_at_iso": "2020-05-04T14:11:22.748558",
+            "status": "INACTIVE"
+        },
         "youneedmedia.com": {
             "included_at_epoch": 1588422254.622738,
             "included_at_iso": "2020-05-02T12:24:14.622738",
-            "last_retested_at_epoch": 1588422254.622738,
-            "last_retested_at_iso": "2020-05-02T12:24:14.622738",
+            "last_retested_at_epoch": 1588601483.124728,
+            "last_retested_at_iso": "2020-05-04T14:11:23.124728",
             "status": "INACTIVE"
         },
         "yourfreemediadownloads.com": {
             "included_at_epoch": 1588422255.140209,
             "included_at_iso": "2020-05-02T12:24:15.140209",
-            "last_retested_at_epoch": 1588422255.140209,
-            "last_retested_at_iso": "2020-05-02T12:24:15.140209",
+            "last_retested_at_epoch": 1588601483.625393,
+            "last_retested_at_iso": "2020-05-04T14:11:23.625393",
             "status": "INACTIVE"
         },
         "yoursubdomain.bravelog.com": {
             "included_at_epoch": 1588422255.460979,
             "included_at_iso": "2020-05-02T12:24:15.460979",
-            "last_retested_at_epoch": 1588422255.460979,
-            "last_retested_at_iso": "2020-05-02T12:24:15.460979",
+            "last_retested_at_epoch": 1588601483.935885,
+            "last_retested_at_iso": "2020-05-04T14:11:23.935885",
             "status": "INACTIVE"
         },
         "zalogdamascus.ru": {
             "included_at_epoch": 1588422256.678655,
             "included_at_iso": "2020-05-02T12:24:16.678655",
-            "last_retested_at_epoch": 1588422256.678655,
-            "last_retested_at_iso": "2020-05-02T12:24:16.678655",
+            "last_retested_at_epoch": 1588601485.127561,
+            "last_retested_at_iso": "2020-05-04T14:11:25.127561",
             "status": "INACTIVE"
         },
         "zdf.ivwbox.de": {
             "included_at_epoch": 1588422257.181641,
             "included_at_iso": "2020-05-02T12:24:17.181641",
-            "last_retested_at_epoch": 1588422257.181641,
-            "last_retested_at_iso": "2020-05-02T12:24:17.181641",
+            "last_retested_at_epoch": 1588601485.628148,
+            "last_retested_at_iso": "2020-05-04T14:11:25.628148",
             "status": "INACTIVE"
         },
         "zeitonl.ivwbox.de": {
             "included_at_epoch": 1588422257.414036,
             "included_at_iso": "2020-05-02T12:24:17.414036",
-            "last_retested_at_epoch": 1588422257.414036,
-            "last_retested_at_iso": "2020-05-02T12:24:17.414036",
+            "last_retested_at_epoch": 1588601485.843722,
+            "last_retested_at_iso": "2020-05-04T14:11:25.843722",
             "status": "INACTIVE"
         },
         "zhitomir-info.biz": {
             "included_at_epoch": 1588422257.927275,
             "included_at_iso": "2020-05-02T12:24:17.927275",
-            "last_retested_at_epoch": 1588422257.927275,
-            "last_retested_at_iso": "2020-05-02T12:24:17.927275",
+            "last_retested_at_epoch": 1588601486.363073,
+            "last_retested_at_iso": "2020-05-04T14:11:26.363073",
             "status": "INACTIVE"
         }
     },
