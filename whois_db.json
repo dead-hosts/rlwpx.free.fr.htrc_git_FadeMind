@@ -4830,13 +4830,13 @@
         "state": "future"
     },
     "clickhelp.net": {
-        "epoch": 1588377600.0,
-        "expiration_date": "02-may-2020",
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
         "state": "future"
     },
     "clickhere.ru": {
-        "epoch": 1588377600.0,
-        "expiration_date": "02-may-2020",
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
         "state": "future"
     },
     "clickhere4hardcore.com": {
@@ -4962,7 +4962,7 @@
     "clicklauncher.com": {
         "epoch": 1588550400.0,
         "expiration_date": "04-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "clicklife.org": {
         "epoch": 1597536000.0,
