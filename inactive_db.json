@@ -7717,8 +7717,8 @@
         "www.click-to-celebs.com": {
             "included_at_epoch": 1588414105.136333,
             "included_at_iso": "2020-05-02T10:08:25.136333",
-            "last_retested_at_epoch": 1588414105.136333,
-            "last_retested_at_iso": "2020-05-02T10:08:25.136333",
+            "last_retested_at_epoch": 1588593759.315259,
+            "last_retested_at_iso": "2020-05-04T12:02:39.315259",
             "status": "INACTIVE"
         },
         "www.click2net.nl": {
@@ -7801,113 +7801,134 @@
         "www.clicksforever.com": {
             "included_at_epoch": 1588414104.404913,
             "included_at_iso": "2020-05-02T10:08:24.404913",
-            "last_retested_at_epoch": 1588414104.404913,
-            "last_retested_at_iso": "2020-05-02T10:08:24.404913",
+            "last_retested_at_epoch": 1588593758.547132,
+            "last_retested_at_iso": "2020-05-04T12:02:38.547132",
             "status": "INACTIVE"
         },
         "www.clickthroughtraffic.com": {
             "included_at_epoch": 1588414105.017823,
             "included_at_iso": "2020-05-02T10:08:25.017823",
-            "last_retested_at_epoch": 1588414105.017823,
-            "last_retested_at_iso": "2020-05-02T10:08:25.017823",
+            "last_retested_at_epoch": 1588593759.148093,
+            "last_retested_at_iso": "2020-05-04T12:02:39.148093",
             "status": "INACTIVE"
         },
         "www.clicktracking.info": {
             "included_at_epoch": 1588414105.274402,
             "included_at_iso": "2020-05-02T10:08:25.274402",
-            "last_retested_at_epoch": 1588414105.274402,
-            "last_retested_at_iso": "2020-05-02T10:08:25.274402",
+            "last_retested_at_epoch": 1588593759.412397,
+            "last_retested_at_iso": "2020-05-04T12:02:39.412397",
             "status": "INACTIVE"
         },
         "www.clicktshirtprinting.co.uk": {
             "included_at_epoch": 1588414105.412593,
             "included_at_iso": "2020-05-02T10:08:25.412593",
-            "last_retested_at_epoch": 1588414105.412593,
-            "last_retested_at_iso": "2020-05-02T10:08:25.412593",
+            "last_retested_at_epoch": 1588593759.585,
+            "last_retested_at_iso": "2020-05-04T12:02:39.585000",
             "status": "INACTIVE"
         },
         "www.clkrtrkr.com": {
             "included_at_epoch": 1588414106.518275,
             "included_at_iso": "2020-05-02T10:08:26.518275",
-            "last_retested_at_epoch": 1588414106.518275,
-            "last_retested_at_iso": "2020-05-02T10:08:26.518275",
+            "last_retested_at_epoch": 1588593760.676412,
+            "last_retested_at_iso": "2020-05-04T12:02:40.676412",
             "status": "INACTIVE"
         },
         "www.closeencounters69.com": {
             "included_at_epoch": 1588414106.564309,
             "included_at_iso": "2020-05-02T10:08:26.564309",
-            "last_retested_at_epoch": 1588414106.564309,
-            "last_retested_at_iso": "2020-05-02T10:08:26.564309",
+            "last_retested_at_epoch": 1588593760.748938,
+            "last_retested_at_iso": "2020-05-04T12:02:40.748938",
             "status": "INACTIVE"
         },
         "www.cocomedia.ca": {
             "included_at_epoch": 1588414106.903421,
             "included_at_iso": "2020-05-02T10:08:26.903421",
-            "last_retested_at_epoch": 1588414106.903421,
-            "last_retested_at_iso": "2020-05-02T10:08:26.903421",
+            "last_retested_at_epoch": 1588593761.116696,
+            "last_retested_at_iso": "2020-05-04T12:02:41.116696",
             "status": "INACTIVE"
         },
         "www.cogelsmedia.com": {
             "included_at_epoch": 1588414107.117026,
             "included_at_iso": "2020-05-02T10:08:27.117026",
-            "last_retested_at_epoch": 1588414107.117026,
-            "last_retested_at_iso": "2020-05-02T10:08:27.117026",
+            "last_retested_at_epoch": 1588593761.285954,
+            "last_retested_at_iso": "2020-05-04T12:02:41.285954",
             "status": "INACTIVE"
         },
         "www.coolstats.com": {
             "included_at_epoch": 1588414107.456186,
             "included_at_iso": "2020-05-02T10:08:27.456186",
-            "last_retested_at_epoch": 1588414107.456186,
-            "last_retested_at_iso": "2020-05-02T10:08:27.456186",
+            "last_retested_at_epoch": 1588593761.671458,
+            "last_retested_at_iso": "2020-05-04T12:02:41.671458",
+            "status": "INACTIVE"
+        },
+        "www.corank.com": {
+            "included_at_epoch": 1588593761.745696,
+            "included_at_iso": "2020-05-04T12:02:41.745696",
+            "last_retested_at_epoch": 1588593761.745696,
+            "last_retested_at_iso": "2020-05-04T12:02:41.745696",
+            "status": "INACTIVE"
+        },
+        "www.costatropicalinternet.com": {
+            "included_at_epoch": 1588593761.817431,
+            "included_at_iso": "2020-05-04T12:02:41.817431",
+            "last_retested_at_epoch": 1588593761.817431,
+            "last_retested_at_iso": "2020-05-04T12:02:41.817431",
             "status": "INACTIVE"
         },
         "www.countercity.de": {
             "included_at_epoch": 1588414108.484716,
             "included_at_iso": "2020-05-02T10:08:28.484716",
-            "last_retested_at_epoch": 1588414108.484716,
-            "last_retested_at_iso": "2020-05-02T10:08:28.484716",
+            "last_retested_at_epoch": 1588593762.711054,
+            "last_retested_at_iso": "2020-05-04T12:02:42.711054",
+            "status": "INACTIVE"
+        },
+        "www.countercrazy.com": {
+            "included_at_epoch": 1588593762.783708,
+            "included_at_iso": "2020-05-04T12:02:42.783708",
+            "last_retested_at_epoch": 1588593762.783708,
+            "last_retested_at_iso": "2020-05-04T12:02:42.783708",
             "status": "INACTIVE"
         },
         "www.countermoney.ru": {
             "included_at_epoch": 1588414108.892183,
             "included_at_iso": "2020-05-02T10:08:28.892183",
-            "last_retested_at_epoch": 1588414108.892183,
-            "last_retested_at_iso": "2020-05-02T10:08:28.892183",
+            "last_retested_at_epoch": 1588593763.194674,
+            "last_retested_at_iso": "2020-05-04T12:02:43.194674",
             "status": "INACTIVE"
         },
         "www.crocencounters.org": {
             "included_at_epoch": 1588414110.498557,
             "included_at_iso": "2020-05-02T10:08:30.498557",
-            "last_retested_at_epoch": 1588414110.498557,
-            "last_retested_at_iso": "2020-05-02T10:08:30.498557",
+            "last_retested_at_epoch": 1588593764.824944,
+            "last_retested_at_iso": "2020-05-04T12:02:44.824944",
             "status": "INACTIVE"
         },
         "www.ctnewmedia.com": {
             "included_at_epoch": 1588414110.788107,
             "included_at_iso": "2020-05-02T10:08:30.788107",
-            "last_retested_at_epoch": 1588414110.788107,
-            "last_retested_at_iso": "2020-05-02T10:08:30.788107",
+            "last_retested_at_epoch": 1588593765.088494,
+            "last_retested_at_iso": "2020-05-04T12:02:45.088494",
             "status": "INACTIVE"
         },
         "www.dimeclicks.com": {
             "included_at_epoch": 1588414112.49216,
             "included_at_iso": "2020-05-02T10:08:32.492160",
-            "last_retested_at_epoch": 1588414112.49216,
-            "last_retested_at_iso": "2020-05-02T10:08:32.492160",
+            "last_retested_at_epoch": 1588593766.784031,
+            "last_retested_at_iso": "2020-05-04T12:02:46.784031",
             "status": "INACTIVE"
         },
         "www.displayadsmedia.com": {
             "included_at_epoch": 1588414112.730594,
             "included_at_iso": "2020-05-02T10:08:32.730594",
-            "last_retested_at_epoch": 1588414112.730594,
-            "last_retested_at_iso": "2020-05-02T10:08:32.730594",
+            "last_retested_at_epoch": 1588593767.096839,
+            "last_retested_at_iso": "2020-05-04T12:02:47.096839",
             "status": "INACTIVE"
         },
         "www.download-best-softwares.com": {
             "included_at_epoch": 1588414113.475206,
             "included_at_iso": "2020-05-02T10:08:33.475206",
-            "last_retested_at_epoch": 1588414113.475206,
-            "last_retested_at_iso": "2020-05-02T10:08:33.475206",
+            "last_retested_at_epoch": 1588593767.847042,
+            "last_retested_at_iso": "2020-05-04T12:02:47.847042",
             "status": "INACTIVE"
         },
         "www.e-counters.com": {
