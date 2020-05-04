@@ -10215,8 +10215,8 @@
         "state": "future"
     },
     "hitbox.com": {
-        "epoch": 1588464000.0,
-        "expiration_date": "03-may-2020",
+        "epoch": 1620000000.0,
+        "expiration_date": "03-may-2021",
         "state": "future"
     },
     "hitbox.cz": {
@@ -10375,9 +10375,9 @@
         "state": "future"
     },
     "hiterotic.com": {
-        "epoch": 1588377600.0,
-        "expiration_date": "02-may-2020",
-        "state": "past"
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
+        "state": "future"
     },
     "hitesc.com": {
         "epoch": 1602374400.0,
@@ -10752,7 +10752,7 @@
     "hitsomebody.com": {
         "epoch": 1588464000.0,
         "expiration_date": "03-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "hitspider.com": {
         "epoch": 1605139200.0,
