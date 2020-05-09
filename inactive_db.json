@@ -245,6 +245,13 @@
             "last_retested_at_iso": "2020-05-08T01:24:47.339968",
             "status": "INACTIVE"
         },
+        "ads.mirrormedia.co.uk": {
+            "included_at_epoch": 1588985102.997344,
+            "included_at_iso": "2020-05-09T00:45:02.997344",
+            "last_retested_at_epoch": 1588985102.997344,
+            "last_retested_at_iso": "2020-05-09T00:45:02.997344",
+            "status": "INACTIVE"
+        },
         "ads.mixtraffic.com": {
             "included_at_epoch": 1588353722.607614,
             "included_at_iso": "2020-05-01T17:22:02.607614",
