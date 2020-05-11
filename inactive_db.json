@@ -2359,6 +2359,13 @@
             "last_retested_at_iso": "2020-05-10T19:48:53.694977",
             "status": "INACTIVE"
         },
+        "houyi.logger.baofeng.com": {
+            "included_at_epoch": 1589223913.167619,
+            "included_at_iso": "2020-05-11T19:05:13.167619",
+            "last_retested_at_epoch": 1589223913.167619,
+            "last_retested_at_iso": "2020-05-11T19:05:13.167619",
+            "status": "INACTIVE"
+        },
         "hutchmedia.t.domdex.com": {
             "included_at_epoch": 1588390756.691187,
             "included_at_iso": "2020-05-02T03:39:16.691187",
