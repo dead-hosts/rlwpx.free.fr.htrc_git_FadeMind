@@ -5558,6 +5558,13 @@
             "last_retested_at_iso": "2020-05-10T22:00:55.691041",
             "status": "INACTIVE"
         },
+        "pieces-auto.cible-auto.com": {
+            "included_at_epoch": 1589229736.422216,
+            "included_at_iso": "2020-05-11T20:42:16.422216",
+            "last_retested_at_epoch": 1589229736.422216,
+            "last_retested_at_iso": "2020-05-11T20:42:16.422216",
+            "status": "INACTIVE"
+        },
         "piksmedia.com": {
             "included_at_epoch": 1588399828.718057,
             "included_at_iso": "2020-05-02T06:10:28.718057",
