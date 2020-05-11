@@ -1449,6 +1449,13 @@
             "last_retested_at_iso": "2020-05-10T15:37:06.060715",
             "status": "INACTIVE"
         },
+        "count.channeladvisor.com": {
+            "included_at_epoch": 1589206730.055479,
+            "included_at_iso": "2020-05-11T14:18:50.055479",
+            "last_retested_at_epoch": 1589206730.055479,
+            "last_retested_at_iso": "2020-05-11T14:18:50.055479",
+            "status": "INACTIVE"
+        },
         "count.dba.dk": {
             "included_at_epoch": 1588368675.649293,
             "included_at_iso": "2020-05-01T21:31:15.649293",
