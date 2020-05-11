@@ -24002,7 +24002,7 @@
     "trafficsage.com": {
         "epoch": 1589155200.0,
         "expiration_date": "11-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "trafficsamurai.com": {
         "epoch": 1614470400.0,
@@ -24140,8 +24140,8 @@
         "state": "future"
     },
     "trafficvalue.com": {
-        "epoch": 1589068800.0,
-        "expiration_date": "10-may-2020",
+        "epoch": 1620604800.0,
+        "expiration_date": "10-may-2021",
         "state": "future"
     },
     "trafficvendors.com": {
