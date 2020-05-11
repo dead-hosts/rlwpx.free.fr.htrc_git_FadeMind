@@ -350,6 +350,13 @@
             "last_retested_at_iso": "2020-05-10T13:13:20.144802",
             "status": "INACTIVE"
         },
+        "adtegrity.spinbox.net": {
+            "included_at_epoch": 1589199989.548871,
+            "included_at_iso": "2020-05-11T12:26:29.548871",
+            "last_retested_at_epoch": 1589199989.548871,
+            "last_retested_at_iso": "2020-05-11T12:26:29.548871",
+            "status": "INACTIVE"
+        },
         "adult.koimedia.com": {
             "included_at_epoch": 1588353724.909158,
             "included_at_iso": "2020-05-01T17:22:04.909158",
