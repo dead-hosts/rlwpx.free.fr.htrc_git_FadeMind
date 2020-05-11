@@ -6391,6 +6391,20 @@
             "last_retested_at_iso": "2020-05-10T23:22:08.114548",
             "status": "INACTIVE"
         },
+        "stat4.comby.ru": {
+            "included_at_epoch": 1589233011.421119,
+            "included_at_iso": "2020-05-11T21:36:51.421119",
+            "last_retested_at_epoch": 1589233011.421119,
+            "last_retested_at_iso": "2020-05-11T21:36:51.421119",
+            "status": "INACTIVE"
+        },
+        "stat5.comby.ru": {
+            "included_at_epoch": 1589233011.577251,
+            "included_at_iso": "2020-05-11T21:36:51.577251",
+            "last_retested_at_epoch": 1589233011.577251,
+            "last_retested_at_iso": "2020-05-11T21:36:51.577251",
+            "status": "INACTIVE"
+        },
         "static.clickpapa.com": {
             "included_at_epoch": 1588404089.834865,
             "included_at_iso": "2020-05-02T07:21:29.834865",
