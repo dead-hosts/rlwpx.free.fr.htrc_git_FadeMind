@@ -26822,7 +26822,7 @@
     "xxxxrated.net": {
         "epoch": 1589500800.0,
         "expiration_date": "15-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "yadro.ru": {
         "epoch": 1611273600.0,
@@ -26950,9 +26950,9 @@
         "state": "future"
     },
     "yourstats.net": {
-        "epoch": 1589155200.0,
-        "expiration_date": "11-may-2020",
-        "state": "past"
+        "epoch": 1620691200.0,
+        "expiration_date": "11-may-2021",
+        "state": "future"
     },
     "yousearchdirect.com": {
         "epoch": 1609977600.0,
@@ -26960,8 +26960,8 @@
         "state": "future"
     },
     "youthontrack.com": {
-        "epoch": 1589414400.0,
-        "expiration_date": "14-may-2020",
+        "epoch": 1627776000.0,
+        "expiration_date": "01-aug-2021",
         "state": "future"
     },
     "ytrack.com": {
@@ -27005,9 +27005,9 @@
         "state": "future"
     },
     "zantracker.com": {
-        "epoch": 1589155200.0,
-        "expiration_date": "11-may-2020",
-        "state": "past"
+        "epoch": 1620691200.0,
+        "expiration_date": "11-may-2021",
+        "state": "future"
     },
     "zazenmedia.com": {
         "epoch": 1597363200.0,
@@ -27030,8 +27030,8 @@
         "state": "future"
     },
     "zetracker.net": {
-        "epoch": 1589414400.0,
-        "expiration_date": "14-may-2020",
+        "epoch": 1620950400.0,
+        "expiration_date": "14-may-2021",
         "state": "future"
     },
     "zeusclicks.com": {
@@ -27045,8 +27045,8 @@
         "state": "future"
     },
     "zhirok.com": {
-        "epoch": 1589328000.0,
-        "expiration_date": "13-may-2020",
+        "epoch": 1620864000.0,
+        "expiration_date": "13-may-2021",
         "state": "future"
     },
     "zhitomir-info.biz": {
