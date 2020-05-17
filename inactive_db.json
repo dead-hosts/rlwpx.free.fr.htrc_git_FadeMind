@@ -35,6 +35,13 @@
             "last_retested_at_iso": "2020-05-16T10:26:17.241079",
             "status": "INACTIVE"
         },
+        "60secondstory.contagiousmedia.org": {
+            "included_at_epoch": 1589711775.316282,
+            "included_at_iso": "2020-05-17T10:36:15.316282",
+            "last_retested_at_epoch": 1589711775.316282,
+            "last_retested_at_iso": "2020-05-17T10:36:15.316282",
+            "status": "INACTIVE"
+        },
         "a.advanstar.com": {
             "included_at_epoch": 1589624778.194387,
             "included_at_iso": "2020-05-16T10:26:18.194387",
@@ -68,6 +75,13 @@
             "included_at_iso": "2020-05-01T18:17:04.535397",
             "last_retested_at_epoch": 1589629655.932365,
             "last_retested_at_iso": "2020-05-16T11:47:35.932365",
+            "status": "INACTIVE"
+        },
+        "action.logger.baofeng.com": {
+            "included_at_epoch": 1589711777.785301,
+            "included_at_iso": "2020-05-17T10:36:17.785301",
+            "last_retested_at_epoch": 1589711777.785301,
+            "last_retested_at_iso": "2020-05-17T10:36:17.785301",
             "status": "INACTIVE"
         },
         "active.macromedia.com": {
