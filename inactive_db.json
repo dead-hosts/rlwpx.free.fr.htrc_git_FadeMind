@@ -101,8 +101,8 @@
         "ad.mediaplex.com": {
             "included_at_epoch": 1588350135.275173,
             "included_at_iso": "2020-05-01T16:22:15.275173",
-            "last_retested_at_epoch": 1589717126.267229,
-            "last_retested_at_iso": "2020-05-17T12:05:26.267229",
+            "last_retested_at_epoch": 1589890882.130895,
+            "last_retested_at_iso": "2020-05-19T12:21:22.130895",
             "status": "INACTIVE"
         },
         "ad.zompmedia.com": {
@@ -143,15 +143,15 @@
         "admin.clicksor.com": {
             "included_at_epoch": 1588350135.550417,
             "included_at_iso": "2020-05-01T16:22:15.550417",
-            "last_retested_at_epoch": 1589717126.523762,
-            "last_retested_at_iso": "2020-05-17T12:05:26.523762",
+            "last_retested_at_epoch": 1589890882.390501,
+            "last_retested_at_iso": "2020-05-19T12:21:22.390501",
             "status": "INACTIVE"
         },
         "admin07.hitforums.com": {
             "included_at_epoch": 1588350135.43618,
             "included_at_iso": "2020-05-01T16:22:15.436180",
-            "last_retested_at_epoch": 1589717126.464345,
-            "last_retested_at_iso": "2020-05-17T12:05:26.464345",
+            "last_retested_at_epoch": 1589890882.330348,
+            "last_retested_at_iso": "2020-05-19T12:21:22.330348",
             "status": "INACTIVE"
         },
         "adnet.mediawhiz.com": {
