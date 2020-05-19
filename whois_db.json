@@ -16215,8 +16215,8 @@
         "state": "future"
     },
     "ourgenstatsstorage.com": {
-        "epoch": 1589760000.0,
-        "expiration_date": "18-may-2020",
+        "epoch": 1621296000.0,
+        "expiration_date": "18-may-2021",
         "state": "future"
     },
     "ourmedia.org": {
@@ -16290,8 +16290,8 @@
         "state": "future"
     },
     "oxcash.com": {
-        "epoch": 1589760000.0,
-        "expiration_date": "18-may-2020",
+        "epoch": 1621296000.0,
+        "expiration_date": "18-may-2021",
         "state": "future"
     },
     "oxcounter.com": {
@@ -16652,7 +16652,7 @@
     "phoneencounters.com": {
         "epoch": 1589846400.0,
         "expiration_date": "19-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "phonesextraffic.com": {
         "epoch": 1599523200.0,
