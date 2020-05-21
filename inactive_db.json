@@ -1820,13 +1820,6 @@
             "last_retested_at_iso": "2020-05-21T14:50:21.521173",
             "status": "INACTIVE"
         },
-        "ehg-mshanken.hitbox.com": {
-            "included_at_epoch": 1589908872.1409,
-            "included_at_iso": "2020-05-19T17:21:12.140900",
-            "last_retested_at_epoch": 1589908872.1409,
-            "last_retested_at_iso": "2020-05-19T17:21:12.140900",
-            "status": "INACTIVE"
-        },
         "en.compteur.fr": {
             "included_at_epoch": 1588386144.149302,
             "included_at_iso": "2020-05-02T02:22:24.149302",
