@@ -9885,8 +9885,8 @@
         "state": "future"
     },
     "haditmedia.com": {
-        "epoch": 1590278400.0,
-        "expiration_date": "24-may-2020",
+        "epoch": 1621814400.0,
+        "expiration_date": "24-may-2021",
         "state": "future"
     },
     "halltrade.com": {
@@ -10310,8 +10310,8 @@
         "state": "future"
     },
     "hitechcreature.com": {
-        "epoch": 1590192000.0,
-        "expiration_date": "23-may-2020",
+        "epoch": 1621728000.0,
+        "expiration_date": "23-may-2021",
         "state": "future"
     },
     "hitechdigest.com": {
@@ -10602,7 +10602,7 @@
     "hitpins.com": {
         "epoch": 1590278400.0,
         "expiration_date": "24-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "hitpipe.com": {
         "epoch": 1593475200.0,
