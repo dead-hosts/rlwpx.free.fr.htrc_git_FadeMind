@@ -21317,7 +21317,7 @@
     "storagenl.info": {
         "epoch": 1590451200.0,
         "expiration_date": "26-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "storiestraffic.com": {
         "epoch": 1618185600.0,
@@ -21565,8 +21565,8 @@
         "state": "future"
     },
     "sxtracking.com": {
-        "epoch": 1590451200.0,
-        "expiration_date": "26-may-2020",
+        "epoch": 1597190400.0,
+        "expiration_date": "12-aug-2020",
         "state": "future"
     },
     "sxtrader.net": {
@@ -21815,9 +21815,9 @@
         "state": "future"
     },
     "tgptradeinfo.com": {
-        "epoch": 1583798400.0,
-        "expiration_date": "10-mar-2020",
-        "state": "past"
+        "epoch": 1621900800.0,
+        "expiration_date": "25-may-2021",
+        "state": "future"
     },
     "tgptrades.com": {
         "epoch": "1568937600",
@@ -22055,8 +22055,8 @@
         "state": "future"
     },
     "thinkingmedia.net": {
-        "epoch": 1590451200.0,
-        "expiration_date": "26-may-2020",
+        "epoch": 1621987200.0,
+        "expiration_date": "26-may-2021",
         "state": "future"
     },
     "thirdrate.com": {
