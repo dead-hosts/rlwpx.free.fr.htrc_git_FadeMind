@@ -9677,127 +9677,141 @@
         "www.traffic-network.net": {
             "included_at_epoch": 1590850829.122363,
             "included_at_iso": "2020-05-30T15:00:29.122363",
-            "last_retested_at_epoch": 1590990981.151999,
-            "last_retested_at_iso": "2020-06-01T05:56:21.151999",
+            "last_retested_at_epoch": 1591095801.475481,
+            "last_retested_at_iso": "2020-06-02T11:03:21.475481",
             "status": "INACTIVE"
         },
         "www.trafficchamp.nl": {
             "included_at_epoch": 1588942922.105183,
             "included_at_iso": "2020-05-08T13:02:02.105183",
-            "last_retested_at_epoch": 1590990979.979222,
-            "last_retested_at_iso": "2020-06-01T05:56:19.979222",
+            "last_retested_at_epoch": 1591095800.36169,
+            "last_retested_at_iso": "2020-06-02T11:03:20.361690",
             "status": "INACTIVE"
         },
         "www.trafficmp.com": {
             "included_at_epoch": 1590850829.07332,
             "included_at_iso": "2020-05-30T15:00:29.073320",
-            "last_retested_at_epoch": 1590990981.075663,
-            "last_retested_at_iso": "2020-06-01T05:56:21.075663",
+            "last_retested_at_epoch": 1591095801.400152,
+            "last_retested_at_iso": "2020-06-02T11:03:21.400152",
             "status": "INACTIVE"
         },
         "www.trafficrank.com": {
             "included_at_epoch": 1590850829.325113,
             "included_at_iso": "2020-05-30T15:00:29.325113",
-            "last_retested_at_epoch": 1590990981.380356,
-            "last_retested_at_iso": "2020-06-01T05:56:21.380356",
+            "last_retested_at_epoch": 1591095801.701039,
+            "last_retested_at_iso": "2020-06-02T11:03:21.701039",
             "status": "INACTIVE"
         },
         "www.trafficseeker.com": {
             "included_at_epoch": 1590850829.500407,
             "included_at_iso": "2020-05-30T15:00:29.500407",
-            "last_retested_at_epoch": 1590990981.584833,
-            "last_retested_at_iso": "2020-06-01T05:56:21.584833",
+            "last_retested_at_epoch": 1591095801.903178,
+            "last_retested_at_iso": "2020-06-02T11:03:21.903178",
             "status": "INACTIVE"
         },
         "www.trafficsekar.com": {
             "included_at_epoch": 1590850829.573536,
             "included_at_iso": "2020-05-30T15:00:29.573536",
-            "last_retested_at_epoch": 1590990981.533237,
-            "last_retested_at_iso": "2020-06-01T05:56:21.533237",
+            "last_retested_at_epoch": 1591095801.85295,
+            "last_retested_at_iso": "2020-06-02T11:03:21.852950",
             "status": "INACTIVE"
         },
         "www.trafficsupport.com": {
             "included_at_epoch": 1590850829.752197,
             "included_at_iso": "2020-05-30T15:00:29.752197",
-            "last_retested_at_epoch": 1590990981.761031,
-            "last_retested_at_iso": "2020-06-01T05:56:21.761031",
+            "last_retested_at_epoch": 1591095802.080349,
+            "last_retested_at_iso": "2020-06-02T11:03:22.080349",
             "status": "INACTIVE"
         },
         "www.traffictrade.net": {
             "included_at_epoch": 1590850829.877082,
             "included_at_iso": "2020-05-30T15:00:29.877082",
-            "last_retested_at_epoch": 1590990981.9113,
-            "last_retested_at_iso": "2020-06-01T05:56:21.911300",
+            "last_retested_at_epoch": 1591095802.229229,
+            "last_retested_at_iso": "2020-06-02T11:03:22.229229",
+            "status": "INACTIVE"
+        },
+        "www.traffictrader.net": {
+            "included_at_epoch": 1591095802.278442,
+            "included_at_iso": "2020-06-02T11:03:22.278442",
+            "last_retested_at_epoch": 1591095802.278442,
+            "last_retested_at_iso": "2020-06-02T11:03:22.278442",
             "status": "INACTIVE"
         },
         "www.trafficyards.com": {
             "included_at_epoch": 1590850830.077103,
             "included_at_iso": "2020-05-30T15:00:30.077103",
-            "last_retested_at_epoch": 1590990982.137431,
-            "last_retested_at_iso": "2020-06-01T05:56:22.137431",
+            "last_retested_at_epoch": 1591095802.50075,
+            "last_retested_at_iso": "2020-06-02T11:03:22.500750",
             "status": "INACTIVE"
         },
         "www.unlimiclick.com": {
             "included_at_epoch": 1590850831.493358,
             "included_at_iso": "2020-05-30T15:00:31.493358",
-            "last_retested_at_epoch": 1590990983.514429,
-            "last_retested_at_iso": "2020-06-01T05:56:23.514429",
+            "last_retested_at_epoch": 1591095803.817357,
+            "last_retested_at_iso": "2020-06-02T11:03:23.817357",
             "status": "INACTIVE"
         },
         "www.usa-trade.net": {
             "included_at_epoch": 1590850831.768156,
             "included_at_iso": "2020-05-30T15:00:31.768156",
-            "last_retested_at_epoch": 1590990983.823886,
-            "last_retested_at_iso": "2020-06-01T05:56:23.823886",
+            "last_retested_at_epoch": 1591095804.116855,
+            "last_retested_at_iso": "2020-06-02T11:03:24.116855",
             "status": "INACTIVE"
         },
         "www.virtual-countries.com": {
             "included_at_epoch": 1590851678.303424,
             "included_at_iso": "2020-05-30T15:14:38.303424",
-            "last_retested_at_epoch": 1590990985.222278,
-            "last_retested_at_iso": "2020-06-01T05:56:25.222278",
+            "last_retested_at_epoch": 1591095805.455961,
+            "last_retested_at_iso": "2020-06-02T11:03:25.455961",
             "status": "INACTIVE"
         },
         "www.voilelec.com": {
             "included_at_epoch": 1590851678.944738,
             "included_at_iso": "2020-05-30T15:14:38.944738",
-            "last_retested_at_epoch": 1590990985.826738,
-            "last_retested_at_iso": "2020-06-01T05:56:25.826738",
+            "last_retested_at_epoch": 1591095806.058745,
+            "last_retested_at_iso": "2020-06-02T11:03:26.058745",
             "status": "INACTIVE"
         },
         "www.voyeurxrated.com": {
             "included_at_epoch": 1590851679.200799,
             "included_at_iso": "2020-05-30T15:14:39.200799",
-            "last_retested_at_epoch": 1590990986.004827,
-            "last_retested_at_iso": "2020-06-01T05:56:26.004827",
+            "last_retested_at_epoch": 1591095806.233252,
+            "last_retested_at_iso": "2020-06-02T11:03:26.233252",
             "status": "INACTIVE"
         },
         "www.web-track.be": {
             "included_at_epoch": 1590851680.90533,
             "included_at_iso": "2020-05-30T15:14:40.905330",
-            "last_retested_at_epoch": 1590990987.761276,
-            "last_retested_at_iso": "2020-06-01T05:56:27.761276",
+            "last_retested_at_epoch": 1591095807.928257,
+            "last_retested_at_iso": "2020-06-02T11:03:27.928257",
             "status": "INACTIVE"
         },
         "www.website-promo.net": {
             "included_at_epoch": 1590851680.450999,
             "included_at_iso": "2020-05-30T15:14:40.450999",
-            "last_retested_at_epoch": 1590990987.300454,
-            "last_retested_at_iso": "2020-06-01T05:56:27.300454",
+            "last_retested_at_epoch": 1591095807.504572,
+            "last_retested_at_iso": "2020-06-02T11:03:27.504572",
             "status": "INACTIVE"
         },
         "www.wetsexmedia.com": {
             "included_at_epoch": 1590851681.433415,
             "included_at_iso": "2020-05-30T15:14:41.433415",
-            "last_retested_at_epoch": 1590990988.299979,
-            "last_retested_at_iso": "2020-06-01T05:56:28.299979",
+            "last_retested_at_epoch": 1591095808.450761,
+            "last_retested_at_iso": "2020-06-02T11:03:28.450761",
             "status": "INACTIVE"
         },
         "www.whenu.com": {
             "included_at_epoch": 1590851681.561877,
             "included_at_iso": "2020-05-30T15:14:41.561877",
-            "last_retested_at_epoch": 1590990988.428296,
-            "last_retested_at_iso": "2020-06-01T05:56:28.428296",
+            "last_retested_at_epoch": 1591095808.574469,
+            "last_retested_at_iso": "2020-06-02T11:03:28.574469",
+            "status": "INACTIVE"
+        },
+        "www.whitcon.net": {
+            "included_at_epoch": 1591095808.649884,
+            "included_at_iso": "2020-06-02T11:03:28.649884",
+            "last_retested_at_epoch": 1591095808.649884,
+            "last_retested_at_iso": "2020-06-02T11:03:28.649884",
             "status": "INACTIVE"
         },
         "www.widedirecttracker.com": {
