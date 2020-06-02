@@ -1865,71 +1865,113 @@
         "doubclick.com": {
             "included_at_epoch": 1590810232.289677,
             "included_at_iso": "2020-05-30T03:43:52.289677",
-            "last_retested_at_epoch": 1590942540.910537,
-            "last_retested_at_iso": "2020-05-31T16:29:00.910537",
+            "last_retested_at_epoch": 1591063011.505,
+            "last_retested_at_iso": "2020-06-02T01:56:51.505000",
             "status": "INACTIVE"
         },
         "doubleclick.igalive.com": {
             "included_at_epoch": 1589512482.38359,
             "included_at_iso": "2020-05-15T03:14:42.383590",
-            "last_retested_at_epoch": 1590942541.122891,
-            "last_retested_at_iso": "2020-05-31T16:29:01.122891",
+            "last_retested_at_epoch": 1591063011.727272,
+            "last_retested_at_iso": "2020-06-02T01:56:51.727272",
             "status": "INACTIVE"
         },
         "download.fairdialer.de": {
             "included_at_epoch": 1590810233.626784,
             "included_at_iso": "2020-05-30T03:43:53.626784",
-            "last_retested_at_epoch": 1590942542.258047,
-            "last_retested_at_iso": "2020-05-31T16:29:02.258047",
+            "last_retested_at_epoch": 1591063012.854628,
+            "last_retested_at_iso": "2020-06-02T01:56:52.854628",
             "status": "INACTIVE"
         },
         "downloads.memedia.com": {
             "included_at_epoch": 1590810233.746693,
             "included_at_iso": "2020-05-30T03:43:53.746693",
-            "last_retested_at_epoch": 1590942542.385807,
-            "last_retested_at_iso": "2020-05-31T16:29:02.385807",
+            "last_retested_at_epoch": 1591063012.974621,
+            "last_retested_at_iso": "2020-06-02T01:56:52.974621",
             "status": "INACTIVE"
         },
         "dtrack.secdls.com": {
             "included_at_epoch": 1590810235.36658,
             "included_at_iso": "2020-05-30T03:43:55.366580",
-            "last_retested_at_epoch": 1590942543.989236,
-            "last_retested_at_iso": "2020-05-31T16:29:03.989236",
+            "last_retested_at_epoch": 1591063014.560884,
+            "last_retested_at_iso": "2020-06-02T01:56:54.560884",
             "status": "INACTIVE"
         },
         "dynamix.trafficrevmaster.com": {
             "included_at_epoch": 1590810236.258601,
             "included_at_iso": "2020-05-30T03:43:56.258601",
-            "last_retested_at_epoch": 1590942544.869427,
-            "last_retested_at_iso": "2020-05-31T16:29:04.869427",
+            "last_retested_at_epoch": 1591063015.433847,
+            "last_retested_at_iso": "2020-06-02T01:56:55.433847",
             "status": "INACTIVE"
         },
         "e2.emediate.se": {
             "included_at_epoch": 1590810237.198692,
             "included_at_iso": "2020-05-30T03:43:57.198692",
-            "last_retested_at_epoch": 1590942545.812483,
-            "last_retested_at_iso": "2020-05-31T16:29:05.812483",
+            "last_retested_at_epoch": 1591063016.35625,
+            "last_retested_at_iso": "2020-06-02T01:56:56.356250",
+            "status": "INACTIVE"
+        },
+        "eas1.emediate.eu": {
+            "included_at_epoch": 1591063016.615083,
+            "included_at_iso": "2020-06-02T01:56:56.615083",
+            "last_retested_at_epoch": 1591063016.615083,
+            "last_retested_at_iso": "2020-06-02T01:56:56.615083",
+            "status": "INACTIVE"
+        },
+        "eas2.emediate.eu": {
+            "included_at_epoch": 1591063016.654549,
+            "included_at_iso": "2020-06-02T01:56:56.654549",
+            "last_retested_at_epoch": 1591063016.654549,
+            "last_retested_at_iso": "2020-06-02T01:56:56.654549",
+            "status": "INACTIVE"
+        },
+        "eas3.emediate.eu": {
+            "included_at_epoch": 1591063016.693721,
+            "included_at_iso": "2020-06-02T01:56:56.693721",
+            "last_retested_at_epoch": 1591063016.693721,
+            "last_retested_at_iso": "2020-06-02T01:56:56.693721",
             "status": "INACTIVE"
         },
         "eas3.emediate.se": {
             "included_at_epoch": 1590810237.49969,
             "included_at_iso": "2020-05-30T03:43:57.499690",
-            "last_retested_at_epoch": 1590942546.110668,
-            "last_retested_at_iso": "2020-05-31T16:29:06.110668",
+            "last_retested_at_epoch": 1591063016.771956,
+            "last_retested_at_iso": "2020-06-02T01:56:56.771956",
+            "status": "INACTIVE"
+        },
+        "eas4.emediate.eu": {
+            "included_at_epoch": 1591063016.732648,
+            "included_at_iso": "2020-06-02T01:56:56.732648",
+            "last_retested_at_epoch": 1591063016.732648,
+            "last_retested_at_iso": "2020-06-02T01:56:56.732648",
+            "status": "INACTIVE"
+        },
+        "eas5.emediate.eu": {
+            "included_at_epoch": 1591063016.811801,
+            "included_at_iso": "2020-06-02T01:56:56.811801",
+            "last_retested_at_epoch": 1591063016.811801,
+            "last_retested_at_iso": "2020-06-02T01:56:56.811801",
+            "status": "INACTIVE"
+        },
+        "eas8.emediate.eu": {
+            "included_at_epoch": 1591063016.851195,
+            "included_at_iso": "2020-06-02T01:56:56.851195",
+            "last_retested_at_epoch": 1591063016.851195,
+            "last_retested_at_iso": "2020-06-02T01:56:56.851195",
             "status": "INACTIVE"
         },
         "econoclicks.com": {
             "included_at_epoch": 1590811323.445049,
             "included_at_iso": "2020-05-30T04:02:03.445049",
-            "last_retested_at_epoch": 1590943990.384708,
-            "last_retested_at_iso": "2020-05-31T16:53:10.384708",
+            "last_retested_at_epoch": 1591063018.830816,
+            "last_retested_at_iso": "2020-06-02T01:56:58.830816",
             "status": "INACTIVE"
         },
         "ed-media.ru": {
             "included_at_epoch": 1590811323.952709,
             "included_at_iso": "2020-05-30T04:02:03.952709",
-            "last_retested_at_epoch": 1590943990.917475,
-            "last_retested_at_iso": "2020-05-31T16:53:10.917475",
+            "last_retested_at_epoch": 1591063019.320849,
+            "last_retested_at_iso": "2020-06-02T01:56:59.320849",
             "status": "INACTIVE"
         },
         "en.compteur.fr": {
