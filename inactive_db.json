@@ -101,8 +101,8 @@
         "ad.mediaplex.com": {
             "included_at_epoch": 1590799813.708382,
             "included_at_iso": "2020-05-30T00:50:13.708382",
-            "last_retested_at_epoch": 1591055195.146338,
-            "last_retested_at_iso": "2020-06-01T23:46:35.146338",
+            "last_retested_at_epoch": 1591234458.953965,
+            "last_retested_at_iso": "2020-06-04T01:34:18.953965",
             "status": "INACTIVE"
         },
         "ad.topstat.com": {
@@ -143,43 +143,43 @@
         "adm.soft365.com": {
             "included_at_epoch": 1590799814.185166,
             "included_at_iso": "2020-05-30T00:50:14.185166",
-            "last_retested_at_epoch": 1591055195.63972,
-            "last_retested_at_iso": "2020-06-01T23:46:35.639720",
+            "last_retested_at_epoch": 1591234459.443297,
+            "last_retested_at_iso": "2020-06-04T01:34:19.443297",
             "status": "INACTIVE"
         },
         "admin.clicksor.com": {
             "included_at_epoch": 1590799813.960356,
             "included_at_iso": "2020-05-30T00:50:13.960356",
-            "last_retested_at_epoch": 1591055195.403161,
-            "last_retested_at_iso": "2020-06-01T23:46:35.403161",
+            "last_retested_at_epoch": 1591234459.210491,
+            "last_retested_at_iso": "2020-06-04T01:34:19.210491",
             "status": "INACTIVE"
         },
         "admin07.hitforums.com": {
             "included_at_epoch": 1590799813.903833,
             "included_at_iso": "2020-05-30T00:50:13.903833",
-            "last_retested_at_epoch": 1591055195.34318,
-            "last_retested_at_iso": "2020-06-01T23:46:35.343180",
+            "last_retested_at_epoch": 1591234459.151537,
+            "last_retested_at_iso": "2020-06-04T01:34:19.151537",
             "status": "INACTIVE"
         },
         "adnet.mediawhiz.com": {
             "included_at_epoch": 1590799814.325053,
             "included_at_iso": "2020-05-30T00:50:14.325053",
-            "last_retested_at_epoch": 1591055195.782412,
-            "last_retested_at_iso": "2020-06-01T23:46:35.782412",
+            "last_retested_at_epoch": 1591234459.602954,
+            "last_retested_at_iso": "2020-06-04T01:34:19.602954",
             "status": "INACTIVE"
         },
         "adobe-dns-2.adobe.com": {
             "included_at_epoch": 1590799814.426928,
             "included_at_iso": "2020-05-30T00:50:14.426928",
-            "last_retested_at_epoch": 1591055195.888961,
-            "last_retested_at_iso": "2020-06-01T23:46:35.888961",
+            "last_retested_at_epoch": 1591234459.695953,
+            "last_retested_at_iso": "2020-06-04T01:34:19.695953",
             "status": "INACTIVE"
         },
         "adobe-dns-3.adobe.com": {
             "included_at_epoch": 1590799814.4607,
             "included_at_iso": "2020-05-30T00:50:14.460700",
-            "last_retested_at_epoch": 1591055195.938289,
-            "last_retested_at_iso": "2020-06-01T23:46:35.938289",
+            "last_retested_at_epoch": 1591234459.744426,
+            "last_retested_at_iso": "2020-06-04T01:34:19.744426",
             "status": "INACTIVE"
         },
         "ads.adonion.com": {
