@@ -14705,8 +14705,8 @@
         "state": "future"
     },
     "monitoringunit.com": {
-        "epoch": 1591401600.0,
-        "expiration_date": "06-jun-2020",
+        "epoch": 1622937600.0,
+        "expiration_date": "06-jun-2021",
         "state": "future"
     },
     "monitorinvest.info": {
@@ -14867,7 +14867,7 @@
     "mp3shitter.com": {
         "epoch": 1591401600.0,
         "expiration_date": "06-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "mp3tracks.net": {
         "epoch": 1609200000.0,
@@ -15427,7 +15427,7 @@
     "netword.com": {
         "epoch": 1591401600.0,
         "expiration_date": "06-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "networkcounters.com": {
         "epoch": 1618531200.0,
