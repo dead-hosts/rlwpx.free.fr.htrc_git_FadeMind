@@ -4655,20 +4655,6 @@
             "last_retested_at_iso": "2020-06-06T06:30:28.891829",
             "status": "INACTIVE"
         },
-        "nethitters.com": {
-            "included_at_epoch": 1589012710.805837,
-            "included_at_iso": "2020-05-09T08:25:10.805837",
-            "last_retested_at_epoch": 1591425030.18389,
-            "last_retested_at_iso": "2020-06-06T06:30:30.183890",
-            "status": "INACTIVE"
-        },
-        "nethitz.tk": {
-            "included_at_epoch": 1589012710.887235,
-            "included_at_iso": "2020-05-09T08:25:10.887235",
-            "last_retested_at_epoch": 1591425030.228167,
-            "last_retested_at_iso": "2020-06-06T06:30:30.228167",
-            "status": "INACTIVE"
-        },
         "netzeitu.ivwbox.de": {
             "included_at_epoch": 1590824174.408533,
             "included_at_iso": "2020-05-30T07:36:14.408533",
@@ -7696,50 +7682,43 @@
         "ua.cnt.gemius.pl": {
             "included_at_epoch": 1590832971.31654,
             "included_at_iso": "2020-05-30T10:02:51.316540",
-            "last_retested_at_epoch": 1591266415.485732,
-            "last_retested_at_iso": "2020-06-04T10:26:55.485732",
+            "last_retested_at_epoch": 1591433160.151873,
+            "last_retested_at_iso": "2020-06-06T08:46:00.151873",
             "status": "INACTIVE"
         },
         "uggaustralia.com.102.112.2o7.net": {
             "included_at_epoch": 1590832972.015964,
             "included_at_iso": "2020-05-30T10:02:52.015964",
-            "last_retested_at_epoch": 1591266416.149586,
-            "last_retested_at_iso": "2020-06-04T10:26:56.149586",
-            "status": "INACTIVE"
-        },
-        "ugrank.urll.net": {
-            "included_at_epoch": 1590832972.085234,
-            "included_at_iso": "2020-05-30T10:02:52.085234",
-            "last_retested_at_epoch": 1591266416.218304,
-            "last_retested_at_iso": "2020-06-04T10:26:56.218304",
+            "last_retested_at_epoch": 1591433160.840254,
+            "last_retested_at_iso": "2020-06-06T08:46:00.840254",
             "status": "INACTIVE"
         },
         "uk.nedstat.net": {
             "included_at_epoch": 1590832972.378273,
             "included_at_iso": "2020-05-30T10:02:52.378273",
-            "last_retested_at_epoch": 1591266416.499815,
-            "last_retested_at_iso": "2020-06-04T10:26:56.499815",
+            "last_retested_at_epoch": 1591433161.205072,
+            "last_retested_at_iso": "2020-06-06T08:46:01.205072",
             "status": "INACTIVE"
         },
         "uk.oneclicktools.com": {
             "included_at_epoch": 1590832972.426681,
             "included_at_iso": "2020-05-30T10:02:52.426681",
-            "last_retested_at_epoch": 1591267142.326833,
-            "last_retested_at_iso": "2020-06-04T10:39:02.326833",
+            "last_retested_at_epoch": 1591433161.25342,
+            "last_retested_at_iso": "2020-06-06T08:46:01.253420",
             "status": "INACTIVE"
         },
         "up.soft365.com": {
             "included_at_epoch": 1590832974.599599,
             "included_at_iso": "2020-05-30T10:02:54.599599",
-            "last_retested_at_epoch": 1591267144.555613,
-            "last_retested_at_iso": "2020-06-04T10:39:04.555613",
+            "last_retested_at_epoch": 1591433163.428173,
+            "last_retested_at_iso": "2020-06-06T08:46:03.428173",
             "status": "INACTIVE"
         },
         "updatedll.mediathree.net": {
             "included_at_epoch": 1590832974.068452,
             "included_at_iso": "2020-05-30T10:02:54.068452",
-            "last_retested_at_epoch": 1591267144.011376,
-            "last_retested_at_iso": "2020-06-04T10:39:04.011376",
+            "last_retested_at_epoch": 1591433162.89346,
+            "last_retested_at_iso": "2020-06-06T08:46:02.893460",
             "status": "INACTIVE"
         },
         "us.myflavia.com.102.112.2o7.net": {
