@@ -38,15 +38,15 @@
         "a.advanstar.com": {
             "included_at_epoch": 1589624778.194387,
             "included_at_iso": "2020-05-16T10:26:18.194387",
-            "last_retested_at_epoch": 1591404525.245813,
-            "last_retested_at_iso": "2020-06-06T00:48:45.245813",
+            "last_retested_at_epoch": 1591753912.168714,
+            "last_retested_at_iso": "2020-06-10T01:51:52.168714",
             "status": "INACTIVE"
         },
         "a.bizarremag.com": {
             "included_at_epoch": 1589624778.471123,
             "included_at_iso": "2020-05-16T10:26:18.471123",
-            "last_retested_at_epoch": 1591404525.514667,
-            "last_retested_at_iso": "2020-06-06T00:48:45.514667",
+            "last_retested_at_epoch": 1591753912.445436,
+            "last_retested_at_iso": "2020-06-10T01:51:52.445436",
             "status": "INACTIVE"
         },
         "a.live-conversion.com": {
@@ -68,6 +68,13 @@
             "included_at_iso": "2020-05-30T01:38:55.766047",
             "last_retested_at_epoch": 1591408215.689092,
             "last_retested_at_iso": "2020-06-06T01:50:15.689092",
+            "status": "INACTIVE"
+        },
+        "abscbn.spinbox.net": {
+            "included_at_epoch": 1591753912.565942,
+            "included_at_iso": "2020-06-10T01:51:52.565942",
+            "last_retested_at_epoch": 1591753912.565942,
+            "last_retested_at_iso": "2020-06-10T01:51:52.565942",
             "status": "INACTIVE"
         },
         "action.logger.baofeng.com": {
