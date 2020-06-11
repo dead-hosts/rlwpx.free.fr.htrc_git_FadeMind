@@ -122,15 +122,15 @@
         "ad1.emediate.se": {
             "included_at_epoch": 1589624780.248555,
             "included_at_iso": "2020-05-16T10:26:20.248555",
-            "last_retested_at_epoch": 1591404527.304967,
-            "last_retested_at_iso": "2020-06-06T00:48:47.304967",
+            "last_retested_at_epoch": 1591886440.535885,
+            "last_retested_at_iso": "2020-06-11T14:40:40.535885",
             "status": "INACTIVE"
         },
         "ad2.emediate.se": {
             "included_at_epoch": 1589624780.383533,
             "included_at_iso": "2020-05-16T10:26:20.383533",
-            "last_retested_at_epoch": 1591404527.443113,
-            "last_retested_at_iso": "2020-06-06T00:48:47.443113",
+            "last_retested_at_epoch": 1591886440.674169,
+            "last_retested_at_iso": "2020-06-11T14:40:40.674169",
             "status": "INACTIVE"
         },
         "adclick.nl": {
