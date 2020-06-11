@@ -2040,162 +2040,169 @@
         "emediate.eu": {
             "included_at_epoch": 1591069393.123913,
             "included_at_iso": "2020-06-02T03:43:13.123913",
-            "last_retested_at_epoch": 1591419114.634492,
-            "last_retested_at_iso": "2020-06-06T04:51:54.634492",
+            "last_retested_at_epoch": 1591913104.326453,
+            "last_retested_at_iso": "2020-06-11T22:05:04.326453",
             "status": "INACTIVE"
         },
         "en.compteur.fr": {
             "included_at_epoch": 1590816901.272694,
             "included_at_iso": "2020-05-30T05:35:01.272694",
-            "last_retested_at_epoch": 1591419115.684719,
-            "last_retested_at_iso": "2020-06-06T04:51:55.684719",
+            "last_retested_at_epoch": 1591913105.405168,
+            "last_retested_at_iso": "2020-06-11T22:05:05.405168",
             "status": "INACTIVE"
         },
         "en.scientificcommons.org": {
             "included_at_epoch": 1590817614.451001,
             "included_at_iso": "2020-05-30T05:46:54.451001",
-            "last_retested_at_epoch": 1591419116.658236,
-            "last_retested_at_iso": "2020-06-06T04:51:56.658236",
+            "last_retested_at_epoch": 1591913106.389485,
+            "last_retested_at_iso": "2020-06-11T22:05:06.389485",
             "status": "INACTIVE"
         },
         "en.statscounter.info": {
             "included_at_epoch": 1590817614.50385,
             "included_at_iso": "2020-05-30T05:46:54.503850",
-            "last_retested_at_epoch": 1591419116.699388,
-            "last_retested_at_iso": "2020-06-06T04:51:56.699388",
+            "last_retested_at_epoch": 1591913106.431298,
+            "last_retested_at_iso": "2020-06-11T22:05:06.431298",
             "status": "INACTIVE"
         },
         "energyratedwindow.com": {
             "included_at_epoch": 1590816901.668946,
             "included_at_iso": "2020-05-30T05:35:01.668946",
-            "last_retested_at_epoch": 1591419116.023915,
-            "last_retested_at_iso": "2020-06-06T04:51:56.023915",
+            "last_retested_at_epoch": 1591913105.749046,
+            "last_retested_at_iso": "2020-06-11T22:05:05.749046",
             "status": "INACTIVE"
         },
         "energyratedwindow.info": {
             "included_at_epoch": 1590817613.856203,
             "included_at_iso": "2020-05-30T05:46:53.856203",
-            "last_retested_at_epoch": 1591419116.065076,
-            "last_retested_at_iso": "2020-06-06T04:51:56.065076",
+            "last_retested_at_epoch": 1591913105.790704,
+            "last_retested_at_iso": "2020-06-11T22:05:05.790704",
             "status": "INACTIVE"
         },
         "englishhits.com": {
             "included_at_epoch": 1590817614.156602,
             "included_at_iso": "2020-05-30T05:46:54.156602",
-            "last_retested_at_epoch": 1591419116.297587,
-            "last_retested_at_iso": "2020-06-06T04:51:56.297587",
+            "last_retested_at_epoch": 1591913106.025664,
+            "last_retested_at_iso": "2020-06-11T22:05:06.025664",
             "status": "INACTIVE"
         },
         "erohits.nl": {
             "included_at_epoch": 1590817616.033762,
             "included_at_iso": "2020-05-30T05:46:56.033762",
-            "last_retested_at_epoch": 1591419118.234044,
-            "last_retested_at_iso": "2020-06-06T04:51:58.234044",
+            "last_retested_at_epoch": 1591913107.987969,
+            "last_retested_at_iso": "2020-06-11T22:05:07.987969",
             "status": "INACTIVE"
         },
         "erohits.us": {
             "included_at_epoch": 1590817615.997656,
             "included_at_iso": "2020-05-30T05:46:55.997656",
-            "last_retested_at_epoch": 1591419118.276711,
-            "last_retested_at_iso": "2020-06-06T04:51:58.276711",
+            "last_retested_at_epoch": 1591913108.030847,
+            "last_retested_at_iso": "2020-06-11T22:05:08.030847",
             "status": "INACTIVE"
         },
         "erotik-ranking.biz": {
             "included_at_epoch": 1590817616.718816,
             "included_at_iso": "2020-05-30T05:46:56.718816",
-            "last_retested_at_epoch": 1591419118.968073,
-            "last_retested_at_iso": "2020-06-06T04:51:58.968073",
+            "last_retested_at_epoch": 1591913108.731824,
+            "last_retested_at_iso": "2020-06-11T22:05:08.731824",
             "status": "INACTIVE"
         },
         "erotik.rated100.com": {
             "included_at_epoch": 1590817616.754808,
             "included_at_iso": "2020-05-30T05:46:56.754808",
-            "last_retested_at_epoch": 1591419119.025223,
-            "last_retested_at_iso": "2020-06-06T04:51:59.025223",
+            "last_retested_at_epoch": 1591913108.789999,
+            "last_retested_at_iso": "2020-06-11T22:05:08.789999",
+            "status": "INACTIVE"
+        },
+        "errorcode.logger.baofeng.com": {
+            "included_at_epoch": 1591913109.152952,
+            "included_at_iso": "2020-06-11T22:05:09.152952",
+            "last_retested_at_epoch": 1591913109.152952,
+            "last_retested_at_iso": "2020-06-11T22:05:09.152952",
             "status": "INACTIVE"
         },
         "es.espotting.com": {
             "included_at_epoch": 1590817617.509497,
             "included_at_iso": "2020-05-30T05:46:57.509497",
-            "last_retested_at_epoch": 1591419119.764096,
-            "last_retested_at_iso": "2020-06-06T04:51:59.764096",
+            "last_retested_at_epoch": 1591913109.551974,
+            "last_retested_at_iso": "2020-06-11T22:05:09.551974",
             "status": "INACTIVE"
         },
         "es.nedstat.net": {
             "included_at_epoch": 1590817617.892141,
             "included_at_iso": "2020-05-30T05:46:57.892141",
-            "last_retested_at_epoch": 1591419120.188758,
-            "last_retested_at_iso": "2020-06-06T04:52:00.188758",
+            "last_retested_at_epoch": 1591913109.991179,
+            "last_retested_at_iso": "2020-06-11T22:05:09.991179",
             "status": "INACTIVE"
         },
         "eshamx01.espotting.com": {
             "included_at_epoch": 1590817617.57877,
             "included_at_iso": "2020-05-30T05:46:57.578770",
-            "last_retested_at_epoch": 1591419119.937781,
-            "last_retested_at_iso": "2020-06-06T04:51:59.937781",
+            "last_retested_at_epoch": 1591913109.734351,
+            "last_retested_at_iso": "2020-06-11T22:05:09.734351",
             "status": "INACTIVE"
         },
         "eslinux.espotting.com": {
             "included_at_epoch": 1590817617.685854,
             "included_at_iso": "2020-05-30T05:46:57.685854",
-            "last_retested_at_epoch": 1591419120.019758,
-            "last_retested_at_iso": "2020-06-06T04:52:00.019758",
+            "last_retested_at_epoch": 1591913109.776291,
+            "last_retested_at_iso": "2020-06-11T22:05:09.776291",
             "status": "INACTIVE"
         },
         "eslonw02.espotting.com": {
             "included_at_epoch": 1590817617.721903,
             "included_at_iso": "2020-05-30T05:46:57.721903",
-            "last_retested_at_epoch": 1591419119.978612,
-            "last_retested_at_iso": "2020-06-06T04:51:59.978612",
+            "last_retested_at_epoch": 1591913109.818134,
+            "last_retested_at_iso": "2020-06-11T22:05:09.818134",
             "status": "INACTIVE"
         },
         "eslonx02.espotting.com": {
             "included_at_epoch": 1590817617.758225,
             "included_at_iso": "2020-05-30T05:46:57.758225",
-            "last_retested_at_epoch": 1591419120.101743,
-            "last_retested_at_iso": "2020-06-06T04:52:00.101743",
+            "last_retested_at_epoch": 1591913109.860381,
+            "last_retested_at_iso": "2020-06-11T22:05:09.860381",
             "status": "INACTIVE"
         },
         "esmtp.espotting.com": {
             "included_at_epoch": 1590817617.81061,
             "included_at_iso": "2020-05-30T05:46:57.810610",
-            "last_retested_at_epoch": 1591419120.060713,
-            "last_retested_at_iso": "2020-06-06T04:52:00.060713",
+            "last_retested_at_epoch": 1591913109.901938,
+            "last_retested_at_iso": "2020-06-11T22:05:09.901938",
             "status": "INACTIVE"
         },
         "estrevx02.espotting.com": {
             "included_at_epoch": 1590817618.482213,
             "included_at_iso": "2020-05-30T05:46:58.482213",
-            "last_retested_at_epoch": 1591419120.856275,
-            "last_retested_at_iso": "2020-06-06T04:52:00.856275",
+            "last_retested_at_epoch": 1591913110.680551,
+            "last_retested_at_iso": "2020-06-11T22:05:10.680551",
             "status": "INACTIVE"
         },
         "ethnicgirls.picturetrades.com": {
             "included_at_epoch": 1590817618.889817,
             "included_at_iso": "2020-05-30T05:46:58.889817",
-            "last_retested_at_epoch": 1591419121.185745,
-            "last_retested_at_iso": "2020-06-06T04:52:01.185745",
+            "last_retested_at_epoch": 1591913111.018065,
+            "last_retested_at_iso": "2020-06-11T22:05:11.018065",
             "status": "INACTIVE"
         },
         "etrade.daegu.go.kr": {
             "included_at_epoch": 1590817619.082637,
             "included_at_iso": "2020-05-30T05:46:59.082637",
-            "last_retested_at_epoch": 1591419121.403702,
-            "last_retested_at_iso": "2020-06-06T04:52:01.403702",
+            "last_retested_at_epoch": 1591913111.239529,
+            "last_retested_at_iso": "2020-06-11T22:05:11.239529",
             "status": "INACTIVE"
         },
         "eventlog.hd.baofeng.com": {
             "included_at_epoch": 1590817620.22123,
             "included_at_iso": "2020-05-30T05:47:00.221230",
-            "last_retested_at_epoch": 1591419122.521017,
-            "last_retested_at_iso": "2020-06-06T04:52:02.521017",
+            "last_retested_at_epoch": 1591913112.394072,
+            "last_retested_at_iso": "2020-06-11T22:05:12.394072",
             "status": "INACTIVE"
         },
         "experimentaltraffic.com": {
             "included_at_epoch": 1590643443.109322,
             "included_at_iso": "2020-05-28T05:24:03.109322",
-            "last_retested_at_epoch": 1591419124.775271,
-            "last_retested_at_iso": "2020-06-06T04:52:04.775271",
+            "last_retested_at_epoch": 1591913114.698332,
+            "last_retested_at_iso": "2020-06-11T22:05:14.698332",
             "status": "INACTIVE"
         },
         "ezbugtracking.com": {
