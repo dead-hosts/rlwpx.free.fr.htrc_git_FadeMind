@@ -1970,71 +1970,71 @@
         "e2.emediate.se": {
             "included_at_epoch": 1590810237.198692,
             "included_at_iso": "2020-05-30T03:43:57.198692",
-            "last_retested_at_epoch": 1591412625.87471,
-            "last_retested_at_iso": "2020-06-06T03:03:45.874710",
+            "last_retested_at_epoch": 1591903402.70819,
+            "last_retested_at_iso": "2020-06-11T19:23:22.708190",
             "status": "INACTIVE"
         },
         "eas1.emediate.eu": {
             "included_at_epoch": 1591063016.615083,
             "included_at_iso": "2020-06-02T01:56:56.615083",
-            "last_retested_at_epoch": 1591412626.120826,
-            "last_retested_at_iso": "2020-06-06T03:03:46.120826",
+            "last_retested_at_epoch": 1591903402.956631,
+            "last_retested_at_iso": "2020-06-11T19:23:22.956631",
             "status": "INACTIVE"
         },
         "eas2.emediate.eu": {
             "included_at_epoch": 1591063016.654549,
             "included_at_iso": "2020-06-02T01:56:56.654549",
-            "last_retested_at_epoch": 1591412626.160803,
-            "last_retested_at_iso": "2020-06-06T03:03:46.160803",
+            "last_retested_at_epoch": 1591903402.996315,
+            "last_retested_at_iso": "2020-06-11T19:23:22.996315",
             "status": "INACTIVE"
         },
         "eas3.emediate.eu": {
             "included_at_epoch": 1591063016.693721,
             "included_at_iso": "2020-06-02T01:56:56.693721",
-            "last_retested_at_epoch": 1591412626.200533,
-            "last_retested_at_iso": "2020-06-06T03:03:46.200533",
+            "last_retested_at_epoch": 1591903403.035612,
+            "last_retested_at_iso": "2020-06-11T19:23:23.035612",
             "status": "INACTIVE"
         },
         "eas3.emediate.se": {
             "included_at_epoch": 1590810237.49969,
             "included_at_iso": "2020-05-30T03:43:57.499690",
-            "last_retested_at_epoch": 1591412626.24053,
-            "last_retested_at_iso": "2020-06-06T03:03:46.240530",
+            "last_retested_at_epoch": 1591903403.075131,
+            "last_retested_at_iso": "2020-06-11T19:23:23.075131",
             "status": "INACTIVE"
         },
         "eas4.emediate.eu": {
             "included_at_epoch": 1591063016.732648,
             "included_at_iso": "2020-06-02T01:56:56.732648",
-            "last_retested_at_epoch": 1591412626.320272,
-            "last_retested_at_iso": "2020-06-06T03:03:46.320272",
+            "last_retested_at_epoch": 1591903403.114513,
+            "last_retested_at_iso": "2020-06-11T19:23:23.114513",
             "status": "INACTIVE"
         },
         "eas5.emediate.eu": {
             "included_at_epoch": 1591063016.811801,
             "included_at_iso": "2020-06-02T01:56:56.811801",
-            "last_retested_at_epoch": 1591412626.280662,
-            "last_retested_at_iso": "2020-06-06T03:03:46.280662",
+            "last_retested_at_epoch": 1591903403.154014,
+            "last_retested_at_iso": "2020-06-11T19:23:23.154014",
             "status": "INACTIVE"
         },
         "eas8.emediate.eu": {
             "included_at_epoch": 1591063016.851195,
             "included_at_iso": "2020-06-02T01:56:56.851195",
-            "last_retested_at_epoch": 1591412626.360035,
-            "last_retested_at_iso": "2020-06-06T03:03:46.360035",
+            "last_retested_at_epoch": 1591903403.193444,
+            "last_retested_at_iso": "2020-06-11T19:23:23.193444",
             "status": "INACTIVE"
         },
         "econoclicks.com": {
             "included_at_epoch": 1590811323.445049,
             "included_at_iso": "2020-05-30T04:02:03.445049",
-            "last_retested_at_epoch": 1591413349.116586,
-            "last_retested_at_iso": "2020-06-06T03:15:49.116586",
+            "last_retested_at_epoch": 1591903405.246034,
+            "last_retested_at_iso": "2020-06-11T19:23:25.246034",
             "status": "INACTIVE"
         },
         "ed-media.ru": {
             "included_at_epoch": 1590811323.952709,
             "included_at_iso": "2020-05-30T04:02:03.952709",
-            "last_retested_at_epoch": 1591413349.643585,
-            "last_retested_at_iso": "2020-06-06T03:15:49.643585",
+            "last_retested_at_epoch": 1591903405.754132,
+            "last_retested_at_iso": "2020-06-11T19:23:25.754132",
             "status": "INACTIVE"
         },
         "emediate.eu": {
