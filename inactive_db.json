@@ -588,13 +588,6 @@
             "last_retested_at_iso": "2020-06-11T17:04:11.008979",
             "status": "INACTIVE"
         },
-        "anneklein.com.102.112.2o7.net": {
-            "included_at_epoch": 1589508060.603386,
-            "included_at_iso": "2020-05-15T02:01:00.603386",
-            "last_retested_at_epoch": 1591895051.059887,
-            "last_retested_at_iso": "2020-06-11T17:04:11.059887",
-            "status": "INACTIVE"
-        },
         "antevenio.flux.ads-click.com": {
             "included_at_epoch": 1590802731.100565,
             "included_at_iso": "2020-05-30T01:38:51.100565",
@@ -4735,1044 +4728,1044 @@
         "nichetrafficticket.com": {
             "included_at_epoch": 1590824177.088634,
             "included_at_iso": "2020-05-30T07:36:17.088634",
-            "last_retested_at_epoch": 1591425753.899039,
-            "last_retested_at_iso": "2020-06-06T06:42:33.899039",
+            "last_retested_at_epoch": 1591928236.212171,
+            "last_retested_at_iso": "2020-06-12T02:17:16.212171",
             "status": "INACTIVE"
         },
         "nl.topstat.com": {
             "included_at_epoch": 1590824178.580015,
             "included_at_iso": "2020-05-30T07:36:18.580015",
-            "last_retested_at_epoch": 1591425755.690883,
-            "last_retested_at_iso": "2020-06-06T06:42:35.690883",
+            "last_retested_at_epoch": 1591928237.856696,
+            "last_retested_at_iso": "2020-06-12T02:17:17.856696",
             "status": "INACTIVE"
         },
         "no.espotting.com": {
             "included_at_epoch": 1590824180.006011,
             "included_at_iso": "2020-05-30T07:36:20.006011",
-            "last_retested_at_epoch": 1591425757.195704,
-            "last_retested_at_iso": "2020-06-06T06:42:37.195704",
+            "last_retested_at_epoch": 1591928239.283417,
+            "last_retested_at_iso": "2020-06-12T02:17:19.283417",
             "status": "INACTIVE"
         },
         "ns1.hit4hit.com": {
             "included_at_epoch": 1589526363.785767,
             "included_at_iso": "2020-05-15T07:06:03.785767",
-            "last_retested_at_epoch": 1591425758.579077,
-            "last_retested_at_iso": "2020-06-06T06:42:38.579077",
+            "last_retested_at_epoch": 1591928240.605918,
+            "last_retested_at_iso": "2020-06-12T02:17:20.605918",
             "status": "INACTIVE"
         },
         "nudegalleries.picturetrades.com": {
             "included_at_epoch": 1590824182.472536,
             "included_at_iso": "2020-05-30T07:36:22.472536",
-            "last_retested_at_epoch": 1591425759.852466,
-            "last_retested_at_iso": "2020-06-06T06:42:39.852466",
+            "last_retested_at_epoch": 1591928241.811394,
+            "last_retested_at_iso": "2020-06-12T02:17:21.811394",
             "status": "INACTIVE"
         },
         "nymag.com.102.112.2o7.net": {
             "included_at_epoch": 1590824183.421715,
             "included_at_iso": "2020-05-30T07:36:23.421715",
-            "last_retested_at_epoch": 1591425760.95591,
-            "last_retested_at_iso": "2020-06-06T06:42:40.955910",
+            "last_retested_at_epoch": 1591928242.858627,
+            "last_retested_at_iso": "2020-06-12T02:17:22.858627",
             "status": "INACTIVE"
         },
         "oak1dpu101.insight.omniture.com": {
             "included_at_epoch": 1590824184.265989,
             "included_at_iso": "2020-05-30T07:36:24.265989",
-            "last_retested_at_epoch": 1591425761.793473,
-            "last_retested_at_iso": "2020-06-06T06:42:41.793473",
+            "last_retested_at_epoch": 1591928243.71065,
+            "last_retested_at_iso": "2020-06-12T02:17:23.710650",
             "status": "INACTIVE"
         },
         "oak1dpu102.insight.omniture.com": {
             "included_at_epoch": 1590824184.324573,
             "included_at_iso": "2020-05-30T07:36:24.324573",
-            "last_retested_at_epoch": 1591425761.839191,
-            "last_retested_at_iso": "2020-06-06T06:42:41.839191",
+            "last_retested_at_epoch": 1591928243.65966,
+            "last_retested_at_iso": "2020-06-12T02:17:23.659660",
             "status": "INACTIVE"
         },
         "oak1dpu103.insight.omniture.com": {
             "included_at_epoch": 1590824184.364465,
             "included_at_iso": "2020-05-30T07:36:24.364465",
-            "last_retested_at_epoch": 1591425761.885094,
-            "last_retested_at_iso": "2020-06-06T06:42:41.885094",
+            "last_retested_at_epoch": 1591928243.754655,
+            "last_retested_at_iso": "2020-06-12T02:17:23.754655",
             "status": "INACTIVE"
         },
         "oak1dpu106.insight.omniture.com": {
             "included_at_epoch": 1590824184.404133,
             "included_at_iso": "2020-05-30T07:36:24.404133",
-            "last_retested_at_epoch": 1591425761.930903,
-            "last_retested_at_iso": "2020-06-06T06:42:41.930903",
+            "last_retested_at_epoch": 1591928243.798764,
+            "last_retested_at_iso": "2020-06-12T02:17:23.798764",
             "status": "INACTIVE"
         },
         "oak1dpu107.insight.omniture.com": {
             "included_at_epoch": 1590824184.445486,
             "included_at_iso": "2020-05-30T07:36:24.445486",
-            "last_retested_at_epoch": 1591425761.976789,
-            "last_retested_at_iso": "2020-06-06T06:42:41.976789",
+            "last_retested_at_epoch": 1591928243.842983,
+            "last_retested_at_iso": "2020-06-12T02:17:23.842983",
             "status": "INACTIVE"
         },
         "oak1dpu115.insight.omniture.com": {
             "included_at_epoch": 1590824184.486214,
             "included_at_iso": "2020-05-30T07:36:24.486214",
-            "last_retested_at_epoch": 1591425762.022473,
-            "last_retested_at_iso": "2020-06-06T06:42:42.022473",
+            "last_retested_at_epoch": 1591928243.887242,
+            "last_retested_at_iso": "2020-06-12T02:17:23.887242",
             "status": "INACTIVE"
         },
         "oak1dpu116.insight.omniture.com": {
             "included_at_epoch": 1590824184.526877,
             "included_at_iso": "2020-05-30T07:36:24.526877",
-            "last_retested_at_epoch": 1591425762.06775,
-            "last_retested_at_iso": "2020-06-06T06:42:42.067750",
+            "last_retested_at_epoch": 1591928243.931324,
+            "last_retested_at_iso": "2020-06-12T02:17:23.931324",
             "status": "INACTIVE"
         },
         "oak1dpu117.insight.omniture.com": {
             "included_at_epoch": 1590824184.567358,
             "included_at_iso": "2020-05-30T07:36:24.567358",
-            "last_retested_at_epoch": 1591425762.112482,
-            "last_retested_at_iso": "2020-06-06T06:42:42.112482",
+            "last_retested_at_epoch": 1591928243.975092,
+            "last_retested_at_iso": "2020-06-12T02:17:23.975092",
             "status": "INACTIVE"
         },
         "oak1dpu118.insight.omniture.com": {
             "included_at_epoch": 1590824184.608011,
             "included_at_iso": "2020-05-30T07:36:24.608011",
-            "last_retested_at_epoch": 1591425762.158637,
-            "last_retested_at_iso": "2020-06-06T06:42:42.158637",
+            "last_retested_at_epoch": 1591928244.019099,
+            "last_retested_at_iso": "2020-06-12T02:17:24.019099",
             "status": "INACTIVE"
         },
         "oak1dpu119.insight.omniture.com": {
             "included_at_epoch": 1590824184.648073,
             "included_at_iso": "2020-05-30T07:36:24.648073",
-            "last_retested_at_epoch": 1591425762.204118,
-            "last_retested_at_iso": "2020-06-06T06:42:42.204118",
+            "last_retested_at_epoch": 1591928244.062953,
+            "last_retested_at_iso": "2020-06-12T02:17:24.062953",
             "status": "INACTIVE"
         },
         "oak1dpu120.insight.omniture.com": {
             "included_at_epoch": 1590824184.687829,
             "included_at_iso": "2020-05-30T07:36:24.687829",
-            "last_retested_at_epoch": 1591425762.249469,
-            "last_retested_at_iso": "2020-06-06T06:42:42.249469",
+            "last_retested_at_epoch": 1591928244.10691,
+            "last_retested_at_iso": "2020-06-12T02:17:24.106910",
             "status": "INACTIVE"
         },
         "oak1dpu121.insight.omniture.com": {
             "included_at_epoch": 1590824184.727687,
             "included_at_iso": "2020-05-30T07:36:24.727687",
-            "last_retested_at_epoch": 1591425762.29438,
-            "last_retested_at_iso": "2020-06-06T06:42:42.294380",
+            "last_retested_at_epoch": 1591928244.150498,
+            "last_retested_at_iso": "2020-06-12T02:17:24.150498",
             "status": "INACTIVE"
         },
         "oak1dpu122.insight.omniture.com": {
             "included_at_epoch": 1590824184.768038,
             "included_at_iso": "2020-05-30T07:36:24.768038",
-            "last_retested_at_epoch": 1591425762.338886,
-            "last_retested_at_iso": "2020-06-06T06:42:42.338886",
+            "last_retested_at_epoch": 1591928244.194184,
+            "last_retested_at_iso": "2020-06-12T02:17:24.194184",
             "status": "INACTIVE"
         },
         "oak1dpu123.insight.omniture.com": {
             "included_at_epoch": 1590824184.848106,
             "included_at_iso": "2020-05-30T07:36:24.848106",
-            "last_retested_at_epoch": 1591425762.38336,
-            "last_retested_at_iso": "2020-06-06T06:42:42.383360",
+            "last_retested_at_epoch": 1591928244.237648,
+            "last_retested_at_iso": "2020-06-12T02:17:24.237648",
             "status": "INACTIVE"
         },
         "oak1dpu124.insight.omniture.com": {
             "included_at_epoch": 1590824184.807808,
             "included_at_iso": "2020-05-30T07:36:24.807808",
-            "last_retested_at_epoch": 1591425762.428096,
-            "last_retested_at_iso": "2020-06-06T06:42:42.428096",
+            "last_retested_at_epoch": 1591928244.281323,
+            "last_retested_at_iso": "2020-06-12T02:17:24.281323",
             "status": "INACTIVE"
         },
         "oak1dpu125.insight.omniture.com": {
             "included_at_epoch": 1590824184.88822,
             "included_at_iso": "2020-05-30T07:36:24.888220",
-            "last_retested_at_epoch": 1591425762.473118,
-            "last_retested_at_iso": "2020-06-06T06:42:42.473118",
+            "last_retested_at_epoch": 1591928244.325485,
+            "last_retested_at_iso": "2020-06-12T02:17:24.325485",
             "status": "INACTIVE"
         },
         "oak1dpu126.insight.omniture.com": {
             "included_at_epoch": 1590824184.928084,
             "included_at_iso": "2020-05-30T07:36:24.928084",
-            "last_retested_at_epoch": 1591425762.563402,
-            "last_retested_at_iso": "2020-06-06T06:42:42.563402",
+            "last_retested_at_epoch": 1591928244.369456,
+            "last_retested_at_iso": "2020-06-12T02:17:24.369456",
             "status": "INACTIVE"
         },
         "oak1dpu127.insight.omniture.com": {
             "included_at_epoch": 1590824184.967947,
             "included_at_iso": "2020-05-30T07:36:24.967947",
-            "last_retested_at_epoch": 1591425762.518406,
-            "last_retested_at_iso": "2020-06-06T06:42:42.518406",
+            "last_retested_at_epoch": 1591928244.413799,
+            "last_retested_at_iso": "2020-06-12T02:17:24.413799",
             "status": "INACTIVE"
         },
         "oak1dpu128.insight.omniture.com": {
             "included_at_epoch": 1590824185.007803,
             "included_at_iso": "2020-05-30T07:36:25.007803",
-            "last_retested_at_epoch": 1591425762.608164,
-            "last_retested_at_iso": "2020-06-06T06:42:42.608164",
+            "last_retested_at_epoch": 1591928244.458529,
+            "last_retested_at_iso": "2020-06-12T02:17:24.458529",
             "status": "INACTIVE"
         },
         "oak1dpu129.insight.omniture.com": {
             "included_at_epoch": 1590824185.047704,
             "included_at_iso": "2020-05-30T07:36:25.047704",
-            "last_retested_at_epoch": 1591425762.653075,
-            "last_retested_at_iso": "2020-06-06T06:42:42.653075",
+            "last_retested_at_epoch": 1591928244.50293,
+            "last_retested_at_iso": "2020-06-12T02:17:24.502930",
             "status": "INACTIVE"
         },
         "oak1dpu130.insight.omniture.com": {
             "included_at_epoch": 1590824185.087618,
             "included_at_iso": "2020-05-30T07:36:25.087618",
-            "last_retested_at_epoch": 1591425762.698739,
-            "last_retested_at_iso": "2020-06-06T06:42:42.698739",
+            "last_retested_at_epoch": 1591928244.547298,
+            "last_retested_at_iso": "2020-06-12T02:17:24.547298",
             "status": "INACTIVE"
         },
         "oak1dpu131.insight.omniture.com": {
             "included_at_epoch": 1590824185.127591,
             "included_at_iso": "2020-05-30T07:36:25.127591",
-            "last_retested_at_epoch": 1591425762.743613,
-            "last_retested_at_iso": "2020-06-06T06:42:42.743613",
+            "last_retested_at_epoch": 1591928244.591457,
+            "last_retested_at_iso": "2020-06-12T02:17:24.591457",
             "status": "INACTIVE"
         },
         "oak1dpu132.insight.omniture.com": {
             "included_at_epoch": 1590824185.167595,
             "included_at_iso": "2020-05-30T07:36:25.167595",
-            "last_retested_at_epoch": 1591425762.788033,
-            "last_retested_at_iso": "2020-06-06T06:42:42.788033",
+            "last_retested_at_epoch": 1591928244.635665,
+            "last_retested_at_iso": "2020-06-12T02:17:24.635665",
             "status": "INACTIVE"
         },
         "oak1dpu133.insight.omniture.com": {
             "included_at_epoch": 1590824185.207432,
             "included_at_iso": "2020-05-30T07:36:25.207432",
-            "last_retested_at_epoch": 1591425762.832565,
-            "last_retested_at_iso": "2020-06-06T06:42:42.832565",
+            "last_retested_at_epoch": 1591928244.679575,
+            "last_retested_at_iso": "2020-06-12T02:17:24.679575",
             "status": "INACTIVE"
         },
         "oak1dpu134.insight.omniture.com": {
             "included_at_epoch": 1590824185.24798,
             "included_at_iso": "2020-05-30T07:36:25.247980",
-            "last_retested_at_epoch": 1591425762.921464,
-            "last_retested_at_iso": "2020-06-06T06:42:42.921464",
+            "last_retested_at_epoch": 1591928244.724976,
+            "last_retested_at_iso": "2020-06-12T02:17:24.724976",
             "status": "INACTIVE"
         },
         "oak1dpu135.insight.omniture.com": {
             "included_at_epoch": 1590824185.288117,
             "included_at_iso": "2020-05-30T07:36:25.288117",
-            "last_retested_at_epoch": 1591425762.877014,
-            "last_retested_at_iso": "2020-06-06T06:42:42.877014",
+            "last_retested_at_epoch": 1591928244.768881,
+            "last_retested_at_iso": "2020-06-12T02:17:24.768881",
             "status": "INACTIVE"
         },
         "oak1dpu136.insight.omniture.com": {
             "included_at_epoch": 1590824185.328528,
             "included_at_iso": "2020-05-30T07:36:25.328528",
-            "last_retested_at_epoch": 1591425763.01018,
-            "last_retested_at_iso": "2020-06-06T06:42:43.010180",
+            "last_retested_at_epoch": 1591928244.812976,
+            "last_retested_at_iso": "2020-06-12T02:17:24.812976",
             "status": "INACTIVE"
         },
         "oak1dpu137.insight.omniture.com": {
             "included_at_epoch": 1590824185.368927,
             "included_at_iso": "2020-05-30T07:36:25.368927",
-            "last_retested_at_epoch": 1591425762.965817,
-            "last_retested_at_iso": "2020-06-06T06:42:42.965817",
+            "last_retested_at_epoch": 1591928244.856749,
+            "last_retested_at_iso": "2020-06-12T02:17:24.856749",
             "status": "INACTIVE"
         },
         "oak1dpu138.insight.omniture.com": {
             "included_at_epoch": 1590824185.409058,
             "included_at_iso": "2020-05-30T07:36:25.409058",
-            "last_retested_at_epoch": 1591425763.054784,
-            "last_retested_at_iso": "2020-06-06T06:42:43.054784",
+            "last_retested_at_epoch": 1591928244.900447,
+            "last_retested_at_iso": "2020-06-12T02:17:24.900447",
             "status": "INACTIVE"
         },
         "oak1dpu139.insight.omniture.com": {
             "included_at_epoch": 1590824185.449038,
             "included_at_iso": "2020-05-30T07:36:25.449038",
-            "last_retested_at_epoch": 1591425763.099073,
-            "last_retested_at_iso": "2020-06-06T06:42:43.099073",
+            "last_retested_at_epoch": 1591928244.944341,
+            "last_retested_at_iso": "2020-06-12T02:17:24.944341",
             "status": "INACTIVE"
         },
         "oak1dpu140.insight.omniture.com": {
             "included_at_epoch": 1590824185.489042,
             "included_at_iso": "2020-05-30T07:36:25.489042",
-            "last_retested_at_epoch": 1591425763.14363,
-            "last_retested_at_iso": "2020-06-06T06:42:43.143630",
+            "last_retested_at_epoch": 1591928244.988479,
+            "last_retested_at_iso": "2020-06-12T02:17:24.988479",
             "status": "INACTIVE"
         },
         "oak1dpu141.insight.omniture.com": {
             "included_at_epoch": 1590824185.569078,
             "included_at_iso": "2020-05-30T07:36:25.569078",
-            "last_retested_at_epoch": 1591425763.188589,
-            "last_retested_at_iso": "2020-06-06T06:42:43.188589",
+            "last_retested_at_epoch": 1591928245.032491,
+            "last_retested_at_iso": "2020-06-12T02:17:25.032491",
             "status": "INACTIVE"
         },
         "oak1dpu142.insight.omniture.com": {
             "included_at_epoch": 1590824185.528941,
             "included_at_iso": "2020-05-30T07:36:25.528941",
-            "last_retested_at_epoch": 1591425763.233066,
-            "last_retested_at_iso": "2020-06-06T06:42:43.233066",
+            "last_retested_at_epoch": 1591928245.076418,
+            "last_retested_at_iso": "2020-06-12T02:17:25.076418",
             "status": "INACTIVE"
         },
         "oak1dpu143.insight.omniture.com": {
             "included_at_epoch": 1590824185.609683,
             "included_at_iso": "2020-05-30T07:36:25.609683",
-            "last_retested_at_epoch": 1591425763.277657,
-            "last_retested_at_iso": "2020-06-06T06:42:43.277657",
+            "last_retested_at_epoch": 1591928245.120013,
+            "last_retested_at_iso": "2020-06-12T02:17:25.120013",
             "status": "INACTIVE"
         },
         "oak1dpu144.insight.omniture.com": {
             "included_at_epoch": 1590824185.649777,
             "included_at_iso": "2020-05-30T07:36:25.649777",
-            "last_retested_at_epoch": 1591425763.322278,
-            "last_retested_at_iso": "2020-06-06T06:42:43.322278",
+            "last_retested_at_epoch": 1591928245.163815,
+            "last_retested_at_iso": "2020-06-12T02:17:25.163815",
             "status": "INACTIVE"
         },
         "oak1dpu145.insight.omniture.com": {
             "included_at_epoch": 1590824185.690195,
             "included_at_iso": "2020-05-30T07:36:25.690195",
-            "last_retested_at_epoch": 1591425763.366925,
-            "last_retested_at_iso": "2020-06-06T06:42:43.366925",
+            "last_retested_at_epoch": 1591928245.207801,
+            "last_retested_at_iso": "2020-06-12T02:17:25.207801",
             "status": "INACTIVE"
         },
         "oak1dpu146.insight.omniture.com": {
             "included_at_epoch": 1590824185.730758,
             "included_at_iso": "2020-05-30T07:36:25.730758",
-            "last_retested_at_epoch": 1591425763.411412,
-            "last_retested_at_iso": "2020-06-06T06:42:43.411412",
+            "last_retested_at_epoch": 1591928245.251851,
+            "last_retested_at_iso": "2020-06-12T02:17:25.251851",
             "status": "INACTIVE"
         },
         "oak1dpu147.insight.omniture.com": {
             "included_at_epoch": 1590824185.771242,
             "included_at_iso": "2020-05-30T07:36:25.771242",
-            "last_retested_at_epoch": 1591425763.456004,
-            "last_retested_at_iso": "2020-06-06T06:42:43.456004",
+            "last_retested_at_epoch": 1591928245.295741,
+            "last_retested_at_iso": "2020-06-12T02:17:25.295741",
             "status": "INACTIVE"
         },
         "oak1dpu148.insight.omniture.com": {
             "included_at_epoch": 1590824185.811236,
             "included_at_iso": "2020-05-30T07:36:25.811236",
-            "last_retested_at_epoch": 1591425763.500523,
-            "last_retested_at_iso": "2020-06-06T06:42:43.500523",
+            "last_retested_at_epoch": 1591928245.339554,
+            "last_retested_at_iso": "2020-06-12T02:17:25.339554",
             "status": "INACTIVE"
         },
         "oak1dpu149.insight.omniture.com": {
             "included_at_epoch": 1590824185.851599,
             "included_at_iso": "2020-05-30T07:36:25.851599",
-            "last_retested_at_epoch": 1591425763.545468,
-            "last_retested_at_iso": "2020-06-06T06:42:43.545468",
+            "last_retested_at_epoch": 1591928245.383533,
+            "last_retested_at_iso": "2020-06-12T02:17:25.383533",
             "status": "INACTIVE"
         },
         "oak1dpu150.insight.omniture.com": {
             "included_at_epoch": 1590824185.891755,
             "included_at_iso": "2020-05-30T07:36:25.891755",
-            "last_retested_at_epoch": 1591425763.589501,
-            "last_retested_at_iso": "2020-06-06T06:42:43.589501",
+            "last_retested_at_epoch": 1591928245.428554,
+            "last_retested_at_iso": "2020-06-12T02:17:25.428554",
             "status": "INACTIVE"
         },
         "oak1dpu151.insight.omniture.com": {
             "included_at_epoch": 1590824185.931743,
             "included_at_iso": "2020-05-30T07:36:25.931743",
-            "last_retested_at_epoch": 1591425763.633915,
-            "last_retested_at_iso": "2020-06-06T06:42:43.633915",
+            "last_retested_at_epoch": 1591928245.473484,
+            "last_retested_at_iso": "2020-06-12T02:17:25.473484",
             "status": "INACTIVE"
         },
         "oak1dpu152.insight.omniture.com": {
             "included_at_epoch": 1590824185.972018,
             "included_at_iso": "2020-05-30T07:36:25.972018",
-            "last_retested_at_epoch": 1591425763.678793,
-            "last_retested_at_iso": "2020-06-06T06:42:43.678793",
+            "last_retested_at_epoch": 1591928245.51767,
+            "last_retested_at_iso": "2020-06-12T02:17:25.517670",
             "status": "INACTIVE"
         },
         "oak1dpu153.insight.omniture.com": {
             "included_at_epoch": 1590824186.012377,
             "included_at_iso": "2020-05-30T07:36:26.012377",
-            "last_retested_at_epoch": 1591425763.724617,
-            "last_retested_at_iso": "2020-06-06T06:42:43.724617",
+            "last_retested_at_epoch": 1591928245.561888,
+            "last_retested_at_iso": "2020-06-12T02:17:25.561888",
             "status": "INACTIVE"
         },
         "oak1dpu154.insight.omniture.com": {
             "included_at_epoch": 1590824186.052687,
             "included_at_iso": "2020-05-30T07:36:26.052687",
-            "last_retested_at_epoch": 1591425763.770844,
-            "last_retested_at_iso": "2020-06-06T06:42:43.770844",
+            "last_retested_at_epoch": 1591928245.60705,
+            "last_retested_at_iso": "2020-06-12T02:17:25.607050",
             "status": "INACTIVE"
         },
         "oak1dpu155.insight.omniture.com": {
             "included_at_epoch": 1590824186.092956,
             "included_at_iso": "2020-05-30T07:36:26.092956",
-            "last_retested_at_epoch": 1591425763.816466,
-            "last_retested_at_iso": "2020-06-06T06:42:43.816466",
+            "last_retested_at_epoch": 1591928245.651408,
+            "last_retested_at_iso": "2020-06-12T02:17:25.651408",
             "status": "INACTIVE"
         },
         "oak1dpu156.insight.omniture.com": {
             "included_at_epoch": 1590824186.13308,
             "included_at_iso": "2020-05-30T07:36:26.133080",
-            "last_retested_at_epoch": 1591425763.860989,
-            "last_retested_at_iso": "2020-06-06T06:42:43.860989",
+            "last_retested_at_epoch": 1591928245.695913,
+            "last_retested_at_iso": "2020-06-12T02:17:25.695913",
             "status": "INACTIVE"
         },
         "oak1dpu157.insight.omniture.com": {
             "included_at_epoch": 1590824186.173479,
             "included_at_iso": "2020-05-30T07:36:26.173479",
-            "last_retested_at_epoch": 1591425763.905562,
-            "last_retested_at_iso": "2020-06-06T06:42:43.905562",
+            "last_retested_at_epoch": 1591928245.739998,
+            "last_retested_at_iso": "2020-06-12T02:17:25.739998",
             "status": "INACTIVE"
         },
         "oak1dpu158.insight.omniture.com": {
             "included_at_epoch": 1590824186.213793,
             "included_at_iso": "2020-05-30T07:36:26.213793",
-            "last_retested_at_epoch": 1591425763.949882,
-            "last_retested_at_iso": "2020-06-06T06:42:43.949882",
+            "last_retested_at_epoch": 1591928245.78436,
+            "last_retested_at_iso": "2020-06-12T02:17:25.784360",
             "status": "INACTIVE"
         },
         "oak1dpu159.insight.omniture.com": {
             "included_at_epoch": 1590824186.253937,
             "included_at_iso": "2020-05-30T07:36:26.253937",
-            "last_retested_at_epoch": 1591425763.994447,
-            "last_retested_at_iso": "2020-06-06T06:42:43.994447",
+            "last_retested_at_epoch": 1591928245.828558,
+            "last_retested_at_iso": "2020-06-12T02:17:25.828558",
             "status": "INACTIVE"
         },
         "oak1dpu160.insight.omniture.com": {
             "included_at_epoch": 1590824186.294093,
             "included_at_iso": "2020-05-30T07:36:26.294093",
-            "last_retested_at_epoch": 1591425764.039032,
-            "last_retested_at_iso": "2020-06-06T06:42:44.039032",
+            "last_retested_at_epoch": 1591928245.872508,
+            "last_retested_at_iso": "2020-06-12T02:17:25.872508",
             "status": "INACTIVE"
         },
         "oak1dpu161.insight.omniture.com": {
             "included_at_epoch": 1590824186.334429,
             "included_at_iso": "2020-05-30T07:36:26.334429",
-            "last_retested_at_epoch": 1591425764.083709,
-            "last_retested_at_iso": "2020-06-06T06:42:44.083709",
+            "last_retested_at_epoch": 1591928245.916854,
+            "last_retested_at_iso": "2020-06-12T02:17:25.916854",
             "status": "INACTIVE"
         },
         "oak1dpu162.insight.omniture.com": {
             "included_at_epoch": 1590824186.375091,
             "included_at_iso": "2020-05-30T07:36:26.375091",
-            "last_retested_at_epoch": 1591425764.12857,
-            "last_retested_at_iso": "2020-06-06T06:42:44.128570",
+            "last_retested_at_epoch": 1591928245.960833,
+            "last_retested_at_iso": "2020-06-12T02:17:25.960833",
             "status": "INACTIVE"
         },
         "oak1dpu163.insight.omniture.com": {
             "included_at_epoch": 1590824186.415215,
             "included_at_iso": "2020-05-30T07:36:26.415215",
-            "last_retested_at_epoch": 1591425764.17351,
-            "last_retested_at_iso": "2020-06-06T06:42:44.173510",
+            "last_retested_at_epoch": 1591928246.004882,
+            "last_retested_at_iso": "2020-06-12T02:17:26.004882",
             "status": "INACTIVE"
         },
         "oak1dpu164.insight.omniture.com": {
             "included_at_epoch": 1590824186.455401,
             "included_at_iso": "2020-05-30T07:36:26.455401",
-            "last_retested_at_epoch": 1591425764.217893,
-            "last_retested_at_iso": "2020-06-06T06:42:44.217893",
+            "last_retested_at_epoch": 1591928246.048784,
+            "last_retested_at_iso": "2020-06-12T02:17:26.048784",
             "status": "INACTIVE"
         },
         "oak1dpu165.insight.omniture.com": {
             "included_at_epoch": 1590824186.495587,
             "included_at_iso": "2020-05-30T07:36:26.495587",
-            "last_retested_at_epoch": 1591425764.262688,
-            "last_retested_at_iso": "2020-06-06T06:42:44.262688",
+            "last_retested_at_epoch": 1591928246.092493,
+            "last_retested_at_iso": "2020-06-12T02:17:26.092493",
             "status": "INACTIVE"
         },
         "oak1dpu166.insight.omniture.com": {
             "included_at_epoch": 1590824186.536051,
             "included_at_iso": "2020-05-30T07:36:26.536051",
-            "last_retested_at_epoch": 1591425764.307439,
-            "last_retested_at_iso": "2020-06-06T06:42:44.307439",
+            "last_retested_at_epoch": 1591928246.13642,
+            "last_retested_at_iso": "2020-06-12T02:17:26.136420",
             "status": "INACTIVE"
         },
         "oak1dpu167.insight.omniture.com": {
             "included_at_epoch": 1590824186.577146,
             "included_at_iso": "2020-05-30T07:36:26.577146",
-            "last_retested_at_epoch": 1591425764.353654,
-            "last_retested_at_iso": "2020-06-06T06:42:44.353654",
+            "last_retested_at_epoch": 1591928246.180257,
+            "last_retested_at_iso": "2020-06-12T02:17:26.180257",
             "status": "INACTIVE"
         },
         "oak1dpu168.insight.omniture.com": {
             "included_at_epoch": 1590824186.618234,
             "included_at_iso": "2020-05-30T07:36:26.618234",
-            "last_retested_at_epoch": 1591425764.399161,
-            "last_retested_at_iso": "2020-06-06T06:42:44.399161",
+            "last_retested_at_epoch": 1591928246.223886,
+            "last_retested_at_iso": "2020-06-12T02:17:26.223886",
             "status": "INACTIVE"
         },
         "oak1dpu169.insight.omniture.com": {
             "included_at_epoch": 1590824186.658778,
             "included_at_iso": "2020-05-30T07:36:26.658778",
-            "last_retested_at_epoch": 1591425764.447631,
-            "last_retested_at_iso": "2020-06-06T06:42:44.447631",
+            "last_retested_at_epoch": 1591928246.26795,
+            "last_retested_at_iso": "2020-06-12T02:17:26.267950",
             "status": "INACTIVE"
         },
         "oak1dpu170.insight.omniture.com": {
             "included_at_epoch": 1590824186.699244,
             "included_at_iso": "2020-05-30T07:36:26.699244",
-            "last_retested_at_epoch": 1591425764.49354,
-            "last_retested_at_iso": "2020-06-06T06:42:44.493540",
+            "last_retested_at_epoch": 1591928246.31167,
+            "last_retested_at_iso": "2020-06-12T02:17:26.311670",
             "status": "INACTIVE"
         },
         "oak1dpu171.insight.omniture.com": {
             "included_at_epoch": 1590824186.739915,
             "included_at_iso": "2020-05-30T07:36:26.739915",
-            "last_retested_at_epoch": 1591425764.539064,
-            "last_retested_at_iso": "2020-06-06T06:42:44.539064",
+            "last_retested_at_epoch": 1591928246.355451,
+            "last_retested_at_iso": "2020-06-12T02:17:26.355451",
             "status": "INACTIVE"
         },
         "oak1dpu172.insight.omniture.com": {
             "included_at_epoch": 1590824186.780603,
             "included_at_iso": "2020-05-30T07:36:26.780603",
-            "last_retested_at_epoch": 1591425764.583741,
-            "last_retested_at_iso": "2020-06-06T06:42:44.583741",
+            "last_retested_at_epoch": 1591928246.399349,
+            "last_retested_at_iso": "2020-06-12T02:17:26.399349",
             "status": "INACTIVE"
         },
         "oak1dpu173.insight.omniture.com": {
             "included_at_epoch": 1590824186.821068,
             "included_at_iso": "2020-05-30T07:36:26.821068",
-            "last_retested_at_epoch": 1591425764.628416,
-            "last_retested_at_iso": "2020-06-06T06:42:44.628416",
+            "last_retested_at_epoch": 1591928246.443668,
+            "last_retested_at_iso": "2020-06-12T02:17:26.443668",
             "status": "INACTIVE"
         },
         "oak1dpu174.insight.omniture.com": {
             "included_at_epoch": 1590824186.861665,
             "included_at_iso": "2020-05-30T07:36:26.861665",
-            "last_retested_at_epoch": 1591425764.673115,
-            "last_retested_at_iso": "2020-06-06T06:42:44.673115",
+            "last_retested_at_epoch": 1591928246.531423,
+            "last_retested_at_iso": "2020-06-12T02:17:26.531423",
             "status": "INACTIVE"
         },
         "oak1dpu175.insight.omniture.com": {
             "included_at_epoch": 1590824186.901726,
             "included_at_iso": "2020-05-30T07:36:26.901726",
-            "last_retested_at_epoch": 1591425764.718489,
-            "last_retested_at_iso": "2020-06-06T06:42:44.718489",
+            "last_retested_at_epoch": 1591928246.487789,
+            "last_retested_at_iso": "2020-06-12T02:17:26.487789",
             "status": "INACTIVE"
         },
         "oak1dpu176.insight.omniture.com": {
             "included_at_epoch": 1590824186.941805,
             "included_at_iso": "2020-05-30T07:36:26.941805",
-            "last_retested_at_epoch": 1591425764.763827,
-            "last_retested_at_iso": "2020-06-06T06:42:44.763827",
+            "last_retested_at_epoch": 1591928246.575961,
+            "last_retested_at_iso": "2020-06-12T02:17:26.575961",
             "status": "INACTIVE"
         },
         "oak1dpu177.insight.omniture.com": {
             "included_at_epoch": 1590824186.982295,
             "included_at_iso": "2020-05-30T07:36:26.982295",
-            "last_retested_at_epoch": 1591425764.80876,
-            "last_retested_at_iso": "2020-06-06T06:42:44.808760",
+            "last_retested_at_epoch": 1591928246.620425,
+            "last_retested_at_iso": "2020-06-12T02:17:26.620425",
             "status": "INACTIVE"
         },
         "oak1dpu178.insight.omniture.com": {
             "included_at_epoch": 1590824187.022729,
             "included_at_iso": "2020-05-30T07:36:27.022729",
-            "last_retested_at_epoch": 1591425764.853941,
-            "last_retested_at_iso": "2020-06-06T06:42:44.853941",
+            "last_retested_at_epoch": 1591928246.66465,
+            "last_retested_at_iso": "2020-06-12T02:17:26.664650",
             "status": "INACTIVE"
         },
         "oak1dpu179.insight.omniture.com": {
             "included_at_epoch": 1590824187.064667,
             "included_at_iso": "2020-05-30T07:36:27.064667",
-            "last_retested_at_epoch": 1591425764.898897,
-            "last_retested_at_iso": "2020-06-06T06:42:44.898897",
+            "last_retested_at_epoch": 1591928246.708801,
+            "last_retested_at_iso": "2020-06-12T02:17:26.708801",
             "status": "INACTIVE"
         },
         "oak1dpu180.insight.omniture.com": {
             "included_at_epoch": 1590824187.105022,
             "included_at_iso": "2020-05-30T07:36:27.105022",
-            "last_retested_at_epoch": 1591425764.943555,
-            "last_retested_at_iso": "2020-06-06T06:42:44.943555",
+            "last_retested_at_epoch": 1591928246.753222,
+            "last_retested_at_iso": "2020-06-12T02:17:26.753222",
             "status": "INACTIVE"
         },
         "oak1dpu181.insight.omniture.com": {
             "included_at_epoch": 1590824187.145126,
             "included_at_iso": "2020-05-30T07:36:27.145126",
-            "last_retested_at_epoch": 1591425764.98852,
-            "last_retested_at_iso": "2020-06-06T06:42:44.988520",
+            "last_retested_at_epoch": 1591928246.797145,
+            "last_retested_at_iso": "2020-06-12T02:17:26.797145",
             "status": "INACTIVE"
         },
         "oak1dpu182.insight.omniture.com": {
             "included_at_epoch": 1590824187.185584,
             "included_at_iso": "2020-05-30T07:36:27.185584",
-            "last_retested_at_epoch": 1591425765.03322,
-            "last_retested_at_iso": "2020-06-06T06:42:45.033220",
+            "last_retested_at_epoch": 1591928246.841106,
+            "last_retested_at_iso": "2020-06-12T02:17:26.841106",
             "status": "INACTIVE"
         },
         "oak1dpu183.insight.omniture.com": {
             "included_at_epoch": 1590824187.22611,
             "included_at_iso": "2020-05-30T07:36:27.226110",
-            "last_retested_at_epoch": 1591425765.078098,
-            "last_retested_at_iso": "2020-06-06T06:42:45.078098",
+            "last_retested_at_epoch": 1591928246.88508,
+            "last_retested_at_iso": "2020-06-12T02:17:26.885080",
             "status": "INACTIVE"
         },
         "oak1dpu184.insight.omniture.com": {
             "included_at_epoch": 1590824187.266863,
             "included_at_iso": "2020-05-30T07:36:27.266863",
-            "last_retested_at_epoch": 1591425765.122903,
-            "last_retested_at_iso": "2020-06-06T06:42:45.122903",
+            "last_retested_at_epoch": 1591928246.928947,
+            "last_retested_at_iso": "2020-06-12T02:17:26.928947",
             "status": "INACTIVE"
         },
         "oak1dpu185.insight.omniture.com": {
             "included_at_epoch": 1590824187.30732,
             "included_at_iso": "2020-05-30T07:36:27.307320",
-            "last_retested_at_epoch": 1591425765.167927,
-            "last_retested_at_iso": "2020-06-06T06:42:45.167927",
+            "last_retested_at_epoch": 1591928246.972878,
+            "last_retested_at_iso": "2020-06-12T02:17:26.972878",
             "status": "INACTIVE"
         },
         "oak1dpu186.insight.omniture.com": {
             "included_at_epoch": 1590824187.34785,
             "included_at_iso": "2020-05-30T07:36:27.347850",
-            "last_retested_at_epoch": 1591425765.212948,
-            "last_retested_at_iso": "2020-06-06T06:42:45.212948",
+            "last_retested_at_epoch": 1591928247.017234,
+            "last_retested_at_iso": "2020-06-12T02:17:27.017234",
             "status": "INACTIVE"
         },
         "oak1dpu187.insight.omniture.com": {
             "included_at_epoch": 1590824187.388245,
             "included_at_iso": "2020-05-30T07:36:27.388245",
-            "last_retested_at_epoch": 1591425765.258663,
-            "last_retested_at_iso": "2020-06-06T06:42:45.258663",
+            "last_retested_at_epoch": 1591928247.061228,
+            "last_retested_at_iso": "2020-06-12T02:17:27.061228",
             "status": "INACTIVE"
         },
         "oak1dpu188.insight.omniture.com": {
             "included_at_epoch": 1590824187.428655,
             "included_at_iso": "2020-05-30T07:36:27.428655",
-            "last_retested_at_epoch": 1591425765.303998,
-            "last_retested_at_iso": "2020-06-06T06:42:45.303998",
+            "last_retested_at_epoch": 1591928247.104836,
+            "last_retested_at_iso": "2020-06-12T02:17:27.104836",
             "status": "INACTIVE"
         },
         "oak1dpu189.insight.omniture.com": {
             "included_at_epoch": 1590824187.469401,
             "included_at_iso": "2020-05-30T07:36:27.469401",
-            "last_retested_at_epoch": 1591425765.348755,
-            "last_retested_at_iso": "2020-06-06T06:42:45.348755",
+            "last_retested_at_epoch": 1591928247.14862,
+            "last_retested_at_iso": "2020-06-12T02:17:27.148620",
             "status": "INACTIVE"
         },
         "oak1dpu190.insight.omniture.com": {
             "included_at_epoch": 1590824187.509821,
             "included_at_iso": "2020-05-30T07:36:27.509821",
-            "last_retested_at_epoch": 1591425765.438349,
-            "last_retested_at_iso": "2020-06-06T06:42:45.438349",
+            "last_retested_at_epoch": 1591928247.192557,
+            "last_retested_at_iso": "2020-06-12T02:17:27.192557",
             "status": "INACTIVE"
         },
         "oak1dpu191.insight.omniture.com": {
             "included_at_epoch": 1590824187.591282,
             "included_at_iso": "2020-05-30T07:36:27.591282",
-            "last_retested_at_epoch": 1591425765.393683,
-            "last_retested_at_iso": "2020-06-06T06:42:45.393683",
+            "last_retested_at_epoch": 1591928247.236468,
+            "last_retested_at_iso": "2020-06-12T02:17:27.236468",
             "status": "INACTIVE"
         },
         "oak1dpu192.insight.omniture.com": {
             "included_at_epoch": 1590824187.550263,
             "included_at_iso": "2020-05-30T07:36:27.550263",
-            "last_retested_at_epoch": 1591425765.482932,
-            "last_retested_at_iso": "2020-06-06T06:42:45.482932",
+            "last_retested_at_epoch": 1591928247.280549,
+            "last_retested_at_iso": "2020-06-12T02:17:27.280549",
             "status": "INACTIVE"
         },
         "oak1dpu193.insight.omniture.com": {
             "included_at_epoch": 1590824187.672855,
             "included_at_iso": "2020-05-30T07:36:27.672855",
-            "last_retested_at_epoch": 1591425765.527838,
-            "last_retested_at_iso": "2020-06-06T06:42:45.527838",
+            "last_retested_at_epoch": 1591928247.32448,
+            "last_retested_at_iso": "2020-06-12T02:17:27.324480",
             "status": "INACTIVE"
         },
         "oak1dpu194.insight.omniture.com": {
             "included_at_epoch": 1590824187.631951,
             "included_at_iso": "2020-05-30T07:36:27.631951",
-            "last_retested_at_epoch": 1591425765.617588,
-            "last_retested_at_iso": "2020-06-06T06:42:45.617588",
+            "last_retested_at_epoch": 1591928247.368252,
+            "last_retested_at_iso": "2020-06-12T02:17:27.368252",
             "status": "INACTIVE"
         },
         "oak1dpu195.insight.omniture.com": {
             "included_at_epoch": 1590824187.713749,
             "included_at_iso": "2020-05-30T07:36:27.713749",
-            "last_retested_at_epoch": 1591425765.572768,
-            "last_retested_at_iso": "2020-06-06T06:42:45.572768",
+            "last_retested_at_epoch": 1591928247.412238,
+            "last_retested_at_iso": "2020-06-12T02:17:27.412238",
             "status": "INACTIVE"
         },
         "oak1dpu196.insight.omniture.com": {
             "included_at_epoch": 1590824187.755011,
             "included_at_iso": "2020-05-30T07:36:27.755011",
-            "last_retested_at_epoch": 1591425765.663022,
-            "last_retested_at_iso": "2020-06-06T06:42:45.663022",
+            "last_retested_at_epoch": 1591928247.457349,
+            "last_retested_at_iso": "2020-06-12T02:17:27.457349",
             "status": "INACTIVE"
         },
         "oak1dpu197.insight.omniture.com": {
             "included_at_epoch": 1590824904.283226,
             "included_at_iso": "2020-05-30T07:48:24.283226",
-            "last_retested_at_epoch": 1591425765.708333,
-            "last_retested_at_iso": "2020-06-06T06:42:45.708333",
+            "last_retested_at_epoch": 1591928247.501792,
+            "last_retested_at_iso": "2020-06-12T02:17:27.501792",
             "status": "INACTIVE"
         },
         "oak1dpu198.insight.omniture.com": {
             "included_at_epoch": 1590824904.325448,
             "included_at_iso": "2020-05-30T07:48:24.325448",
-            "last_retested_at_epoch": 1591425765.753328,
-            "last_retested_at_iso": "2020-06-06T06:42:45.753328",
+            "last_retested_at_epoch": 1591928247.545906,
+            "last_retested_at_iso": "2020-06-12T02:17:27.545906",
             "status": "INACTIVE"
         },
         "oak1dpu199.insight.omniture.com": {
             "included_at_epoch": 1590824904.366925,
             "included_at_iso": "2020-05-30T07:48:24.366925",
-            "last_retested_at_epoch": 1591425765.798187,
-            "last_retested_at_iso": "2020-06-06T06:42:45.798187",
+            "last_retested_at_epoch": 1591928247.590132,
+            "last_retested_at_iso": "2020-06-12T02:17:27.590132",
             "status": "INACTIVE"
         },
         "oak1dpu200.insight.omniture.com": {
             "included_at_epoch": 1590824904.407785,
             "included_at_iso": "2020-05-30T07:48:24.407785",
-            "last_retested_at_epoch": 1591425765.842955,
-            "last_retested_at_iso": "2020-06-06T06:42:45.842955",
+            "last_retested_at_epoch": 1591928247.634052,
+            "last_retested_at_iso": "2020-06-12T02:17:27.634052",
             "status": "INACTIVE"
         },
         "oak1dpu201.insight.omniture.com": {
             "included_at_epoch": 1590824904.449722,
             "included_at_iso": "2020-05-30T07:48:24.449722",
-            "last_retested_at_epoch": 1591425765.887736,
-            "last_retested_at_iso": "2020-06-06T06:42:45.887736",
+            "last_retested_at_epoch": 1591928247.677724,
+            "last_retested_at_iso": "2020-06-12T02:17:27.677724",
             "status": "INACTIVE"
         },
         "oak1dpu202.insight.omniture.com": {
             "included_at_epoch": 1590824904.491096,
             "included_at_iso": "2020-05-30T07:48:24.491096",
-            "last_retested_at_epoch": 1591425765.932824,
-            "last_retested_at_iso": "2020-06-06T06:42:45.932824",
+            "last_retested_at_epoch": 1591928247.721824,
+            "last_retested_at_iso": "2020-06-12T02:17:27.721824",
             "status": "INACTIVE"
         },
         "oak1dpu203.insight.omniture.com": {
             "included_at_epoch": 1590824904.532104,
             "included_at_iso": "2020-05-30T07:48:24.532104",
-            "last_retested_at_epoch": 1591425765.9781,
-            "last_retested_at_iso": "2020-06-06T06:42:45.978100",
+            "last_retested_at_epoch": 1591928247.765523,
+            "last_retested_at_iso": "2020-06-12T02:17:27.765523",
             "status": "INACTIVE"
         },
         "oak1dpu204.insight.omniture.com": {
             "included_at_epoch": 1590824904.574301,
             "included_at_iso": "2020-05-30T07:48:24.574301",
-            "last_retested_at_epoch": 1591425766.023055,
-            "last_retested_at_iso": "2020-06-06T06:42:46.023055",
+            "last_retested_at_epoch": 1591928247.809372,
+            "last_retested_at_iso": "2020-06-12T02:17:27.809372",
             "status": "INACTIVE"
         },
         "oak1dpu205.insight.omniture.com": {
             "included_at_epoch": 1590824904.615642,
             "included_at_iso": "2020-05-30T07:48:24.615642",
-            "last_retested_at_epoch": 1591425766.06803,
-            "last_retested_at_iso": "2020-06-06T06:42:46.068030",
+            "last_retested_at_epoch": 1591928247.8532,
+            "last_retested_at_iso": "2020-06-12T02:17:27.853200",
             "status": "INACTIVE"
         },
         "oak1dpu206.insight.omniture.com": {
             "included_at_epoch": 1590824904.657077,
             "included_at_iso": "2020-05-30T07:48:24.657077",
-            "last_retested_at_epoch": 1591425766.112953,
-            "last_retested_at_iso": "2020-06-06T06:42:46.112953",
+            "last_retested_at_epoch": 1591928247.897064,
+            "last_retested_at_iso": "2020-06-12T02:17:27.897064",
             "status": "INACTIVE"
         },
         "oak1dpu207.insight.omniture.com": {
             "included_at_epoch": 1590824904.739679,
             "included_at_iso": "2020-05-30T07:48:24.739679",
-            "last_retested_at_epoch": 1591425766.15789,
-            "last_retested_at_iso": "2020-06-06T06:42:46.157890",
+            "last_retested_at_epoch": 1591928247.941054,
+            "last_retested_at_iso": "2020-06-12T02:17:27.941054",
             "status": "INACTIVE"
         },
         "oak1dpu208.insight.omniture.com": {
             "included_at_epoch": 1590824904.698378,
             "included_at_iso": "2020-05-30T07:48:24.698378",
-            "last_retested_at_epoch": 1591425766.203087,
-            "last_retested_at_iso": "2020-06-06T06:42:46.203087",
+            "last_retested_at_epoch": 1591928247.984782,
+            "last_retested_at_iso": "2020-06-12T02:17:27.984782",
             "status": "INACTIVE"
         },
         "oak1dpu209.insight.omniture.com": {
             "included_at_epoch": 1590824904.780828,
             "included_at_iso": "2020-05-30T07:48:24.780828",
-            "last_retested_at_epoch": 1591425766.24814,
-            "last_retested_at_iso": "2020-06-06T06:42:46.248140",
+            "last_retested_at_epoch": 1591928248.028968,
+            "last_retested_at_iso": "2020-06-12T02:17:28.028968",
             "status": "INACTIVE"
         },
         "oak1dpu210.insight.omniture.com": {
             "included_at_epoch": 1590824904.821975,
             "included_at_iso": "2020-05-30T07:48:24.821975",
-            "last_retested_at_epoch": 1591425766.293006,
-            "last_retested_at_iso": "2020-06-06T06:42:46.293006",
+            "last_retested_at_epoch": 1591928248.072716,
+            "last_retested_at_iso": "2020-06-12T02:17:28.072716",
             "status": "INACTIVE"
         },
         "oak1dpu213.insight.omniture.com": {
             "included_at_epoch": 1590824904.864551,
             "included_at_iso": "2020-05-30T07:48:24.864551",
-            "last_retested_at_epoch": 1591425766.338095,
-            "last_retested_at_iso": "2020-06-06T06:42:46.338095",
+            "last_retested_at_epoch": 1591928248.116177,
+            "last_retested_at_iso": "2020-06-12T02:17:28.116177",
             "status": "INACTIVE"
         },
         "oak1dpu214.insight.omniture.com": {
             "included_at_epoch": 1590824904.906161,
             "included_at_iso": "2020-05-30T07:48:24.906161",
-            "last_retested_at_epoch": 1591425766.383027,
-            "last_retested_at_iso": "2020-06-06T06:42:46.383027",
+            "last_retested_at_epoch": 1591928248.159835,
+            "last_retested_at_iso": "2020-06-12T02:17:28.159835",
             "status": "INACTIVE"
         },
         "oak1dpu215.insight.omniture.com": {
             "included_at_epoch": 1590824904.947422,
             "included_at_iso": "2020-05-30T07:48:24.947422",
-            "last_retested_at_epoch": 1591425766.427792,
-            "last_retested_at_iso": "2020-06-06T06:42:46.427792",
+            "last_retested_at_epoch": 1591928248.203455,
+            "last_retested_at_iso": "2020-06-12T02:17:28.203455",
             "status": "INACTIVE"
         },
         "oak1dpu216.insight.omniture.com": {
             "included_at_epoch": 1590824904.988744,
             "included_at_iso": "2020-05-30T07:48:24.988744",
-            "last_retested_at_epoch": 1591425766.472605,
-            "last_retested_at_iso": "2020-06-06T06:42:46.472605",
+            "last_retested_at_epoch": 1591928248.290849,
+            "last_retested_at_iso": "2020-06-12T02:17:28.290849",
             "status": "INACTIVE"
         },
         "oak1dpu217.insight.omniture.com": {
             "included_at_epoch": 1590824905.030083,
             "included_at_iso": "2020-05-30T07:48:25.030083",
-            "last_retested_at_epoch": 1591425766.518828,
-            "last_retested_at_iso": "2020-06-06T06:42:46.518828",
+            "last_retested_at_epoch": 1591928248.246976,
+            "last_retested_at_iso": "2020-06-12T02:17:28.246976",
             "status": "INACTIVE"
         },
         "oak1fsu101.insight.omniture.com": {
             "included_at_epoch": 1590824905.071429,
             "included_at_iso": "2020-05-30T07:48:25.071429",
-            "last_retested_at_epoch": 1591425766.564068,
-            "last_retested_at_iso": "2020-06-06T06:42:46.564068",
+            "last_retested_at_epoch": 1591928248.334489,
+            "last_retested_at_iso": "2020-06-12T02:17:28.334489",
             "status": "INACTIVE"
         },
         "oak1fsu102.insight.omniture.com": {
             "included_at_epoch": 1590824905.112681,
             "included_at_iso": "2020-05-30T07:48:25.112681",
-            "last_retested_at_epoch": 1591425766.609065,
-            "last_retested_at_iso": "2020-06-06T06:42:46.609065",
+            "last_retested_at_epoch": 1591928248.37825,
+            "last_retested_at_iso": "2020-06-12T02:17:28.378250",
             "status": "INACTIVE"
         },
         "oak1fsu103.insight.omniture.com": {
             "included_at_epoch": 1590824905.153732,
             "included_at_iso": "2020-05-30T07:48:25.153732",
-            "last_retested_at_epoch": 1591425766.653993,
-            "last_retested_at_iso": "2020-06-06T06:42:46.653993",
+            "last_retested_at_epoch": 1591928248.422461,
+            "last_retested_at_iso": "2020-06-12T02:17:28.422461",
             "status": "INACTIVE"
         },
         "oak1fsu104.insight.omniture.com": {
             "included_at_epoch": 1590824905.194994,
             "included_at_iso": "2020-05-30T07:48:25.194994",
-            "last_retested_at_epoch": 1591425766.700308,
-            "last_retested_at_iso": "2020-06-06T06:42:46.700308",
+            "last_retested_at_epoch": 1591928248.467147,
+            "last_retested_at_iso": "2020-06-12T02:17:28.467147",
             "status": "INACTIVE"
         },
         "oak1fsu105.insight.omniture.com": {
             "included_at_epoch": 1590824905.236026,
             "included_at_iso": "2020-05-30T07:48:25.236026",
-            "last_retested_at_epoch": 1591425766.746483,
-            "last_retested_at_iso": "2020-06-06T06:42:46.746483",
+            "last_retested_at_epoch": 1591928248.555444,
+            "last_retested_at_iso": "2020-06-12T02:17:28.555444",
             "status": "INACTIVE"
         },
         "oak1fsu106.insight.omniture.com": {
             "included_at_epoch": 1590824905.277461,
             "included_at_iso": "2020-05-30T07:48:25.277461",
-            "last_retested_at_epoch": 1591425766.791619,
-            "last_retested_at_iso": "2020-06-06T06:42:46.791619",
+            "last_retested_at_epoch": 1591928248.511328,
+            "last_retested_at_iso": "2020-06-12T02:17:28.511328",
             "status": "INACTIVE"
         },
         "oak1fsu107.insight.omniture.com": {
             "included_at_epoch": 1590824905.31861,
             "included_at_iso": "2020-05-30T07:48:25.318610",
-            "last_retested_at_epoch": 1591425766.836674,
-            "last_retested_at_iso": "2020-06-06T06:42:46.836674",
+            "last_retested_at_epoch": 1591928248.600244,
+            "last_retested_at_iso": "2020-06-12T02:17:28.600244",
             "status": "INACTIVE"
         },
         "oak1fsu108.insight.omniture.com": {
             "included_at_epoch": 1590824905.360181,
             "included_at_iso": "2020-05-30T07:48:25.360181",
-            "last_retested_at_epoch": 1591425766.881356,
-            "last_retested_at_iso": "2020-06-06T06:42:46.881356",
+            "last_retested_at_epoch": 1591928248.644529,
+            "last_retested_at_iso": "2020-06-12T02:17:28.644529",
             "status": "INACTIVE"
         },
         "oak1fsu109.insight.omniture.com": {
             "included_at_epoch": 1590824905.401305,
             "included_at_iso": "2020-05-30T07:48:25.401305",
-            "last_retested_at_epoch": 1591425766.925995,
-            "last_retested_at_iso": "2020-06-06T06:42:46.925995",
+            "last_retested_at_epoch": 1591928248.688824,
+            "last_retested_at_iso": "2020-06-12T02:17:28.688824",
             "status": "INACTIVE"
         },
         "oak1fsu115.insight.omniture.com": {
             "included_at_epoch": 1590824905.442674,
             "included_at_iso": "2020-05-30T07:48:25.442674",
-            "last_retested_at_epoch": 1591425766.970509,
-            "last_retested_at_iso": "2020-06-06T06:42:46.970509",
+            "last_retested_at_epoch": 1591928248.733141,
+            "last_retested_at_iso": "2020-06-12T02:17:28.733141",
             "status": "INACTIVE"
         },
         "oak1fsu116.insight.omniture.com": {
             "included_at_epoch": 1590824905.483959,
             "included_at_iso": "2020-05-30T07:48:25.483959",
-            "last_retested_at_epoch": 1591425767.015072,
-            "last_retested_at_iso": "2020-06-06T06:42:47.015072",
+            "last_retested_at_epoch": 1591928248.777033,
+            "last_retested_at_iso": "2020-06-12T02:17:28.777033",
             "status": "INACTIVE"
         },
         "oak1fsu117.insight.omniture.com": {
             "included_at_epoch": 1590824905.524911,
             "included_at_iso": "2020-05-30T07:48:25.524911",
-            "last_retested_at_epoch": 1591425767.059763,
-            "last_retested_at_iso": "2020-06-06T06:42:47.059763",
+            "last_retested_at_epoch": 1591928248.820975,
+            "last_retested_at_iso": "2020-06-12T02:17:28.820975",
             "status": "INACTIVE"
         },
         "oak1fsu118.insight.omniture.com": {
             "included_at_epoch": 1590824905.565997,
             "included_at_iso": "2020-05-30T07:48:25.565997",
-            "last_retested_at_epoch": 1591425767.104682,
-            "last_retested_at_iso": "2020-06-06T06:42:47.104682",
+            "last_retested_at_epoch": 1591928248.865268,
+            "last_retested_at_iso": "2020-06-12T02:17:28.865268",
             "status": "INACTIVE"
         },
         "oak1fsu119.insight.omniture.com": {
             "included_at_epoch": 1590824905.648164,
             "included_at_iso": "2020-05-30T07:48:25.648164",
-            "last_retested_at_epoch": 1591425767.14922,
-            "last_retested_at_iso": "2020-06-06T06:42:47.149220",
+            "last_retested_at_epoch": 1591928248.90911,
+            "last_retested_at_iso": "2020-06-12T02:17:28.909110",
             "status": "INACTIVE"
         },
         "oak1fsu120.insight.omniture.com": {
             "included_at_epoch": 1590824905.607154,
             "included_at_iso": "2020-05-30T07:48:25.607154",
-            "last_retested_at_epoch": 1591425767.194036,
-            "last_retested_at_iso": "2020-06-06T06:42:47.194036",
+            "last_retested_at_epoch": 1591928248.952984,
+            "last_retested_at_iso": "2020-06-12T02:17:28.952984",
             "status": "INACTIVE"
         },
         "oak1fsu121.insight.omniture.com": {
             "included_at_epoch": 1590824905.689278,
             "included_at_iso": "2020-05-30T07:48:25.689278",
-            "last_retested_at_epoch": 1591425767.238827,
-            "last_retested_at_iso": "2020-06-06T06:42:47.238827",
+            "last_retested_at_epoch": 1591928248.997119,
+            "last_retested_at_iso": "2020-06-12T02:17:28.997119",
             "status": "INACTIVE"
         },
         "oak1rpt101.insight.omniture.com": {
             "included_at_epoch": 1590824905.730294,
             "included_at_iso": "2020-05-30T07:48:25.730294",
-            "last_retested_at_epoch": 1591425767.283181,
-            "last_retested_at_iso": "2020-06-06T06:42:47.283181",
+            "last_retested_at_epoch": 1591928249.041169,
+            "last_retested_at_iso": "2020-06-12T02:17:29.041169",
             "status": "INACTIVE"
         },
         "oak1rpt102.insight.omniture.com": {
             "included_at_epoch": 1590824905.771843,
             "included_at_iso": "2020-05-30T07:48:25.771843",
-            "last_retested_at_epoch": 1591425767.327755,
-            "last_retested_at_iso": "2020-06-06T06:42:47.327755",
+            "last_retested_at_epoch": 1591928249.085494,
+            "last_retested_at_iso": "2020-06-12T02:17:29.085494",
             "status": "INACTIVE"
         },
         "oak1rpt103.insight.omniture.com": {
             "included_at_epoch": 1590824905.813272,
             "included_at_iso": "2020-05-30T07:48:25.813272",
-            "last_retested_at_epoch": 1591425767.372109,
-            "last_retested_at_iso": "2020-06-06T06:42:47.372109",
+            "last_retested_at_epoch": 1591928249.129613,
+            "last_retested_at_iso": "2020-06-12T02:17:29.129613",
             "status": "INACTIVE"
         },
         "oak1rpt104.insight.omniture.com": {
             "included_at_epoch": 1590824905.854975,
             "included_at_iso": "2020-05-30T07:48:25.854975",
-            "last_retested_at_epoch": 1591425767.416609,
-            "last_retested_at_iso": "2020-06-06T06:42:47.416609",
+            "last_retested_at_epoch": 1591928249.173605,
+            "last_retested_at_iso": "2020-06-12T02:17:29.173605",
             "status": "INACTIVE"
         },
         "oak1rpt105.insight.omniture.com": {
             "included_at_epoch": 1590824905.896596,
             "included_at_iso": "2020-05-30T07:48:25.896596",
-            "last_retested_at_epoch": 1591425767.460896,
-            "last_retested_at_iso": "2020-06-06T06:42:47.460896",
+            "last_retested_at_epoch": 1591928249.21756,
+            "last_retested_at_iso": "2020-06-12T02:17:29.217560",
             "status": "INACTIVE"
         },
         "oak1rpt106.insight.omniture.com": {
             "included_at_epoch": 1590824905.938067,
             "included_at_iso": "2020-05-30T07:48:25.938067",
-            "last_retested_at_epoch": 1591425767.505614,
-            "last_retested_at_iso": "2020-06-06T06:42:47.505614",
+            "last_retested_at_epoch": 1591928249.261643,
+            "last_retested_at_iso": "2020-06-12T02:17:29.261643",
             "status": "INACTIVE"
         },
         "oak1rpt107.insight.omniture.com": {
             "included_at_epoch": 1590824905.97938,
             "included_at_iso": "2020-05-30T07:48:25.979380",
-            "last_retested_at_epoch": 1591425767.549843,
-            "last_retested_at_iso": "2020-06-06T06:42:47.549843",
+            "last_retested_at_epoch": 1591928249.305599,
+            "last_retested_at_iso": "2020-06-12T02:17:29.305599",
             "status": "INACTIVE"
         },
         "oak1rpt108.insight.omniture.com": {
             "included_at_epoch": 1590824906.020595,
             "included_at_iso": "2020-05-30T07:48:26.020595",
-            "last_retested_at_epoch": 1591425767.594089,
-            "last_retested_at_iso": "2020-06-06T06:42:47.594089",
+            "last_retested_at_epoch": 1591928249.349446,
+            "last_retested_at_iso": "2020-06-12T02:17:29.349446",
             "status": "INACTIVE"
         },
         "oas.ad-vice.biz": {
             "included_at_epoch": 1590824906.234377,
             "included_at_iso": "2020-05-30T07:48:26.234377",
-            "last_retested_at_epoch": 1591425767.779407,
-            "last_retested_at_iso": "2020-06-06T06:42:47.779407",
+            "last_retested_at_epoch": 1591928249.532769,
+            "last_retested_at_iso": "2020-06-12T02:17:29.532769",
             "status": "INACTIVE"
         },
         "oas.deejay.it": {
             "included_at_epoch": 1590824909.138275,
             "included_at_iso": "2020-05-30T07:48:29.138275",
-            "last_retested_at_epoch": 1591425770.873664,
-            "last_retested_at_iso": "2020-06-06T06:42:50.873664",
+            "last_retested_at_epoch": 1591928252.47244,
+            "last_retested_at_iso": "2020-06-12T02:17:32.472440",
             "status": "INACTIVE"
         },
         "oas.foxnews.com": {
             "included_at_epoch": 1590824909.179494,
             "included_at_iso": "2020-05-30T07:48:29.179494",
-            "last_retested_at_epoch": 1591425770.941109,
-            "last_retested_at_iso": "2020-06-06T06:42:50.941109",
+            "last_retested_at_epoch": 1591928252.517256,
+            "last_retested_at_iso": "2020-06-12T02:17:32.517256",
             "status": "INACTIVE"
         },
         "oas.salon.com": {
             "included_at_epoch": 1590824909.428165,
             "included_at_iso": "2020-05-30T07:48:29.428165",
-            "last_retested_at_epoch": 1591425771.212396,
-            "last_retested_at_iso": "2020-06-06T06:42:51.212396",
+            "last_retested_at_epoch": 1591928252.792173,
+            "last_retested_at_iso": "2020-06-12T02:17:32.792173",
             "status": "INACTIVE"
         },
         "oascentral.emarketer.com": {
             "included_at_epoch": 1590824907.051756,
             "included_at_iso": "2020-05-30T07:48:27.051756",
-            "last_retested_at_epoch": 1591425768.678041,
-            "last_retested_at_iso": "2020-06-06T06:42:48.678041",
+            "last_retested_at_epoch": 1591928250.385168,
+            "last_retested_at_iso": "2020-06-12T02:17:30.385168",
             "status": "INACTIVE"
         },
         "oascentral.feedroom.com": {
             "included_at_epoch": 1590824907.112318,
             "included_at_iso": "2020-05-30T07:48:27.112318",
-            "last_retested_at_epoch": 1591425768.764001,
-            "last_retested_at_iso": "2020-06-06T06:42:48.764001",
+            "last_retested_at_epoch": 1591928250.469338,
+            "last_retested_at_iso": "2020-06-12T02:17:30.469338",
             "status": "INACTIVE"
         },
         "oascentral.grandparents.com": {
             "included_at_epoch": 1590824907.272436,
             "included_at_iso": "2020-05-30T07:48:27.272436",
-            "last_retested_at_epoch": 1591425768.909699,
-            "last_retested_at_iso": "2020-06-06T06:42:48.909699",
+            "last_retested_at_epoch": 1591928250.611159,
+            "last_retested_at_iso": "2020-06-12T02:17:30.611159",
             "status": "INACTIVE"
         },
         "oascentral.mochila.com": {
             "included_at_epoch": 1590824907.735704,
             "included_at_iso": "2020-05-30T07:48:27.735704",
-            "last_retested_at_epoch": 1591425769.422291,
-            "last_retested_at_iso": "2020-06-06T06:42:49.422291",
+            "last_retested_at_epoch": 1591928251.096269,
+            "last_retested_at_iso": "2020-06-12T02:17:31.096269",
             "status": "INACTIVE"
         },
         "oascentral.nephrologynews.com": {
             "included_at_epoch": 1590824907.875268,
             "included_at_iso": "2020-05-30T07:48:27.875268",
-            "last_retested_at_epoch": 1591425769.527573,
-            "last_retested_at_iso": "2020-06-06T06:42:49.527573",
+            "last_retested_at_epoch": 1591928251.198031,
+            "last_retested_at_iso": "2020-06-12T02:17:31.198031",
             "status": "INACTIVE"
         },
         "oascentral.recroom.com": {
             "included_at_epoch": 1590824908.297987,
             "included_at_iso": "2020-05-30T07:48:28.297987",
-            "last_retested_at_epoch": 1591425770.017472,
-            "last_retested_at_iso": "2020-06-06T06:42:50.017472",
+            "last_retested_at_epoch": 1591928251.680511,
+            "last_retested_at_iso": "2020-06-12T02:17:31.680511",
             "status": "INACTIVE"
         },
         "obiloga.noip.me": {
             "included_at_epoch": 1590824909.895879,
             "included_at_iso": "2020-05-30T07:48:29.895879",
-            "last_retested_at_epoch": 1591425771.70808,
-            "last_retested_at_iso": "2020-06-06T06:42:51.708080",
+            "last_retested_at_epoch": 1591928253.322809,
+            "last_retested_at_iso": "2020-06-12T02:17:33.322809",
             "status": "INACTIVE"
         },
         "offers.memedia.com": {
             "included_at_epoch": 1590824910.751566,
             "included_at_iso": "2020-05-30T07:48:30.751566",
-            "last_retested_at_epoch": 1591425772.567319,
-            "last_retested_at_iso": "2020-06-06T06:42:52.567319",
+            "last_retested_at_epoch": 1591928254.089504,
+            "last_retested_at_iso": "2020-06-12T02:17:34.089504",
             "status": "INACTIVE"
         },
         "offers.whenu.com": {
             "included_at_epoch": 1590824910.811964,
             "included_at_iso": "2020-05-30T07:48:30.811964",
-            "last_retested_at_epoch": 1591425772.634893,
-            "last_retested_at_iso": "2020-06-06T06:42:52.634893",
+            "last_retested_at_epoch": 1591928254.154035,
+            "last_retested_at_iso": "2020-06-12T02:17:34.154035",
             "status": "INACTIVE"
         },
         "offtopic.biz": {
