@@ -26028,8 +26028,9 @@
         "state": "future"
     },
     "wmclickz.ru": {
-        "epoch": 1591920000.0,
-        "expiration_date": "12-jun-2020",
+        "epoch": 1623456000.0,
+        "expiration_date": "12-jun-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "wnymedia.net": {
@@ -26038,8 +26039,9 @@
         "state": "future"
     },
     "wolfstrade.com": {
-        "epoch": 1597104000.0,
-        "expiration_date": "11-aug-2020",
+        "epoch": 1628640000.0,
+        "expiration_date": "11-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "women-shitting.com": {
@@ -26090,7 +26092,8 @@
     "worthtraffic.com": {
         "epoch": 1595116800.0,
         "expiration_date": "19-jul-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "worxmedia.com": {
         "epoch": 1608163200.0,
@@ -26108,8 +26111,9 @@
         "state": "future"
     },
     "wpdstat.com": {
-        "epoch": 1596844800.0,
-        "expiration_date": "08-aug-2020",
+        "epoch": 1603670400.0,
+        "expiration_date": "26-oct-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "wrecklessmediaradio.com": {
