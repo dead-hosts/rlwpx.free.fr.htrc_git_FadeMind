@@ -457,8 +457,9 @@
         "state": "future"
     },
     "a-media.ru": {
-        "epoch": 1593648000.0,
-        "expiration_date": "02-jul-2020",
+        "epoch": 1625184000.0,
+        "expiration_date": "02-jul-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "a-pagerank.net": {
@@ -749,8 +750,9 @@
         "state": "future"
     },
     "adforce.com": {
-        "epoch": 1596326400.0,
-        "expiration_date": "02-aug-2020",
+        "epoch": 1659398400.0,
+        "expiration_date": "02-aug-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adhitzads.com": {
@@ -786,7 +788,8 @@
     "admanmedia.fr": {
         "epoch": 1596931200.0,
         "expiration_date": "09-aug-2020",
-        "state": "future"
+        "server": "whois.nic.fr",
+        "state": "past"
     },
     "admedia.com": {
         "epoch": 1619481600.0,
@@ -809,8 +812,9 @@
         "state": "future"
     },
     "admodus.com": {
-        "epoch": 1596931200.0,
-        "expiration_date": "09-aug-2020",
+        "epoch": 1628467200.0,
+        "expiration_date": "09-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "admonitor.com": {
@@ -829,8 +833,9 @@
         "state": "future"
     },
     "adprimemedia.com": {
-        "epoch": 1595808000.0,
-        "expiration_date": "27-jul-2020",
+        "epoch": 1627344000.0,
+        "expiration_date": "27-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adprotraffic.com": {
@@ -839,8 +844,9 @@
         "state": "future"
     },
     "adrevolver.com": {
-        "epoch": 1595548800.0,
-        "expiration_date": "24-jul-2020",
+        "epoch": 1627084800.0,
+        "expiration_date": "24-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "ads-click.com": {
@@ -849,8 +855,9 @@
         "state": "future"
     },
     "ads-stats.com": {
-        "epoch": 1598054400.0,
-        "expiration_date": "22-aug-2020",
+        "epoch": 1619395200.0,
+        "expiration_date": "26-apr-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "ads-tracker.com": {
@@ -876,7 +883,8 @@
     "adservicestats.com": {
         "epoch": 1595030400.0,
         "expiration_date": "18-jul-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "adsfac.net": {
         "epoch": 1599177600.0,
@@ -889,13 +897,15 @@
         "state": "future"
     },
     "adshooter.com": {
-        "epoch": 1592956800.0,
-        "expiration_date": "24-jun-2020",
+        "epoch": 1624492800.0,
+        "expiration_date": "24-jun-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adsrvmedia.com": {
-        "epoch": 1593734400.0,
-        "expiration_date": "03-jul-2020",
+        "epoch": 1625270400.0,
+        "expiration_date": "03-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adsstat.com": {
@@ -909,13 +919,15 @@
         "state": "future"
     },
     "adtrack.us": {
-        "epoch": 1595289600.0,
-        "expiration_date": "21-jul-2020",
+        "epoch": 1626825600.0,
+        "expiration_date": "21-jul-2021",
+        "server": "whois.nic.us",
         "state": "future"
     },
     "adtrackz.com": {
-        "epoch": 1596412800.0,
-        "expiration_date": "03-aug-2020",
+        "epoch": 1659484800.0,
+        "expiration_date": "03-aug-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adtrade.net": {
@@ -974,13 +986,15 @@
         "state": "future"
     },
     "adultadworld.com": {
-        "epoch": 1597795200.0,
-        "expiration_date": "19-aug-2020",
+        "epoch": 1629331200.0,
+        "expiration_date": "19-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adultclick.com": {
-        "epoch": 1592956800.0,
-        "expiration_date": "24-jun-2020",
+        "epoch": 1624492800.0,
+        "expiration_date": "24-jun-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adultclickfinder.com": {
@@ -1019,13 +1033,15 @@
         "state": "future"
     },
     "adultlog.net": {
-        "epoch": 1594857600.0,
-        "expiration_date": "16-jul-2020",
+        "epoch": 1626393600.0,
+        "expiration_date": "16-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adultmedia.com": {
-        "epoch": 1594944000.0,
-        "expiration_date": "17-jul-2020",
+        "epoch": 1626480000.0,
+        "expiration_date": "17-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adultmediashop.com": {
@@ -1084,8 +1100,9 @@
         "state": "future"
     },
     "adulttrack.com": {
-        "epoch": 1593907200.0,
-        "expiration_date": "05-jul-2020",
+        "epoch": 1625443200.0,
+        "expiration_date": "05-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adulttracks.com": {
@@ -1099,13 +1116,15 @@
         "state": "future"
     },
     "adulttraffic.ru": {
-        "epoch": 1595721600.0,
-        "expiration_date": "26-jul-2020",
+        "epoch": 1627257600.0,
+        "expiration_date": "26-jul-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "adulttrafficads.com": {
-        "epoch": 1594598400.0,
-        "expiration_date": "13-jul-2020",
+        "epoch": 1626134400.0,
+        "expiration_date": "13-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adulttrafficbooster.com": {
@@ -1134,13 +1153,15 @@
         "state": "future"
     },
     "adulttubetraffic.com": {
-        "epoch": 1594857600.0,
-        "expiration_date": "16-jul-2020",
+        "epoch": 1626393600.0,
+        "expiration_date": "16-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adultwebmastertrades.com": {
-        "epoch": 1592524800.0,
-        "expiration_date": "19-jun-2020",
+        "epoch": 1624060800.0,
+        "expiration_date": "19-jun-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adultworldmedia.com": {
@@ -1169,8 +1190,9 @@
         "state": "future"
     },
     "advancedwebanalytic.com": {
-        "epoch": 1595116800.0,
-        "expiration_date": "19-jul-2020",
+        "epoch": 1626652800.0,
+        "expiration_date": "19-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "advertmedia.com": {
@@ -1209,8 +1231,9 @@
         "state": "future"
     },
     "aegadvancedmedia.com": {
-        "epoch": 1595808000.0,
-        "expiration_date": "27-jul-2020",
+        "epoch": 1602720000.0,
+        "expiration_date": "15-oct-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "aeminium.org": {
@@ -1219,13 +1242,15 @@
         "state": "future"
     },
     "afbtracking09.com": {
-        "epoch": 1594425600.0,
-        "expiration_date": "11-jul-2020",
+        "epoch": 1601337600.0,
+        "expiration_date": "29-sep-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "affhit.com": {
-        "epoch": 1596153600.0,
-        "expiration_date": "31-jul-2020",
+        "epoch": 1627689600.0,
+        "expiration_date": "31-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "affiliateclick.com": {
@@ -1339,8 +1364,9 @@
         "state": "future"
     },
     "aitmedia.ru": {
-        "epoch": 1592352000.0,
-        "expiration_date": "17-jun-2020",
+        "epoch": 1623888000.0,
+        "expiration_date": "17-jun-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "aka-root.com": {
@@ -1354,13 +1380,15 @@
         "state": "future"
     },
     "akstat.com": {
-        "epoch": 1592179200.0,
-        "expiration_date": "15-jun-2020",
+        "epoch": 1623715200.0,
+        "expiration_date": "15-jun-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "alamedacountycan.org": {
-        "epoch": 1595203200.0,
-        "expiration_date": "20-jul-2020",
+        "epoch": 1626739200.0,
+        "expiration_date": "20-jul-2021",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "albamedia.net": {
@@ -1384,8 +1412,9 @@
         "state": "future"
     },
     "alefmedia.ru": {
-        "epoch": 1592524800.0,
-        "expiration_date": "19-jun-2020",
+        "epoch": 1624060800.0,
+        "expiration_date": "19-jun-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "alexz-traffic.com": {
@@ -1449,18 +1478,21 @@
         "state": "future"
     },
     "allencountyrecorder.us": {
-        "epoch": 1597276800.0,
-        "expiration_date": "13-aug-2020",
+        "epoch": 1628812800.0,
+        "expiration_date": "13-aug-2021",
+        "server": "whois.nic.us",
         "state": "future"
     },
     "allhyipmonitor.com": {
-        "epoch": 1597708800.0,
-        "expiration_date": "18-aug-2020",
+        "epoch": 1629244800.0,
+        "expiration_date": "18-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "alligator-traffic.com": {
-        "epoch": 1595980800.0,
-        "expiration_date": "29-jul-2020",
+        "epoch": 1627516800.0,
+        "expiration_date": "29-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "allinmedia.com.br": {
@@ -1539,8 +1571,9 @@
         "state": "past"
     },
     "almond-media.ru": {
-        "epoch": 1594252800.0,
-        "expiration_date": "09-jul-2020",
+        "epoch": 1625788800.0,
+        "expiration_date": "09-jul-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "alphamalemedia.com": {
@@ -1604,8 +1637,9 @@
         "state": "future"
     },
     "amperzandmedia.com": {
-        "epoch": 1597449600.0,
-        "expiration_date": "15-aug-2020",
+        "epoch": 1628985600.0,
+        "expiration_date": "15-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "amtrack.com": {
@@ -1621,7 +1655,8 @@
     "amusingmedia.com": {
         "epoch": 1595980800.0,
         "expiration_date": "29-jul-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "analhits.com": {
         "epoch": "1536192000",
@@ -1631,7 +1666,8 @@
     "anallog.com": {
         "epoch": 1592870400.0,
         "expiration_date": "23-jun-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "analmedia.com": {
         "epoch": 1615334400.0,
