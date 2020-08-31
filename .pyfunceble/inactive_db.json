@@ -11207,6 +11207,13 @@
             "last_retested_at_iso": "2020-08-29T02:58:06.288337",
             "status": "INACTIVE"
         },
+        "xratedpornsites.com": {
+            "included_at_epoch": 1598864954.225178,
+            "included_at_iso": "2020-08-31T09:09:14.225178",
+            "last_retested_at_epoch": 1598864954.225178,
+            "last_retested_at_iso": "2020-08-31T09:09:14.225178",
+            "status": "INACTIVE"
+        },
         "xratedteensex.com": {
             "included_at_epoch": 1598669886.833831,
             "included_at_iso": "2020-08-29T02:58:06.833831",
