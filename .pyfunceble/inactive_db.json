@@ -8148,6 +8148,13 @@
             "last_retested_at_iso": "2020-08-29T00:28:39.116763",
             "status": "INACTIVE"
         },
+        "tree.logger.baofeng.com": {
+            "included_at_epoch": 1598858722.624811,
+            "included_at_iso": "2020-08-31T07:25:22.624811",
+            "last_retested_at_epoch": 1598858722.624811,
+            "last_retested_at_iso": "2020-08-31T07:25:22.624811",
+            "status": "INACTIVE"
+        },
         "ua.cnt.gemius.pl": {
             "included_at_epoch": 1598660939.713479,
             "included_at_iso": "2020-08-29T00:28:59.713479",
