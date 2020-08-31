@@ -7162,8 +7162,9 @@
         "state": "future"
     },
     "dogshit.net": {
-        "epoch": 1593734400.0,
-        "expiration_date": "03-jul-2020",
+        "epoch": 1625270400.0,
+        "expiration_date": "03-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "dollarclicks.com": {
@@ -7182,8 +7183,9 @@
         "state": "future"
     },
     "domainsponsor.com": {
-        "epoch": 1596153600.0,
-        "expiration_date": "31-jul-2020",
+        "epoch": 1627689600.0,
+        "expiration_date": "31-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "domainstatcost.com": {
@@ -7202,8 +7204,9 @@
         "state": "future"
     },
     "dontclickhere.com": {
-        "epoch": 1597363200.0,
-        "expiration_date": "14-aug-2020",
+        "epoch": 1628899200.0,
+        "expiration_date": "14-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "doorcountyrunning.com": {
@@ -7252,8 +7255,9 @@
         "state": "future"
     },
     "doublemedia.net": {
-        "epoch": 1596672000.0,
-        "expiration_date": "06-aug-2020",
+        "epoch": 1628208000.0,
+        "expiration_date": "06-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "down1oads.com": {
@@ -7267,19 +7271,22 @@
         "state": "future"
     },
     "downloadcounterstrikehack.com": {
-        "epoch": 1596326400.0,
-        "expiration_date": "02-aug-2020",
+        "epoch": 1627862400.0,
+        "expiration_date": "02-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "downloadz.us": {
-        "epoch": 1592265600.0,
-        "expiration_date": "16-jun-2020",
+        "epoch": 1655337600.0,
+        "expiration_date": "16-jun-2022",
+        "server": "whois.nic.us",
         "state": "future"
     },
     "downlogram.com": {
         "epoch": 1595635200.0,
         "expiration_date": "25-jul-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "dowtrade.com": {
         "epoch": 1618704000.0,
@@ -7302,9 +7309,10 @@
         "state": "future"
     },
     "dreamediapro.com": {
-        "epoch": 1591833600.0,
-        "expiration_date": "11-jun-2020",
-        "state": "past"
+        "epoch": 1623369600.0,
+        "expiration_date": "11-jun-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
     },
     "drindomedia.com": {
         "epoch": 1609459200.0,
@@ -7317,13 +7325,15 @@
         "state": "future"
     },
     "drivelinemedia.com": {
-        "epoch": 1595980800.0,
-        "expiration_date": "29-jul-2020",
+        "epoch": 1627516800.0,
+        "expiration_date": "29-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "driverutilities.com": {
-        "epoch": 1593302400.0,
-        "expiration_date": "28-jun-2020",
+        "epoch": 1624838400.0,
+        "expiration_date": "28-jun-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "drivingtraffic.com": {
@@ -7352,8 +7362,9 @@
         "state": "future"
     },
     "dsparking.com": {
-        "epoch": 1595635200.0,
-        "expiration_date": "25-jul-2020",
+        "epoch": 1627171200.0,
+        "expiration_date": "25-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "dsrank.com": {
@@ -7392,13 +7403,15 @@
         "state": "future"
     },
     "dvd-rank.com": {
-        "epoch": 1592697600.0,
-        "expiration_date": "21-jun-2020",
+        "epoch": 1624233600.0,
+        "expiration_date": "21-jun-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "dvd-rank.info": {
-        "epoch": 1594598400.0,
-        "expiration_date": "13-jul-2020",
+        "epoch": 1626134400.0,
+        "expiration_date": "13-jul-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "dyechemtrade.com": {
@@ -7447,8 +7460,9 @@
         "state": "future"
     },
     "easilytrack.com": {
-        "epoch": 1594166400.0,
-        "expiration_date": "08-jul-2020",
+        "epoch": 1625702400.0,
+        "expiration_date": "08-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "easy-hits.com": {
@@ -7457,13 +7471,15 @@
         "state": "future"
     },
     "easy-web-stats.com": {
-        "epoch": 1594857600.0,
-        "expiration_date": "16-jul-2020",
+        "epoch": 1626393600.0,
+        "expiration_date": "16-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "easyclickcommissions.com": {
-        "epoch": 1596067200.0,
-        "expiration_date": "30-jul-2020",
+        "epoch": 1627603200.0,
+        "expiration_date": "30-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "easyhitcounters.com": {
@@ -7497,8 +7513,9 @@
         "state": "future"
     },
     "eausecours.org": {
-        "epoch": 1598832000.0,
-        "expiration_date": "31-aug-2020",
+        "epoch": 1630368000.0,
+        "expiration_date": "31-aug-2021",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "ebannertraffic.com": {
@@ -7522,8 +7539,9 @@
         "state": "future"
     },
     "ebjp.com": {
-        "epoch": 1593302400.0,
-        "expiration_date": "28-jun-2020",
+        "epoch": 1624838400.0,
+        "expiration_date": "28-jun-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "ebju.com": {
@@ -7552,8 +7570,9 @@
         "state": "future"
     },
     "eclic.net": {
-        "epoch": 1595116800.0,
-        "expiration_date": "19-jul-2020",
+        "epoch": 1626652800.0,
+        "expiration_date": "19-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "eco-rated.com": {
@@ -7622,8 +7641,9 @@
         "state": "future"
     },
     "egeosoftware.com": {
-        "epoch": 1597708800.0,
-        "expiration_date": "18-aug-2020",
+        "epoch": 1629244800.0,
+        "expiration_date": "18-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "egirlsex.com": {
@@ -7632,8 +7652,9 @@
         "state": "future"
     },
     "egyrank.com": {
-        "epoch": 1594598400.0,
-        "expiration_date": "13-jul-2020",
+        "epoch": 1601683200.0,
+        "expiration_date": "03-oct-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "eisenstein.dk": {

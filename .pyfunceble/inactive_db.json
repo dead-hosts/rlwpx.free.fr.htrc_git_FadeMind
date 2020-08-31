@@ -1988,6 +1988,83 @@
             "last_retested_at_iso": "2020-08-31T03:14:06.994757",
             "status": "INACTIVE"
         },
+        "dmeserv.newsinc.com": {
+            "included_at_epoch": 1598844674.821543,
+            "included_at_iso": "2020-08-31T03:31:14.821543",
+            "last_retested_at_epoch": 1598844674.821543,
+            "last_retested_at_iso": "2020-08-31T03:31:14.821543",
+            "status": "INACTIVE"
+        },
+        "doubclick.com": {
+            "included_at_epoch": 1598844676.228829,
+            "included_at_iso": "2020-08-31T03:31:16.228829",
+            "last_retested_at_epoch": 1598844676.228829,
+            "last_retested_at_iso": "2020-08-31T03:31:16.228829",
+            "status": "INACTIVE"
+        },
+        "doubleclick.igalive.com": {
+            "included_at_epoch": 1598844676.303642,
+            "included_at_iso": "2020-08-31T03:31:16.303642",
+            "last_retested_at_epoch": 1598844676.303642,
+            "last_retested_at_iso": "2020-08-31T03:31:16.303642",
+            "status": "INACTIVE"
+        },
+        "download.fairdialer.de": {
+            "included_at_epoch": 1598844677.307696,
+            "included_at_iso": "2020-08-31T03:31:17.307696",
+            "last_retested_at_epoch": 1598844677.307696,
+            "last_retested_at_iso": "2020-08-31T03:31:17.307696",
+            "status": "INACTIVE"
+        },
+        "download.zhongsou.com": {
+            "included_at_epoch": 1598844677.528846,
+            "included_at_iso": "2020-08-31T03:31:17.528846",
+            "last_retested_at_epoch": 1598844677.528846,
+            "last_retested_at_iso": "2020-08-31T03:31:17.528846",
+            "status": "INACTIVE"
+        },
+        "downloads.memedia.com": {
+            "included_at_epoch": 1598844677.422472,
+            "included_at_iso": "2020-08-31T03:31:17.422472",
+            "last_retested_at_epoch": 1598844677.422472,
+            "last_retested_at_iso": "2020-08-31T03:31:17.422472",
+            "status": "INACTIVE"
+        },
+        "dynamix.trafficrevmaster.com": {
+            "included_at_epoch": 1598844679.075379,
+            "included_at_iso": "2020-08-31T03:31:19.075379",
+            "last_retested_at_epoch": 1598844679.075379,
+            "last_retested_at_iso": "2020-08-31T03:31:19.075379",
+            "status": "INACTIVE"
+        },
+        "e2.emediate.se": {
+            "included_at_epoch": 1598844680.045125,
+            "included_at_iso": "2020-08-31T03:31:20.045125",
+            "last_retested_at_epoch": 1598844680.045125,
+            "last_retested_at_iso": "2020-08-31T03:31:20.045125",
+            "status": "INACTIVE"
+        },
+        "eas3.emediate.se": {
+            "included_at_epoch": 1598844680.350798,
+            "included_at_iso": "2020-08-31T03:31:20.350798",
+            "last_retested_at_epoch": 1598844680.350798,
+            "last_retested_at_iso": "2020-08-31T03:31:20.350798",
+            "status": "INACTIVE"
+        },
+        "econoclicks.com": {
+            "included_at_epoch": 1598844681.665599,
+            "included_at_iso": "2020-08-31T03:31:21.665599",
+            "last_retested_at_epoch": 1598844681.665599,
+            "last_retested_at_iso": "2020-08-31T03:31:21.665599",
+            "status": "INACTIVE"
+        },
+        "ed-media.ru": {
+            "included_at_epoch": 1598844682.002152,
+            "included_at_iso": "2020-08-31T03:31:22.002152",
+            "last_retested_at_epoch": 1598844682.002152,
+            "last_retested_at_iso": "2020-08-31T03:31:22.002152",
+            "status": "INACTIVE"
+        },
         "sketchlog.net": {
             "included_at_epoch": 1598658794.32734,
             "included_at_iso": "2020-08-28T23:53:14.327340",
