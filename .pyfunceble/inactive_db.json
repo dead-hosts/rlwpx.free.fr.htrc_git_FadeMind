@@ -1,5 +1,103 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.htrc_git_FadeMind/domains.list": {
+        "006.free-adult-counters.x-xtra.com": {
+            "included_at_epoch": 1598838007.092469,
+            "included_at_iso": "2020-08-31T01:40:07.092469",
+            "last_retested_at_epoch": 1598838007.092469,
+            "last_retested_at_iso": "2020-08-31T01:40:07.092469",
+            "status": "INACTIVE"
+        },
+        "4click.biz": {
+            "included_at_epoch": 1598838008.03949,
+            "included_at_iso": "2020-08-31T01:40:08.039490",
+            "last_retested_at_epoch": 1598838008.03949,
+            "last_retested_at_iso": "2020-08-31T01:40:08.039490",
+            "status": "INACTIVE"
+        },
+        "4traffic.it": {
+            "included_at_epoch": 1598838008.063809,
+            "included_at_iso": "2020-08-31T01:40:08.063809",
+            "last_retested_at_epoch": 1598838008.063809,
+            "last_retested_at_iso": "2020-08-31T01:40:08.063809",
+            "status": "INACTIVE"
+        },
+        "600xt.bbfr.net": {
+            "included_at_epoch": 1598838008.134719,
+            "included_at_iso": "2020-08-31T01:40:08.134719",
+            "last_retested_at_epoch": 1598838008.134719,
+            "last_retested_at_iso": "2020-08-31T01:40:08.134719",
+            "status": "INACTIVE"
+        },
+        "a.advanstar.com": {
+            "included_at_epoch": 1598838008.367794,
+            "included_at_iso": "2020-08-31T01:40:08.367794",
+            "last_retested_at_epoch": 1598838008.367794,
+            "last_retested_at_iso": "2020-08-31T01:40:08.367794",
+            "status": "INACTIVE"
+        },
+        "a.bizarremag.com": {
+            "included_at_epoch": 1598838008.477445,
+            "included_at_iso": "2020-08-31T01:40:08.477445",
+            "last_retested_at_epoch": 1598838008.477445,
+            "last_retested_at_iso": "2020-08-31T01:40:08.477445",
+            "status": "INACTIVE"
+        },
+        "aarslog.nl": {
+            "included_at_epoch": 1598838008.436956,
+            "included_at_iso": "2020-08-31T01:40:08.436956",
+            "last_retested_at_epoch": 1598838008.436956,
+            "last_retested_at_iso": "2020-08-31T01:40:08.436956",
+            "status": "INACTIVE"
+        },
+        "acewebmedia.com": {
+            "included_at_epoch": 1598838008.628072,
+            "included_at_iso": "2020-08-31T01:40:08.628072",
+            "last_retested_at_epoch": 1598838008.628072,
+            "last_retested_at_iso": "2020-08-31T01:40:08.628072",
+            "status": "INACTIVE"
+        },
+        "active.macromedia.com": {
+            "included_at_epoch": 1598838008.929887,
+            "included_at_iso": "2020-08-31T01:40:08.929887",
+            "last_retested_at_epoch": 1598838008.929887,
+            "last_retested_at_iso": "2020-08-31T01:40:08.929887",
+            "status": "INACTIVE"
+        },
+        "ad.adtracking.me": {
+            "included_at_epoch": 1598838009.478063,
+            "included_at_iso": "2020-08-31T01:40:09.478063",
+            "last_retested_at_epoch": 1598838009.478063,
+            "last_retested_at_iso": "2020-08-31T01:40:09.478063",
+            "status": "INACTIVE"
+        },
+        "ad1.emediate.se": {
+            "included_at_epoch": 1598838009.145864,
+            "included_at_iso": "2020-08-31T01:40:09.145864",
+            "last_retested_at_epoch": 1598838009.145864,
+            "last_retested_at_iso": "2020-08-31T01:40:09.145864",
+            "status": "INACTIVE"
+        },
+        "ad2.emediate.se": {
+            "included_at_epoch": 1598838009.283249,
+            "included_at_iso": "2020-08-31T01:40:09.283249",
+            "last_retested_at_epoch": 1598838009.283249,
+            "last_retested_at_iso": "2020-08-31T01:40:09.283249",
+            "status": "INACTIVE"
+        },
+        "adacountysherriff.org": {
+            "included_at_epoch": 1598838009.453617,
+            "included_at_iso": "2020-08-31T01:40:09.453617",
+            "last_retested_at_epoch": 1598838009.453617,
+            "last_retested_at_iso": "2020-08-31T01:40:09.453617",
+            "status": "INACTIVE"
+        },
+        "adclick.pruna.com": {
+            "included_at_epoch": 1598838009.699111,
+            "included_at_iso": "2020-08-31T01:40:09.699111",
+            "last_retested_at_epoch": 1598838009.699111,
+            "last_retested_at_iso": "2020-08-31T01:40:09.699111",
+            "status": "INACTIVE"
+        },
         "sketchlog.net": {
             "included_at_epoch": 1598658794.32734,
             "included_at_iso": "2020-08-28T23:53:14.327340",
