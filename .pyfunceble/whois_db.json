@@ -13871,8 +13871,9 @@
         "state": "future"
     },
     "mdmedia.org": {
-        "epoch": 1599004800.0,
-        "expiration_date": "02-sep-2020",
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "mdnhinc.com": {
@@ -13973,17 +13974,20 @@
     "media-rendering1.com": {
         "epoch": 1599004800.0,
         "expiration_date": "02-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "media-rendering2.com": {
         "epoch": 1599004800.0,
         "expiration_date": "02-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "media-rendering3.com": {
         "epoch": 1599004800.0,
         "expiration_date": "02-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "media-saver.com": {
         "epoch": 1605398400.0,
@@ -14196,8 +14200,9 @@
         "state": "future"
     },
     "mediacontent4you.com": {
-        "epoch": 1598918400.0,
-        "expiration_date": "01-sep-2020",
+        "epoch": 1630454400.0,
+        "expiration_date": "01-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "mediacottage.com": {
@@ -14388,8 +14393,9 @@
         "state": "future"
     },
     "mediainfusion.net": {
-        "epoch": 1599004800.0,
-        "expiration_date": "02-sep-2020",
+        "epoch": 1662076800.0,
+        "expiration_date": "02-sep-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "mediainput.com": {
@@ -14413,10 +14419,10 @@
         "state": "future"
     },
     "mediakey.dk": {
-        "epoch": 1598832000.0,
-        "expiration_date": "31-aug-2020",
+        "epoch": 1630368000.0,
+        "expiration_date": "31-aug-2021",
         "server": "whois.dk-hostmaster.dk",
-        "state": "past"
+        "state": "future"
     },
     "mediakraft.com.ua": {
         "epoch": 1601251200.0,
@@ -14434,8 +14440,9 @@
         "state": "future"
     },
     "medialand.ru": {
-        "epoch": 1598918400.0,
-        "expiration_date": "01-sep-2020",
+        "epoch": 1630454400.0,
+        "expiration_date": "01-sep-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "medialeaks.ru": {
@@ -14451,7 +14458,8 @@
     "medialinkworldwide.com": {
         "epoch": 1599004800.0,
         "expiration_date": "02-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "medialis74.ru": {
         "epoch": 1597536000.0,
