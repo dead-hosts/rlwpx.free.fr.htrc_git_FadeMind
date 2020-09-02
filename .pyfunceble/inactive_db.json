@@ -9772,6 +9772,13 @@
             "last_retested_at_iso": "2020-08-29T02:09:41.339820",
             "status": "INACTIVE"
         },
+        "www.lxtraffic.com": {
+            "included_at_epoch": 1599034524.173483,
+            "included_at_iso": "2020-09-02T08:15:24.173483",
+            "last_retested_at_epoch": 1599034524.173483,
+            "last_retested_at_iso": "2020-09-02T08:15:24.173483",
+            "status": "INACTIVE"
+        },
         "www.mci12.clicksor.com": {
             "included_at_epoch": 1598666982.805277,
             "included_at_iso": "2020-08-29T02:09:42.805277",
