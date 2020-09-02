@@ -8764,6 +8764,13 @@
             "last_retested_at_iso": "2020-08-29T01:17:26.424848",
             "status": "INACTIVE"
         },
+        "www.bandhit.com": {
+            "included_at_epoch": 1599032207.399268,
+            "included_at_iso": "2020-09-02T07:36:47.399268",
+            "last_retested_at_epoch": 1599032207.399268,
+            "last_retested_at_iso": "2020-09-02T07:36:47.399268",
+            "status": "INACTIVE"
+        },
         "www.bannertracker-script.com": {
             "included_at_epoch": 1598663846.608268,
             "included_at_iso": "2020-08-29T01:17:26.608268",
@@ -8797,6 +8804,13 @@
             "included_at_iso": "2020-08-29T01:17:27.877277",
             "last_retested_at_epoch": 1598663847.877277,
             "last_retested_at_iso": "2020-08-29T01:17:27.877277",
+            "status": "INACTIVE"
+        },
+        "www.bioartmed.com": {
+            "included_at_epoch": 1599032209.118927,
+            "included_at_iso": "2020-09-02T07:36:49.118927",
+            "last_retested_at_epoch": 1599032209.118927,
+            "last_retested_at_iso": "2020-09-02T07:36:49.118927",
             "status": "INACTIVE"
         },
         "www.blackjackhitorstand.com": {
