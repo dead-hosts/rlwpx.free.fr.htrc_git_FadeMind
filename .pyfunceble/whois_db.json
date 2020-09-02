@@ -12809,10 +12809,10 @@
         "state": "future"
     },
     "laptopcomputersprices.com": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1630281600.0,
+        "expiration_date": "30-aug-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "laptopi.net": {
         "epoch": 1605744000.0,
@@ -12856,8 +12856,9 @@
         "state": "future"
     },
     "lawfordmedia.com": {
-        "epoch": 1598918400.0,
-        "expiration_date": "01-sep-2020",
+        "epoch": 1630454400.0,
+        "expiration_date": "01-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "lawschoolrankings.com": {
@@ -13100,7 +13101,8 @@
     "links-and-traffic.com": {
         "epoch": 1598918400.0,
         "expiration_date": "01-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "links4trade.com": {
         "epoch": 1624838400.0,

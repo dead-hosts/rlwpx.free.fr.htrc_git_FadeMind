@@ -3402,6 +3402,13 @@
             "last_retested_at_iso": "2020-08-31T05:33:36.055061",
             "status": "INACTIVE"
         },
+        "ligerechecs.stools.net": {
+            "included_at_epoch": 1599023695.231906,
+            "included_at_iso": "2020-09-02T05:14:55.231906",
+            "last_retested_at_epoch": 1599023695.231906,
+            "last_retested_at_iso": "2020-09-02T05:14:55.231906",
+            "status": "INACTIVE"
+        },
         "listlog.baofeng.net": {
             "included_at_epoch": 1598852017.706464,
             "included_at_iso": "2020-08-31T05:33:37.706464",
