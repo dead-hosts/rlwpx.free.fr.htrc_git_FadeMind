@@ -7938,8 +7938,9 @@
         "state": "future"
     },
     "erohits.com": {
-        "epoch": 1599004800.0,
-        "expiration_date": "02-sep-2020",
+        "epoch": 1662076800.0,
+        "expiration_date": "02-sep-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "erohits.us": {
@@ -8230,8 +8231,9 @@
         "state": "future"
     },
     "exactseek.com": {
-        "epoch": 1599004800.0,
-        "expiration_date": "02-sep-2020",
+        "epoch": 1630540800.0,
+        "expiration_date": "02-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "excessivetraffic.com": {
@@ -8859,8 +8861,9 @@
         "state": "future"
     },
     "flogthedogs.com": {
-        "epoch": 1598918400.0,
-        "expiration_date": "01-sep-2020",
+        "epoch": 1605571200.0,
+        "expiration_date": "17-nov-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "flookie.net": {
@@ -9152,7 +9155,8 @@
     "freeinvisiblecounters.com": {
         "epoch": 1598918400.0,
         "expiration_date": "01-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "freelogs.com": {
         "epoch": 1608076800.0,
@@ -9367,8 +9371,9 @@
         "state": "future"
     },
     "funclickz.com": {
-        "epoch": 1599004800.0,
-        "expiration_date": "02-sep-2020",
+        "epoch": 1605916800.0,
+        "expiration_date": "21-nov-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "fundstrack.com": {
