@@ -7259,6 +7259,13 @@
             "last_retested_at_iso": "2020-08-28T23:53:31.700574",
             "status": "INACTIVE"
         },
+        "stats.agent.co.il": {
+            "included_at_epoch": 1599027955.647712,
+            "included_at_iso": "2020-09-02T06:25:55.647712",
+            "last_retested_at_epoch": 1599027955.647712,
+            "last_retested_at_iso": "2020-09-02T06:25:55.647712",
+            "status": "INACTIVE"
+        },
         "stats.ars4real.com": {
             "included_at_epoch": 1598658810.491231,
             "included_at_iso": "2020-08-28T23:53:30.491231",
