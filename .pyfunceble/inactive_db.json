@@ -8064,6 +8064,13 @@
             "last_retested_at_iso": "2020-08-29T00:11:10.761755",
             "status": "INACTIVE"
         },
+        "tracking.goodgamestudios.com": {
+            "included_at_epoch": 1599030047.30893,
+            "included_at_iso": "2020-09-02T07:00:47.308930",
+            "last_retested_at_epoch": 1599030047.30893,
+            "last_retested_at_iso": "2020-09-02T07:00:47.308930",
+            "status": "INACTIVE"
+        },
         "tracking.magnify.net": {
             "included_at_epoch": 1598659871.531338,
             "included_at_iso": "2020-08-29T00:11:11.531338",

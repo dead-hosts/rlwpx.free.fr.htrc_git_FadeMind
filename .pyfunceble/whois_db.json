@@ -25061,7 +25061,8 @@
     "trafficv.com": {
         "epoch": 1598918400.0,
         "expiration_date": "01-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "trafficvalue.com": {
         "epoch": 1620604800.0,
