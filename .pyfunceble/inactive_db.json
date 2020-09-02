@@ -7126,6 +7126,13 @@
             "last_retested_at_iso": "2020-08-28T23:53:27.402769",
             "status": "INACTIVE"
         },
+        "stat.showstat.com": {
+            "included_at_epoch": 1599028989.949173,
+            "included_at_iso": "2020-09-02T06:43:09.949173",
+            "last_retested_at_epoch": 1599028989.949173,
+            "last_retested_at_iso": "2020-09-02T06:43:09.949173",
+            "status": "INACTIVE"
+        },
         "stat.top.pr-models.com": {
             "included_at_epoch": 1598658816.279611,
             "included_at_iso": "2020-08-28T23:53:36.279611",
@@ -7490,6 +7497,13 @@
             "last_retested_at_iso": "2020-08-29T00:10:48.625549",
             "status": "INACTIVE"
         },
+        "teenhitchikers.com": {
+            "included_at_epoch": 1599029001.771044,
+            "included_at_iso": "2020-09-02T06:43:21.771044",
+            "last_retested_at_epoch": 1599029001.771044,
+            "last_retested_at_iso": "2020-09-02T06:43:21.771044",
+            "status": "INACTIVE"
+        },
         "teenrankings.com": {
             "included_at_epoch": 1598659849.920548,
             "included_at_iso": "2020-08-29T00:10:49.920548",
@@ -7579,6 +7593,13 @@
             "included_at_iso": "2020-08-29T00:10:57.494939",
             "last_retested_at_epoch": 1598659857.494939,
             "last_retested_at_iso": "2020-08-29T00:10:57.494939",
+            "status": "INACTIVE"
+        },
+        "tips.logger.baofeng.com": {
+            "included_at_epoch": 1599029008.44809,
+            "included_at_iso": "2020-09-02T06:43:28.448090",
+            "last_retested_at_epoch": 1599029008.44809,
+            "last_retested_at_iso": "2020-09-02T06:43:28.448090",
             "status": "INACTIVE"
         },
         "title.mximg.com": {
