@@ -10306,10 +10306,10 @@
         "state": "future"
     },
     "happymediaking.com": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1630281600.0,
+        "expiration_date": "30-aug-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "hardclic.com": {
         "epoch": 1599091200.0,
@@ -11553,8 +11553,9 @@
         "state": "future"
     },
     "huskysteals.com": {
-        "epoch": 1598918400.0,
-        "expiration_date": "01-sep-2020",
+        "epoch": 1630454400.0,
+        "expiration_date": "01-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "hwvmedia.com": {

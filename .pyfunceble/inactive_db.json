@@ -2429,6 +2429,13 @@
             "last_retested_at_iso": "2020-08-31T04:58:25.695489",
             "status": "INACTIVE"
         },
+        "gayranking.com": {
+            "included_at_epoch": 1599022627.165298,
+            "included_at_iso": "2020-09-02T04:57:07.165298",
+            "last_retested_at_epoch": 1599022627.165298,
+            "last_retested_at_iso": "2020-09-02T04:57:07.165298",
+            "status": "INACTIVE"
+        },
         "gemoney.co.nz.102.112.2o7.net": {
             "included_at_epoch": 1598849906.874811,
             "included_at_iso": "2020-08-31T04:58:26.874811",
