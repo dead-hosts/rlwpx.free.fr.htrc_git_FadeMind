@@ -6342,6 +6342,13 @@
             "last_retested_at_iso": "2020-08-31T06:26:54.353903",
             "status": "INACTIVE"
         },
+        "promo.clickcash.com": {
+            "included_at_epoch": 1599026876.808442,
+            "included_at_iso": "2020-09-02T06:07:56.808442",
+            "last_retested_at_epoch": 1599026876.808442,
+            "last_retested_at_iso": "2020-09-02T06:07:56.808442",
+            "status": "INACTIVE"
+        },
         "psm.promo.adultdvdhits.com": {
             "included_at_epoch": 1598855215.394467,
             "included_at_iso": "2020-08-31T06:26:55.394467",
