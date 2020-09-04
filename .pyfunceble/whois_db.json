@@ -18779,7 +18779,8 @@
     "ratelongdicks.com": {
         "epoch": 1599177600.0,
         "expiration_date": "04-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "ratemagazine.com": {
         "epoch": 1611964800.0,
@@ -19241,10 +19242,10 @@
         "state": "future"
     },
     "realtrafficstats.com": {
-        "epoch": 1599004800.0,
-        "expiration_date": "02-sep-2020",
+        "epoch": 1630540800.0,
+        "expiration_date": "02-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "rebel-media.com": {
         "epoch": 1610236800.0,
