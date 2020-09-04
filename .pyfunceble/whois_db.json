@@ -8076,8 +8076,9 @@
         "state": "future"
     },
     "estats4all.com": {
-        "epoch": 1599091200.0,
-        "expiration_date": "03-sep-2020",
+        "epoch": 1630627200.0,
+        "expiration_date": "03-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "estatusviajes.com": {
@@ -8420,8 +8421,9 @@
         "state": "future"
     },
     "f5mtrack.com": {
-        "epoch": 1599177600.0,
-        "expiration_date": "04-sep-2020",
+        "epoch": 1606003200.0,
+        "expiration_date": "22-nov-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "fairgreentrade.com": {
@@ -9158,10 +9160,10 @@
         "state": "future"
     },
     "freeinvisiblecounters.com": {
-        "epoch": 1598918400.0,
-        "expiration_date": "01-sep-2020",
+        "epoch": 1630454400.0,
+        "expiration_date": "01-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "freelogs.com": {
         "epoch": 1608076800.0,
