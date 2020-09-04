@@ -11971,8 +11971,9 @@
         "state": "future"
     },
     "insightexpress.com": {
-        "epoch": 1599091200.0,
-        "expiration_date": "03-sep-2020",
+        "epoch": 1662163200.0,
+        "expiration_date": "03-sep-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "insightexpressai.com": {
@@ -12408,8 +12409,9 @@
         "state": "future"
     },
     "jellycounter.com": {
-        "epoch": 1599091200.0,
-        "expiration_date": "03-sep-2020",
+        "epoch": 1630627200.0,
+        "expiration_date": "03-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "jerk2it.com": {
@@ -13108,10 +13110,10 @@
         "state": "future"
     },
     "links-and-traffic.com": {
-        "epoch": 1598918400.0,
-        "expiration_date": "01-sep-2020",
+        "epoch": 1630454400.0,
+        "expiration_date": "01-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "links4trade.com": {
         "epoch": 1624838400.0,
