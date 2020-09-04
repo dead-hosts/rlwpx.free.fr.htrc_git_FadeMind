@@ -24522,7 +24522,8 @@
     "trafficbank.com": {
         "epoch": 1599177600.0,
         "expiration_date": "04-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "trafficbeamer.com": {
         "epoch": 1610236800.0,
@@ -25079,10 +25080,10 @@
         "state": "future"
     },
     "trafficv.com": {
-        "epoch": 1598918400.0,
-        "expiration_date": "01-sep-2020",
+        "epoch": 1630454400.0,
+        "expiration_date": "01-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "trafficvalue.com": {
         "epoch": 1620604800.0,
