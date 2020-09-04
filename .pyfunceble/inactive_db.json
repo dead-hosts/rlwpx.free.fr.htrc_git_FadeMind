@@ -6804,6 +6804,13 @@
             "last_retested_at_iso": "2020-08-31T06:44:41.357371",
             "status": "INACTIVE"
         },
+        "sex-logs.nl": {
+            "included_at_epoch": 1599201187.284508,
+            "included_at_iso": "2020-09-04T06:33:07.284508",
+            "last_retested_at_epoch": 1599201187.284508,
+            "last_retested_at_iso": "2020-09-04T06:33:07.284508",
+            "status": "INACTIVE"
+        },
         "sexfiles.nu": {
             "included_at_epoch": 1598856282.080247,
             "included_at_iso": "2020-08-31T06:44:42.080247",
@@ -7292,6 +7299,13 @@
             "included_at_iso": "2020-08-28T23:53:27.785920",
             "last_retested_at_epoch": 1598658807.78592,
             "last_retested_at_iso": "2020-08-28T23:53:27.785920",
+            "status": "INACTIVE"
+        },
+        "statistics.s5.com": {
+            "included_at_epoch": 1599201204.809135,
+            "included_at_iso": "2020-09-04T06:33:24.809135",
+            "last_retested_at_epoch": 1599201204.809135,
+            "last_retested_at_iso": "2020-09-04T06:33:24.809135",
             "status": "INACTIVE"
         },
         "statrafongon.biz": {
