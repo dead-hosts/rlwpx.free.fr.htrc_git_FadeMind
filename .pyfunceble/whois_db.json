@@ -4791,7 +4791,8 @@
     "clickconversion.net": {
         "epoch": 1599091200.0,
         "expiration_date": "03-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "clickcooldeals.com": {
         "epoch": 1617840000.0,
@@ -5930,8 +5931,9 @@
         "state": "future"
     },
     "comestat.com": {
-        "epoch": 1599091200.0,
-        "expiration_date": "03-sep-2020",
+        "epoch": 1606089600.0,
+        "expiration_date": "23-nov-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "cometcursor.com": {
@@ -6190,7 +6192,7 @@
         "epoch": 1599091200.0,
         "expiration_date": "03-sep-2020",
         "server": "whois.verisign-grs.com",
-        "state": "future"
+        "state": "past"
     },
     "counter.ru": {
         "epoch": 1614816000.0,
