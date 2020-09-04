@@ -728,6 +728,13 @@
             "last_retested_at_iso": "2020-08-31T02:36:43.741294",
             "status": "INACTIVE"
         },
+        "apps.clickcash.com": {
+            "included_at_epoch": 1599187293.781984,
+            "included_at_iso": "2020-09-04T02:41:33.781984",
+            "last_retested_at_epoch": 1599187293.781984,
+            "last_retested_at_iso": "2020-09-04T02:41:33.781984",
+            "status": "INACTIVE"
+        },
         "apxitektop.com": {
             "included_at_epoch": 1598841403.915963,
             "included_at_iso": "2020-08-31T02:36:43.915963",
