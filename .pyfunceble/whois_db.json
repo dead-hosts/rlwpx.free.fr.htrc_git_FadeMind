@@ -27946,7 +27946,8 @@
     "youradultmedia.com": {
         "epoch": 1599177600.0,
         "expiration_date": "04-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "yourclick.com": {
         "epoch": 1600560000.0,
