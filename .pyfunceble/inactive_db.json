@@ -8736,6 +8736,13 @@
             "last_retested_at_iso": "2020-08-29T01:17:18.585287",
             "status": "INACTIVE"
         },
+        "www.adultclick.com": {
+            "included_at_epoch": 1599205429.688312,
+            "included_at_iso": "2020-09-04T07:43:49.688312",
+            "last_retested_at_epoch": 1599205429.688312,
+            "last_retested_at_iso": "2020-09-04T07:43:49.688312",
+            "status": "INACTIVE"
+        },
         "www.adulttrafficbroker.com": {
             "included_at_epoch": 1598663839.420135,
             "included_at_iso": "2020-08-29T01:17:19.420135",
