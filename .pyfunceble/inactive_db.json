@@ -2443,6 +2443,13 @@
             "last_retested_at_iso": "2020-08-31T04:58:23.113903",
             "status": "INACTIVE"
         },
+        "g20trade.com": {
+            "included_at_epoch": 1599195683.908267,
+            "included_at_iso": "2020-09-04T05:01:23.908267",
+            "last_retested_at_epoch": 1599195683.908267,
+            "last_retested_at_iso": "2020-09-04T05:01:23.908267",
+            "status": "INACTIVE"
+        },
         "gameover.hostaty.com": {
             "included_at_epoch": 1598849904.628718,
             "included_at_iso": "2020-08-31T04:58:24.628718",
