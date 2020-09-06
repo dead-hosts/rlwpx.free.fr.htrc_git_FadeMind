@@ -4795,10 +4795,10 @@
         "state": "future"
     },
     "clickconversion.net": {
-        "epoch": 1599091200.0,
-        "expiration_date": "03-sep-2020",
+        "epoch": 1630627200.0,
+        "expiration_date": "03-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "clickcooldeals.com": {
         "epoch": 1617840000.0,
@@ -5707,8 +5707,9 @@
         "state": "future"
     },
     "clicpen.ca": {
-        "epoch": 1599350400.0,
-        "expiration_date": "06-sep-2020",
+        "epoch": 1630886400.0,
+        "expiration_date": "06-sep-2021",
+        "server": "whois.cira.ca",
         "state": "future"
     },
     "clicpub.com": {
@@ -6195,10 +6196,10 @@
         "state": "future"
     },
     "counter-servers.com": {
-        "epoch": 1599091200.0,
-        "expiration_date": "03-sep-2020",
+        "epoch": 1630627200.0,
+        "expiration_date": "03-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "counter.ru": {
         "epoch": 1614816000.0,
