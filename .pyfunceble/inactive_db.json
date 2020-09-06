@@ -2618,6 +2618,13 @@
             "last_retested_at_iso": "2020-08-31T05:15:51.341894",
             "status": "INACTIVE"
         },
+        "hit.multimania.com": {
+            "included_at_epoch": 1599368390.084741,
+            "included_at_iso": "2020-09-06T04:59:50.084741",
+            "last_retested_at_epoch": 1599368390.084741,
+            "last_retested_at_iso": "2020-09-06T04:59:50.084741",
+            "status": "INACTIVE"
+        },
         "hitboxenterprise.com": {
             "included_at_epoch": 1598850949.28035,
             "included_at_iso": "2020-08-31T05:15:49.280350",
@@ -2728,6 +2735,13 @@
             "included_at_iso": "2020-08-31T05:15:56.106600",
             "last_retested_at_epoch": 1598850956.1066,
             "last_retested_at_iso": "2020-08-31T05:15:56.106600",
+            "status": "INACTIVE"
+        },
+        "houyi.logger.baofeng.com": {
+            "included_at_epoch": 1599368393.565282,
+            "included_at_iso": "2020-09-06T04:59:53.565282",
+            "last_retested_at_epoch": 1599368393.565282,
+            "last_retested_at_iso": "2020-09-06T04:59:53.565282",
             "status": "INACTIVE"
         },
         "hutchmedia.t.domdex.com": {

@@ -9702,10 +9702,10 @@
         "state": "future"
     },
     "generictrader.com": {
-        "epoch": 1599177600.0,
-        "expiration_date": "04-sep-2020",
+        "epoch": 1630713600.0,
+        "expiration_date": "04-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "genetrackdiagnostics.com": {
         "epoch": 1640736000.0,
@@ -9925,8 +9925,9 @@
         "state": "future"
     },
     "glxmedia.com": {
-        "epoch": 1599350400.0,
-        "expiration_date": "06-sep-2020",
+        "epoch": 1630886400.0,
+        "expiration_date": "06-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "gmpg.org": {
@@ -10329,10 +10330,10 @@
         "state": "future"
     },
     "hardclic.com": {
-        "epoch": 1599091200.0,
-        "expiration_date": "03-sep-2020",
+        "epoch": 1630627200.0,
+        "expiration_date": "03-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "hardcorexrated.com": {
         "epoch": 1593907200.0,
@@ -10739,8 +10740,9 @@
         "state": "future"
     },
     "hitechdigitals.com": {
-        "epoch": 1599264000.0,
-        "expiration_date": "05-sep-2020",
+        "epoch": 1630800000.0,
+        "expiration_date": "05-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "hitechdreams.com": {
