@@ -20543,7 +20543,8 @@
     "sexrate.com": {
         "epoch": 1599264000.0,
         "expiration_date": "05-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "sexrated.com": {
         "epoch": 1629676800.0,
@@ -21021,10 +21022,10 @@
         "state": "future"
     },
     "showbehind.com": {
-        "epoch": 1599177600.0,
-        "expiration_date": "04-sep-2020",
+        "epoch": 1630713600.0,
+        "expiration_date": "04-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "showmestats.com": {
         "epoch": 1607731200.0,
@@ -21738,10 +21739,10 @@
         "state": "future"
     },
     "springclick.com": {
-        "epoch": 1599177600.0,
-        "expiration_date": "04-sep-2020",
+        "epoch": 1630713600.0,
+        "expiration_date": "04-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "sprizzymedia.com": {
         "epoch": 1630627200.0,
