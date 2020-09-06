@@ -4046,6 +4046,13 @@
             "last_retested_at_iso": "2020-08-31T05:51:04.436890",
             "status": "INACTIVE"
         },
+        "mediahosting4u.com": {
+            "included_at_epoch": 1599370482.921751,
+            "included_at_iso": "2020-09-06T05:34:42.921751",
+            "last_retested_at_epoch": 1599370482.921751,
+            "last_retested_at_iso": "2020-09-06T05:34:42.921751",
+            "status": "INACTIVE"
+        },
         "medialis74.ru": {
             "included_at_epoch": 1598853065.34809,
             "included_at_iso": "2020-08-31T05:51:05.348090",
@@ -4802,6 +4809,13 @@
             "last_retested_at_iso": "2020-08-31T05:51:24.795315",
             "status": "INACTIVE"
         },
+        "monitor.net.ru": {
+            "included_at_epoch": 1599370498.1826,
+            "included_at_iso": "2020-09-06T05:34:58.182600",
+            "last_retested_at_epoch": 1599370498.1826,
+            "last_retested_at_iso": "2020-09-06T05:34:58.182600",
+            "status": "INACTIVE"
+        },
         "monitorflecken.de": {
             "included_at_epoch": 1598853085.246181,
             "included_at_iso": "2020-08-31T05:51:25.246181",
@@ -4835,6 +4849,27 @@
             "included_at_iso": "2020-08-31T05:51:26.993629",
             "last_retested_at_epoch": 1598853086.993629,
             "last_retested_at_iso": "2020-08-31T05:51:26.993629",
+            "status": "INACTIVE"
+        },
+        "movie1.adultcliks.com": {
+            "included_at_epoch": 1599370499.414815,
+            "included_at_iso": "2020-09-06T05:34:59.414815",
+            "last_retested_at_epoch": 1599370499.414815,
+            "last_retested_at_iso": "2020-09-06T05:34:59.414815",
+            "status": "INACTIVE"
+        },
+        "movie2.adultcliks.com": {
+            "included_at_epoch": 1599370499.460166,
+            "included_at_iso": "2020-09-06T05:34:59.460166",
+            "last_retested_at_epoch": 1599370499.460166,
+            "last_retested_at_iso": "2020-09-06T05:34:59.460166",
+            "status": "INACTIVE"
+        },
+        "movie4.adultcliks.com": {
+            "included_at_epoch": 1599370499.505901,
+            "included_at_iso": "2020-09-06T05:34:59.505901",
+            "last_retested_at_epoch": 1599370499.505901,
+            "last_retested_at_iso": "2020-09-06T05:34:59.505901",
             "status": "INACTIVE"
         },
         "movies.erotracks.com": {
