@@ -10780,6 +10780,13 @@
             "last_retested_at_iso": "2020-09-02T08:33:13.550255",
             "status": "INACTIVE"
         },
+        "www.vertolet-media.ru": {
+            "included_at_epoch": 1599381643.119262,
+            "included_at_iso": "2020-09-06T08:40:43.119262",
+            "last_retested_at_epoch": 1599381643.119262,
+            "last_retested_at_iso": "2020-09-06T08:40:43.119262",
+            "status": "INACTIVE"
+        },
         "www.virtual-countries.com": {
             "included_at_epoch": 1598669871.393834,
             "included_at_iso": "2020-08-29T02:57:51.393834",
