@@ -2338,6 +2338,13 @@
             "last_retested_at_iso": "2020-08-31T04:58:14.276922",
             "status": "INACTIVE"
         },
+        "filter.eclickz.com": {
+            "included_at_epoch": 1599367334.723991,
+            "included_at_iso": "2020-09-06T04:42:14.723991",
+            "last_retested_at_epoch": 1599367334.723991,
+            "last_retested_at_iso": "2020-09-06T04:42:14.723991",
+            "status": "INACTIVE"
+        },
         "finatime.ivwbox.de": {
             "included_at_epoch": 1598849895.077605,
             "included_at_iso": "2020-08-31T04:58:15.077605",
