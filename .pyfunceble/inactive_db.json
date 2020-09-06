@@ -6832,6 +6832,13 @@
             "last_retested_at_iso": "2020-08-31T06:44:36.339196",
             "status": "INACTIVE"
         },
+        "search.eclickz.com": {
+            "included_at_epoch": 1599372629.914568,
+            "included_at_iso": "2020-09-06T06:10:29.914568",
+            "last_retested_at_epoch": 1599372629.914568,
+            "last_retested_at_iso": "2020-09-06T06:10:29.914568",
+            "status": "INACTIVE"
+        },
         "searchmedia.info": {
             "included_at_epoch": 1598856276.808017,
             "included_at_iso": "2020-08-31T06:44:36.808017",
