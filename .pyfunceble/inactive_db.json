@@ -9660,6 +9660,13 @@
             "last_retested_at_iso": "2020-08-29T02:09:28.625482",
             "status": "INACTIVE"
         },
+        "www.hitclub.de": {
+            "included_at_epoch": 1599379553.144761,
+            "included_at_iso": "2020-09-06T08:05:53.144761",
+            "last_retested_at_epoch": 1599379553.144761,
+            "last_retested_at_iso": "2020-09-06T08:05:53.144761",
+            "status": "INACTIVE"
+        },
         "www.hitgo.com": {
             "included_at_epoch": 1598666969.293126,
             "included_at_iso": "2020-08-29T02:09:29.293126",
