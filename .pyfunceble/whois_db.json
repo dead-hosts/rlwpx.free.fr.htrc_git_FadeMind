@@ -2443,7 +2443,8 @@
     "babeslog.net": {
         "epoch": 1599350400.0,
         "expiration_date": "06-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "baccaratcounting.com": {
         "epoch": 1605916800.0,
@@ -3077,8 +3078,9 @@
         "state": "future"
     },
     "blindhit.net": {
-        "epoch": 1599350400.0,
-        "expiration_date": "06-sep-2020",
+        "epoch": 1630886400.0,
+        "expiration_date": "06-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "blmediasolutions.com": {
@@ -3279,8 +3281,9 @@
         "state": "future"
     },
     "bondagetrack.com": {
-        "epoch": 1599350400.0,
-        "expiration_date": "06-sep-2020",
+        "epoch": 1606262400.0,
+        "expiration_date": "25-nov-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "bonetrade.com": {
@@ -3536,7 +3539,8 @@
     "brycemedia.com": {
         "epoch": 1599264000.0,
         "expiration_date": "05-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "bt-trade.com": {
         "epoch": 1630022400.0,
@@ -3900,8 +3904,9 @@
         "state": "future"
     },
     "cash-traffic.com": {
-        "epoch": 1599264000.0,
-        "expiration_date": "05-sep-2020",
+        "epoch": 1630800000.0,
+        "expiration_date": "05-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "cash2hits.com": {
