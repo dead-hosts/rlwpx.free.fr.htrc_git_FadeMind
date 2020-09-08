@@ -448,6 +448,13 @@
             "last_retested_at_iso": "2020-08-31T02:19:20.503543",
             "status": "INACTIVE"
         },
+        "advstat.letitbit.net": {
+            "included_at_epoch": 1599531776.119291,
+            "included_at_iso": "2020-09-08T02:22:56.119291",
+            "last_retested_at_epoch": 1599531776.119291,
+            "last_retested_at_iso": "2020-09-08T02:22:56.119291",
+            "status": "INACTIVE"
+        },
         "aff.attractiontracker.com": {
             "included_at_epoch": 1598840361.225484,
             "included_at_iso": "2020-08-31T02:19:21.225484",
