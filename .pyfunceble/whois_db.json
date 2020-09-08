@@ -6613,7 +6613,8 @@
     "culogay.com": {
         "epoch": 1599523200.0,
         "expiration_date": "08-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "cumhits.com": {
         "epoch": 1603152000.0,
