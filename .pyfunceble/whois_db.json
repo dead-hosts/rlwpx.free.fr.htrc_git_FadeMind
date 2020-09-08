@@ -15097,7 +15097,8 @@
     "millioncounter.com": {
         "epoch": 1599523200.0,
         "expiration_date": "08-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "mindclickgroup.com": {
         "epoch": 1603584000.0,
@@ -15837,8 +15838,9 @@
         "state": "future"
     },
     "mytopsearches.com": {
-        "epoch": 1599523200.0,
-        "expiration_date": "08-sep-2020",
+        "epoch": 1631059200.0,
+        "expiration_date": "08-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "mywactrack.com": {
