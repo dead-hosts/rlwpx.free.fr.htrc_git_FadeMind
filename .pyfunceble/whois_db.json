@@ -16811,8 +16811,9 @@
         "state": "past"
     },
     "optimum-hits.com": {
-        "epoch": 1599523200.0,
-        "expiration_date": "08-sep-2020",
+        "epoch": 1631059200.0,
+        "expiration_date": "08-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "optlynx.com": {
@@ -17250,10 +17251,10 @@
         "state": "future"
     },
     "penta-media.com": {
-        "epoch": 1592870400.0,
-        "expiration_date": "23-jun-2020",
+        "epoch": 1630972800.0,
+        "expiration_date": "07-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "peopleareshit.com": {
         "epoch": 1603238400.0,
@@ -17336,7 +17337,8 @@
     "phonesextraffic.com": {
         "epoch": 1599523200.0,
         "expiration_date": "08-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "photoposts.in": {
         "epoch": 1592092800.0,
