@@ -1596,6 +1596,13 @@
             "last_retested_at_iso": "2020-08-31T02:56:38.821725",
             "status": "INACTIVE"
         },
+        "clogs.zbyte.org": {
+            "included_at_epoch": 1599534289.354788,
+            "included_at_iso": "2020-09-08T03:04:49.354788",
+            "last_retested_at_epoch": 1599534289.354788,
+            "last_retested_at_iso": "2020-09-08T03:04:49.354788",
+            "status": "INACTIVE"
+        },
         "closeencounters69.com": {
             "included_at_epoch": 1598842599.686966,
             "included_at_iso": "2020-08-31T02:56:39.686966",
