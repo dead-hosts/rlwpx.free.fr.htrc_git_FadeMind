@@ -27155,8 +27155,8 @@
         "state": "future"
     },
     "xmedia.info": {
-        "epoch": 1599436800.0,
-        "expiration_date": "07-sep-2020",
+        "epoch": 1630972800.0,
+        "expiration_date": "07-sep-2021",
         "server": "whois.afilias.net",
         "state": "future"
     },
@@ -27205,8 +27205,9 @@
         "state": "future"
     },
     "xpstatz.com": {
-        "epoch": 1599436800.0,
-        "expiration_date": "07-sep-2020",
+        "epoch": 1630972800.0,
+        "expiration_date": "07-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "xrated-anal.com": {
@@ -27260,10 +27261,10 @@
         "state": "future"
     },
     "xrated4free.com": {
-        "epoch": 1599350400.0,
-        "expiration_date": "06-sep-2020",
+        "epoch": 1630886400.0,
+        "expiration_date": "06-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "xratedamateur.com": {
         "epoch": 1613001600.0,
