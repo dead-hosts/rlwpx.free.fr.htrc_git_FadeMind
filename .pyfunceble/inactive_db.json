@@ -2338,6 +2338,13 @@
             "last_retested_at_iso": "2020-08-31T04:58:14.122303",
             "status": "INACTIVE"
         },
+        "feeds.wise-click.com": {
+            "included_at_epoch": 1599540546.774439,
+            "included_at_iso": "2020-09-08T04:49:06.774439",
+            "last_retested_at_epoch": 1599540546.774439,
+            "last_retested_at_iso": "2020-09-08T04:49:06.774439",
+            "status": "INACTIVE"
+        },
         "feetnonstop.com": {
             "included_at_epoch": 1598849894.24292,
             "included_at_iso": "2020-08-31T04:58:14.242920",
