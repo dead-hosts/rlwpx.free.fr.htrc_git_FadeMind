@@ -8736,6 +8736,13 @@
             "last_retested_at_iso": "2020-08-29T00:46:27.878694",
             "status": "INACTIVE"
         },
+        "webhit.aftenposten.no": {
+            "included_at_epoch": 1599722370.470303,
+            "included_at_iso": "2020-09-10T07:19:30.470303",
+            "last_retested_at_epoch": 1599722370.470303,
+            "last_retested_at_iso": "2020-09-10T07:19:30.470303",
+            "status": "INACTIVE"
+        },
         "webmedia.co.il": {
             "included_at_epoch": 1598661988.947541,
             "included_at_iso": "2020-08-29T00:46:28.947541",
