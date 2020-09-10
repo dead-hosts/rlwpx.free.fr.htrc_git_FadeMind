@@ -2422,6 +2422,13 @@
             "last_retested_at_iso": "2020-08-31T04:58:18.165441",
             "status": "INACTIVE"
         },
+        "forum.median.ru": {
+            "included_at_epoch": 1599712847.026484,
+            "included_at_iso": "2020-09-10T04:40:47.026484",
+            "last_retested_at_epoch": 1599712847.026484,
+            "last_retested_at_iso": "2020-09-10T04:40:47.026484",
+            "status": "INACTIVE"
+        },
         "forum.rankcount.com": {
             "included_at_epoch": 1598849898.461149,
             "included_at_iso": "2020-08-31T04:58:18.461149",
