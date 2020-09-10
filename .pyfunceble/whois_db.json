@@ -12323,7 +12323,8 @@
     "itradeins.com": {
         "epoch": 1599696000.0,
         "expiration_date": "10-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "itrafficstats.com": {
         "epoch": 1621296000.0,
@@ -13268,7 +13269,8 @@
     "livecounter.co": {
         "epoch": 1599609600.0,
         "expiration_date": "09-sep-2020",
-        "state": "future"
+        "server": "whois.nic.co",
+        "state": "past"
     },
     "livehit.net": {
         "epoch": 1605052800.0,
