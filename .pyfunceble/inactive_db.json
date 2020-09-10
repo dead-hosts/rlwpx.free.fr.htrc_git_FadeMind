@@ -7490,6 +7490,13 @@
             "last_retested_at_iso": "2020-08-28T23:53:31.015603",
             "status": "INACTIVE"
         },
+        "stats.datahjaelp.net": {
+            "included_at_epoch": 1599719192.189267,
+            "included_at_iso": "2020-09-10T06:26:32.189267",
+            "last_retested_at_epoch": 1599719192.189267,
+            "last_retested_at_iso": "2020-09-10T06:26:32.189267",
+            "status": "INACTIVE"
+        },
         "stats.directnic.com": {
             "included_at_epoch": 1598658811.575711,
             "included_at_iso": "2020-08-28T23:53:31.575711",
@@ -7502,6 +7509,13 @@
             "included_at_iso": "2020-08-28T23:53:31.627348",
             "last_retested_at_epoch": 1598658811.627348,
             "last_retested_at_iso": "2020-08-28T23:53:31.627348",
+            "status": "INACTIVE"
+        },
+        "stats.eduuu.com": {
+            "included_at_epoch": 1599719192.392811,
+            "included_at_iso": "2020-09-10T06:26:32.392811",
+            "last_retested_at_epoch": 1599719192.392811,
+            "last_retested_at_iso": "2020-09-10T06:26:32.392811",
             "status": "INACTIVE"
         },
         "stats.grubstreet.com": {
