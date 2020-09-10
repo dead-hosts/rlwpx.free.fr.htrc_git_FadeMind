@@ -16836,8 +16836,9 @@
         "state": "future"
     },
     "orangecountymistress.com": {
-        "epoch": 1599696000.0,
-        "expiration_date": "10-sep-2020",
+        "epoch": 1606521600.0,
+        "expiration_date": "28-nov-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "orangecountyrentalhousing.org": {
@@ -17301,8 +17302,9 @@
         "state": "future"
     },
     "personallifemedia.com": {
-        "epoch": 1599609600.0,
-        "expiration_date": "09-sep-2020",
+        "epoch": 1631145600.0,
+        "expiration_date": "09-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "pettrackingcollars.com": {
@@ -17343,10 +17345,10 @@
         "state": "future"
     },
     "phonesextraffic.com": {
-        "epoch": 1599523200.0,
-        "expiration_date": "08-sep-2020",
+        "epoch": 1631059200.0,
+        "expiration_date": "08-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "photoposts.in": {
         "epoch": 1592092800.0,
@@ -17618,8 +17620,9 @@
         "state": "future"
     },
     "porn-hits.com": {
-        "epoch": 1599696000.0,
-        "expiration_date": "10-sep-2020",
+        "epoch": 1631232000.0,
+        "expiration_date": "10-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "porn-shit.com": {
