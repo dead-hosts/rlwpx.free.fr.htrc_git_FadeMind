@@ -2072,6 +2072,13 @@
             "last_retested_at_iso": "2020-08-31T03:31:14.821543",
             "status": "INACTIVE"
         },
+        "dns2.salesandtraffic.com": {
+            "included_at_epoch": 1599707625.94382,
+            "included_at_iso": "2020-09-10T03:13:45.943820",
+            "last_retested_at_epoch": 1599707625.94382,
+            "last_retested_at_iso": "2020-09-10T03:13:45.943820",
+            "status": "INACTIVE"
+        },
         "doubclick.com": {
             "included_at_epoch": 1598844676.228829,
             "included_at_iso": "2020-08-31T03:31:16.228829",
