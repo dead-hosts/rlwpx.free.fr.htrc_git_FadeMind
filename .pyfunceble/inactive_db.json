@@ -9618,6 +9618,13 @@
             "last_retested_at_iso": "2020-08-29T01:43:03.807826",
             "status": "INACTIVE"
         },
+        "www.faloge.com": {
+            "included_at_epoch": 1599897390.165823,
+            "included_at_iso": "2020-09-12T07:56:30.165823",
+            "last_retested_at_epoch": 1599897390.165823,
+            "last_retested_at_iso": "2020-09-12T07:56:30.165823",
+            "status": "INACTIVE"
+        },
         "www.fastnclick.com": {
             "included_at_epoch": 1598665384.302429,
             "included_at_iso": "2020-08-29T01:43:04.302429",
