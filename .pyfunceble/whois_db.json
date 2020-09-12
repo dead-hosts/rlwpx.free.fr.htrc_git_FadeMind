@@ -16382,8 +16382,9 @@
         "state": "future"
     },
     "nymmedia.com": {
-        "epoch": 1599868800.0,
-        "expiration_date": "12-sep-2020",
+        "epoch": 1662940800.0,
+        "expiration_date": "12-sep-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "oaklandivorcemediation.com": {
@@ -16878,7 +16879,8 @@
     "orgtraffic.com": {
         "epoch": 1599782400.0,
         "expiration_date": "11-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "orionhitek.com": {
         "epoch": 1608508800.0,
@@ -17108,8 +17110,9 @@
         "state": "future"
     },
     "pantytrader.com": {
-        "epoch": 1599868800.0,
-        "expiration_date": "12-sep-2020",
+        "epoch": 1757635200.0,
+        "expiration_date": "12-sep-2025",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "paperclick.com": {
@@ -17452,8 +17455,9 @@
         "state": "future"
     },
     "pinsightmedia.com": {
-        "epoch": 1599868800.0,
-        "expiration_date": "12-sep-2020",
+        "epoch": 1631404800.0,
+        "expiration_date": "12-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "piratemedia.tv": {
