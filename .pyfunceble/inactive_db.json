@@ -3577,6 +3577,13 @@
             "last_retested_at_iso": "2020-09-02T05:14:55.231906",
             "status": "INACTIVE"
         },
+        "link.ranking.gs": {
+            "included_at_epoch": 1599887803.282934,
+            "included_at_iso": "2020-09-12T05:16:43.282934",
+            "last_retested_at_epoch": 1599887803.282934,
+            "last_retested_at_iso": "2020-09-12T05:16:43.282934",
+            "status": "INACTIVE"
+        },
         "listlog.baofeng.net": {
             "included_at_epoch": 1598852017.706464,
             "included_at_iso": "2020-08-31T05:33:37.706464",

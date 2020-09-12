@@ -12332,10 +12332,10 @@
         "state": "future"
     },
     "itradeins.com": {
-        "epoch": 1599696000.0,
-        "expiration_date": "10-sep-2020",
+        "epoch": 1631232000.0,
+        "expiration_date": "10-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "itrafficstats.com": {
         "epoch": 1621296000.0,
@@ -12355,7 +12355,8 @@
     "ivimedia.net": {
         "epoch": 1599782400.0,
         "expiration_date": "11-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "ivpromedia.ru": {
         "epoch": 1624924800.0,
@@ -12624,8 +12625,9 @@
         "state": "future"
     },
     "kartsportmedia.com": {
-        "epoch": 1599782400.0,
-        "expiration_date": "11-sep-2020",
+        "epoch": 1631318400.0,
+        "expiration_date": "11-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "kastats.com": {
@@ -13744,8 +13746,9 @@
         "state": "future"
     },
     "marriedencounter.com": {
-        "epoch": 1599782400.0,
-        "expiration_date": "11-sep-2020",
+        "epoch": 1631318400.0,
+        "expiration_date": "11-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "marsdigitalmedia.com": {
