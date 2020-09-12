@@ -10110,7 +10110,8 @@
     "gothtraffic.com": {
         "epoch": 1599868800.0,
         "expiration_date": "12-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "gotphaze.com": {
         "epoch": 1621987200.0,
@@ -11612,8 +11613,9 @@
         "state": "future"
     },
     "hyipmedia.com": {
-        "epoch": 1599782400.0,
-        "expiration_date": "11-sep-2020",
+        "epoch": 1606435200.0,
+        "expiration_date": "27-nov-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "hyiprank.com": {
@@ -12254,8 +12256,9 @@
         "state": "future"
     },
     "ipromotemedia.com": {
-        "epoch": 1599868800.0,
-        "expiration_date": "12-sep-2020",
+        "epoch": 1631404800.0,
+        "expiration_date": "12-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "ipstat.com": {
