@@ -18256,10 +18256,10 @@
         "state": "future"
     },
     "qualitytraffic.net": {
-        "epoch": 1599696000.0,
-        "expiration_date": "10-sep-2020",
+        "epoch": 1631232000.0,
+        "expiration_date": "10-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "quangminhtrade.com": {
         "epoch": 1606780800.0,
@@ -19073,7 +19073,8 @@
     "ratemyrack.com": {
         "epoch": 1599868800.0,
         "expiration_date": "12-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "ratemys.com": {
         "epoch": 1616284800.0,
@@ -20657,10 +20658,10 @@
         "state": "future"
     },
     "sextraffic.net": {
-        "epoch": 1599609600.0,
-        "expiration_date": "09-sep-2020",
+        "epoch": 1631145600.0,
+        "expiration_date": "09-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "sexual-encounters.com": {
         "epoch": 1602115200.0,
