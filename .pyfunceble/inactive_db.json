@@ -9296,6 +9296,13 @@
             "last_retested_at_iso": "2020-08-29T01:42:45.221765",
             "status": "INACTIVE"
         },
+        "www.click4france.com": {
+            "included_at_epoch": 1599896263.538618,
+            "included_at_iso": "2020-09-12T07:37:43.538618",
+            "last_retested_at_epoch": 1599896263.538618,
+            "last_retested_at_iso": "2020-09-12T07:37:43.538618",
+            "status": "INACTIVE"
+        },
         "www.click4profit.com": {
             "included_at_epoch": 1598665365.333327,
             "included_at_iso": "2020-08-29T01:42:45.333327",
