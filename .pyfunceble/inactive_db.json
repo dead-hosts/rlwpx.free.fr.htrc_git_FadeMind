@@ -1078,6 +1078,13 @@
             "last_retested_at_iso": "2020-08-31T02:36:54.758412",
             "status": "INACTIVE"
         },
+        "bestfreehits.com": {
+            "included_at_epoch": 1599878423.808532,
+            "included_at_iso": "2020-09-12T02:40:23.808532",
+            "last_retested_at_epoch": 1599878423.808532,
+            "last_retested_at_iso": "2020-09-12T02:40:23.808532",
+            "status": "INACTIVE"
+        },
         "bidtxt.memedia.com": {
             "included_at_epoch": 1598841416.15693,
             "included_at_iso": "2020-08-31T02:36:56.156930",
