@@ -1582,6 +1582,13 @@
             "last_retested_at_iso": "2020-08-31T02:56:36.319371",
             "status": "INACTIVE"
         },
+        "clicks.traffictrader.net": {
+            "included_at_epoch": 1599879472.506793,
+            "included_at_iso": "2020-09-12T02:57:52.506793",
+            "last_retested_at_epoch": 1599879472.506793,
+            "last_retested_at_iso": "2020-09-12T02:57:52.506793",
+            "status": "INACTIVE"
+        },
         "clicks.unifiedpost.com": {
             "included_at_epoch": 1598842597.051258,
             "included_at_iso": "2020-08-31T02:56:37.051258",

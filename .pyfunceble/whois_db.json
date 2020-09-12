@@ -6399,8 +6399,9 @@
         "state": "future"
     },
     "cpv2tracking.com": {
-        "epoch": 1599782400.0,
-        "expiration_date": "11-sep-2020",
+        "epoch": 1631318400.0,
+        "expiration_date": "11-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "cpvtrack202.com": {
@@ -6426,7 +6427,8 @@
     "cracktracker.net": {
         "epoch": 1599868800.0,
         "expiration_date": "12-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "crackzplanet.com": {
         "epoch": 1617235200.0,
