@@ -28,6 +28,13 @@
             "last_retested_at_iso": "2020-08-31T01:40:08.134719",
             "status": "INACTIVE"
         },
+        "60secondstory.contagiousmedia.org": {
+            "included_at_epoch": 1599875205.464626,
+            "included_at_iso": "2020-09-12T01:46:45.464626",
+            "last_retested_at_epoch": 1599875205.464626,
+            "last_retested_at_iso": "2020-09-12T01:46:45.464626",
+            "status": "INACTIVE"
+        },
         "a.advanstar.com": {
             "included_at_epoch": 1598838008.367794,
             "included_at_iso": "2020-08-31T01:40:08.367794",
