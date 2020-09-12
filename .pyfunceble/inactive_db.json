@@ -56,6 +56,13 @@
             "last_retested_at_iso": "2020-08-31T02:19:23.338736",
             "status": "INACTIVE"
         },
+        "a.macuser.co.uk": {
+            "included_at_epoch": 1599877371.57253,
+            "included_at_iso": "2020-09-12T02:22:51.572530",
+            "last_retested_at_epoch": 1599877371.57253,
+            "last_retested_at_iso": "2020-09-12T02:22:51.572530",
+            "status": "INACTIVE"
+        },
         "a.novartisoncology.us": {
             "included_at_epoch": 1598841401.291449,
             "included_at_iso": "2020-08-31T02:36:41.291449",
@@ -110,6 +117,13 @@
             "included_at_iso": "2020-08-31T01:40:09.478063",
             "last_retested_at_epoch": 1598838009.478063,
             "last_retested_at_iso": "2020-08-31T01:40:09.478063",
+            "status": "INACTIVE"
+        },
+        "ad.hirekmedia.hu": {
+            "included_at_epoch": 1599877363.052661,
+            "included_at_iso": "2020-09-12T02:22:43.052661",
+            "last_retested_at_epoch": 1599877363.052661,
+            "last_retested_at_iso": "2020-09-12T02:22:43.052661",
             "status": "INACTIVE"
         },
         "ad.mediaplex.com": {
@@ -642,6 +656,13 @@
             "included_at_iso": "2020-08-31T02:19:26.072429",
             "last_retested_at_epoch": 1598840366.072429,
             "last_retested_at_iso": "2020-08-31T02:19:26.072429",
+            "status": "INACTIVE"
+        },
+        "analytics.conmio.com": {
+            "included_at_epoch": 1599877372.812712,
+            "included_at_iso": "2020-09-12T02:22:52.812712",
+            "last_retested_at_epoch": 1599877372.812712,
+            "last_retested_at_iso": "2020-09-12T02:22:52.812712",
             "status": "INACTIVE"
         },
         "analytics.fairfax.com.au": {

@@ -821,10 +821,10 @@
         "state": "future"
     },
     "admonitor.com": {
-        "epoch": 1599609600.0,
-        "expiration_date": "09-sep-2020",
+        "epoch": 1631145600.0,
+        "expiration_date": "09-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "adnet-media.net": {
         "epoch": 1607212800.0,
@@ -1029,8 +1029,9 @@
         "state": "future"
     },
     "adultdvdhits.com": {
-        "epoch": 1599868800.0,
-        "expiration_date": "12-sep-2020",
+        "epoch": 1631404800.0,
+        "expiration_date": "12-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adultfriendfinder.com": {
@@ -1670,10 +1671,10 @@
         "state": "past"
     },
     "anallog.com": {
-        "epoch": 1592870400.0,
-        "expiration_date": "23-jun-2020",
+        "epoch": 1631318400.0,
+        "expiration_date": "11-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "analmedia.com": {
         "epoch": 1615334400.0,
@@ -1771,8 +1772,9 @@
         "state": "future"
     },
     "analytiikka.com": {
-        "epoch": 1599782400.0,
-        "expiration_date": "11-sep-2020",
+        "epoch": 1631318400.0,
+        "expiration_date": "11-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "anastatia.com": {
