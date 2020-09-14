@@ -10150,6 +10150,13 @@
             "last_retested_at_iso": "2020-08-29T02:09:40.046169",
             "status": "INACTIVE"
         },
+        "www.loggerx.com": {
+            "included_at_epoch": 1600070973.85302,
+            "included_at_iso": "2020-09-14T08:09:33.853020",
+            "last_retested_at_epoch": 1600070973.85302,
+            "last_retested_at_iso": "2020-09-14T08:09:33.853020",
+            "status": "INACTIVE"
+        },
         "www.logsex.nl": {
             "included_at_epoch": 1598666980.628237,
             "included_at_iso": "2020-08-29T02:09:40.628237",
