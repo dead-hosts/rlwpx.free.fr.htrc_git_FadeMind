@@ -1972,8 +1972,9 @@
         "state": "future"
     },
     "art-traders.com": {
-        "epoch": 1599955200.0,
-        "expiration_date": "13-sep-2020",
+        "epoch": 1631491200.0,
+        "expiration_date": "13-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "artandclic.net": {
@@ -2178,8 +2179,9 @@
         "state": "future"
     },
     "atracks.com.sg": {
-        "epoch": 1600041600.0,
-        "expiration_date": "14-sep-2020",
+        "epoch": 1631577600.0,
+        "expiration_date": "14-sep-2021",
+        "server": "whois.sgnic.sg",
         "state": "future"
     },
     "attestat.info": {
