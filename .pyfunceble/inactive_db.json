@@ -9205,6 +9205,13 @@
             "last_retested_at_iso": "2020-08-29T01:17:30.576306",
             "status": "INACTIVE"
         },
+        "www.buildtrafficx.com": {
+            "included_at_epoch": 1600069901.709213,
+            "included_at_iso": "2020-09-14T07:51:41.709213",
+            "last_retested_at_epoch": 1600069901.709213,
+            "last_retested_at_iso": "2020-09-14T07:51:41.709213",
+            "status": "INACTIVE"
+        },
         "www.butterfly-media.co.uk": {
             "included_at_epoch": 1598663851.383511,
             "included_at_iso": "2020-08-29T01:17:31.383511",
@@ -9373,6 +9380,13 @@
             "last_retested_at_iso": "2020-08-29T01:42:46.406664",
             "status": "INACTIVE"
         },
+        "www.clickeight.com": {
+            "included_at_epoch": 1600069906.751725,
+            "included_at_iso": "2020-09-14T07:51:46.751725",
+            "last_retested_at_epoch": 1600069906.751725,
+            "last_retested_at_iso": "2020-09-14T07:51:46.751725",
+            "status": "INACTIVE"
+        },
         "www.clickfast.co": {
             "included_at_epoch": 1598665366.5185,
             "included_at_iso": "2020-08-29T01:42:46.518500",
@@ -9399,6 +9413,13 @@
             "included_at_iso": "2020-08-29T01:42:47.929708",
             "last_retested_at_epoch": 1598665367.929708,
             "last_retested_at_iso": "2020-08-29T01:42:47.929708",
+            "status": "INACTIVE"
+        },
+        "www.clicksrvr.co": {
+            "included_at_epoch": 1600069908.798379,
+            "included_at_iso": "2020-09-14T07:51:48.798379",
+            "last_retested_at_epoch": 1600069908.798379,
+            "last_retested_at_iso": "2020-09-14T07:51:48.798379",
             "status": "INACTIVE"
         },
         "www.clickthrough.com": {
