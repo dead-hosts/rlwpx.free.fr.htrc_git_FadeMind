@@ -8024,7 +8024,8 @@
     "erotictraffic.com": {
         "epoch": 1600041600.0,
         "expiration_date": "14-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "erotik-click.net": {
         "epoch": 1616457600.0,
