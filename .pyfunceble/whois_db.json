@@ -2423,10 +2423,10 @@
         "state": "future"
     },
     "b3d.com": {
-        "epoch": 1599868800.0,
-        "expiration_date": "12-sep-2020",
+        "epoch": 1631404800.0,
+        "expiration_date": "12-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "bababiz.com": {
         "epoch": 1609977600.0,
@@ -2596,8 +2596,9 @@
         "state": "future"
     },
     "baseballstatistics.com": {
-        "epoch": 1599955200.0,
-        "expiration_date": "13-sep-2020",
+        "epoch": 1631491200.0,
+        "expiration_date": "13-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "basicstat.com": {
@@ -2606,8 +2607,9 @@
         "state": "future"
     },
     "basketballstatistics.com": {
-        "epoch": 1599955200.0,
-        "expiration_date": "13-sep-2020",
+        "epoch": 1631491200.0,
+        "expiration_date": "13-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "basstrackerboat.com": {
@@ -2998,8 +3000,9 @@
         "state": "future"
     },
     "bingorank.com": {
-        "epoch": 1599955200.0,
-        "expiration_date": "13-sep-2020",
+        "epoch": 1631491200.0,
+        "expiration_date": "13-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "bionicclick.com": {
