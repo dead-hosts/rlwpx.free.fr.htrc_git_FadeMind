@@ -11032,6 +11032,13 @@
             "last_retested_at_iso": "2020-08-29T02:57:48.304454",
             "status": "INACTIVE"
         },
+        "www.u-cookie.com": {
+            "included_at_epoch": 1600072835.618889,
+            "included_at_iso": "2020-09-14T08:40:35.618889",
+            "last_retested_at_epoch": 1600072835.618889,
+            "last_retested_at_iso": "2020-09-14T08:40:35.618889",
+            "status": "INACTIVE"
+        },
         "www.unlimiclick.com": {
             "included_at_epoch": 1598669869.683858,
             "included_at_iso": "2020-08-29T02:57:49.683858",
