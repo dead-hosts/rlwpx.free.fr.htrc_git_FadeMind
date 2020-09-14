@@ -1617,6 +1617,13 @@
             "last_retested_at_iso": "2020-09-06T02:57:36.547399",
             "status": "INACTIVE"
         },
+        "clicksrvr.co": {
+            "included_at_epoch": 1600052909.890972,
+            "included_at_iso": "2020-09-14T03:08:29.890972",
+            "last_retested_at_epoch": 1600052909.890972,
+            "last_retested_at_iso": "2020-09-14T03:08:29.890972",
+            "status": "INACTIVE"
+        },
         "clicktracks.barrystickets.com": {
             "included_at_epoch": 1598842597.711697,
             "included_at_iso": "2020-08-31T02:56:37.711697",
