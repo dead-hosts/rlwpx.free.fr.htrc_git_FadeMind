@@ -2674,6 +2674,13 @@
             "last_retested_at_iso": "2020-08-31T05:15:45.245428",
             "status": "INACTIVE"
         },
+        "hardcorexrated.com": {
+            "included_at_epoch": 1600060193.230781,
+            "included_at_iso": "2020-09-14T05:09:53.230781",
+            "last_retested_at_epoch": 1600060193.230781,
+            "last_retested_at_iso": "2020-09-14T05:09:53.230781",
+            "status": "INACTIVE"
+        },
         "hardcranks.com": {
             "included_at_epoch": 1598850945.684041,
             "included_at_iso": "2020-08-31T05:15:45.684041",
@@ -3064,6 +3071,13 @@
             "included_at_iso": "2020-08-31T05:33:22.050150",
             "last_retested_at_epoch": 1598852002.05015,
             "last_retested_at_iso": "2020-08-31T05:33:22.050150",
+            "status": "INACTIVE"
+        },
+        "jclic.clicapplic.net": {
+            "included_at_epoch": 1600060212.608225,
+            "included_at_iso": "2020-09-14T05:10:12.608225",
+            "last_retested_at_epoch": 1600060212.608225,
+            "last_retested_at_iso": "2020-09-14T05:10:12.608225",
             "status": "INACTIVE"
         },
         "jcollegehumor.cjt1.net": {
