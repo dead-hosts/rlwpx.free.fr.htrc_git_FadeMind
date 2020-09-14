@@ -10682,6 +10682,13 @@
             "last_retested_at_iso": "2020-08-29T02:37:35.134184",
             "status": "INACTIVE"
         },
+        "www.servustats.com": {
+            "included_at_epoch": 1600072035.696353,
+            "included_at_iso": "2020-09-14T08:27:15.696353",
+            "last_retested_at_epoch": 1600072035.696353,
+            "last_retested_at_iso": "2020-09-14T08:27:15.696353",
+            "status": "INACTIVE"
+        },
         "www.sexclicker.com": {
             "included_at_epoch": 1598668655.888651,
             "included_at_iso": "2020-08-29T02:37:35.888651",
