@@ -9177,6 +9177,13 @@
             "last_retested_at_iso": "2020-08-29T01:17:24.144339",
             "status": "INACTIVE"
         },
+        "www.assure-le.com": {
+            "included_at_epoch": 1600242003.992552,
+            "included_at_iso": "2020-09-16T07:40:03.992552",
+            "last_retested_at_epoch": 1600242003.992552,
+            "last_retested_at_iso": "2020-09-16T07:40:03.992552",
+            "status": "INACTIVE"
+        },
         "www.autodialer.net": {
             "included_at_epoch": 1598663845.177428,
             "included_at_iso": "2020-08-29T01:17:25.177428",
