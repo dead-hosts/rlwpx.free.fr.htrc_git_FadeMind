@@ -23648,8 +23648,9 @@
         "state": "future"
     },
     "torrus.org": {
-        "epoch": 1600214400.0,
-        "expiration_date": "16-sep-2020",
+        "epoch": 1663286400.0,
+        "expiration_date": "16-sep-2022",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "tossntrack.com": {
@@ -24401,7 +24402,8 @@
     "tradesinvest.com": {
         "epoch": 1600214400.0,
         "expiration_date": "16-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "tradeskilljobs.com": {
         "epoch": 1600732800.0,
@@ -24653,8 +24655,9 @@
         "state": "past"
     },
     "trafficblog.info": {
-        "epoch": 1600128000.0,
-        "expiration_date": "15-sep-2020",
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "trafficbox.net": {
