@@ -10402,6 +10402,13 @@
             "last_retested_at_iso": "2020-08-29T02:37:13.883151",
             "status": "INACTIVE"
         },
+        "www.mindclickgroup.com": {
+            "included_at_epoch": 1600244137.29613,
+            "included_at_iso": "2020-09-16T08:15:37.296130",
+            "last_retested_at_epoch": 1600244137.29613,
+            "last_retested_at_iso": "2020-09-16T08:15:37.296130",
+            "status": "INACTIVE"
+        },
         "www.mixtraffic.com": {
             "included_at_epoch": 1598668634.342542,
             "included_at_iso": "2020-08-29T02:37:14.342542",
@@ -10743,6 +10750,13 @@
             "included_at_iso": "2020-08-29T02:37:33.866046",
             "last_retested_at_epoch": 1598668653.866046,
             "last_retested_at_iso": "2020-08-29T02:37:33.866046",
+            "status": "INACTIVE"
+        },
+        "www.screensaver.it": {
+            "included_at_epoch": 1600244155.025128,
+            "included_at_iso": "2020-09-16T08:15:55.025128",
+            "last_retested_at_epoch": 1600244155.025128,
+            "last_retested_at_iso": "2020-09-16T08:15:55.025128",
             "status": "INACTIVE"
         },
         "www.search-itnow.com": {
