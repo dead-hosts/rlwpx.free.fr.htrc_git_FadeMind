@@ -154,6 +154,13 @@
             "last_retested_at_iso": "2020-08-31T02:19:18.564576",
             "status": "INACTIVE"
         },
+        "ad.track.us.org": {
+            "included_at_epoch": 1600223073.176686,
+            "included_at_iso": "2020-09-16T02:24:33.176686",
+            "last_retested_at_epoch": 1600223073.176686,
+            "last_retested_at_iso": "2020-09-16T02:24:33.176686",
+            "status": "INACTIVE"
+        },
         "ad.zompmedia.com": {
             "included_at_epoch": 1598840360.871729,
             "included_at_iso": "2020-08-31T02:19:20.871729",
@@ -341,6 +348,13 @@
             "included_at_iso": "2020-08-31T02:19:17.378917",
             "last_retested_at_epoch": 1598840357.378917,
             "last_retested_at_iso": "2020-08-31T02:19:17.378917",
+            "status": "INACTIVE"
+        },
+        "ads.reduxmediagroup.com": {
+            "included_at_epoch": 1600223072.264793,
+            "included_at_iso": "2020-09-16T02:24:32.264793",
+            "last_retested_at_epoch": 1600223072.264793,
+            "last_retested_at_iso": "2020-09-16T02:24:32.264793",
             "status": "INACTIVE"
         },
         "ads.seattletimes.com": {
