@@ -98,6 +98,13 @@
             "last_retested_at_iso": "2020-08-31T01:40:08.628072",
             "status": "INACTIVE"
         },
+        "action.logger.baofeng.com": {
+            "included_at_epoch": 1600220921.953438,
+            "included_at_iso": "2020-09-16T01:48:41.953438",
+            "last_retested_at_epoch": 1600220921.953438,
+            "last_retested_at_iso": "2020-09-16T01:48:41.953438",
+            "status": "INACTIVE"
+        },
         "active.macromedia.com": {
             "included_at_epoch": 1598838008.929887,
             "included_at_iso": "2020-08-31T01:40:08.929887",
