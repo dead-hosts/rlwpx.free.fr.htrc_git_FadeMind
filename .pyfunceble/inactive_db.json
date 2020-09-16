@@ -2618,6 +2618,13 @@
             "last_retested_at_iso": "2020-08-31T04:58:25.695489",
             "status": "INACTIVE"
         },
+        "gayrank.com": {
+            "included_at_epoch": 1600231439.061339,
+            "included_at_iso": "2020-09-16T04:43:59.061339",
+            "last_retested_at_epoch": 1600231439.061339,
+            "last_retested_at_iso": "2020-09-16T04:43:59.061339",
+            "status": "INACTIVE"
+        },
         "gayranking.com": {
             "included_at_epoch": 1599022627.165298,
             "included_at_iso": "2020-09-02T04:57:07.165298",
