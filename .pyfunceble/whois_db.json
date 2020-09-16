@@ -19810,10 +19810,10 @@
         "state": "future"
     },
     "rvptracker.com": {
-        "epoch": 1600041600.0,
-        "expiration_date": "14-sep-2020",
+        "epoch": 1631577600.0,
+        "expiration_date": "14-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "rvstorageorangecounty.com": {
         "epoch": 1638316800.0,
@@ -20990,8 +20990,9 @@
         "state": "future"
     },
     "shitmate.com": {
-        "epoch": 1600128000.0,
-        "expiration_date": "15-sep-2020",
+        "epoch": 1631664000.0,
+        "expiration_date": "15-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "shitoryukaratedo.com": {
