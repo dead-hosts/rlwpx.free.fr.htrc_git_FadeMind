@@ -1050,6 +1050,13 @@
             "last_retested_at_iso": "2020-08-31T02:36:51.981134",
             "status": "INACTIVE"
         },
+        "banners.affiliatefuel.com": {
+            "included_at_epoch": 1600224123.744447,
+            "included_at_iso": "2020-09-16T02:42:03.744447",
+            "last_retested_at_epoch": 1600224123.744447,
+            "last_retested_at_iso": "2020-09-16T02:42:03.744447",
+            "status": "INACTIVE"
+        },
         "banners.cartrackers.com": {
             "included_at_epoch": 1598841412.298462,
             "included_at_iso": "2020-08-31T02:36:52.298462",
