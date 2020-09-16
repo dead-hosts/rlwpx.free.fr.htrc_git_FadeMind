@@ -3003,6 +3003,13 @@
             "last_retested_at_iso": "2020-08-31T05:16:01.742212",
             "status": "INACTIVE"
         },
+        "img.appmedia.cn": {
+            "included_at_epoch": 1600232488.97693,
+            "included_at_iso": "2020-09-16T05:01:28.976930",
+            "last_retested_at_epoch": 1600232488.97693,
+            "last_retested_at_iso": "2020-09-16T05:01:28.976930",
+            "status": "INACTIVE"
+        },
         "img.mediaplex.com": {
             "included_at_epoch": 1598850962.110648,
             "included_at_iso": "2020-08-31T05:16:02.110648",
