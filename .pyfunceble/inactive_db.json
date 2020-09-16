@@ -11270,6 +11270,13 @@
             "last_retested_at_iso": "2020-08-29T02:57:55.939582",
             "status": "INACTIVE"
         },
+        "www.wwg1.com": {
+            "included_at_epoch": 1600245023.823025,
+            "included_at_iso": "2020-09-16T08:30:23.823025",
+            "last_retested_at_epoch": 1600245023.823025,
+            "last_retested_at_iso": "2020-09-16T08:30:23.823025",
+            "status": "INACTIVE"
+        },
         "www.x-ratedadult.com": {
             "included_at_epoch": 1599899485.330255,
             "included_at_iso": "2020-09-12T08:31:25.330255",
@@ -12059,6 +12066,13 @@
             "included_at_iso": "2020-08-29T02:58:08.593715",
             "last_retested_at_epoch": 1598669888.593715,
             "last_retested_at_iso": "2020-08-29T02:58:08.593715",
+            "status": "INACTIVE"
+        },
+        "xxxsexclicks.com": {
+            "included_at_epoch": 1600245034.010541,
+            "included_at_iso": "2020-09-16T08:30:34.010541",
+            "last_retested_at_epoch": 1600245034.010541,
+            "last_retested_at_iso": "2020-09-16T08:30:34.010541",
             "status": "INACTIVE"
         },
         "xxxtraffic.org": {
