@@ -1470,6 +1470,13 @@
             "last_retested_at_iso": "2020-08-31T02:56:33.811075",
             "status": "INACTIVE"
         },
+        "click.ipc.ru": {
+            "included_at_epoch": 1600225171.921992,
+            "included_at_iso": "2020-09-16T02:59:31.921992",
+            "last_retested_at_epoch": 1600225171.921992,
+            "last_retested_at_iso": "2020-09-16T02:59:31.921992",
+            "status": "INACTIVE"
+        },
         "click.loudgames.com": {
             "included_at_epoch": 1598842594.435785,
             "included_at_iso": "2020-08-31T02:56:34.435785",
