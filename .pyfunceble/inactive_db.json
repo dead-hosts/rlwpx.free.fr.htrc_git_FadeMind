@@ -4963,6 +4963,13 @@
             "last_retested_at_iso": "2020-08-31T05:51:24.222676",
             "status": "INACTIVE"
         },
+        "mobile-stat.acgvideo.com": {
+            "included_at_epoch": 1600234591.621016,
+            "included_at_iso": "2020-09-16T05:36:31.621016",
+            "last_retested_at_epoch": 1600234591.621016,
+            "last_retested_at_iso": "2020-09-16T05:36:31.621016",
+            "status": "INACTIVE"
+        },
         "mojofarm.mediaplex.com": {
             "included_at_epoch": 1598853084.693313,
             "included_at_iso": "2020-08-31T05:51:24.693313",
