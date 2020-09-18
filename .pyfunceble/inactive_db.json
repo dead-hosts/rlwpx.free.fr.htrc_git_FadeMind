@@ -2317,6 +2317,13 @@
             "last_retested_at_iso": "2020-08-31T04:40:55.009269",
             "status": "INACTIVE"
         },
+        "epokertraffic.com": {
+            "included_at_epoch": 1600404200.81281,
+            "included_at_iso": "2020-09-18T04:43:20.812810",
+            "last_retested_at_epoch": 1600404200.81281,
+            "last_retested_at_iso": "2020-09-18T04:43:20.812810",
+            "status": "INACTIVE"
+        },
         "erohits.nl": {
             "included_at_epoch": 1598848856.373424,
             "included_at_iso": "2020-08-31T04:40:56.373424",
