@@ -10822,6 +10822,13 @@
             "last_retested_at_iso": "2020-08-29T02:37:32.071762",
             "status": "INACTIVE"
         },
+        "www.roogoo.com": {
+            "included_at_epoch": 1600416884.237434,
+            "included_at_iso": "2020-09-18T08:14:44.237434",
+            "last_retested_at_epoch": 1600416884.237434,
+            "last_retested_at_iso": "2020-09-18T08:14:44.237434",
+            "status": "INACTIVE"
+        },
         "www.scanspyware.net": {
             "included_at_epoch": 1598668653.866046,
             "included_at_iso": "2020-08-29T02:37:33.866046",
@@ -10834,6 +10841,13 @@
             "included_at_iso": "2020-09-16T08:15:55.025128",
             "last_retested_at_epoch": 1600244155.025128,
             "last_retested_at_iso": "2020-09-16T08:15:55.025128",
+            "status": "INACTIVE"
+        },
+        "www.scriptsbank.com": {
+            "included_at_epoch": 1600416885.467065,
+            "included_at_iso": "2020-09-18T08:14:45.467065",
+            "last_retested_at_epoch": 1600416885.467065,
+            "last_retested_at_iso": "2020-09-18T08:14:45.467065",
             "status": "INACTIVE"
         },
         "www.search-itnow.com": {
