@@ -12633,10 +12633,10 @@
         "state": "future"
     },
     "k-hitoduma.com": {
-        "epoch": 1593388800.0,
-        "expiration_date": "29-jun-2020",
+        "epoch": 1631836800.0,
+        "expiration_date": "17-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "k9media.com": {
         "epoch": 1611705600.0,
@@ -12883,7 +12883,8 @@
     "lamiaexragazza.com": {
         "epoch": 1600300800.0,
         "expiration_date": "17-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "landinghall.com": {
         "epoch": 1622332800.0,
@@ -13026,8 +13027,9 @@
         "state": "future"
     },
     "lefthit.com": {
-        "epoch": 1600387200.0,
-        "expiration_date": "18-sep-2020",
+        "epoch": 1631923200.0,
+        "expiration_date": "18-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "legendmediapros.com": {
@@ -13645,8 +13647,9 @@
         "state": "future"
     },
     "lustmedia.com": {
-        "epoch": 1600387200.0,
-        "expiration_date": "18-sep-2020",
+        "epoch": 1631923200.0,
+        "expiration_date": "18-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "lvivmedia.com": {
