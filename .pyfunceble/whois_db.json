@@ -10125,8 +10125,9 @@
         "state": "future"
     },
     "gostats.pl": {
-        "epoch": 1600387200.0,
-        "expiration_date": "18-sep-2020",
+        "epoch": 1631923200.0,
+        "expiration_date": "18-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "gostats.ro": {
@@ -10230,8 +10231,9 @@
         "state": "future"
     },
     "greatermediaboston.com": {
-        "epoch": 1600387200.0,
-        "expiration_date": "18-sep-2020",
+        "epoch": 1631923200.0,
+        "expiration_date": "18-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "greatwebhits.com": {
@@ -10450,8 +10452,9 @@
         "state": "future"
     },
     "hdsexmedia.com": {
-        "epoch": 1600387200.0,
-        "expiration_date": "18-sep-2020",
+        "epoch": 1631923200.0,
+        "expiration_date": "18-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "hellogay.com": {
@@ -10663,10 +10666,10 @@
         "state": "future"
     },
     "hitapex.com": {
-        "epoch": 1600214400.0,
-        "expiration_date": "16-sep-2020",
+        "epoch": 1631750400.0,
+        "expiration_date": "16-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "hitass.com": {
         "epoch": 1613174400.0,
@@ -11063,10 +11066,10 @@
         "state": "future"
     },
     "hitomise5.com": {
-        "epoch": 1593388800.0,
-        "expiration_date": "29-jun-2020",
+        "epoch": 1631836800.0,
+        "expiration_date": "17-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "hitorama.com": {
         "epoch": 1600992000.0,
