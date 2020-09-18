@@ -11067,6 +11067,13 @@
             "last_retested_at_iso": "2020-08-29T02:57:39.438949",
             "status": "INACTIVE"
         },
+        "www.sxtracking.com": {
+            "included_at_epoch": 1600417921.491594,
+            "included_at_iso": "2020-09-18T08:32:01.491594",
+            "last_retested_at_epoch": 1600417921.491594,
+            "last_retested_at_iso": "2020-09-18T08:32:01.491594",
+            "status": "INACTIVE"
+        },
         "www.teenagexrated.com": {
             "included_at_epoch": 1598669860.432423,
             "included_at_iso": "2020-08-29T02:57:40.432423",
@@ -11086,6 +11093,13 @@
             "included_at_iso": "2020-08-29T02:57:40.660824",
             "last_retested_at_epoch": 1598669860.660824,
             "last_retested_at_iso": "2020-08-29T02:57:40.660824",
+            "status": "INACTIVE"
+        },
+        "www.thebestsolver.com": {
+            "included_at_epoch": 1600417922.901642,
+            "included_at_iso": "2020-09-18T08:32:02.901642",
+            "last_retested_at_epoch": 1600417922.901642,
+            "last_retested_at_iso": "2020-09-18T08:32:02.901642",
             "status": "INACTIVE"
         },
         "www.thebighits.com": {
@@ -11233,6 +11247,13 @@
             "included_at_iso": "2020-08-29T02:57:48.304454",
             "last_retested_at_epoch": 1598669868.304454,
             "last_retested_at_iso": "2020-08-29T02:57:48.304454",
+            "status": "INACTIVE"
+        },
+        "www.trankera.org": {
+            "included_at_epoch": 1600417929.416477,
+            "included_at_iso": "2020-09-18T08:32:09.416477",
+            "last_retested_at_epoch": 1600417929.416477,
+            "last_retested_at_iso": "2020-09-18T08:32:09.416477",
             "status": "INACTIVE"
         },
         "www.u-cookie.com": {
