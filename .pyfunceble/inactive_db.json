@@ -7483,6 +7483,13 @@
             "last_retested_at_iso": "2020-08-28T23:53:27.107470",
             "status": "INACTIVE"
         },
+        "stat.eol.cn": {
+            "included_at_epoch": 1600410545.140632,
+            "included_at_iso": "2020-09-18T06:29:05.140632",
+            "last_retested_at_epoch": 1600410545.140632,
+            "last_retested_at_iso": "2020-09-18T06:29:05.140632",
+            "status": "INACTIVE"
+        },
         "stat.hudong.com": {
             "included_at_epoch": 1598658807.402769,
             "included_at_iso": "2020-08-28T23:53:27.402769",
@@ -7810,6 +7817,20 @@
             "included_at_iso": "2020-08-28T23:53:35.954291",
             "last_retested_at_epoch": 1598658815.954291,
             "last_retested_at_iso": "2020-08-28T23:53:35.954291",
+            "status": "INACTIVE"
+        },
+        "stats1.tune.pk": {
+            "included_at_epoch": 1600410546.956367,
+            "included_at_iso": "2020-09-18T06:29:06.956367",
+            "last_retested_at_epoch": 1600410546.956367,
+            "last_retested_at_iso": "2020-09-18T06:29:06.956367",
+            "status": "INACTIVE"
+        },
+        "stats2.mitsil.com": {
+            "included_at_epoch": 1600410547.284388,
+            "included_at_iso": "2020-09-18T06:29:07.284388",
+            "last_retested_at_epoch": 1600410547.284388,
+            "last_retested_at_iso": "2020-09-18T06:29:07.284388",
             "status": "INACTIVE"
         },
         "steenhouleergraag.timetrackingweb.com": {
