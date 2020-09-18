@@ -2889,8 +2889,9 @@
         "state": "future"
     },
     "bidstats.com": {
-        "epoch": 1600387200.0,
-        "expiration_date": "18-sep-2020",
+        "epoch": 1631923200.0,
+        "expiration_date": "18-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "bidsystem.com": {
@@ -3037,7 +3038,8 @@
     "blackgoldtrade.com": {
         "epoch": 1600387200.0,
         "expiration_date": "18-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "blacklightmedia.com": {
         "epoch": 1618012800.0,
@@ -3212,8 +3214,9 @@
         "state": "future"
     },
     "bm23.com": {
-        "epoch": 1600387200.0,
-        "expiration_date": "18-sep-2020",
+        "epoch": 1631923200.0,
+        "expiration_date": "18-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "bmediainc.com": {
@@ -4039,7 +4042,8 @@
     "castletracker.com": {
         "epoch": 1600387200.0,
         "expiration_date": "18-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "castromedia.com": {
         "epoch": 1614470400.0,

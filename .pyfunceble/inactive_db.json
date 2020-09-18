@@ -833,6 +833,13 @@
             "last_retested_at_iso": "2020-08-31T02:36:44.374982",
             "status": "INACTIVE"
         },
+        "arti-mediagroup.com": {
+            "included_at_epoch": 1600396915.222133,
+            "included_at_iso": "2020-09-18T02:41:55.222133",
+            "last_retested_at_epoch": 1600396915.222133,
+            "last_retested_at_iso": "2020-09-18T02:41:55.222133",
+            "status": "INACTIVE"
+        },
         "artworkmedia.ru": {
             "included_at_epoch": 1598841404.64309,
             "included_at_iso": "2020-08-31T02:36:44.643090",
@@ -1034,6 +1041,13 @@
             "included_at_iso": "2020-08-31T02:36:49.660138",
             "last_retested_at_epoch": 1598841409.660138,
             "last_retested_at_iso": "2020-08-31T02:36:49.660138",
+            "status": "INACTIVE"
+        },
+        "baltimorecountypubliclibrary.com": {
+            "included_at_epoch": 1600396918.870534,
+            "included_at_iso": "2020-09-18T02:41:58.870534",
+            "last_retested_at_epoch": 1600396918.870534,
+            "last_retested_at_iso": "2020-09-18T02:41:58.870534",
             "status": "INACTIVE"
         },
         "banner.0catch.com": {
