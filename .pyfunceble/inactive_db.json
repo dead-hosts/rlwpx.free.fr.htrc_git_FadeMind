@@ -238,6 +238,13 @@
             "last_retested_at_iso": "2020-08-31T02:19:14.652218",
             "status": "INACTIVE"
         },
+        "adp.whoclick.cn": {
+            "included_at_epoch": 1600395879.714655,
+            "included_at_iso": "2020-09-18T02:24:39.714655",
+            "last_retested_at_epoch": 1600395879.714655,
+            "last_retested_at_iso": "2020-09-18T02:24:39.714655",
+            "status": "INACTIVE"
+        },
         "ads.adonion.com": {
             "included_at_epoch": 1598840355.508376,
             "included_at_iso": "2020-08-31T02:19:15.508376",
@@ -782,6 +789,13 @@
             "included_at_iso": "2020-08-31T02:36:43.234913",
             "last_retested_at_epoch": 1598841403.234913,
             "last_retested_at_iso": "2020-08-31T02:36:43.234913",
+            "status": "INACTIVE"
+        },
+        "apf.whoclick.cn": {
+            "included_at_epoch": 1600395891.418291,
+            "included_at_iso": "2020-09-18T02:24:51.418291",
+            "last_retested_at_epoch": 1600395891.418291,
+            "last_retested_at_iso": "2020-09-18T02:24:51.418291",
             "status": "INACTIVE"
         },
         "app.desktop.ak-networks.com": {
