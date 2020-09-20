@@ -10782,7 +10782,8 @@
     "hitcountermaster.com": {
         "epoch": 1600560000.0,
         "expiration_date": "20-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "hitcountersonline.com": {
         "epoch": 1618012800.0,
@@ -10911,8 +10912,9 @@
         "state": "future"
     },
     "hitgram.com": {
-        "epoch": 1600560000.0,
-        "expiration_date": "20-sep-2020",
+        "epoch": 1632096000.0,
+        "expiration_date": "20-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "hithammer.com": {
@@ -11603,8 +11605,9 @@
         "state": "future"
     },
     "htmlcounter.com": {
-        "epoch": 1600473600.0,
-        "expiration_date": "19-sep-2020",
+        "epoch": 1632009600.0,
+        "expiration_date": "19-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "hugetraffic.com": {
