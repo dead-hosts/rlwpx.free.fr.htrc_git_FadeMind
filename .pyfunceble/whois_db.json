@@ -777,8 +777,9 @@
         "state": "future"
     },
     "adleadevent.com": {
-        "epoch": 1600560000.0,
-        "expiration_date": "20-sep-2020",
+        "epoch": 1632096000.0,
+        "expiration_date": "20-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adlegend.com": {
@@ -837,7 +838,8 @@
     "adorigin.com": {
         "epoch": 1600473600.0,
         "expiration_date": "19-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "adprimemedia.com": {
         "epoch": 1627344000.0,
@@ -1345,8 +1347,9 @@
         "state": "future"
     },
     "agstracker.com": {
-        "epoch": 1600560000.0,
-        "expiration_date": "20-sep-2020",
+        "epoch": 1606608000.0,
+        "expiration_date": "29-nov-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "aim4media.com": {
@@ -1691,10 +1694,10 @@
         "state": "future"
     },
     "analog2digital.com": {
-        "epoch": 1600387200.0,
-        "expiration_date": "18-sep-2020",
+        "epoch": 1631923200.0,
+        "expiration_date": "18-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "analogbit.com": {
         "epoch": 1614038400.0,
