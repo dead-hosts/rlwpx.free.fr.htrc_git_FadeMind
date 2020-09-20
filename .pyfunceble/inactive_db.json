@@ -3633,6 +3633,13 @@
             "last_retested_at_iso": "2020-08-31T05:33:31.754337",
             "status": "INACTIVE"
         },
+        "kondratev.popunder.ru": {
+            "included_at_epoch": 1600579109.415958,
+            "included_at_iso": "2020-09-20T05:18:29.415958",
+            "last_retested_at_epoch": 1600579109.415958,
+            "last_retested_at_iso": "2020-09-20T05:18:29.415958",
+            "status": "INACTIVE"
+        },
         "kraterya.mylivepage.com": {
             "included_at_epoch": 1598852012.052362,
             "included_at_iso": "2020-08-31T05:33:32.052362",
