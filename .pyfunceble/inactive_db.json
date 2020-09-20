@@ -11361,6 +11361,13 @@
             "last_retested_at_iso": "2020-08-29T02:57:51.393834",
             "status": "INACTIVE"
         },
+        "www.vivimedia.com": {
+            "included_at_epoch": 1600590592.268824,
+            "included_at_iso": "2020-09-20T08:29:52.268824",
+            "last_retested_at_epoch": 1600590592.268824,
+            "last_retested_at_iso": "2020-09-20T08:29:52.268824",
+            "status": "INACTIVE"
+        },
         "www.vivo7.com": {
             "included_at_epoch": 1598669871.743075,
             "included_at_iso": "2020-08-29T02:57:51.743075",

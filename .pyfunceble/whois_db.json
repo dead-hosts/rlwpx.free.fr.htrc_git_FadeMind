@@ -27562,7 +27562,8 @@
     "xratedhost.com": {
         "epoch": 1600560000.0,
         "expiration_date": "20-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "xratedhostz.com": {
         "epoch": 1615161600.0,
@@ -27657,8 +27658,9 @@
         "state": "future"
     },
     "xratedpornos.com": {
-        "epoch": 1600473600.0,
-        "expiration_date": "19-sep-2020",
+        "epoch": 1632009600.0,
+        "expiration_date": "19-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "xratedpornothumbs.com": {
@@ -27704,10 +27706,10 @@
         "state": "future"
     },
     "xratedstar.com": {
-        "epoch": 1600387200.0,
-        "expiration_date": "18-sep-2020",
+        "epoch": 1631923200.0,
+        "expiration_date": "18-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "xratedstore.com": {
         "epoch": 1607212800.0,
@@ -27995,8 +27997,9 @@
         "state": "future"
     },
     "xxxratedpussy.com": {
-        "epoch": 1600473600.0,
-        "expiration_date": "19-sep-2020",
+        "epoch": 1632009600.0,
+        "expiration_date": "19-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "xxxratedsex.com": {
@@ -28041,10 +28044,10 @@
         "state": "future"
     },
     "xxxwebtraffic.com": {
-        "epoch": 1600387200.0,
-        "expiration_date": "18-sep-2020",
+        "epoch": 1631923200.0,
+        "expiration_date": "18-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "xxxxrated.net": {
         "epoch": 1621036800.0,
@@ -28140,8 +28143,9 @@
         "state": "future"
     },
     "yourclick.com": {
-        "epoch": 1600560000.0,
-        "expiration_date": "20-sep-2020",
+        "epoch": 1632096000.0,
+        "expiration_date": "20-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "yourcounty4sale.com": {
