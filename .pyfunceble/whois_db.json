@@ -18493,10 +18493,10 @@
         "state": "future"
     },
     "rank7.net": {
-        "epoch": 1600387200.0,
-        "expiration_date": "18-sep-2020",
+        "epoch": 1631923200.0,
+        "expiration_date": "18-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "rankabooty.com": {
         "epoch": 1588464000.0,
@@ -18663,7 +18663,8 @@
     "rapehit.com": {
         "epoch": 1600560000.0,
         "expiration_date": "20-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "rapehits.com": {
         "epoch": 1623283200.0,
@@ -19982,8 +19983,9 @@
         "state": "future"
     },
     "savebotstat.com": {
-        "epoch": 1600560000.0,
-        "expiration_date": "20-sep-2020",
+        "epoch": 1632096000.0,
+        "expiration_date": "20-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "savehits.com": {
