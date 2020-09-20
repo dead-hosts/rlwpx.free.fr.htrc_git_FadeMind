@@ -16295,10 +16295,10 @@
         "state": "future"
     },
     "nichetrades.com": {
-        "epoch": 1600387200.0,
-        "expiration_date": "18-sep-2020",
+        "epoch": 1631923200.0,
+        "expiration_date": "18-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "nichetrafficticket.com": {
         "epoch": 1588118400.0,
@@ -16687,8 +16687,9 @@
         "state": "future"
     },
     "oneclickpartyvideos.com": {
-        "epoch": 1600560000.0,
-        "expiration_date": "20-sep-2020",
+        "epoch": 1632096000.0,
+        "expiration_date": "20-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "oneclickpass.com": {
@@ -16729,8 +16730,9 @@
         "state": "future"
     },
     "oneclickvicky.com": {
-        "epoch": 1600560000.0,
-        "expiration_date": "20-sep-2020",
+        "epoch": 1632096000.0,
+        "expiration_date": "20-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "oneclickwebcams.com": {
@@ -16852,7 +16854,8 @@
     "oopstopia.com": {
         "epoch": 1600560000.0,
         "expiration_date": "20-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "opasi.com": {
         "epoch": 1604793600.0,
@@ -16966,7 +16969,8 @@
     "orratech.com": {
         "epoch": 1600560000.0,
         "expiration_date": "20-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "ostelogen.dk": {
         "epoch": 1604102400.0,
@@ -17793,7 +17797,8 @@
     "pornokrates.com": {
         "epoch": 1600560000.0,
         "expiration_date": "20-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "pornorank.com": {
         "epoch": 1627948800.0,
@@ -17808,8 +17813,9 @@
         "state": "future"
     },
     "pornotracks.com": {
-        "epoch": 1600473600.0,
-        "expiration_date": "19-sep-2020",
+        "epoch": 1632009600.0,
+        "expiration_date": "19-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "pornrater.com": {
