@@ -7954,8 +7954,9 @@
         "state": "future"
     },
     "entouchmedia.com": {
-        "epoch": 1600560000.0,
-        "expiration_date": "20-sep-2020",
+        "epoch": 1632096000.0,
+        "expiration_date": "20-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "envisioninfomedia.com": {
@@ -8440,10 +8441,10 @@
         "state": "future"
     },
     "ezcount.net": {
-        "epoch": 1600387200.0,
-        "expiration_date": "18-sep-2020",
+        "epoch": 1631923200.0,
+        "expiration_date": "18-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "ezhits4u.com": {
         "epoch": 1603670400.0,
