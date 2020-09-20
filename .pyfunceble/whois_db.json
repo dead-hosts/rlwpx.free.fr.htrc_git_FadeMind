@@ -4684,7 +4684,8 @@
     "clickateen.com": {
         "epoch": 1600560000.0,
         "expiration_date": "20-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "clickaudit.com": {
         "epoch": 1620432000.0,
@@ -5110,8 +5111,9 @@
         "state": "future"
     },
     "clickheretoexit.com": {
-        "epoch": 1600560000.0,
-        "expiration_date": "20-sep-2020",
+        "epoch": 1632096000.0,
+        "expiration_date": "20-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "clickheretoleave.com": {

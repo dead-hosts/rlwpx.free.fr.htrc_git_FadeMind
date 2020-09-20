@@ -1561,6 +1561,13 @@
             "last_retested_at_iso": "2020-08-31T02:56:30.936119",
             "status": "INACTIVE"
         },
+        "clickcash.webpower.com": {
+            "included_at_epoch": 1600570765.811498,
+            "included_at_iso": "2020-09-20T02:59:25.811498",
+            "last_retested_at_epoch": 1600570765.811498,
+            "last_retested_at_iso": "2020-09-20T02:59:25.811498",
+            "status": "INACTIVE"
+        },
         "clickcashmoney.biz": {
             "included_at_epoch": 1598842591.97024,
             "included_at_iso": "2020-08-31T02:56:31.970240",
