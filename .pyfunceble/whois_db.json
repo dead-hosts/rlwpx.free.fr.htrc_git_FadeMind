@@ -14121,7 +14121,8 @@
     "media-servers.net": {
         "epoch": 1600473600.0,
         "expiration_date": "19-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "media-solution.ru": {
         "epoch": 1622678400.0,
@@ -14887,10 +14888,10 @@
         "state": "future"
     },
     "mediatalo.info": {
-        "epoch": 1600387200.0,
-        "expiration_date": "18-sep-2020",
+        "epoch": 1631923200.0,
+        "expiration_date": "18-sep-2021",
         "server": "whois.afilias.net",
-        "state": "past"
+        "state": "future"
     },
     "mediataskmaster.com": {
         "epoch": 1677024000.0,
