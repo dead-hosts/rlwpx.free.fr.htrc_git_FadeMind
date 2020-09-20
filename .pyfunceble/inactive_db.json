@@ -8155,6 +8155,27 @@
             "last_retested_at_iso": "2020-09-20T06:48:07.803120",
             "status": "INACTIVE"
         },
+        "tr.mp.infomanageo.fr": {
+            "included_at_epoch": 1600585524.200062,
+            "included_at_iso": "2020-09-20T07:05:24.200062",
+            "last_retested_at_epoch": 1600585524.200062,
+            "last_retested_at_iso": "2020-09-20T07:05:24.200062",
+            "status": "INACTIVE"
+        },
+        "tr.news-professionnels.fr": {
+            "included_at_epoch": 1600585524.25319,
+            "included_at_iso": "2020-09-20T07:05:24.253190",
+            "last_retested_at_epoch": 1600585524.25319,
+            "last_retested_at_iso": "2020-09-20T07:05:24.253190",
+            "status": "INACTIVE"
+        },
+        "tr.offres-professionnelles.fr": {
+            "included_at_epoch": 1600585524.305115,
+            "included_at_iso": "2020-09-20T07:05:24.305115",
+            "last_retested_at_epoch": 1600585524.305115,
+            "last_retested_at_iso": "2020-09-20T07:05:24.305115",
+            "status": "INACTIVE"
+        },
         "track.actiplay-network.com": {
             "included_at_epoch": 1598659865.361483,
             "included_at_iso": "2020-08-29T00:11:05.361483",
