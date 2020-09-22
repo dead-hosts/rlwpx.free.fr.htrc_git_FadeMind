@@ -8658,10 +8658,10 @@
         "state": "future"
     },
     "fasttrackrowlingss.biz": {
-        "epoch": 1596758400.0,
-        "expiration_date": "07-aug-2020",
+        "epoch": 1628294400.0,
+        "expiration_date": "07-aug-2021",
         "server": "whois.nic.biz",
-        "state": "past"
+        "state": "future"
     },
     "fasttrackshopping.com": {
         "epoch": 1619481600.0,
@@ -9602,8 +9602,9 @@
         "state": "future"
     },
     "gamblingranking.com": {
-        "epoch": 1600646400.0,
-        "expiration_date": "21-sep-2020",
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "gameclicks.com": {
