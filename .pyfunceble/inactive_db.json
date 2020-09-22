@@ -9828,6 +9828,13 @@
             "last_retested_at_iso": "2020-08-29T01:42:55.949346",
             "status": "INACTIVE"
         },
+        "www.digiaquascr.com": {
+            "included_at_epoch": 1600760490.766768,
+            "included_at_iso": "2020-09-22T07:41:30.766768",
+            "last_retested_at_epoch": 1600760490.766768,
+            "last_retested_at_iso": "2020-09-22T07:41:30.766768",
+            "status": "INACTIVE"
+        },
         "www.domodomain.com": {
             "included_at_epoch": 1598665377.531563,
             "included_at_iso": "2020-08-29T01:42:57.531563",
