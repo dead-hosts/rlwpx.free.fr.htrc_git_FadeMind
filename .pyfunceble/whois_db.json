@@ -6980,7 +6980,8 @@
     "designtechmedia.com": {
         "epoch": 1600732800.0,
         "expiration_date": "22-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "desktoptemperaturemonitor.com": {
         "epoch": 1622419200.0,
@@ -7030,7 +7031,8 @@
     "dialogmgr.com": {
         "epoch": 1600732800.0,
         "expiration_date": "22-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "didtheyreadit.com": {
         "epoch": 1757462400.0,
