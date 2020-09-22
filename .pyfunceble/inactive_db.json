@@ -196,6 +196,13 @@
             "last_retested_at_iso": "2020-08-31T01:40:09.699111",
             "status": "INACTIVE"
         },
+        "ade.realclick.co.kr": {
+            "included_at_epoch": 1600741527.637507,
+            "included_at_iso": "2020-09-22T02:25:27.637507",
+            "last_retested_at_epoch": 1600741527.637507,
+            "last_retested_at_iso": "2020-09-22T02:25:27.637507",
+            "status": "INACTIVE"
+        },
         "adm.soft365.com": {
             "included_at_epoch": 1598840354.412523,
             "included_at_iso": "2020-08-31T02:19:14.412523",
@@ -243,6 +250,13 @@
             "included_at_iso": "2020-09-18T02:24:39.714655",
             "last_retested_at_epoch": 1600395879.714655,
             "last_retested_at_iso": "2020-09-18T02:24:39.714655",
+            "status": "INACTIVE"
+        },
+        "adr.realclick.co.kr": {
+            "included_at_epoch": 1600741529.989974,
+            "included_at_iso": "2020-09-22T02:25:29.989974",
+            "last_retested_at_epoch": 1600741529.989974,
+            "last_retested_at_iso": "2020-09-22T02:25:29.989974",
             "status": "INACTIVE"
         },
         "ads.adonion.com": {
@@ -355,6 +369,13 @@
             "included_at_iso": "2020-08-31T02:19:17.378917",
             "last_retested_at_epoch": 1598840357.378917,
             "last_retested_at_iso": "2020-08-31T02:19:17.378917",
+            "status": "INACTIVE"
+        },
+        "ads.realclick.co.kr": {
+            "included_at_epoch": 1600741531.72031,
+            "included_at_iso": "2020-09-22T02:25:31.720310",
+            "last_retested_at_epoch": 1600741531.72031,
+            "last_retested_at_iso": "2020-09-22T02:25:31.720310",
             "status": "INACTIVE"
         },
         "ads.reduxmediagroup.com": {
@@ -474,6 +495,13 @@
             "included_at_iso": "2020-08-31T02:19:20.704613",
             "last_retested_at_epoch": 1598840360.704613,
             "last_retested_at_iso": "2020-08-31T02:19:20.704613",
+            "status": "INACTIVE"
+        },
+        "adv.realclick.co.kr": {
+            "included_at_epoch": 1600741533.814267,
+            "included_at_iso": "2020-09-22T02:25:33.814267",
+            "last_retested_at_epoch": 1600741533.814267,
+            "last_retested_at_iso": "2020-09-22T02:25:33.814267",
             "status": "INACTIVE"
         },
         "advert.mediaswiss.rs": {
