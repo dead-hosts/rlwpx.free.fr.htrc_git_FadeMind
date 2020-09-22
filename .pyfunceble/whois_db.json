@@ -14133,10 +14133,10 @@
         "state": "future"
     },
     "media-servers.net": {
-        "epoch": 1600473600.0,
-        "expiration_date": "19-sep-2020",
+        "epoch": 1632009600.0,
+        "expiration_date": "19-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "media-solution.ru": {
         "epoch": 1622678400.0,
@@ -15266,8 +15266,9 @@
         "state": "future"
     },
     "mixtraffic.com": {
-        "epoch": 1600732800.0,
-        "expiration_date": "22-sep-2020",
+        "epoch": 1632268800.0,
+        "expiration_date": "22-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "mlinktracker.com": {
@@ -15323,8 +15324,9 @@
         "state": "future"
     },
     "mnstat.com": {
-        "epoch": 1600732800.0,
-        "expiration_date": "22-sep-2020",
+        "epoch": 1632268800.0,
+        "expiration_date": "22-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "mobihit.info": {
@@ -15410,8 +15412,9 @@
         "state": "future"
     },
     "monitorgirls.com": {
-        "epoch": 1600646400.0,
-        "expiration_date": "21-sep-2020",
+        "epoch": 1632182400.0,
+        "expiration_date": "21-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "monitorhq.com": {
