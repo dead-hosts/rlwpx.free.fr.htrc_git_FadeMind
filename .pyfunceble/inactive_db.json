@@ -6993,6 +6993,13 @@
             "last_retested_at_iso": "2020-08-31T06:27:15.235201",
             "status": "INACTIVE"
         },
+        "rsense-ad.realclick.co.kr": {
+            "included_at_epoch": 1600755187.657219,
+            "included_at_iso": "2020-09-22T06:13:07.657219",
+            "last_retested_at_epoch": 1600755187.657219,
+            "last_retested_at_iso": "2020-09-22T06:13:07.657219",
+            "status": "INACTIVE"
+        },
         "rtl.ivwbox.de": {
             "included_at_epoch": 1598855235.655033,
             "included_at_iso": "2020-08-31T06:27:15.655033",

@@ -18682,10 +18682,10 @@
         "state": "future"
     },
     "rapehit.com": {
-        "epoch": 1600560000.0,
-        "expiration_date": "20-sep-2020",
+        "epoch": 1632096000.0,
+        "expiration_date": "20-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "rapehits.com": {
         "epoch": 1623283200.0,
@@ -19162,8 +19162,9 @@
         "state": "future"
     },
     "ratemypoo.com": {
-        "epoch": 1600646400.0,
-        "expiration_date": "21-sep-2020",
+        "epoch": 1632182400.0,
+        "expiration_date": "21-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "ratemyproffessors.com": {
@@ -19629,8 +19630,9 @@
         "state": "future"
     },
     "richclick.com": {
-        "epoch": 1600646400.0,
-        "expiration_date": "21-sep-2020",
+        "epoch": 1632182400.0,
+        "expiration_date": "21-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "richmedia247.com": {
@@ -20450,8 +20452,9 @@
         "state": "future"
     },
     "service-stat.com": {
-        "epoch": 1600646400.0,
-        "expiration_date": "21-sep-2020",
+        "epoch": 1632182400.0,
+        "expiration_date": "21-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "services-gratuits.net": {
@@ -20777,8 +20780,9 @@
         "state": "future"
     },
     "sexualencounter.com": {
-        "epoch": 1600732800.0,
-        "expiration_date": "22-sep-2020",
+        "epoch": 1632268800.0,
+        "expiration_date": "22-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "sexualencounters.com": {
@@ -21035,7 +21039,8 @@
     "shithead.com": {
         "epoch": 1600646400.0,
         "expiration_date": "21-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "shithead.net": {
         "epoch": 1625097600.0,
