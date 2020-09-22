@@ -11333,6 +11333,13 @@
             "last_retested_at_iso": "2020-08-29T02:57:47.378181",
             "status": "INACTIVE"
         },
+        "www.trafficcenter.de": {
+            "included_at_epoch": 1600764590.418975,
+            "included_at_iso": "2020-09-22T08:49:50.418975",
+            "last_retested_at_epoch": 1600764590.418975,
+            "last_retested_at_iso": "2020-09-22T08:49:50.418975",
+            "status": "INACTIVE"
+        },
         "www.trafficchamp.nl": {
             "included_at_epoch": 1598669866.225633,
             "included_at_iso": "2020-08-29T02:57:46.225633",
