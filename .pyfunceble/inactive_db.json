@@ -1547,6 +1547,13 @@
             "last_retested_at_iso": "2020-08-31T02:56:34.564066",
             "status": "INACTIVE"
         },
+        "click.realclick.co.kr": {
+            "included_at_epoch": 1600743632.318407,
+            "included_at_iso": "2020-09-22T03:00:32.318407",
+            "last_retested_at_epoch": 1600743632.318407,
+            "last_retested_at_iso": "2020-09-22T03:00:32.318407",
+            "status": "INACTIVE"
+        },
         "click.zeroclickdirect.com": {
             "included_at_epoch": 1598842598.277807,
             "included_at_iso": "2020-08-31T02:56:38.277807",
