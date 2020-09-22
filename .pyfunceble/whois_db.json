@@ -16870,10 +16870,10 @@
         "state": "future"
     },
     "oopstopia.com": {
-        "epoch": 1600560000.0,
-        "expiration_date": "20-sep-2020",
+        "epoch": 1632096000.0,
+        "expiration_date": "20-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "opasi.com": {
         "epoch": 1604793600.0,
@@ -16985,10 +16985,10 @@
         "state": "future"
     },
     "orratech.com": {
-        "epoch": 1600560000.0,
-        "expiration_date": "20-sep-2020",
+        "epoch": 1632096000.0,
+        "expiration_date": "20-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "ostelogen.dk": {
         "epoch": 1604102400.0,
@@ -17703,8 +17703,9 @@
         "state": "future"
     },
     "popinads.com": {
-        "epoch": 1600646400.0,
-        "expiration_date": "21-sep-2020",
+        "epoch": 1632182400.0,
+        "expiration_date": "21-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "poponclick.com": {
@@ -17813,10 +17814,10 @@
         "state": "future"
     },
     "pornokrates.com": {
-        "epoch": 1600560000.0,
-        "expiration_date": "20-sep-2020",
+        "epoch": 1632096000.0,
+        "expiration_date": "20-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "pornorank.com": {
         "epoch": 1627948800.0,
@@ -18074,7 +18075,8 @@
     "printmediaworks.com": {
         "epoch": 1600732800.0,
         "expiration_date": "22-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "priorityclick.com": {
         "epoch": 1609545600.0,
@@ -18367,8 +18369,9 @@
         "state": "future"
     },
     "quantcount.com": {
-        "epoch": 1600646400.0,
-        "expiration_date": "21-sep-2020",
+        "epoch": 1663718400.0,
+        "expiration_date": "21-sep-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "quantserve.com": {
