@@ -10129,6 +10129,13 @@
             "last_retested_at_iso": "2020-08-29T01:43:10.781141",
             "status": "INACTIVE"
         },
+        "www.globe7.com": {
+            "included_at_epoch": 1600761541.944812,
+            "included_at_iso": "2020-09-22T07:59:01.944812",
+            "last_retested_at_epoch": 1600761541.944812,
+            "last_retested_at_iso": "2020-09-22T07:59:01.944812",
+            "status": "INACTIVE"
+        },
         "www.gomyhit.com": {
             "included_at_epoch": 1598666963.227751,
             "included_at_iso": "2020-08-29T02:09:23.227751",
@@ -10225,6 +10232,13 @@
             "included_at_iso": "2020-08-29T02:09:30.012074",
             "last_retested_at_epoch": 1598666970.012074,
             "last_retested_at_iso": "2020-08-29T02:09:30.012074",
+            "status": "INACTIVE"
+        },
+        "www.hitop-optinal.com": {
+            "included_at_epoch": 1600761549.311235,
+            "included_at_iso": "2020-09-22T07:59:09.311235",
+            "last_retested_at_epoch": 1600761549.311235,
+            "last_retested_at_iso": "2020-09-22T07:59:09.311235",
             "status": "INACTIVE"
         },
         "www.hitpage.de": {
