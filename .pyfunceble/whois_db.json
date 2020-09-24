@@ -21688,10 +21688,10 @@
         "state": "future"
     },
     "softingo.com": {
-        "epoch": 1593820800.0,
-        "expiration_date": "04-jul-2020",
+        "epoch": 1632355200.0,
+        "expiration_date": "23-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "softomate.com": {
         "epoch": 1726099200.0,
@@ -22175,7 +22175,8 @@
     "statisticsmanager.com": {
         "epoch": 1600905600.0,
         "expiration_date": "24-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "statistik-gallup.dk": {
         "epoch": 1619740800.0,
