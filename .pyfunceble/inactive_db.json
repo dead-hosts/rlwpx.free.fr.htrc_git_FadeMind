@@ -189,6 +189,13 @@
             "last_retested_at_iso": "2020-08-31T01:40:09.453617",
             "status": "INACTIVE"
         },
+        "adbuytraffic.com": {
+            "included_at_epoch": 1600912278.552211,
+            "included_at_iso": "2020-09-24T01:51:18.552211",
+            "last_retested_at_epoch": 1600912278.552211,
+            "last_retested_at_iso": "2020-09-24T01:51:18.552211",
+            "status": "INACTIVE"
+        },
         "adclick.pruna.com": {
             "included_at_epoch": 1598838009.699111,
             "included_at_iso": "2020-08-31T01:40:09.699111",

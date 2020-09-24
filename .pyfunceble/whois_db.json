@@ -284,7 +284,8 @@
     "3d-icons.com": {
         "epoch": 1600819200.0,
         "expiration_date": "23-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "3dfreestats.com": {
         "epoch": 1612915200.0,
