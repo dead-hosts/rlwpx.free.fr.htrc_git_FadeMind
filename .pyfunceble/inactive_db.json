@@ -6874,6 +6874,13 @@
             "last_retested_at_iso": "2020-08-31T06:27:01.270898",
             "status": "INACTIVE"
         },
+        "rankingdeai.com": {
+            "included_at_epoch": 1600928048.431294,
+            "included_at_iso": "2020-09-24T06:14:08.431294",
+            "last_retested_at_epoch": 1600928048.431294,
+            "last_retested_at_iso": "2020-09-24T06:14:08.431294",
+            "status": "INACTIVE"
+        },
         "ranklink.de": {
             "included_at_epoch": 1598855221.980519,
             "included_at_iso": "2020-08-31T06:27:01.980519",
@@ -7180,6 +7187,13 @@
             "included_at_iso": "2020-08-31T06:44:39.414073",
             "last_retested_at_epoch": 1598856279.414073,
             "last_retested_at_iso": "2020-08-31T06:44:39.414073",
+            "status": "INACTIVE"
+        },
+        "serving.xxxwebtraffic.com": {
+            "included_at_epoch": 1600928068.919555,
+            "included_at_iso": "2020-09-24T06:14:28.919555",
+            "last_retested_at_epoch": 1600928068.919555,
+            "last_retested_at_iso": "2020-09-24T06:14:28.919555",
             "status": "INACTIVE"
         },
         "serw.clicksor.com": {

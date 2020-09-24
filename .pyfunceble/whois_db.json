@@ -18489,7 +18489,8 @@
     "radiopranks.com": {
         "epoch": 1600905600.0,
         "expiration_date": "24-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "radrater.mobi": {
         "epoch": 1613088000.0,
@@ -19645,10 +19646,10 @@
         "state": "future"
     },
     "richmedia247.com": {
-        "epoch": 1593734400.0,
-        "expiration_date": "03-jul-2020",
+        "epoch": 1632268800.0,
+        "expiration_date": "22-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "richmediasolutions.com": {
         "epoch": 1625011200.0,
@@ -20084,8 +20085,9 @@
         "state": "future"
     },
     "scaffold-trade.com": {
-        "epoch": 1600819200.0,
-        "expiration_date": "23-sep-2020",
+        "epoch": 1632355200.0,
+        "expiration_date": "23-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "scannerlog.com": {
@@ -21046,10 +21048,10 @@
         "state": "future"
     },
     "shithead.com": {
-        "epoch": 1600646400.0,
-        "expiration_date": "21-sep-2020",
+        "epoch": 1632182400.0,
+        "expiration_date": "21-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "shithead.net": {
         "epoch": 1625097600.0,
