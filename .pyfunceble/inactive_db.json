@@ -9324,6 +9324,13 @@
             "last_retested_at_iso": "2020-08-29T01:17:19.420135",
             "status": "INACTIVE"
         },
+        "www.adzones.com": {
+            "included_at_epoch": 1600932313.864677,
+            "included_at_iso": "2020-09-24T07:25:13.864677",
+            "last_retested_at_epoch": 1600932313.864677,
+            "last_retested_at_iso": "2020-09-24T07:25:13.864677",
+            "status": "INACTIVE"
+        },
         "www.aehits.com": {
             "included_at_epoch": 1598663840.096476,
             "included_at_iso": "2020-08-29T01:17:20.096476",
