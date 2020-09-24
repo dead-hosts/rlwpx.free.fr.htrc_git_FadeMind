@@ -8554,6 +8554,13 @@
             "last_retested_at_iso": "2020-08-29T00:11:07.216296",
             "status": "INACTIVE"
         },
+        "tracker.coopt.com": {
+            "included_at_epoch": 1600930179.047479,
+            "included_at_iso": "2020-09-24T06:49:39.047479",
+            "last_retested_at_epoch": 1600930179.047479,
+            "last_retested_at_iso": "2020-09-24T06:49:39.047479",
+            "status": "INACTIVE"
+        },
         "tracker.iqnomy.com": {
             "included_at_epoch": 1600238828.747363,
             "included_at_iso": "2020-09-16T06:47:08.747363",
@@ -8622,6 +8629,13 @@
             "included_at_iso": "2020-08-29T00:11:09.841250",
             "last_retested_at_epoch": 1598659869.84125,
             "last_retested_at_iso": "2020-08-29T00:11:09.841250",
+            "status": "INACTIVE"
+        },
+        "tracking.adultsense.com": {
+            "included_at_epoch": 1600930180.960849,
+            "included_at_iso": "2020-09-24T06:49:40.960849",
+            "last_retested_at_epoch": 1600930180.960849,
+            "last_retested_at_iso": "2020-09-24T06:49:40.960849",
             "status": "INACTIVE"
         },
         "tracking.cmgdigital.com": {
