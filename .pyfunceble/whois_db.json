@@ -9200,7 +9200,8 @@
     "freecounter.it": {
         "epoch": 1600819200.0,
         "expiration_date": "23-sep-2020",
-        "state": "future"
+        "server": "whois.nic.it",
+        "state": "past"
     },
     "freecountercode.com": {
         "epoch": 1620864000.0,
@@ -9819,8 +9820,9 @@
         "state": "future"
     },
     "geotraffic.net": {
-        "epoch": 1600819200.0,
-        "expiration_date": "23-sep-2020",
+        "epoch": 1632355200.0,
+        "expiration_date": "23-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "german-shitters.com": {
