@@ -5637,7 +5637,8 @@
     "clickthumbs.com": {
         "epoch": 1601078400.0,
         "expiration_date": "26-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "clicktoacasino.com": {
         "epoch": 1602115200.0,
@@ -5926,10 +5927,10 @@
         "state": "future"
     },
     "co2stats.com": {
-        "epoch": 1600819200.0,
-        "expiration_date": "23-sep-2020",
+        "epoch": 1632355200.0,
+        "expiration_date": "23-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "cocomedia.ca": {
         "epoch": 1574208000.0,
@@ -6116,8 +6117,9 @@
         "state": "future"
     },
     "cookie4u.com": {
-        "epoch": 1601078400.0,
-        "expiration_date": "26-sep-2020",
+        "epoch": 1632614400.0,
+        "expiration_date": "26-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "cookiebiscuit.com": {
@@ -6302,8 +6304,9 @@
         "state": "future"
     },
     "counterdata.com": {
-        "epoch": 1600992000.0,
-        "expiration_date": "25-sep-2020",
+        "epoch": 1632528000.0,
+        "expiration_date": "25-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "countere.com": {
