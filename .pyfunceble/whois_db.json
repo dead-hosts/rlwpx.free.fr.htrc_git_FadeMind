@@ -25053,10 +25053,10 @@
         "state": "future"
     },
     "trafficmagnet.com": {
-        "epoch": 1600819200.0,
-        "expiration_date": "23-sep-2020",
+        "epoch": 1632355200.0,
+        "expiration_date": "23-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "trafficmagnet.net": {
         "epoch": 1631923200.0,
@@ -25193,8 +25193,9 @@
         "state": "future"
     },
     "trafficsector.com": {
-        "epoch": 1600992000.0,
-        "expiration_date": "25-sep-2020",
+        "epoch": 1632528000.0,
+        "expiration_date": "25-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "trafficsekar.com": {
@@ -25527,8 +25528,9 @@
         "state": "future"
     },
     "truthfulmedia.com": {
-        "epoch": 1600992000.0,
-        "expiration_date": "25-sep-2020",
+        "epoch": 1632528000.0,
+        "expiration_date": "25-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "trywith.us": {
@@ -25538,8 +25540,9 @@
         "state": "future"
     },
     "tscounter.com": {
-        "epoch": 1601078400.0,
-        "expiration_date": "26-sep-2020",
+        "epoch": 1632614400.0,
+        "expiration_date": "26-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "tsprotraffic.com": {
