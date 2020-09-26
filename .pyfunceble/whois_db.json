@@ -10989,8 +10989,9 @@
         "state": "future"
     },
     "hitlion.com": {
-        "epoch": 1601078400.0,
-        "expiration_date": "26-sep-2020",
+        "epoch": 1607731200.0,
+        "expiration_date": "12-dec-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "hitlist.ru": {
@@ -11113,8 +11114,9 @@
         "state": "future"
     },
     "hitorama.com": {
-        "epoch": 1600992000.0,
-        "expiration_date": "25-sep-2020",
+        "epoch": 1632528000.0,
+        "expiration_date": "25-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "hitorstand.net": {
@@ -11439,8 +11441,9 @@
         "state": "future"
     },
     "hockeystatistics.com": {
-        "epoch": 1600992000.0,
-        "expiration_date": "25-sep-2020",
+        "epoch": 1632528000.0,
+        "expiration_date": "25-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "hockeytraderumors.com": {
@@ -11929,7 +11932,8 @@
     "immanalytics.com": {
         "epoch": 1600992000.0,
         "expiration_date": "25-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "immediate.com": {
         "epoch": 1774656000.0,
@@ -12484,8 +12488,9 @@
         "state": "future"
     },
     "izmirsiviltoplumorgutleri.com": {
-        "epoch": 1601078400.0,
-        "expiration_date": "26-sep-2020",
+        "epoch": 1632614400.0,
+        "expiration_date": "26-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "jagtraders.com": {
@@ -12963,13 +12968,15 @@
         "state": "future"
     },
     "laptopsuperstore.com": {
-        "epoch": 1601078400.0,
-        "expiration_date": "26-sep-2020",
+        "epoch": 1632614400.0,
+        "expiration_date": "26-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "larkmedia.ru": {
-        "epoch": 1600992000.0,
-        "expiration_date": "25-sep-2020",
+        "epoch": 1632528000.0,
+        "expiration_date": "25-sep-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "lasertrackingsystem.com": {
