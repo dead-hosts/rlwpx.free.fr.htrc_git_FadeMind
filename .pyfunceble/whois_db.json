@@ -3522,7 +3522,8 @@
     "browardcountyclerkofcourts.com": {
         "epoch": 1600992000.0,
         "expiration_date": "25-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "browardcountycourts.com": {
         "epoch": 1615507200.0,
@@ -4309,8 +4310,9 @@
         "state": "future"
     },
     "cimedia.com": {
-        "epoch": 1601078400.0,
-        "expiration_date": "26-sep-2020",
+        "epoch": 1632614400.0,
+        "expiration_date": "26-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "cincinnatidivorcemediation.com": {
