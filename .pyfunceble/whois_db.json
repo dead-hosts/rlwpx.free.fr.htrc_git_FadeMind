@@ -1583,9 +1583,10 @@
         "state": "future"
     },
     "allworldtrade.com": {
-        "epoch": 1583539200.0,
-        "expiration_date": "07-mar-2020",
-        "state": "past"
+        "epoch": 1632700800.0,
+        "expiration_date": "27-sep-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
     },
     "almond-media.ru": {
         "epoch": 1625788800.0,
@@ -6642,8 +6643,9 @@
         "state": "future"
     },
     "cshtracker.com": {
-        "epoch": 1598486400.0,
-        "expiration_date": "27-aug-2020",
+        "epoch": 1632182400.0,
+        "expiration_date": "21-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "cstracking1.com": {
