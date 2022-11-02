@@ -151,7 +151,6 @@ lookup:
     timeout: 5
     whois: true
 max_http_retries: 3
-ois: true
 proxy:
     global:
         http: null
