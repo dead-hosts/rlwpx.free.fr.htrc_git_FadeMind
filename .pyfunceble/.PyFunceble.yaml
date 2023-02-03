@@ -148,19 +148,7 @@ lookup:
     timeout: 5
     whois: true
 max_http_retries: 3
-proxy:
-    global:
-        http: null
-        https: null
-    rules: []
-share_logs: false
-user_agent:
-    browser: chrome
-    custom: null
-    platform: linux
-verify_ssl_certificate: false
 ois: true
-max_http_retries: 3
 proxy:
     global:
         http: null
